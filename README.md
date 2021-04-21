@@ -1,4 +1,4 @@
-# Model for Catalogs ocerization
+# Model for OCR processing of Catalogs
 
 This repository includes a model for ocerizing catalogs and the dataset used for its creation.
 
@@ -21,4 +21,4 @@ This repository is CC-BY.
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ## Cite this repository
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Model for Catalogs ocerization_, 2020, https://github.com/Juliettejns/cataloguesPipeline/
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Model for OCR processing Catalogs_, 2020, https://github.com/Juliettejns/cataloguesPipeline/
