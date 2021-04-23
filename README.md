@@ -8,7 +8,31 @@ The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/
 --Détails plus précis sur les données utilisées--
 
 ## Repository 
---naviguer dans le repository--
+```
+├── 1_Data
+│     ├── annuaires
+│     │  └── Data_segmenteur 
+│     │     ├─ alto_xml
+│     │     └─ images
+│     │ 
+│     ├── Cat_expositions
+│     │  └── Data_segmenteur
+│     │     ├─ alto_xml
+│     │     └─ image
+|     |
+|     └── Cat_manuscrits
+│        └── Data_segmenteur
+│           ├─ alto_xml
+│           └─ image
+|
+├── 2_Boite_a_outils
+|     └──  Dépôt commun d'outils pour la préparation des données
+|
+├── Dataset_190421.csv 
+├── model_segmenteur_test_220421.mlmodel 
+└── rapport datasetTest_segmentation.pdf
+```
+                  
 
 ## Thanks to 
 --Remerciements--
