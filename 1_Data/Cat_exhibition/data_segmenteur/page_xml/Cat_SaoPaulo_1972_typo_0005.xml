@@ -2,14 +2,19 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2021-04-26T11:24:56.293819+00:00</Created>
-    <LastChange>2021-04-26T11:24:56.293841+00:00</LastChange>
+	<Created>2021-04-29T14:35:52.807266+00:00</Created>
+    <LastChange>2021-04-29T14:35:52.807295+00:00</LastChange>
   </Metadata>
   <Page imageFilename="Cat_SaoPaulo_1972_typo_0005.jpg" imageWidth="3548" imageHeight="4609">
 
     
     <TextRegion id="r_5_1"  custom="structure {type:Numbering;}">
       <Coords points="589,4112 669,4112 669,4173 589,4173"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_e5b7f2ab"  >
+      <Coords points="618,4183 618,4166 643,4166 643,4183"/>
       
       
       <TextLine id="tl_34" >
@@ -23,8 +28,8 @@
       
     </TextRegion>
     
-    <TextRegion id="eSc_textblock_d7e84623"  custom="structure {type:Main;}">
-      <Coords points="537,407 537,4085 2995,4085 2995,407"/>
+    <TextRegion id="eSc_textblock_928cfd4b"  custom="structure {type:Main;}">
+      <Coords points="564,4033 564,405 2988,405 2988,4033"/>
       
       
       <TextLine id="tl_1" >
@@ -315,11 +320,6 @@
         </TextEquiv>
       </TextLine>
 
-      
-    </TextRegion>
-    
-    <TextRegion id="eSc_textblock_e5b7f2ab"  >
-      <Coords points="618,4183 618,4166 643,4166 643,4183"/>
       
     </TextRegion>
     

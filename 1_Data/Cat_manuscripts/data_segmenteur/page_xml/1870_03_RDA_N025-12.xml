@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2021-04-26T11:24:57.714408+00:00</Created>
-    <LastChange>2021-04-26T11:24:57.714430+00:00</LastChange>
+	<Created>2021-04-29T14:35:53.995179+00:00</Created>
+    <LastChange>2021-04-29T14:35:53.995206+00:00</LastChange>
   </Metadata>
   <Page imageFilename="1870_03_RDA_N025-12.png" imageWidth="1884" imageHeight="2823">
 
@@ -12,7 +12,7 @@
       <Coords points="920,154 1114,154 1114,193 920,193"/>
       
       
-      <TextLine id="tl_1" >
+      <TextLine id="tl_1" custom="structure {type:Default;}">
         <Coords points="921,155 1113,155 1113,192 921,192"/>
         <Baseline points="921,192 1113,192"/>
         <TextEquiv>
@@ -27,7 +27,7 @@
       <Coords points="270,240 270,2673 1784,2673 1784,240"/>
       
       
-      <TextLine id="tl_2" >
+      <TextLine id="tl_2" custom="structure {type:Default;}">
         <Coords points="380,235 1748,235 1748,282 380,282"/>
         <Baseline points="380,270 1748,270"/>
         <TextEquiv>
@@ -37,7 +37,7 @@
 
       
       
-      <TextLine id="tl_3" >
+      <TextLine id="tl_3" custom="structure {type:Default;}">
         <Coords points="376,282 1750,282 1750,317 376,317"/>
         <Baseline points="376,314 1750,314"/>
         <TextEquiv>
@@ -47,7 +47,7 @@
 
       
       
-      <TextLine id="tl_4" >
+      <TextLine id="tl_4" custom="structure {type:Default;}">
         <Coords points="314,323 1747,323 1747,369 314,369"/>
         <Baseline points="314,359 1747,359"/>
         <TextEquiv>
@@ -57,7 +57,7 @@
 
       
       
-      <TextLine id="tl_5" >
+      <TextLine id="tl_5" custom="structure {type:Default;}">
         <Coords points="377,367 1746,367 1746,413 377,413"/>
         <Baseline points="377,403 1746,403"/>
         <TextEquiv>
@@ -67,7 +67,7 @@
 
       
       
-      <TextLine id="tl_6" >
+      <TextLine id="tl_6" custom="structure {type:Default;}">
         <Coords points="315,412 1748,412 1748,458 315,458"/>
         <Baseline points="315,447 1748,447"/>
         <TextEquiv>
@@ -77,7 +77,7 @@
 
       
       
-      <TextLine id="tl_7" >
+      <TextLine id="tl_7" custom="structure {type:Default;}">
         <Coords points="377,456 1747,456 1747,501 377,501"/>
         <Baseline points="377,492 1747,492"/>
         <TextEquiv>
@@ -87,7 +87,7 @@
 
       
       
-      <TextLine id="tl_8" >
+      <TextLine id="tl_8" custom="structure {type:Default;}">
         <Coords points="314,501 1747,501 1747,551 314,551"/>
         <Baseline points="314,535 1747,535"/>
         <TextEquiv>
@@ -97,7 +97,7 @@
 
       
       
-      <TextLine id="tl_9" >
+      <TextLine id="tl_9" custom="structure {type:Default;}">
         <Coords points="378,545 1747,545 1747,590 378,590"/>
         <Baseline points="378,580 1747,580"/>
         <TextEquiv>
@@ -107,7 +107,7 @@
 
       
       
-      <TextLine id="tl_10" >
+      <TextLine id="tl_10" custom="structure {type:Default;}">
         <Coords points="380,589 1745,589 1745,634 380,634"/>
         <Baseline points="380,624 1745,624"/>
         <TextEquiv>
@@ -117,7 +117,7 @@
 
       
       
-      <TextLine id="tl_11" >
+      <TextLine id="tl_11" custom="structure {type:Default;}">
         <Coords points="404,634 1750,634 1750,672 404,672"/>
         <Baseline points="404,664 1750,664"/>
         <TextEquiv>
@@ -127,7 +127,7 @@
 
       
       
-      <TextLine id="tl_12" >
+      <TextLine id="tl_12" custom="structure {type:Default;}">
         <Coords points="377,672 1751,672 1751,713 377,713"/>
         <Baseline points="377,702 1751,702"/>
         <TextEquiv>
@@ -137,7 +137,7 @@
 
       
       
-      <TextLine id="tl_13" >
+      <TextLine id="tl_13" custom="structure {type:Default;}">
         <Coords points="376,711 926,711 926,743 376,743"/>
         <Baseline points="376,742 926,742"/>
         <TextEquiv>
@@ -147,7 +147,7 @@
 
       
       
-      <TextLine id="tl_14" >
+      <TextLine id="tl_14" custom="structure {type:Default;}">
         <Coords points="316,750 1749,750 1749,796 316,796"/>
         <Baseline points="316,785 1749,785"/>
         <TextEquiv>
@@ -157,7 +157,7 @@
 
       
       
-      <TextLine id="tl_15" >
+      <TextLine id="tl_15" custom="structure {type:Default;}">
         <Coords points="377,795 1748,795 1748,844 377,844"/>
         <Baseline points="377,829 1748,829"/>
         <TextEquiv>
@@ -167,7 +167,7 @@
 
       
       
-      <TextLine id="tl_16" >
+      <TextLine id="tl_16" custom="structure {type:Default;}">
         <Coords points="315,838 1749,838 1749,884 315,884"/>
         <Baseline points="315,873 1749,873"/>
         <TextEquiv>
@@ -177,7 +177,7 @@
 
       
       
-      <TextLine id="tl_17" >
+      <TextLine id="tl_17" custom="structure {type:Default;}">
         <Coords points="377,882 1749,882 1749,928 377,928"/>
         <Baseline points="377,918 1749,918"/>
         <TextEquiv>
@@ -187,7 +187,7 @@
 
       
       
-      <TextLine id="tl_18" >
+      <TextLine id="tl_18" custom="structure {type:Default;}">
         <Coords points="377,927 1749,927 1749,972 377,972"/>
         <Baseline points="377,962 1749,962"/>
         <TextEquiv>
@@ -197,7 +197,7 @@
 
       
       
-      <TextLine id="tl_19" >
+      <TextLine id="tl_19" custom="structure {type:Default;}">
         <Coords points="316,971 1753,971 1753,1016 316,1016"/>
         <Baseline points="316,1006 1753,1006"/>
         <TextEquiv>
@@ -207,7 +207,7 @@
 
       
       
-      <TextLine id="tl_20" >
+      <TextLine id="tl_20" custom="structure {type:Default;}">
         <Coords points="378,1017 1753,1017 1753,1061 378,1061"/>
         <Baseline points="378,1051 1753,1051"/>
         <TextEquiv>
@@ -217,7 +217,7 @@
 
       
       
-      <TextLine id="tl_21" >
+      <TextLine id="tl_21" custom="structure {type:Default;}">
         <Coords points="313,1059 1753,1059 1753,1105 313,1105"/>
         <Baseline points="313,1094 1753,1094"/>
         <TextEquiv>
@@ -227,7 +227,7 @@
 
       
       
-      <TextLine id="tl_22" >
+      <TextLine id="tl_22" custom="structure {type:Default;}">
         <Coords points="378,1104 1754,1104 1754,1151 378,1151"/>
         <Baseline points="378,1139 1754,1139"/>
         <TextEquiv>
@@ -237,7 +237,7 @@
 
       
       
-      <TextLine id="tl_23" >
+      <TextLine id="tl_23" custom="structure {type:Default;}">
         <Coords points="404,1147 1750,1147 1750,1189 404,1189"/>
         <Baseline points="404,1179 1750,1179"/>
         <TextEquiv>
@@ -247,7 +247,7 @@
 
       
       
-      <TextLine id="tl_24" >
+      <TextLine id="tl_24" custom="structure {type:Default;}">
         <Coords points="380,1187 1755,1187 1755,1227 380,1227"/>
         <Baseline points="380,1218 1755,1218"/>
         <TextEquiv>
@@ -257,7 +257,7 @@
 
       
       
-      <TextLine id="tl_25" >
+      <TextLine id="tl_25" custom="structure {type:Default;}">
         <Coords points="377,1227 1752,1227 1752,1266 377,1266"/>
         <Baseline points="377,1257 1752,1257"/>
         <TextEquiv>
@@ -267,7 +267,7 @@
 
       
       
-      <TextLine id="tl_26" >
+      <TextLine id="tl_26" custom="structure {type:Default;}">
         <Coords points="378,1266 1752,1266 1752,1305 378,1305"/>
         <Baseline points="378,1296 1752,1296"/>
         <TextEquiv>
@@ -277,7 +277,7 @@
 
       
       
-      <TextLine id="tl_27" >
+      <TextLine id="tl_27" custom="structure {type:Default;}">
         <Coords points="378,1305 1692,1305 1692,1344 378,1344"/>
         <Baseline points="378,1335 1692,1335"/>
         <TextEquiv>
@@ -287,7 +287,7 @@
 
       
       
-      <TextLine id="tl_28" >
+      <TextLine id="tl_28" custom="structure {type:Default;}">
         <Coords points="315,1343 1755,1343 1755,1388 315,1388"/>
         <Baseline points="315,1378 1755,1378"/>
         <TextEquiv>
@@ -297,7 +297,7 @@
 
       
       
-      <TextLine id="tl_29" >
+      <TextLine id="tl_29" custom="structure {type:Default;}">
         <Coords points="377,1386 1752,1386 1752,1440 377,1440"/>
         <Baseline points="377,1422 1752,1422"/>
         <TextEquiv>
@@ -307,7 +307,7 @@
 
       
       
-      <TextLine id="tl_30" >
+      <TextLine id="tl_30" custom="structure {type:Default;}">
         <Coords points="377,1432 1755,1432 1755,1478 377,1478"/>
         <Baseline points="377,1467 1755,1467"/>
         <TextEquiv>
@@ -317,7 +317,7 @@
 
       
       
-      <TextLine id="tl_31" >
+      <TextLine id="tl_31" custom="structure {type:Default;}">
         <Coords points="311,1475 1754,1475 1754,1521 311,1521"/>
         <Baseline points="311,1511 1754,1511"/>
         <TextEquiv>
@@ -327,7 +327,7 @@
 
       
       
-      <TextLine id="tl_32" >
+      <TextLine id="tl_32" custom="structure {type:Default;}">
         <Coords points="378,1520 1754,1520 1754,1564 378,1564"/>
         <Baseline points="378,1556 1754,1556"/>
         <TextEquiv>
@@ -337,7 +337,7 @@
 
       
       
-      <TextLine id="tl_33" >
+      <TextLine id="tl_33" custom="structure {type:Default;}">
         <Coords points="380,1566 1752,1566 1752,1611 380,1611"/>
         <Baseline points="380,1600 1752,1600"/>
         <TextEquiv>
@@ -347,7 +347,7 @@
 
       
       
-      <TextLine id="tl_34" >
+      <TextLine id="tl_34" custom="structure {type:Default;}">
         <Coords points="407,1610 1378,1610 1378,1655 407,1655"/>
         <Baseline points="407,1641 1378,1641"/>
         <TextEquiv>
@@ -357,7 +357,7 @@
 
       
       
-      <TextLine id="tl_35" >
+      <TextLine id="tl_35" custom="structure {type:Default;}">
         <Coords points="312,1647 1754,1647 1754,1694 312,1694"/>
         <Baseline points="312,1683 1754,1683"/>
         <TextEquiv>
@@ -367,7 +367,7 @@
 
       
       
-      <TextLine id="tl_36" >
+      <TextLine id="tl_36" custom="structure {type:Default;}">
         <Coords points="380,1693 1752,1693 1752,1738 380,1738"/>
         <Baseline points="380,1728 1752,1728"/>
         <TextEquiv>
@@ -377,7 +377,7 @@
 
       
       
-      <TextLine id="tl_37" >
+      <TextLine id="tl_37" custom="structure {type:Default;}">
         <Coords points="406,1737 1755,1737 1755,1777 406,1777"/>
         <Baseline points="406,1768 1755,1768"/>
         <TextEquiv>
@@ -387,7 +387,7 @@
 
       
       
-      <TextLine id="tl_38" >
+      <TextLine id="tl_38" custom="structure {type:Default;}">
         <Coords points="378,1776 1755,1776 1755,1816 378,1816"/>
         <Baseline points="378,1807 1755,1807"/>
         <TextEquiv>
@@ -397,7 +397,7 @@
 
       
       
-      <TextLine id="tl_39" >
+      <TextLine id="tl_39" custom="structure {type:Default;}">
         <Coords points="381,1816 1170,1816 1170,1856 381,1856"/>
         <Baseline points="381,1846 1170,1846"/>
         <TextEquiv>
@@ -407,7 +407,7 @@
 
       
       
-      <TextLine id="tl_40" >
+      <TextLine id="tl_40" custom="structure {type:Default;}">
         <Coords points="311,1853 1755,1853 1755,1899 311,1899"/>
         <Baseline points="311,1889 1755,1889"/>
         <TextEquiv>
@@ -417,7 +417,7 @@
 
       
       
-      <TextLine id="tl_41" >
+      <TextLine id="tl_41" custom="structure {type:Default;}">
         <Coords points="378,1899 1754,1899 1754,1944 378,1944"/>
         <Baseline points="378,1934 1754,1934"/>
         <TextEquiv>
@@ -427,7 +427,7 @@
 
       
       
-      <TextLine id="tl_42" >
+      <TextLine id="tl_42" custom="structure {type:Default;}">
         <Coords points="381,1944 1753,1944 1753,1978 381,1978"/>
         <Baseline points="381,1978 1753,1978"/>
         <TextEquiv>
@@ -437,7 +437,7 @@
 
       
       
-      <TextLine id="tl_43" >
+      <TextLine id="tl_43" custom="structure {type:Default;}">
         <Coords points="405,1987 1757,1987 1757,2027 405,2027"/>
         <Baseline points="405,2018 1757,2018"/>
         <TextEquiv>
@@ -447,7 +447,7 @@
 
       
       
-      <TextLine id="tl_44" >
+      <TextLine id="tl_44" custom="structure {type:Default;}">
         <Coords points="366,2027 599,2027 599,2058 366,2058"/>
         <Baseline points="366,2058 599,2058"/>
         <TextEquiv>
@@ -457,7 +457,7 @@
 
       
       
-      <TextLine id="tl_45" >
+      <TextLine id="tl_45" custom="structure {type:Default;}">
         <Coords points="311,2065 1756,2065 1756,2111 311,2111"/>
         <Baseline points="311,2100 1756,2100"/>
         <TextEquiv>
@@ -467,7 +467,7 @@
 
       
       
-      <TextLine id="tl_46" >
+      <TextLine id="tl_46" custom="structure {type:Default;}">
         <Coords points="377,2109 1756,2109 1756,2156 377,2156"/>
         <Baseline points="377,2145 1756,2145"/>
         <TextEquiv>
@@ -477,7 +477,7 @@
 
       
       
-      <TextLine id="tl_47" >
+      <TextLine id="tl_47" custom="structure {type:Default;}">
         <Coords points="376,2154 1755,2154 1755,2200 376,2200"/>
         <Baseline points="376,2189 1755,2189"/>
         <TextEquiv>
@@ -487,7 +487,7 @@
 
       
       
-      <TextLine id="tl_48" >
+      <TextLine id="tl_48" custom="structure {type:Default;}">
         <Coords points="378,2199 1755,2199 1755,2244 378,2244"/>
         <Baseline points="378,2233 1755,2233"/>
         <TextEquiv>
@@ -497,7 +497,7 @@
 
       
       
-      <TextLine id="tl_49" >
+      <TextLine id="tl_49" custom="structure {type:Default;}">
         <Coords points="310,2243 1758,2243 1758,2287 310,2287"/>
         <Baseline points="310,2278 1758,2278"/>
         <TextEquiv>
@@ -507,7 +507,7 @@
 
       
       
-      <TextLine id="tl_50" >
+      <TextLine id="tl_50" custom="structure {type:Default;}">
         <Coords points="376,2287 1755,2287 1755,2333 376,2333"/>
         <Baseline points="376,2322 1755,2322"/>
         <TextEquiv>
@@ -517,7 +517,7 @@
 
       
       
-      <TextLine id="tl_51" >
+      <TextLine id="tl_51" custom="structure {type:Default;}">
         <Coords points="309,2331 1756,2331 1756,2378 309,2378"/>
         <Baseline points="309,2366 1756,2366"/>
         <TextEquiv>
@@ -527,7 +527,7 @@
 
       
       
-      <TextLine id="tl_52" >
+      <TextLine id="tl_52" custom="structure {type:Default;}">
         <Coords points="376,2376 1756,2376 1756,2422 376,2422"/>
         <Baseline points="376,2411 1756,2411"/>
         <TextEquiv>
@@ -537,7 +537,7 @@
 
       
       
-      <TextLine id="tl_53" >
+      <TextLine id="tl_53" custom="structure {type:Default;}">
         <Coords points="375,2420 1754,2420 1754,2466 375,2466"/>
         <Baseline points="375,2455 1754,2455"/>
         <TextEquiv>
@@ -547,7 +547,7 @@
 
       
       
-      <TextLine id="tl_54" >
+      <TextLine id="tl_54" custom="structure {type:Default;}">
         <Coords points="309,2464 1756,2464 1756,2511 309,2511"/>
         <Baseline points="309,2500 1756,2500"/>
         <TextEquiv>
@@ -557,7 +557,7 @@
 
       
       
-      <TextLine id="tl_55" >
+      <TextLine id="tl_55" custom="structure {type:Default;}">
         <Coords points="375,2509 1756,2509 1756,2555 375,2555"/>
         <Baseline points="375,2544 1756,2544"/>
         <TextEquiv>
@@ -567,7 +567,7 @@
 
       
       
-      <TextLine id="tl_56" >
+      <TextLine id="tl_56" custom="structure {type:Default;}">
         <Coords points="374,2553 1757,2553 1757,2597 374,2597"/>
         <Baseline points="374,2589 1757,2589"/>
         <TextEquiv>
@@ -577,7 +577,7 @@
 
       
       
-      <TextLine id="tl_57" >
+      <TextLine id="tl_57" custom="structure {type:Default;}">
         <Coords points="375,2597 1757,2597 1757,2641 375,2641"/>
         <Baseline points="375,2632 1757,2632"/>
         <TextEquiv>

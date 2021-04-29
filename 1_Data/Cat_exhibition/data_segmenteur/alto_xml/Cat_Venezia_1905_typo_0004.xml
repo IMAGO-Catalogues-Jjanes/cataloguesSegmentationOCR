@@ -10,14 +10,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT202" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT203" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT204" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT205" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-    <OtherTag ID="LT85" LABEL="Default" DESCRIPTION="line type Default"/>
+    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="2550"
           HEIGHT="3299"
-          PHYSICAL_IMG_NR="1"
+          PHYSICAL_IMG_NR="45"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -29,8 +29,25 @@
                    WIDTH="271"
                    HEIGHT="66"
                    ID="eSc_textblock_1bfc676b"
-                   TAGREFS="BT205">
+                   TAGREFS="BT233">
           <Shape><Polygon POINTS="590 257 590 323 861 323 861 257"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f3227a15"
+                    
+                    BASELINE="596 316 832 314" 
+                    HPOS="594"
+                    VPOS="252"
+                    WIDTH="278"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="594 313 602 261 632 261 646 274 858 252 872 312 830 313 599 321"/></Shape>
+	    <String CONTENT="Sala VII."
+                    HPOS="594"
+                    VPOS="252"
+                    WIDTH="278"
+                    HEIGHT="69"></String>
+          </TextLine>
+
           
         </TextBlock>
         
@@ -39,8 +56,25 @@
                    WIDTH="253"
                    HEIGHT="60"
                    ID="eSc_textblock_ab1cef3f"
-                   TAGREFS="BT202">
+                   TAGREFS="BT232">
           <Shape><Polygon POINTS="1193 253 1193 313 1446 313 1446 253"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_366a4265"
+                    
+                    BASELINE="1204 305 1456 296" 
+                    HPOS="1202"
+                    VPOS="263"
+                    WIDTH="253"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="1202 302 1215 291 1257 299 1290 263 1347 263 1378 291 1455 294 1207 302"/></Shape>
+	    <String CONTENT="-46-"
+                    HPOS="1202"
+                    VPOS="263"
+                    WIDTH="253"
+                    HEIGHT="39"></String>
+          </TextLine>
+
           
         </TextBlock>
         
@@ -49,12 +83,12 @@
                    WIDTH="1535"
                    HEIGHT="2311"
                    ID="eSc_textblock_b75cae7d"
-                   TAGREFS="BT2">
+                   TAGREFS="BT231">
           <Shape><Polygon POINTS="571 379 571 2690 2106 2690 2106 379"/></Shape>
           
           
           <TextLine ID="tl_2"
-                    
+                    TAGREFS="LT96"
                     BASELINE="848 426 916 425 1325 425" 
                     HPOS="848"
                     VPOS="373"
@@ -71,7 +105,7 @@
           
           
           <TextLine ID="tl_3"
-                    
+                    TAGREFS="LT96"
                     BASELINE="651 549 684 549 797 544 1009 541 1079 539 1164 535 1289 534 1493 531 1883 525 2035 523" 
                     HPOS="651"
                     VPOS="480"
@@ -88,7 +122,7 @@
           
           
           <TextLine ID="tl_4"
-                    
+                    TAGREFS="LT96"
                     BASELINE="876 617 1016 615 1369 608" 
                     HPOS="876"
                     VPOS="565"
@@ -105,7 +139,7 @@
           
           
           <TextLine ID="tl_5"
-                    
+                    TAGREFS="LT96"
                     BASELINE="652 697 687 697 976 701 1370 681 1498 680 1673 677 2013 672" 
                     HPOS="652"
                     VPOS="629"
@@ -122,7 +156,7 @@
           
           
           <TextLine ID="tl_6"
-                    
+                    TAGREFS="LT96"
                     BASELINE="652 769 687 769 868 764 1141 759" 
                     HPOS="652"
                     VPOS="715"
@@ -139,7 +173,7 @@
           
           
           <TextLine ID="tl_7"
-                    
+                    TAGREFS="LT96"
                     BASELINE="852 918 997 912 1295 906" 
                     HPOS="852"
                     VPOS="863"
@@ -156,7 +190,7 @@
           
           
           <TextLine ID="tl_8"
-                    
+                    TAGREFS="LT96"
                     BASELINE="657 1041 689 1041 896 1033 1010 1032 1394 1025 1521 1024 1694 1021 2038 1018" 
                     HPOS="657"
                     VPOS="972"
@@ -173,7 +207,7 @@
           
           
           <TextLine ID="tl_9"
-                    
+                    TAGREFS="LT96"
                     BASELINE="857 1187 893 1187 1206 1178" 
                     HPOS="857"
                     VPOS="1136"
@@ -190,7 +224,7 @@
           
           
           <TextLine ID="tl_10"
-                    
+                    TAGREFS="LT96"
                     BASELINE="635 1294 656 1294 975 1288" 
                     HPOS="635"
                     VPOS="1243"
@@ -207,24 +241,24 @@
           
           
           <TextLine ID="tl_11"
-                    
-                    BASELINE="859 1441 894 1441 1230 1445 1383 1428" 
-                    HPOS="859"
-                    VPOS="1387"
-                    WIDTH="524"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="859 1387 1383 1387 1383 1450 859 1450"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="859 1441 894 1441 1232 1434 1383 1428" 
+                    HPOS="858"
+                    VPOS="1371"
+                    WIDTH="522"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="858 1440 861 1382 888 1396 960 1396 1006 1380 1061 1393 1078 1380 1248 1388 1262 1374 1314 1371 1328 1385 1364 1377 1380 1426 1367 1437 863 1443"/></Shape>
 	    <String CONTENT="Làszló Fülöp Elek"
-                    HPOS="859"
-                    VPOS="1387"
-                    WIDTH="524"
-                    HEIGHT="63"></String>
+                    HPOS="858"
+                    VPOS="1371"
+                    WIDTH="522"
+                    HEIGHT="72"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_12"
-                    
+                    TAGREFS="LT96"
                     BASELINE="638 1550 658 1550 984 1542 1094 1540 1272 1537 1475 1533 1562 1531 1619 1529 1715 1529" 
                     HPOS="638"
                     VPOS="1486"
@@ -241,7 +275,7 @@
           
           
           <TextLine ID="tl_13"
-                    
+                    TAGREFS="LT96"
                     BASELINE="865 1693 899 1693 1201 1700" 
                     HPOS="865"
                     VPOS="1645"
@@ -258,7 +292,7 @@
           
           
           <TextLine ID="tl_14"
-                    
+                    TAGREFS="LT96"
                     BASELINE="644 1804 664 1804 989 1796 1073 1794 1344 1791" 
                     HPOS="643"
                     VPOS="1747"
@@ -275,7 +309,7 @@
           
           
           <TextLine ID="tl_15"
-                    
+                    TAGREFS="LT96"
                     BASELINE="866 1950 1229 1944 1730 1932" 
                     HPOS="866"
                     VPOS="1891"
@@ -292,7 +326,7 @@
           
           
           <TextLine ID="tl_16"
-                    
+                    TAGREFS="LT96"
                     BASELINE="645 2074 666 2074 980 2067 1090 2065 1233 2062 1329 2059 1539 2057 1914 2051 2052 2047" 
                     HPOS="645"
                     VPOS="2005"
@@ -309,7 +343,7 @@
           
           
           <TextLine ID="tl_17"
-                    
+                    TAGREFS="LT96"
                     BASELINE="894 2142 1034 2139 1372 2133" 
                     HPOS="893"
                     VPOS="2090"
@@ -326,7 +360,7 @@
           
           
           <TextLine ID="tl_18"
-                    
+                    TAGREFS="LT96"
                     BASELINE="871 2292 918 2292 1195 2286" 
                     HPOS="871"
                     VPOS="2244"
@@ -343,7 +377,7 @@
           
           
           <TextLine ID="tl_19"
-                    
+                    TAGREFS="LT96"
                     BASELINE="648 2401 669 2401 996 2394 1080 2392 1334 2390" 
                     HPOS="648"
                     VPOS="2346"
@@ -360,7 +394,7 @@
           
           
           <TextLine ID="tl_20"
-                    
+                    TAGREFS="LT96"
                     BASELINE="873 2532 921 2532 1422 2523 1625 2519" 
                     HPOS="873"
                     VPOS="2477"
@@ -377,7 +411,7 @@
           
           
           <TextLine ID="tl_21"
-                    
+                    TAGREFS="LT96"
                     BASELINE="655 2657 678 2657 904 2650 1286 2645 1414 2643 1585 2640 1923 2636" 
                     HPOS="655"
                     VPOS="2591"
@@ -395,27 +429,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_1"
-                    
-                    BASELINE="605 312 717 311 861 305 1263 287 1353 297 1436 284" 
-                    HPOS="605.0"
-                    VPOS="255.0"
-                    WIDTH="831.0"
-                    HEIGHT="62.0">
-            <Shape><Polygon POINTS="605 255 1436 255 1436 317 605 317"/></Shape>
-	    <String CONTENT="Sala VII. — 46 —"
-                    HPOS="605.0"
-                    VPOS="255.0"
-                    WIDTH="831.0"
-                    HEIGHT="62.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

@@ -10,14 +10,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT202" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT203" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT204" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT205" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-    <OtherTag ID="LT85" LABEL="Default" DESCRIPTION="line type Default"/>
+    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1641"
           HEIGHT="2087"
-          PHYSICAL_IMG_NR="6"
+          PHYSICAL_IMG_NR="33"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -29,12 +29,12 @@
                    WIDTH="35"
                    HEIGHT="30"
                    ID="r_5_1"
-                   TAGREFS="BT202">
+                   TAGREFS="BT232">
           <Shape><Polygon POINTS="807 1805 842 1805 842 1835 807 1835"/></Shape>
           
           
           <TextLine ID="tl_30"
-                    
+                    TAGREFS="LT96"
                     BASELINE="808 1834 841 1834" 
                     HPOS="808"
                     VPOS="1806"
@@ -55,81 +55,87 @@
                    VPOS="238"
                    WIDTH="1012"
                    HEIGHT="1542"
-                   ID="eSc_textblock_7e0fc19d"
-                   TAGREFS="BT">
+                   ID="eSc_textblock_0270a858"
+                   TAGREFS="BT231">
           <Shape><Polygon POINTS="307 238 307 1780 1319 1780 1319 238"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="tl_1"
-                    
-                    BASELINE="336 281 424 279 478 278 770 277 824 276 940 274 1027 275 1085 262 1291 274" 
-                    HPOS="336"
-                    VPOS="246"
-                    WIDTH="955"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="336 246 1291 246 1291 287 336 287"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="336 281 424 279 478 278 770 277 824 276 940 274 1027 275 1085 275 1291 274" 
+                    HPOS="335"
+                    VPOS="238"
+                    WIDTH="954"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="335 280 337 241 424 252 443 241 548 252 570 252 581 241 602 241 610 250 711 252 732 240 772 250 805 240 821 250 843 240 890 250 1004 250 1012 241 1052 250 1070 240 1124 240 1132 248 1141 240 1164 248 1195 240 1211 248 1219 240 1247 238 1259 248 1284 248 1289 273 1284 280 1160 274 1096 281 765 276 697 283 337 283"/></Shape>
 	    <String CONTENT="Hyatt Mayer, Conservador de Gravuras do “Metropolitan"
-                    HPOS="336"
-                    VPOS="246"
-                    WIDTH="955"
-                    HEIGHT="41"></String>
+                    HPOS="335"
+                    VPOS="238"
+                    WIDTH="954"
+                    HEIGHT="45"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_2"
-                    
-                    BASELINE="335 319 464 317 514 323 623 321 705 316 738 316 1081 316 1132 313 1293 311" 
-                    HPOS="335"
-                    VPOS="285"
+                    TAGREFS="LT96"
+                    BASELINE="335 319 464 317 517 319 623 321 705 316 738 316 1081 316 1132 313 1293 311" 
+                    HPOS="334"
+                    VPOS="280"
                     WIDTH="958"
-                    HEIGHT="39">
-            <Shape><Polygon POINTS="335 285 1293 285 1293 324 335 324"/></Shape>
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="334 318 335 283 457 292 495 290 504 283 520 292 541 283 562 292 574 283 629 292 638 283 666 283 675 292 713 292 722 281 744 288 765 281 774 290 882 290 890 281 927 290 960 290 967 283 977 290 995 283 1023 290 1031 281 1052 290 1094 290 1106 280 1127 288 1143 288 1152 280 1185 286 1287 281 1292 309 1068 320 786 314 692 321 335 321"/></Shape>
 	    <String CONTENT="Museum of Art&quot;; Una Johonson, Conservador de Gravuras"
-                    HPOS="335"
-                    VPOS="285"
+                    HPOS="334"
+                    VPOS="280"
                     WIDTH="958"
-                    HEIGHT="39"></String>
+                    HEIGHT="41"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_3"
-                    
-                    BASELINE="335 357 349 357 398 356 571 354 761 352 936 356 972 350 1123 356 1235 356 1292 349" 
-                    HPOS="335"
-                    VPOS="322"
+                    TAGREFS="LT96"
+                    BASELINE="335 357 349 357 398 356 571 354 761 352 936 350 972 350 1123 356 1235 356 1292 353" 
+                    HPOS="334"
+                    VPOS="316"
                     WIDTH="957"
-                    HEIGHT="39">
-            <Shape><Polygon POINTS="335 322 1292 322 1292 361 335 361"/></Shape>
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="334 356 335 330 363 330 372 321 395 321 403 330 452 330 464 320 478 330 532 330 551 320 569 330 614 330 636 320 647 328 656 323 678 330 694 320 720 320 772 330 784 318 850 325 906 316 922 316 934 328 957 321 981 328 993 316 1094 316 1129 328 1145 316 1165 323 1205 316 1251 328 1275 316 1286 323 1291 351 335 358"/></Shape>
 	    <String CONTENT="e Desenhos do “Brooklyn Museun&quot;, e Dorothy Lytle, da"
-                    HPOS="335"
-                    VPOS="322"
+                    HPOS="334"
+                    VPOS="316"
                     WIDTH="957"
-                    HEIGHT="39"></String>
+                    HEIGHT="42"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_4"
-                    
-                    BASELINE="334 394 421 395 474 392 518 392 689 391 865 389 917 394 1054 387 1097 386 1155 388" 
-                    HPOS="334"
-                    VPOS="360"
+                    TAGREFS="LT96"
+                    BASELINE="334 394 421 395 474 392 518 392 689 391 865 389 917 391 1054 387 1097 386 1155 388" 
+                    HPOS="332"
+                    VPOS="353"
                     WIDTH="821"
-                    HEIGHT="39">
-            <Shape><Polygon POINTS="334 360 1155 360 1155 399 334 399"/></Shape>
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="332 393 339 358 370 370 388 361 436 370 448 358 469 370 504 358 647 368 659 356 685 368 708 368 727 366 739 354 882 366 913 353 924 363 936 353 964 353 972 361 991 353 1009 363 1052 365 1075 365 1085 354 1103 361 1148 356 1153 387 1094 394 1059 387 1052 394 715 389 335 398"/></Shape>
 	    <String CONTENT="Seção de Gravuras do “Museum of Modern Art&quot;."
-                    HPOS="334"
-                    VPOS="360"
+                    HPOS="332"
+                    VPOS="353"
                     WIDTH="821"
-                    HEIGHT="39"></String>
+                    HEIGHT="45"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_5"
-                    
+                    TAGREFS="LT96"
                     BASELINE="405 442 428 442 587 441 679 443 908 439 976 437 1077 437 1159 438 1293 435" 
                     HPOS="405"
                     VPOS="408"
@@ -146,7 +152,7 @@
           
           
           <TextLine ID="tl_6"
-                    
+                    TAGREFS="LT96"
                     BASELINE="338 481 414 481 470 479 542 479 582 479 671 484 821 477 908 477 1096 474 1154 475 1229 475 1293 468" 
                     HPOS="337"
                     VPOS="446"
@@ -163,7 +169,7 @@
           
           
           <TextLine ID="tl_7"
-                    
+                    TAGREFS="LT96"
                     BASELINE="338 518 450 522 507 518 679 516 751 515 843 520 879 514 934 513 1126 512 1199 511 1290 510" 
                     HPOS="338"
                     VPOS="484"
@@ -180,7 +186,7 @@
           
           
           <TextLine ID="tl_8"
-                    
+                    TAGREFS="LT96"
                     BASELINE="340 556 385 557 475 555 633 553 771 552 848 552 1046 550 1145 549 1205 550 1295 548" 
                     HPOS="340"
                     VPOS="521"
@@ -197,7 +203,7 @@
           
           
           <TextLine ID="tl_9"
-                    
+                    TAGREFS="LT96"
                     BASELINE="339 595 412 599 448 594 531 592 643 590 784 590 884 589 952 587 1145 586 1179 586 1295 579" 
                     HPOS="339"
                     VPOS="558"
@@ -214,7 +220,7 @@
           
           
           <TextLine ID="tl_10"
-                    
+                    TAGREFS="LT96"
                     BASELINE="338 632 503 631 540 629 708 628 765 628 834 626 949 625 1018 626 1086 624 1188 625 1296 628" 
                     HPOS="338"
                     VPOS="596"
@@ -231,7 +237,7 @@
           
           
           <TextLine ID="tl_11"
-                    
+                    TAGREFS="LT96"
                     BASELINE="340 669 371 669 478 668 699 666 760 665 992 662 1296 661" 
                     HPOS="340"
                     VPOS="634"
@@ -248,7 +254,7 @@
           
           
           <TextLine ID="tl_12"
-                    
+                    TAGREFS="LT96"
                     BASELINE="339 711 431 704 610 703 662 704 778 705 921 701 1008 705 1072 700 1190 700 1297 705" 
                     HPOS="339"
                     VPOS="671"
@@ -265,7 +271,7 @@
           
           
           <TextLine ID="tl_13"
-                    
+                    TAGREFS="LT96"
                     BASELINE="342 744 429 743 620 741 668 741 826 739 925 738 1009 737 1143 736 1185 736 1297 729" 
                     HPOS="342"
                     VPOS="707"
@@ -282,7 +288,7 @@
           
           
           <TextLine ID="tl_14"
-                    
+                    TAGREFS="LT96"
                     BASELINE="342 782 470 780 506 781 669 777 762 777 813 777 945 775 1092 774 1159 773 1298 773" 
                     HPOS="342"
                     VPOS="746"
@@ -299,7 +305,7 @@
           
           
           <TextLine ID="tl_15"
-                    
+                    TAGREFS="LT96"
                     BASELINE="345 821 449 819 547 819 696 817 767 816 931 816 982 815 1135 814 1215 813 1298 811" 
                     HPOS="344"
                     VPOS="785"
@@ -316,7 +322,7 @@
           
           
           <TextLine ID="tl_16"
-                    
+                    TAGREFS="LT96"
                     BASELINE="345 865 466 856 542 856 718 855 758 854 958 852 1047 853 1150 852 1299 845" 
                     HPOS="345"
                     VPOS="823"
@@ -333,7 +339,7 @@
           
           
           <TextLine ID="tl_17"
-                    
+                    TAGREFS="LT96"
                     BASELINE="344 896 420 896 476 895 549 895 649 894" 
                     HPOS="344"
                     VPOS="867"
@@ -350,7 +356,7 @@
           
           
           <TextLine ID="tl_18"
-                    
+                    TAGREFS="LT96"
                     BASELINE="786 956 810 956 1157 954" 
                     HPOS="786"
                     VPOS="928"
@@ -367,41 +373,41 @@
           
           
           <TextLine ID="tl_19"
-                    
-                    BASELINE="645 1002 757 1002 818 1002 859 986 999 1001 1055 1001 1199 1001 1298 985" 
-                    HPOS="645"
-                    VPOS="972"
-                    WIDTH="653"
-                    HEIGHT="33">
-            <Shape><Polygon POINTS="645 972 1298 972 1298 1005 645 1005"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="645 1002 757 1002 818 1002 859 1002 999 1001 1055 1001 1199 1001 1299 1007" 
+                    HPOS="643"
+                    VPOS="965"
+                    WIDTH="655"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="643 1001 647 968 682 968 690 977 711 968 765 986 783 970 824 982 842 965 859 965 894 966 908 977 991 975 1004 986 1040 966 1052 966 1064 979 1077 966 1150 966 1181 968 1204 987 1294 987 1298 1006 1200 1003 1193 1010 1136 1012 1113 1003 1096 1012 1058 1003 1045 1012 1002 1001 993 1010 936 1003 857 1010 849 1001 821 1001 812 1010 777 1010 756 1001 748 1010 645 1008"/></Shape>
 	    <String CONTENT="Diretor do “Museum of Modern Art’’"
-                    HPOS="645"
-                    VPOS="972"
-                    WIDTH="653"
-                    HEIGHT="33"></String>
+                    HPOS="643"
+                    VPOS="965"
+                    WIDTH="655"
+                    HEIGHT="47"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_20"
-                    
-                    BASELINE="852 1032 887 1032 982 1038 1090 1037" 
-                    HPOS="852"
-                    VPOS="1010"
-                    WIDTH="238"
-                    HEIGHT="29">
-            <Shape><Polygon POINTS="852 1010 1090 1010 1090 1039 852 1039"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="851 1036 887 1041 982 1038 1090 1037" 
+                    HPOS="850"
+                    VPOS="1003"
+                    WIDTH="239"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="850 1034 852 1022 894 1022 911 1005 972 1010 988 1020 1005 1003 1040 1012 1071 1003 1084 1012 1089 1036 852 1038"/></Shape>
 	    <String CONTENT="— New York"
-                    HPOS="852"
-                    VPOS="1010"
-                    WIDTH="238"
-                    HEIGHT="29"></String>
+                    HPOS="850"
+                    VPOS="1003"
+                    WIDTH="239"
+                    HEIGHT="35"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_21"
-                    
+                    TAGREFS="LT96"
                     BASELINE="732 1209 912 1208" 
                     HPOS="732"
                     VPOS="1179"
@@ -418,7 +424,7 @@
           
           
           <TextLine ID="tl_22"
-                    
+                    TAGREFS="LT96"
                     BASELINE="342 1316 417 1316 485 1316 657 1314 900 1314 1005 1311 1102 1310 1194 1311 1269 1314" 
                     HPOS="342"
                     VPOS="1281"
@@ -435,24 +441,24 @@
           
           
           <TextLine ID="tl_23"
-                    
-                    BASELINE="419 1399 428 1399 514 1399 650 1391 735 1398 747 1398 872 1397 1025 1396 1079 1395 1220 1395 1304 1396" 
-                    HPOS="419"
-                    VPOS="1367"
-                    WIDTH="885"
-                    HEIGHT="35">
-            <Shape><Polygon POINTS="419 1367 1304 1367 1304 1402 419 1402"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="419 1399 428 1399 514 1399 651 1397 735 1398 747 1398 872 1397 1025 1396 1079 1395 1220 1395 1304 1396" 
+                    HPOS="417"
+                    VPOS="1358"
+                    WIDTH="886"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="417 1398 419 1363 429 1373 469 1373 482 1361 515 1361 523 1370 532 1361 555 1361 563 1370 596 1373 729 1363 739 1373 753 1373 770 1361 803 1361 812 1370 821 1361 857 1361 868 1372 882 1372 892 1361 911 1360 950 1372 1044 1372 1066 1361 1084 1370 1094 1361 1152 1358 1167 1358 1178 1368 1214 1370 1233 1370 1245 1358 1292 1361 1303 1394 1299 1401 1226 1396 1122 1403 421 1403"/></Shape>
 	    <String CONTENT="1. Mulher — 1928 . 84x56. Museum of Modern Art,"
-                    HPOS="419"
-                    VPOS="1367"
-                    WIDTH="885"
-                    HEIGHT="35"></String>
+                    HPOS="417"
+                    VPOS="1358"
+                    WIDTH="886"
+                    HEIGHT="45"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_24"
-                    
+                    TAGREFS="LT96"
                     BASELINE="483 1437 558 1438 662 1435" 
                     HPOS="483"
                     VPOS="1410"
@@ -469,75 +475,75 @@
           
           
           <TextLine ID="tl_25"
-                    
+                    TAGREFS="LT96"
                     BASELINE="344 1552 477 1550 712 1549 819 1547 917 1547 1010 1546 1088 1553" 
                     HPOS="344"
                     VPOS="1518"
-                    WIDTH="744"
+                    WIDTH="747"
                     HEIGHT="40">
-            <Shape><Polygon POINTS="344 1518 1088 1518 1088 1558 344 1558"/></Shape>
+            <Shape><Polygon POINTS="344 1518 1088 1518 1091 1551 344 1558"/></Shape>
 	    <String CONTENT="William BAZIOTES (EE. UU. 1911 —)"
                     HPOS="344"
                     VPOS="1518"
-                    WIDTH="744"
+                    WIDTH="747"
                     HEIGHT="40"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_26"
-                    
-                    BASELINE="417 1621 432 1621 627 1620 710 1620 796 1611 846 1618 1016 1611 1107 1616 1164 1609 1303 1614" 
-                    HPOS="417"
-                    VPOS="1587"
+                    TAGREFS="LT96"
+                    BASELINE="417 1621 432 1621 627 1620 710 1620 796 1621 846 1618 1016 1611 1107 1616 1164 1609 1303 1614" 
+                    HPOS="415"
+                    VPOS="1577"
                     WIDTH="886"
-                    HEIGHT="35">
-            <Shape><Polygon POINTS="417 1587 1303 1587 1303 1622 417 1622"/></Shape>
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="415 1620 417 1584 442 1601 461 1601 490 1582 513 1593 539 1586 555 1596 626 1594 636 1601 643 1594 699 1594 709 1584 741 1600 809 1600 830 1594 843 1580 859 1580 873 1594 951 1593 964 1600 972 1593 1018 1598 1037 1579 1106 1579 1122 1594 1152 1598 1181 1579 1211 1579 1221 1587 1240 1577 1291 1577 1301 1613 1221 1620 1113 1615 1103 1622 967 1615 929 1624 419 1624"/></Shape>
 	    <String CONTENT="2. Natureza morta — máscaras — 1946 — 91x122."
-                    HPOS="417"
-                    VPOS="1587"
+                    HPOS="415"
+                    VPOS="1577"
                     WIDTH="886"
-                    HEIGHT="35"></String>
+                    HEIGHT="47"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_27"
-                    
-                    BASELINE="486 1659 580 1665 637 1658 678 1662 909 1656 1007 1653" 
+                    TAGREFS="LT96"
+                    BASELINE="486 1659 580 1661 637 1658 678 1662 909 1656 1007 1653" 
                     HPOS="485"
-                    VPOS="1628"
-                    WIDTH="522"
-                    HEIGHT="37">
-            <Shape><Polygon POINTS="485 1628 1007 1628 1007 1665 485 1665"/></Shape>
+                    VPOS="1619"
+                    WIDTH="520"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="485 1657 487 1624 513 1624 520 1631 527 1624 555 1624 565 1634 586 1636 607 1622 619 1622 631 1634 652 1634 663 1624 689 1629 696 1622 826 1631 837 1620 868 1629 920 1629 929 1620 983 1627 995 1619 1005 1652 983 1660 908 1655 797 1664 487 1664"/></Shape>
 	    <String CONTENT="Philip C. Johonson, New York"
                     HPOS="485"
-                    VPOS="1628"
-                    WIDTH="522"
-                    HEIGHT="37"></String>
+                    VPOS="1619"
+                    WIDTH="520"
+                    HEIGHT="45"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_28"
-                    
-                    BASELINE="420 1709 435 1709 515 1709 551 1709 753 1700 854 1709 1014 1706 1104 1704 1219 1703 1308 1692" 
-                    HPOS="420"
-                    VPOS="1675"
-                    WIDTH="888"
-                    HEIGHT="36">
-            <Shape><Polygon POINTS="420 1675 1308 1675 1308 1711 420 1711"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="420 1709 435 1709 515 1709 551 1709 754 1709 854 1709 1014 1706 1104 1704 1219 1703 1309 1701" 
+                    HPOS="419"
+                    VPOS="1664"
+                    WIDTH="889"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="419 1707 422 1674 443 1688 471 1688 487 1673 506 1673 525 1688 532 1681 579 1683 588 1674 610 1683 629 1674 652 1681 671 1671 696 1686 762 1686 781 1667 821 1667 847 1686 864 1686 884 1666 932 1666 939 1673 948 1666 990 1666 1011 1685 1026 1685 1044 1667 1075 1667 1106 1683 1134 1664 1155 1666 1164 1674 1216 1673 1226 1683 1244 1667 1291 1667 1303 1674 1308 1700 1266 1709 1110 1704 1103 1713 1042 1713 1035 1706 1016 1713 875 1714 868 1707 854 1714 770 1714 763 1707 612 1716 534 1716 527 1709 422 1713"/></Shape>
 	    <String CONTENT="3. O sonâmbulo — 1951. 122x102. The Kootz Gal¬"
-                    HPOS="420"
-                    VPOS="1675"
-                    WIDTH="888"
-                    HEIGHT="36"></String>
+                    HPOS="419"
+                    VPOS="1664"
+                    WIDTH="889"
+                    HEIGHT="52"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_29"
-                    
+                    TAGREFS="LT96"
                     BASELINE="489 1747 496 1747 651 1745 752 1745" 
                     HPOS="489"
                     VPOS="1717"
@@ -553,8 +559,6 @@
 
           
         </TextBlock>
-        
-
         
       </PrintSpace>
     </Page>

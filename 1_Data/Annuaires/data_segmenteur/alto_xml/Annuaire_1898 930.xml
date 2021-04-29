@@ -10,14 +10,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT202" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT203" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT204" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT205" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-    <OtherTag ID="LT85" LABEL="Default" DESCRIPTION="line type Default"/>
+    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="8009"
           HEIGHT="11737"
-          PHYSICAL_IMG_NR="36"
+          PHYSICAL_IMG_NR="114"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -29,90 +29,90 @@
                    WIDTH="272"
                    HEIGHT="144"
                    ID="r_1_1"
-                   TAGREFS="BT202">
+                   TAGREFS="BT232">
           <Shape><Polygon POINTS="3788 526 4060 526 4060 670 3788 670"/></Shape>
           
           
           <TextLine ID="tl_1"
-                    
+                    TAGREFS="LT96"
                     BASELINE="3789 667 4059 669" 
-                    HPOS="3769.0"
-                    VPOS="511.0"
-                    WIDTH="310.0"
-                    HEIGHT="168.0">
+                    HPOS="3769"
+                    VPOS="511"
+                    WIDTH="310"
+                    HEIGHT="168">
             <Shape><Polygon POINTS="3769 665 3843 678 3872 654 3897 679 3938 679 3959 663 3975 675 4033 676 4057 655 4078 656 4079 528 4054 528 4038 511 3770 517"/></Shape>
 	    <String CONTENT="905"
-                    HPOS="3769.0"
-                    VPOS="511.0"
-                    WIDTH="310.0"
-                    HEIGHT="168.0"></String>
+                    HPOS="3769"
+                    VPOS="511"
+                    WIDTH="310"
+                    HEIGHT="168"></String>
           </TextLine>
 
           
         </TextBlock>
         
         <TextBlock HPOS="3969"
-                   VPOS="800"
+                   VPOS="768"
                    WIDTH="3475"
-                   HEIGHT="10047"
+                   HEIGHT="10079"
                    ID="eSc_textblock_abe93c68"
-                   TAGREFS="BT2">
-          <Shape><Polygon POINTS="3969 800 3969 10847 7444 10847 7444 800"/></Shape>
+                   TAGREFS="BT231">
+          <Shape><Polygon POINTS="3975 768 3969 10847 7444 10847 7444 800"/></Shape>
           
           
           <TextLine ID="tl_56"
-                    
-                    BASELINE="4115 917 4277 919 4871 941 5567 943 5839 921 7091 951 7343 923" 
-                    HPOS="4096"
-                    VPOS="774"
-                    WIDTH="3269"
-                    HEIGHT="227">
-            <Shape><Polygon POINTS="4096 926 4339 853 5384 1001 5874 892 7080 963 7364 915 7365 787 7035 872 6925 785 5554 866 5031 782 4883 868 4097 774"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4115 917 4277 919 4871 912 5567 943 5839 921 7091 951 7343 923" 
+                    HPOS="4112"
+                    VPOS="772"
+                    WIDTH="3264"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="4112 909 4121 772 4259 772 4327 841 4405 772 4797 772 4885 870 5003 772 5071 772 5238 811 5482 792 5571 880 5717 802 5864 890 5962 792 6197 792 6295 811 7038 777 7300 772 7376 879 7118 909 7304 880 7333 919 7039 968 4121 929"/></Shape>
 	    <String CONTENT="12 Roret, Dieppe, r. Hôtel-de-Ville, 5"
-                    HPOS="4096"
-                    VPOS="774"
-                    WIDTH="3269"
-                    HEIGHT="227"></String>
+                    HPOS="4112"
+                    VPOS="772"
+                    WIDTH="3264"
+                    HEIGHT="196"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_57"
-                    
-                    BASELINE="4635 1127 4967 1089 5103 1095 5193 1091 5799 1093" 
-                    HPOS="4613"
-                    VPOS="948"
-                    WIDTH="1209"
-                    HEIGHT="175">
-            <Shape><Polygon POINTS="4616 1123 4994 1070 5064 1106 5480 1073 5736 1122 5822 1100 5820 1022 5733 958 5663 1004 5338 998 5247 954 5186 993 5057 958 5001 1013 4803 1000 4728 948 4613 979"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4707 1113 4967 1089 5103 1095 5193 1091 5799 1093" 
+                    HPOS="4699"
+                    VPOS="938"
+                    WIDTH="1097"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="4699 1105 4709 938 4905 978 5022 938 5130 978 5189 938 5296 978 5727 938 5796 1085 4709 1105"/></Shape>
 	    <String CONTENT="(Sne.-Inférieure)."
-                    HPOS="4613"
-                    VPOS="948"
-                    WIDTH="1209"
-                    HEIGHT="175"></String>
+                    HPOS="4699"
+                    VPOS="938"
+                    WIDTH="1097"
+                    HEIGHT="167"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_58"
-                    
-                    BASELINE="4113 1261 4273 1265 4781 1305 5249 1291 5837 1267 5991 1265 6237 1291 6501 1265 7107 1291 7341 1269" 
-                    HPOS="4094"
-                    VPOS="1123"
-                    WIDTH="3269"
-                    HEIGHT="148">
-            <Shape><Polygon POINTS="4094 1271 7363 1259 7362 1140 7235 1128 6243 1233 6111 1126 4094 1123"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4113 1261 4273 1265 4781 1305 5249 1291 5837 1267 5991 1265 6230 1277 6501 1265 7107 1291 7341 1269" 
+                    HPOS="4112"
+                    VPOS="1095"
+                    WIDTH="3221"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="4112 1251 4121 1095 4278 1144 4425 1105 4513 1144 4797 1144 4885 1095 5061 1144 5150 1095 5267 1144 5424 1095 5473 1144 5688 1105 5757 1154 5952 1154 6021 1105 6148 1154 6491 1154 6540 1105 6706 1144 6951 1105 7108 1154 7157 1105 7304 1105 7333 1261 7088 1300 4121 1281"/></Shape>
 	    <String CONTENT="14 Lévy (Vve), Neuilly s/S., av. Neuilly, 63"
-                    HPOS="4094"
-                    VPOS="1123"
-                    WIDTH="3269"
-                    HEIGHT="148"></String>
+                    HPOS="4112"
+                    VPOS="1095"
+                    WIDTH="3221"
+                    HEIGHT="205"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_59"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4625 1479 5117 1439" 
                     HPOS="4593"
                     VPOS="1256"
@@ -129,7 +129,7 @@
           
           
           <TextLine ID="tl_60"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4119 1605 4503 1611 5047 1605 5459 1609 6405 1635 6773 1609" 
                     HPOS="4098"
                     VPOS="1465"
@@ -146,7 +146,7 @@
           
           
           <TextLine ID="tl_61"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4107 1783 4503 1783 4929 1783" 
                     HPOS="4087"
                     VPOS="1647"
@@ -163,41 +163,41 @@
           
           
           <TextLine ID="tl_62"
-                    
-                    BASELINE="4027 2167 4215 2167 6067 2171 6715 2169 6953 2171 7245 2123" 
-                    HPOS="4006"
-                    VPOS="1998"
-                    WIDTH="3261"
-                    HEIGHT="215">
-            <Shape><Polygon POINTS="4007 2175 6126 2120 6225 2211 6797 2106 7028 2213 7267 2121 7266 1998 4756 2025 4661 2120 4541 2017 4006 2011"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4027 2167 4215 2167 6067 2171 6715 2169 6953 2171 7295 2159" 
+                    HPOS="4024"
+                    VPOS="1975"
+                    WIDTH="3270"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="4024 2161 4033 1975 4180 1975 4239 2024 4308 1985 4523 1985 4562 2024 7215 1995 7264 2024 7294 2151 4033 2181"/></Shape>
 	    <String CONTENT="H.21 HAUTERIVE (Villa d’) 75"
-                    HPOS="4006"
-                    VPOS="1998"
-                    WIDTH="3261"
-                    HEIGHT="215"></String>
+                    HPOS="4024"
+                    VPOS="1975"
+                    WIDTH="3270"
+                    HEIGHT="206"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_63"
-                    
-                    BASELINE="4203 2471 4259 2471 4903 2465 5063 2471 5247 2475 5349 2431 5961 2501 6247 2473" 
-                    HPOS="4183"
-                    VPOS="2332"
-                    WIDTH="2084"
-                    HEIGHT="177">
-            <Shape><Polygon POINTS="4183 2478 5196 2482 5386 2414 5459 2485 5953 2509 6266 2479 6267 2392 6172 2338 5946 2398 4456 2332 4323 2422 4184 2334"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4203 2471 4259 2471 4903 2465 5063 2471 5247 2475 5961 2501 6247 2473" 
+                    HPOS="4200"
+                    VPOS="2298"
+                    WIDTH="2046"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="4200 2464 4210 2308 4386 2347 4435 2298 4582 2347 4807 2318 4846 2357 5081 2357 5130 2318 5326 2318 5375 2357 5492 2308 5561 2347 5776 2357 5874 2318 5962 2357 6011 2308 6168 2308 6246 2464 4210 2484"/></Shape>
 	    <String CONTENT="1 Entrée r. Gal Brunet, 27."
-                    HPOS="4183"
-                    VPOS="2332"
-                    WIDTH="2084"
-                    HEIGHT="177"></String>
+                    HPOS="4200"
+                    VPOS="2298"
+                    WIDTH="2046"
+                    HEIGHT="186"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_64"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4191 2645 4271 2645 4947 2667 5403 2669 5573 2647 6063 2667 6331 2645" 
                     HPOS="4172"
                     VPOS="2505"
@@ -214,7 +214,7 @@
           
           
           <TextLine ID="tl_65"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4193 2817 4273 2817 5165 2839 5623 2825 5985 2817 6885 2837 7063 2815" 
                     HPOS="4172"
                     VPOS="2677"
@@ -231,24 +231,24 @@
           
           
           <TextLine ID="tl_66"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4185 2989 4271 2989 5059 3017 5503 3009 5863 2989 6783 3011 6977 2991" 
                     HPOS="4165"
-                    VPOS="2849"
-                    WIDTH="2832"
-                    HEIGHT="144">
-            <Shape><Polygon POINTS="4165 2985 6997 2993 6915 2853 5964 2849 5882 2927 5705 2849 5528 2944 5388 2853 4165 2890"/></Shape>
+                    VPOS="2763"
+                    WIDTH="2875"
+                    HEIGHT="252">
+            <Shape><Polygon POINTS="4165 2985 7040 3015 6915 2853 5964 2849 5882 2927 5734 2763 5528 2944 5388 2853 4165 2890"/></Shape>
 	    <String CONTENT="4 Fouchez, Paris, villa d’Hauterive, 4."
                     HPOS="4165"
-                    VPOS="2849"
-                    WIDTH="2832"
-                    HEIGHT="144"></String>
+                    VPOS="2763"
+                    WIDTH="2875"
+                    HEIGHT="252"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_67"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4027 3375 4579 3377" 
                     HPOS="4008"
                     VPOS="3219"
@@ -265,7 +265,7 @@
           
           
           <TextLine ID="tl_68"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4081 3547 5881 3553 6709 3549 6887 3547 7297 3501" 
                     HPOS="4060"
                     VPOS="3404"
@@ -282,7 +282,7 @@
           
           
           <TextLine ID="tl_69"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4205 3855 4261 3855 4909 3851 5087 3853 6005 3875 6289 3849" 
                     HPOS="4186"
                     VPOS="3714"
@@ -299,7 +299,7 @@
           
           
           <TextLine ID="tl_70"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4195 4029 4275 4029 5089 4051 5581 4053 5961 4025 7111 4047 7321 4027" 
                     HPOS="4173"
                     VPOS="3890"
@@ -316,41 +316,41 @@
           
           
           <TextLine ID="tl_71"
-                    
-                    BASELINE="4199 4201 4275 4201 5073 4219 5549 4223 5975 4197 7149 4223 7321 4199" 
-                    HPOS="4178"
-                    VPOS="4055"
-                    WIDTH="3165"
-                    HEIGHT="151">
-            <Shape><Polygon POINTS="4178 4203 7343 4206 7257 4066 5561 4155 5429 4060 5071 4142 4960 4055 4178 4071"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4199 4201 4275 4201 5073 4219 5549 4223 6004 4219 7149 4223 7321 4199" 
+                    HPOS="4190"
+                    VPOS="4039"
+                    WIDTH="3123"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="4190 4195 4200 4049 4396 4088 4445 4039 4591 4039 4680 4078 4993 4049 5032 4088 5424 4059 5492 4098 5992 4098 6041 4049 6227 4088 6697 4049 7108 4098 7157 4049 7245 4049 7313 4195 4200 4215"/></Shape>
 	    <String CONTENT="5 Sabroult, Paris, pass. Hautes-Formes, 5."
-                    HPOS="4178"
-                    VPOS="4055"
-                    WIDTH="3165"
-                    HEIGHT="151"></String>
+                    HPOS="4190"
+                    VPOS="4039"
+                    WIDTH="3123"
+                    HEIGHT="176"></String>
           </TextLine>
 
           
           
           <TextLine ID="line_1589407144106_6768"
-                    
-                    BASELINE="4199 4373 4279 4373 4929 4395 5275 4371 6071 4395 6529 4395 6695 4369 7321 4397" 
-                    HPOS="4180"
-                    VPOS="4229"
-                    WIDTH="3161"
-                    HEIGHT="172">
-            <Shape><Polygon POINTS="4180 4233 4864 4247 4954 4338 5382 4229 5394 4229 6057 4308 7029 4236 7263 4277 7341 4401 4180 4365"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4199 4373 4279 4373 4915 4366 5275 4371 6071 4395 6529 4395 6695 4369 7321 4397" 
+                    HPOS="4190"
+                    VPOS="4205"
+                    WIDTH="3123"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="4190 4372 4200 4205 4454 4205 4591 4244 5443 4225 5639 4264 5678 4225 5786 4264 5952 4225 6021 4264 6089 4225 6276 4264 6403 4225 6481 4274 6667 4274 6716 4225 7118 4235 7284 4274 7313 4391 4200 4381"/></Shape>
 	    <String CONTENT="7 Mallet, gér. Corniquet, Paris, r. Tolbiac,"
-                    HPOS="4180"
-                    VPOS="4229"
-                    WIDTH="3161"
-                    HEIGHT="172"></String>
+                    HPOS="4190"
+                    VPOS="4205"
+                    WIDTH="3123"
+                    HEIGHT="186"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_73"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4629 4543 4843 4541" 
                     HPOS="4607"
                     VPOS="4405"
@@ -367,41 +367,41 @@
           
           
           <TextLine ID="tl_74"
-                    
-                    BASELINE="4197 4715 4275 4715 5169 4737 5633 4727 5811 4715 6443 4739 6741 4713" 
-                    HPOS="4176"
-                    VPOS="4573"
-                    WIDTH="2585"
-                    HEIGHT="146">
-            <Shape><Polygon POINTS="4176 4718 6761 4719 6683 4583 6440 4673 6235 4574 5885 4573 5802 4655 4473 4579 4390 4661 4177 4578"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4197 4715 4275 4715 5169 4737 5633 4727 5833 4701 6443 4739 6741 4713" 
+                    HPOS="4190"
+                    VPOS="4548"
+                    WIDTH="2546"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="4190 4714 4210 4557 4396 4596 4445 4548 4601 4596 4797 4557 4905 4606 5071 4557 5169 4606 5228 4548 5433 4596 5482 4548 5590 4616 5786 4616 5854 4548 6070 4548 6393 4626 6510 4557 6677 4557 6736 4704 6422 4753 5962 4714 4200 4724"/></Shape>
 	    <String CONTENT="9 Corniquet, Paris, r. Tolbiac, 98."
-                    HPOS="4176"
-                    VPOS="4573"
-                    WIDTH="2585"
-                    HEIGHT="146"></String>
+                    HPOS="4190"
+                    VPOS="4548"
+                    WIDTH="2546"
+                    HEIGHT="205"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_75"
-                    
-                    BASELINE="4123 4887 4267 4889 4961 4887 5397 4913 5819 4913 6195 4887 7317 4915" 
-                    HPOS="4101"
-                    VPOS="4747"
-                    WIDTH="3236"
-                    HEIGHT="176">
-            <Shape><Polygon POINTS="4101 4897 7307 4923 7337 4841 6794 4747 5818 4841 5691 4749 4452 4747 4344 4849 4102 4749"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4123 4887 4267 4889 4961 4887 5397 4913 5826 4891 6195 4887 7317 4915" 
+                    HPOS="4121"
+                    VPOS="4724"
+                    WIDTH="3192"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="4121 4880 4141 4724 4689 4763 5326 4733 5355 4773 5414 4733 5620 4773 5698 4724 5766 4773 6138 4782 6217 4733 6530 4733 6687 4782 6736 4743 7245 4753 7313 4909 4131 4900"/></Shape>
 	    <String CONTENT="11 Laurier (Vve), Paris, pass. Hautes-Formes,"
-                    HPOS="4101"
-                    VPOS="4747"
-                    WIDTH="3236"
-                    HEIGHT="176"></String>
+                    HPOS="4121"
+                    VPOS="4724"
+                    WIDTH="3192"
+                    HEIGHT="185"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_76"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4637 5061 4839 5061" 
                     HPOS="4618"
                     VPOS="4923"
@@ -418,7 +418,7 @@
           
           
           <TextLine ID="tl_77"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4125 5231 4279 5233 4413 5233 4645 5235 7305 5233" 
                     HPOS="4105"
                     VPOS="5094"
@@ -435,75 +435,75 @@
           
           
           <TextLine ID="tl_78"
-                    
-                    BASELINE="4199 5405 4429 5407 5117 5427 5589 5429 5975 5403 6159 5405 6961 5427 7135 5403" 
-                    HPOS="4179"
-                    VPOS="5268"
-                    WIDTH="2976"
-                    HEIGHT="143">
-            <Shape><Polygon POINTS="4179 5411 7155 5409 7081 5269 5578 5354 5208 5268 5113 5358 4179 5284"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4199 5405 4429 5407 5124 5391 5589 5429 5975 5403 6159 5405 6961 5427 7135 5403" 
+                    HPOS="4190"
+                    VPOS="5242"
+                    WIDTH="2937"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="4190 5399 4200 5242 4288 5281 4396 5242 4484 5291 4611 5242 4709 5291 5130 5291 5179 5242 5375 5281 5453 5242 5522 5291 5835 5301 5962 5301 6011 5252 6256 5301 6344 5301 6393 5252 6971 5301 7069 5252 7127 5399 4200 5408"/></Shape>
 	    <String CONTENT="2-4 Dumas, Paris, pass. Htes-Formes, 4."
-                    HPOS="4179"
-                    VPOS="5268"
-                    WIDTH="2976"
-                    HEIGHT="143"></String>
+                    HPOS="4190"
+                    VPOS="5242"
+                    WIDTH="2937"
+                    HEIGHT="166"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_79"
-                    
-                    BASELINE="4197 5577 4277 5577 5295 5599 5751 5601 6133 5573 7117 5603 7322 5577" 
-                    HPOS="4178"
-                    VPOS="5436"
-                    WIDTH="3153"
-                    HEIGHT="141">
-            <Shape><Polygon POINTS="4178 5572 7331 5577 7248 5441 5762 5529 5631 5438 5281 5512 4491 5436 4392 5523 4178 5452"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4197 5577 4277 5577 5295 5599 5744 5565 6133 5573 7117 5603 7322 5577" 
+                    HPOS="4190"
+                    VPOS="5408"
+                    WIDTH="3123"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="4190 5575 4210 5408 4288 5457 4425 5457 4464 5418 4777 5457 4826 5408 4993 5408 5150 5467 5443 5418 5502 5457 5620 5428 5698 5467 6089 5477 6168 5418 6344 5418 6393 5457 6550 5418 7088 5487 7255 5428 7313 5575 7088 5614 6413 5575 5864 5614 4200 5584"/></Shape>
 	    <String CONTENT="6 Cherchillier, Paris, pass. Htes-Formes, 6."
-                    HPOS="4178"
-                    VPOS="5436"
-                    WIDTH="3153"
-                    HEIGHT="141"></String>
+                    HPOS="4190"
+                    VPOS="5408"
+                    WIDTH="3123"
+                    HEIGHT="206"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_80"
-                    
-                    BASELINE="4195 5753 4493 5749 5299 5775 5735 5769 6109 5745 7115 5771 7309 5745" 
-                    HPOS="4174"
-                    VPOS="5611"
-                    WIDTH="3157"
-                    HEIGHT="142">
-            <Shape><Polygon POINTS="4174 5753 7331 5747 7241 5611 5750 5697 4174 5622"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4195 5753 4493 5749 5299 5775 5742 5755 6109 5745 7115 5771 7309 5745" 
+                    HPOS="4190"
+                    VPOS="5584"
+                    WIDTH="3114"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="4190 5751 4200 5594 4425 5584 4758 5623 5404 5594 5453 5633 5600 5594 5639 5633 6050 5643 6168 5594 6422 5633 6657 5594 6687 5633 7069 5653 7245 5604 7304 5741 7088 5780 4200 5760"/></Shape>
 	    <String CONTENT="8-10 Chambrin, Paris, pass. Htes-Formes, 8."
-                    HPOS="4174"
-                    VPOS="5611"
-                    WIDTH="3157"
-                    HEIGHT="142"></String>
+                    HPOS="4190"
+                    VPOS="5584"
+                    WIDTH="3114"
+                    HEIGHT="196"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_81"
-                    
-                    BASELINE="4123 5923 4515 5923 5209 5949 5717 5951 6131 5917 7315 5945" 
-                    HPOS="4101"
-                    VPOS="5781"
-                    WIDTH="3236"
-                    HEIGHT="163">
-            <Shape><Polygon POINTS="4101 5932 7337 5944 7337 5833 6855 5783 6110 5864 5843 5782 5727 5880 5596 5781 4101 5784"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4123 5923 4515 5923 5209 5949 5717 5951 6131 5924 7315 5945" 
+                    HPOS="4121"
+                    VPOS="5751"
+                    WIDTH="3192"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="4121 5917 4141 5751 4288 5800 4689 5760 4738 5800 5003 5809 5277 5809 5316 5770 5512 5800 5590 5760 5776 5819 5835 5770 6070 5819 6158 5819 6207 5770 6697 5819 6736 5780 7127 5790 7294 5829 7313 5936 4131 5936"/></Shape>
 	    <String CONTENT="12-14 Ruppert, Paris, imp. Hautes-Formes,"
-                    HPOS="4101"
-                    VPOS="5781"
-                    WIDTH="3236"
-                    HEIGHT="163"></String>
+                    HPOS="4121"
+                    VPOS="5751"
+                    WIDTH="3192"
+                    HEIGHT="185"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_82"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4653 6093 4697 6093 4849 6093" 
                     HPOS="4631"
                     VPOS="5956"
@@ -520,7 +520,7 @@
           
           
           <TextLine ID="tl_83"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4121 6269 4281 6267 4939 6293 5397 6289 5565 6265 6157 6287 6537 6267" 
                     HPOS="4099"
                     VPOS="6121"
@@ -537,7 +537,7 @@
           
           
           <TextLine ID="tl_84"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4029 6653 4577 6649 6171 6647 6529 6651 6871 6597" 
                     HPOS="4008"
                     VPOS="6497"
@@ -554,24 +554,24 @@
           
           
           <TextLine ID="tl_85"
-                    
-                    BASELINE="4025 6953 4113 6953 4505 6947 4757 6943 5213 6953 5939 6977 6447 6977 6609 6951 6851 6951 7317 6923" 
-                    HPOS="4005"
-                    VPOS="6813"
-                    WIDTH="3334"
-                    HEIGHT="138">
-            <Shape><Polygon POINTS="4005 6951 7339 6928 7170 6813 4005 6835"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4025 6953 4113 6953 4505 6947 4757 6943 5213 6953 5939 6977 6418 6948 6609 6951 6851 6951 7317 6923" 
+                    HPOS="4024"
+                    VPOS="6797"
+                    WIDTH="3289"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="4024 6944 4033 6807 4347 6836 4386 6797 4454 6836 4591 6797 5110 6797 5198 6836 5267 6797 5698 6797 5737 6836 5992 6836 6031 6797 6168 6836 6266 6797 6354 6836 6618 6836 6657 6797 6902 6836 6941 6797 7157 6797 7284 6827 7313 6915 7225 6973 4033 6963"/></Shape>
 	    <String CONTENT="Toute la cité Rente Foncière, Paris, r. Le Pele¬"
-                    HPOS="4005"
-                    VPOS="6813"
-                    WIDTH="3334"
-                    HEIGHT="138"></String>
+                    HPOS="4024"
+                    VPOS="6797"
+                    WIDTH="3289"
+                    HEIGHT="176"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_86"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4627 7125 4895 7151 5167 7121" 
                     HPOS="4607"
                     VPOS="6983"
@@ -588,58 +588,58 @@
           
           
           <TextLine ID="tl_87"
-                    
-                    BASELINE="4023 7519 4211 7519 6125 7507 6611 7507 6791 7505 6963 7459 7103 7471 7167 7453 7235 7459" 
-                    HPOS="3999"
-                    VPOS="7366"
-                    WIDTH="3257"
-                    HEIGHT="185">
-            <Shape><Polygon POINTS="4001 7530 6846 7551 7256 7459 7255 7369 6639 7447 4744 7368 4634 7448 3999 7366"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4023 7519 4211 7519 6125 7507 6611 7507 6791 7505 7167 7453 7235 7459" 
+                    HPOS="4014"
+                    VPOS="7335"
+                    WIDTH="3211"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="4014 7511 4024 7335 4190 7335 4229 7374 4317 7335 4425 7374 4464 7335 4552 7374 4993 7374 5061 7335 7196 7335 7225 7452 7206 7492 6883 7521 4033 7531"/></Shape>
 	    <String CONTENT="H.24 HAUTEVILLE (Rue d’) 37_38"
-                    HPOS="3999"
-                    VPOS="7366"
-                    WIDTH="3257"
-                    HEIGHT="185"></String>
+                    HPOS="4014"
+                    VPOS="7335"
+                    WIDTH="3211"
+                    HEIGHT="196"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_88"
-                    
-                    BASELINE="4201 7821 4259 7821 5057 7837 5509 7837 5781 7813 6507 7839 6783 7809" 
-                    HPOS="4179"
-                    VPOS="7673"
-                    WIDTH="2626"
-                    HEIGHT="174">
-            <Shape><Polygon POINTS="4179 7832 4899 7827 5047 7753 5480 7847 5772 7756 6805 7813 6719 7673 6513 7735 4726 7675 4381 7770 4179 7684"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4201 7821 4259 7821 5043 7815 5509 7837 5781 7813 6507 7839 6783 7809" 
+                    HPOS="4200"
+                    VPOS="7648"
+                    WIDTH="2575"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="4200 7814 4210 7648 4259 7697 4787 7658 4836 7707 5042 7707 5091 7658 5287 7697 5375 7648 5453 7707 5600 7677 5727 7717 5806 7717 5864 7658 5982 7697 6080 7658 6129 7707 6305 7658 6462 7717 6579 7658 6716 7658 6775 7805 6491 7844 4210 7824"/></Shape>
 	    <String CONTENT="1 Guiffrey, Paris, av. Gobelins, 42."
-                    HPOS="4179"
-                    VPOS="7673"
-                    WIDTH="2626"
-                    HEIGHT="174"></String>
+                    HPOS="4200"
+                    VPOS="7648"
+                    WIDTH="2575"
+                    HEIGHT="196"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_89"
-                    
-                    BASELINE="4193 7995 4271 7995 4873 7987 5579 7985 6579 7985 7297 8005" 
-                    HPOS="4171"
-                    VPOS="7811"
-                    WIDTH="3145"
-                    HEIGHT="197">
-            <Shape><Polygon POINTS="4171 7999 7316 8008 7238 7888 6872 7842 5287 7906 4921 7811 4390 7950 4172 7868"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4193 7995 4271 7995 4859 7973 5579 7985 6579 7985 7297 8005" 
+                    HPOS="4190"
+                    VPOS="7834"
+                    WIDTH="3104"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="4190 7990 4200 7834 4993 7834 5071 7873 5179 7834 5247 7873 5414 7834 5473 7873 5580 7834 5776 7834 5815 7873 6011 7873 6050 7834 6344 7834 6413 7873 6873 7834 7215 7854 7264 7873 7294 8000 4200 8010"/></Shape>
 	    <String CONTENT="3 Auger (Vve), gér. Nénot, Paris, r. Sorbonne,"
-                    HPOS="4171"
-                    VPOS="7811"
-                    WIDTH="3145"
-                    HEIGHT="197"></String>
+                    HPOS="4190"
+                    VPOS="7834"
+                    WIDTH="3104"
+                    HEIGHT="176"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_90"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4635 8161 4833 8159" 
                     HPOS="4611"
                     VPOS="8024"
@@ -656,24 +656,24 @@
           
           
           <TextLine ID="tl_91"
-                    
-                    BASELINE="4189 8337 4411 8339 4721 8335 4853 8333 5063 8333 5587 8357 6053 8351 6461 8323 7295 8347" 
-                    HPOS="4169"
-                    VPOS="8185"
-                    WIDTH="3149"
-                    HEIGHT="160">
-            <Shape><Polygon POINTS="4169 8342 7318 8345 7317 8222 7017 8185 6511 8259 4601 8198 4510 8289 4169 8202"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4189 8337 4411 8339 4721 8335 4853 8333 5063 8333 5587 8357 6046 8322 6461 8323 7295 8347" 
+                    HPOS="4180"
+                    VPOS="8157"
+                    WIDTH="3114"
+                    HEIGHT="225">
+            <Shape><Polygon POINTS="4180 8333 4190 8176 4543 8206 4699 8166 4758 8206 4856 8166 4905 8206 5140 8215 5277 8166 5414 8215 5492 8157 5590 8215 5698 8157 5815 8215 5913 8166 5992 8225 6099 8166 6178 8215 6393 8166 6452 8225 6550 8166 6706 8215 6892 8215 6941 8176 7206 8196 7264 8235 7294 8343 6912 8333 6765 8382 6540 8323 6070 8333 6031 8372 5140 8362 5052 8323 4190 8343"/></Shape>
 	    <String CONTENT="5-7 Sipière (Vve), Paris, boul. Capucines,"
-                    HPOS="4169"
-                    VPOS="8185"
-                    WIDTH="3149"
-                    HEIGHT="160"></String>
+                    HPOS="4180"
+                    VPOS="8157"
+                    WIDTH="3114"
+                    HEIGHT="225"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_92"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4619 8509 4833 8505" 
                     HPOS="4595"
                     VPOS="8370"
@@ -690,7 +690,7 @@
           
           
           <TextLine ID="tl_93"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4187 8679 4265 8679 4899 8675 5053 8675 5833 8697 6107 8671" 
                     HPOS="4167"
                     VPOS="8530"
@@ -707,24 +707,24 @@
           
           
           <TextLine ID="tl_94"
-                    
-                    BASELINE="4113 8855 4259 8859 4611 8847 4901 8875 5227 8847 5427 8845 5873 8835 5975 8841 6067 8839 6289 8859 6743 8861 6911 8837 7291 8861" 
-                    HPOS="4092"
-                    VPOS="8696"
-                    WIDTH="3220"
-                    HEIGHT="177">
-            <Shape><Polygon POINTS="4093 8862 7266 8873 7312 8790 7036 8696 6752 8804 6624 8701 6274 8792 6039 8702 4451 8718 4331 8813 4092 8718"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4113 8855 4259 8859 4611 8847 4901 8875 5227 8847 5427 8845 5887 8857 5997 8863 6067 8839 6289 8859 6743 8861 6911 8837 7291 8861" 
+                    HPOS="4112"
+                    VPOS="8685"
+                    WIDTH="3172"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="4112 8851 4131 8685 4259 8724 4582 8724 4650 8685 4699 8734 5032 8734 5081 8695 5257 8734 5316 8685 5424 8734 5512 8695 5874 8734 5972 8685 6236 8744 6334 8695 6638 8695 6706 8744 7098 8695 7235 8714 7284 8851 4121 8861"/></Shape>
 	    <String CONTENT="11 Lefort, gér. de Broussillon, Paris, r. Bac,"
-                    HPOS="4092"
-                    VPOS="8696"
-                    WIDTH="3220"
-                    HEIGHT="177"></String>
+                    HPOS="4112"
+                    VPOS="8685"
+                    WIDTH="3172"
+                    HEIGHT="176"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_95"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4627 9023 4911 9021" 
                     HPOS="4607"
                     VPOS="8883"
@@ -741,41 +741,41 @@
           
           
           <TextLine ID="tl_96"
-                    
-                    BASELINE="4115 9201 4265 9199 5185 9213 5637 9207 5821 9189 6753 9205 7029 9179" 
-                    HPOS="4092"
-                    VPOS="9039"
-                    WIDTH="2956"
-                    HEIGHT="174">
-            <Shape><Polygon POINTS="4093 9212 5196 9141 6748 9213 7048 9187 7048 9113 6953 9039 6743 9123 6521 9045 4911 9056 4331 9145 4092 9064"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4115 9201 4265 9199 5185 9227 5637 9207 5821 9189 6753 9205 7029 9179" 
+                    HPOS="4112"
+                    VPOS="9017"
+                    WIDTH="2908"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="4112 9193 4121 9037 4376 9066 4552 9017 4601 9076 4846 9076 4983 9027 5032 9076 5179 9076 5228 9027 5424 9076 5492 9027 5571 9086 5845 9086 5903 9027 6168 9027 6217 9076 6510 9037 6706 9096 6775 9037 6961 9037 7020 9174 5776 9223 4121 9203"/></Shape>
 	    <String CONTENT="13 Tissandier, Paris, r. Châteaudun, 50."
-                    HPOS="4092"
-                    VPOS="9039"
-                    WIDTH="2956"
-                    HEIGHT="174"></String>
+                    HPOS="4112"
+                    VPOS="9017"
+                    WIDTH="2908"
+                    HEIGHT="206"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_97"
-                    
-                    BASELINE="4109 9373 4263 9373 4997 9363 5441 9389 5787 9359 6443 9381 6881 9377 7069 9395 7303 9323" 
-                    HPOS="4088"
-                    VPOS="9213"
-                    WIDTH="3236"
-                    HEIGHT="169">
-            <Shape><Polygon POINTS="4088 9382 7324 9328 7176 9213 6867 9291 4443 9230 4352 9320 4089 9234"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4109 9373 4263 9373 4997 9363 5412 9346 5787 9359 6443 9381 6881 9377 7069 9395 7303 9323" 
+                    HPOS="4102"
+                    VPOS="9203"
+                    WIDTH="3192"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="4102 9370 4112 9213 4268 9252 4405 9213 4591 9252 5580 9252 5629 9213 5806 9242 5845 9203 6011 9242 6109 9203 6236 9242 6334 9203 6393 9242 6462 9203 6608 9242 6736 9203 6785 9242 7176 9203 7264 9242 7294 9321 7137 9389 4112 9389"/></Shape>
 	    <String CONTENT="15 Boureau (Vve), gér. Papinot, Paris, fg St-"
-                    HPOS="4088"
-                    VPOS="9213"
-                    WIDTH="3236"
-                    HEIGHT="169"></String>
+                    HPOS="4102"
+                    VPOS="9203"
+                    WIDTH="3192"
+                    HEIGHT="186"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_98"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4623 9545 5043 9559 5421 9533" 
                     HPOS="4600"
                     VPOS="9395"
@@ -792,7 +792,7 @@
           
           
           <TextLine ID="tl_99"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4113 9717 4259 9719 4867 9735 5907 9723 7291 9693" 
                     HPOS="4092"
                     VPOS="9554"
@@ -809,7 +809,7 @@
           
           
           <TextLine ID="line_1589407275791_6809"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4111 9889 4259 9889 5031 9899 5503 9897 5921 9873 6601 9891 6893 9865" 
                     HPOS="4089"
                     VPOS="9739"
@@ -826,7 +826,7 @@
           
           
           <TextLine ID="tl_101"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4093 10063 4255 10063 5521 10065 6273 10043 7289 10039" 
                     HPOS="4070"
                     VPOS="9900"
@@ -843,7 +843,7 @@
           
           
           <TextLine ID="tl_102"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4095 10235 4265 10237 5015 10253 5471 10245 5651 10219 6483 10231 6777 10211" 
                     HPOS="4072"
                     VPOS="10084"
@@ -860,7 +860,7 @@
           
           
           <TextLine ID="tl_103"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4097 10405 4261 10405 4701 10403 5185 10399 6061 10413 6319 10387 6995 10405 7285 10379" 
                     HPOS="4076"
                     VPOS="10242"
@@ -877,7 +877,7 @@
           
           
           <TextLine ID="tl_104"
-                    
+                    TAGREFS="LT96"
                     BASELINE="4095 10579 4259 10581 4899 10575 5277 10569 5809 10587 5997 10561" 
                     HPOS="4076"
                     VPOS="10429"
@@ -894,18 +894,18 @@
           
           
           <TextLine ID="tl_105"
-                    
-                    BASELINE="4099 10753 4255 10753 4907 10743 5283 10743 5831 10763 6045 10733" 
-                    HPOS="4077"
-                    VPOS="10601"
-                    WIDTH="1988"
-                    HEIGHT="197">
-            <Shape><Polygon POINTS="4077 10752 4904 10744 5003 10798 5328 10703 6065 10741 5983 10601 5839 10692 5645 10601 4941 10678 4830 10616 4439 10612 4344 10707 4229 10608 4077 10616"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="4099 10753 4255 10753 4907 10743 5312 10750 5831 10763 6045 10733" 
+                    HPOS="4092"
+                    VPOS="10582"
+                    WIDTH="1949"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="4092 10749 4102 10582 4210 10582 4259 10631 4415 10592 4572 10631 4768 10592 4885 10631 5306 10631 5355 10582 5854 10631 5962 10582 6041 10729 6011 10768 5825 10778 4102 10778"/></Shape>
 	    <String CONTENT="31 Entrée pass. Violet, 2."
-                    HPOS="4077"
-                    VPOS="10601"
-                    WIDTH="1988"
-                    HEIGHT="197"></String>
+                    HPOS="4092"
+                    VPOS="10582"
+                    WIDTH="1949"
+                    HEIGHT="196"></String>
           </TextLine>
 
           
@@ -916,12 +916,12 @@
                    WIDTH="3435"
                    HEIGHT="10028"
                    ID="eSc_textblock_979d4702"
-                   TAGREFS="BT2">
+                   TAGREFS="BT231">
           <Shape><Polygon POINTS="435 760 435 10788 3870 10788 3870 760"/></Shape>
           
           
           <TextLine ID="tl_2"
-                    
+                    TAGREFS="LT96"
                     BASELINE="519 919 763 915 1489 919 1565 961 1845 877 2203 941 2607 947 2955 919 3799 945" 
                     HPOS="499"
                     VPOS="773"
@@ -938,7 +938,7 @@
           
           
           <TextLine ID="tl_3"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1125 1091 1415 1087" 
                     HPOS="1104"
                     VPOS="949"
@@ -955,24 +955,24 @@
           
           
           <TextLine ID="tl_4"
-                    
+                    TAGREFS="LT96"
                     BASELINE="527 1265 1087 1261 1805 1289 2331 1291 2799 1265 3799 1293" 
                     HPOS="507"
-                    VPOS="1123"
-                    WIDTH="3315"
-                    HEIGHT="179">
-            <Shape><Polygon POINTS="507 1275 2858 1214 3792 1302 3822 1178 508 1123"/></Shape>
+                    VPOS="1063"
+                    WIDTH="3358"
+                    HEIGHT="239">
+            <Shape><Polygon POINTS="507 1275 2930 1279 3792 1302 3865 1063 508 1123"/></Shape>
 	    <String CONTENT="148-150 Boisseau, Paris, boul. Malesherbes,"
                     HPOS="507"
-                    VPOS="1123"
-                    WIDTH="3315"
-                    HEIGHT="179"></String>
+                    VPOS="1063"
+                    WIDTH="3358"
+                    HEIGHT="239"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_5"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1367 1439 1581 1437" 
                     HPOS="1344"
                     VPOS="1293"
@@ -989,41 +989,41 @@
           
           
           <TextLine ID="line_1589406731544_6639"
-                    
+                    TAGREFS="LT96"
                     BASELINE="527 1605 771 1603 1669 1631 2121 1633 2521 1607 3419 1635 3795 1609" 
                     HPOS="508"
-                    VPOS="1463"
-                    WIDTH="3310"
-                    HEIGHT="176">
-            <Shape><Polygon POINTS="509 1463 3818 1526 3817 1617 3488 1639 1417 1639 854 1535 508 1612"/></Shape>
+                    VPOS="1461"
+                    WIDTH="3317"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="509 1463 3825 1461 3817 1617 3488 1639 1417 1639 926 1629 508 1612"/></Shape>
 	    <String CONTENT="152 Demarcay, Paris, boul. Haussmann, 152."
                     HPOS="508"
-                    VPOS="1463"
-                    WIDTH="3310"
-                    HEIGHT="176"></String>
+                    VPOS="1461"
+                    WIDTH="3317"
+                    HEIGHT="178"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_7"
-                    
-                    BASELINE="527 1777 769 1777 1035 1779 1073 1737 1511 1781 1849 1781 1997 1775 2255 1781 2921 1785 3147 1783 3609 1811 3795 1783" 
-                    HPOS="506"
-                    VPOS="1635"
-                    WIDTH="3310"
-                    HEIGHT="186">
-            <Shape><Polygon POINTS="506 1787 3605 1821 3816 1724 2084 1646 1893 1743 1684 1642 1510 1735 964 1635 844 1733 507 1635"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="527 1777 769 1777 1035 1779 1511 1781 1849 1781 1997 1775 2255 1781 2921 1785 3147 1783 3609 1811 3795 1783" 
+                    HPOS="518"
+                    VPOS="1604"
+                    WIDTH="3271"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="518 1770 528 1623 734 1613 783 1662 881 1662 979 1604 1125 1672 1243 1623 1321 1672 1537 1672 1586 1623 1987 1682 2056 1633 2261 1682 2320 1623 2496 1623 2535 1662 2829 1623 2907 1692 3133 1692 3191 1633 3485 1633 3563 1692 3730 1662 3789 1780 528 1780"/></Shape>
 	    <String CONTENT="154 Cie Ass. Vie « La Générale », Paris, r."
-                    HPOS="506"
-                    VPOS="1635"
-                    WIDTH="3310"
-                    HEIGHT="186"></String>
+                    HPOS="518"
+                    VPOS="1604"
+                    WIDTH="3271"
+                    HEIGHT="176"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_8"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1121 1953 1801 1977 2071 1953" 
                     HPOS="1098"
                     VPOS="1810"
@@ -1040,13 +1040,13 @@
           
           
           <TextLine ID="tl_9"
-                    
+                    TAGREFS="LT96"
                     BASELINE="527 2123 771 2123 1537 2121 1867 2147 2301 2151 2563 2131 3359 2147 3557 2127" 
                     HPOS="506"
                     VPOS="1976"
                     WIDTH="3071"
                     HEIGHT="160">
-            <Shape><Polygon POINTS="506 2128 3577 2136 3475 1987 3355 2072 2631 1988 2318 2081 2187 1989 944 1983 840 2073 507 1976"/></Shape>
+            <Shape><Polygon POINTS="506 2128 3577 2136 3475 1987 3369 2022 2631 1988 2318 2081 2187 1989 944 1983 840 2073 507 1976"/></Shape>
 	    <String CONTENT="156 Lebaudy (J.), Paris, av. Velasquez, 2."
                     HPOS="506"
                     VPOS="1976"
@@ -1057,24 +1057,24 @@
           
           
           <TextLine ID="tl_10"
-                    
-                    BASELINE="527 2295 767 2299 1145 2251 1725 2297 1803 2343 1997 2235 2165 2323 3797 2327" 
-                    HPOS="505"
-                    VPOS="2155"
-                    WIDTH="3316"
-                    HEIGHT="181">
-            <Shape><Polygon POINTS="505 2303 3786 2336 3821 2259 508 2155"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="527 2295 767 2299 1145 2251 1725 2297 1803 2343 2165 2323 3797 2327" 
+                    HPOS="518"
+                    VPOS="2132"
+                    WIDTH="3271"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="518 2288 528 2132 734 2132 773 2171 822 2132 1155 2132 1223 2171 1321 2132 1390 2171 1517 2132 1586 2171 2398 2171 2457 2132 2496 2171 2594 2132 2800 2171 2849 2132 2907 2171 3759 2171 3789 2318 528 2308"/></Shape>
 	    <String CONTENT="158-158bis André (Mme), Paris, boul. Haussmann,"
-                    HPOS="505"
-                    VPOS="2155"
-                    WIDTH="3316"
-                    HEIGHT="181"></String>
+                    HPOS="518"
+                    VPOS="2132"
+                    WIDTH="3271"
+                    HEIGHT="186"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_11"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1123 2471 1411 2469" 
                     HPOS="1101"
                     VPOS="2332"
@@ -1091,13 +1091,13 @@
           
           
           <TextLine ID="tl_12"
-                    
+                    TAGREFS="LT96"
                     BASELINE="525 2639 767 2639 1441 2663 1911 2671 2327 2647 3241 2671 3623 2647" 
                     HPOS="505"
                     VPOS="2497"
                     WIDTH="3137"
                     HEIGHT="178">
-            <Shape><Polygon POINTS="505 2649 851 2569 1419 2675 3642 2653 3556 2513 3230 2606 2527 2507 1893 2587 1786 2504 506 2497"/></Shape>
+            <Shape><Polygon POINTS="505 2649 851 2655 1419 2675 3642 2653 3556 2513 3237 2512 2527 2507 1893 2587 1786 2504 506 2497"/></Shape>
 	    <String CONTENT="160 Bérard, Paris, boul. Haussmann, 160."
                     HPOS="505"
                     VPOS="2497"
@@ -1108,24 +1108,24 @@
           
           
           <TextLine ID="line_1589406764991_6654"
-                    
-                    BASELINE="531 2813 1091 2817 1565 2819 1617 2839 1805 2808 1872 2745 1978 2823 2484 2832 2648 2837 3034 2842 3338 2847 3531 2842 3791 2823" 
-                    HPOS="509"
-                    VPOS="2675"
-                    WIDTH="3306"
-                    HEIGHT="149">
-            <Shape><Polygon POINTS="509 2675 676 2675 2449 2760 3215 2684 3502 2777 3721 2684 3815 2824 509 2820"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="531 2813 1091 2817 1565 2819 1617 2839 1805 2808 1978 2823 2484 2832 2648 2837 3034 2842 3338 2847 3531 2842 3791 2823" 
+                    HPOS="528"
+                    VPOS="2640"
+                    WIDTH="3261"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="528 2807 538 2650 704 2640 783 2679 861 2640 1517 2699 2016 2699 2085 2660 2183 2699 2310 2660 2369 2699 2623 2699 2663 2660 3524 2699 3700 2650 3789 2816 3495 2856 538 2826"/></Shape>
 	    <String CONTENT="162-164 Lamy (Mme), Paris, pl. République, 23."
-                    HPOS="509"
-                    VPOS="2675"
-                    WIDTH="3306"
-                    HEIGHT="149"></String>
+                    HPOS="528"
+                    VPOS="2640"
+                    WIDTH="3261"
+                    HEIGHT="216"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_14"
-                    
+                    TAGREFS="LT96"
                     BASELINE="529 2983 767 2989 1637 2989 2095 3019 2551 3017 3799 3017" 
                     HPOS="510"
                     VPOS="2847"
@@ -1142,7 +1142,7 @@
           
           
           <TextLine ID="tl_15"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1127 3161 1409 3161" 
                     HPOS="1107"
                     VPOS="3025"
@@ -1159,7 +1159,7 @@
           
           
           <TextLine ID="tl_16"
-                    
+                    TAGREFS="LT96"
                     BASELINE="535 3331 769 3333 2974 3361" 
                     HPOS="515"
                     VPOS="3191"
@@ -1176,24 +1176,24 @@
           
           
           <TextLine ID="tl_17"
-                    
+                    TAGREFS="LT96"
                     BASELINE="527 3505 1089 3507 1677 3533 1927 3535 2395 3535 2849 3509 3797 3535" 
                     HPOS="505"
-                    VPOS="3361"
+                    VPOS="3359"
                     WIDTH="3314"
-                    HEIGHT="181">
-            <Shape><Polygon POINTS="505 3514 3819 3542 3733 3418 3079 3374 2873 3455 2519 3367 2403 3470 2079 3373 1909 3467 1815 3372 1667 3445 506 3361"/></Shape>
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="505 3514 3819 3542 3733 3418 3079 3374 2902 3383 2519 3367 2403 3470 2079 3373 1909 3467 1815 3372 1689 3359 506 3361"/></Shape>
 	    <String CONTENT="170-172 Binder, J., Paris, boul. Haussmann,"
                     HPOS="505"
-                    VPOS="3361"
+                    VPOS="3359"
                     WIDTH="3314"
-                    HEIGHT="181"></String>
+                    HEIGHT="183"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_18"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1129 3679 1413 3679" 
                     HPOS="1107"
                     VPOS="3540"
@@ -1210,41 +1210,41 @@
           
           
           <TextLine ID="tl_19"
-                    
+                    TAGREFS="LT96"
                     BASELINE="525 3849 773 3849 1393 3875 1851 3877 2017 3855 2641 3885 2917 3857" 
                     HPOS="505"
-                    VPOS="3705"
+                    VPOS="3695"
                     WIDTH="2433"
-                    HEIGHT="203">
-            <Shape><Polygon POINTS="505 3857 2057 3838 2427 3908 2909 3867 2938 3789 2753 3717 2613 3798 2161 3716 2016 3781 967 3705 847 3803 753 3707 506 3705"/></Shape>
+                    HEIGHT="213">
+            <Shape><Polygon POINTS="505 3857 2057 3838 2427 3908 2909 3867 2938 3789 2753 3717 2613 3798 2161 3716 2023 3695 967 3705 847 3803 753 3707 506 3705"/></Shape>
 	    <String CONTENT="174 Senné, Paris, r. Banque, 15."
                     HPOS="505"
-                    VPOS="3705"
+                    VPOS="3695"
                     WIDTH="2433"
-                    HEIGHT="203"></String>
+                    HEIGHT="213"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_20"
-                    
-                    BASELINE="525 4023 767 4023 1479 4023 1575 4065 1767 3981 1981 4051 2455 4055 2863 4029 3799 4057" 
-                    HPOS="505"
-                    VPOS="3878"
-                    WIDTH="3315"
-                    HEIGHT="153">
-            <Shape><Polygon POINTS="505 4031 3820 3996 3075 3890 2441 3971 960 3878 848 3984 507 3882"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="525 4023 767 4023 1479 4023 1575 4065 1981 4051 2455 4055 2863 4029 3799 4057" 
+                    HPOS="518"
+                    VPOS="3853"
+                    WIDTH="3280"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="518 4019 548 3853 1243 3912 1909 3873 1997 3912 2046 3863 2144 3863 2183 3902 2555 3882 2594 3922 2712 3922 2761 3873 2849 3922 2947 3873 3123 3912 3730 3912 3779 3922 3798 4049 528 4039"/></Shape>
 	    <String CONTENT="176 Lozouet (Melle), Paris, boul. Haussmann,"
-                    HPOS="505"
-                    VPOS="3878"
-                    WIDTH="3315"
-                    HEIGHT="153"></String>
+                    HPOS="518"
+                    VPOS="3853"
+                    WIDTH="3280"
+                    HEIGHT="196"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_21"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1127 4199 1415 4197" 
                     HPOS="1106"
                     VPOS="4058"
@@ -1261,24 +1261,24 @@
           
           
           <TextLine ID="tl_22"
-                    
+                    TAGREFS="LT96"
                     BASELINE="525 4365 771 4367 1453 4371 1783 4395 3435 4403 3799 4375" 
                     HPOS="506"
                     VPOS="4225"
-                    WIDTH="3314"
-                    HEIGHT="157">
-            <Shape><Polygon POINTS="506 4373 3820 4382 3669 4236 3413 4320 973 4226 840 4320 508 4225"/></Shape>
+                    WIDTH="3379"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="506 4373 3885 4411 3669 4236 3427 4234 973 4226 840 4320 508 4225"/></Shape>
 	    <String CONTENT="178 Courcel (de), Paris, boul. Haussmann, 178."
                     HPOS="506"
                     VPOS="4225"
-                    WIDTH="3314"
-                    HEIGHT="157"></String>
+                    WIDTH="3379"
+                    HEIGHT="186"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_23"
-                    
+                    TAGREFS="LT96"
                     BASELINE="525 4539 769 4543 2101 4573 2923 4547 3803 4577" 
                     HPOS="506"
                     VPOS="4398"
@@ -1295,7 +1295,7 @@
           
           
           <TextLine ID="tl_24"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1133 4717 1419 4715" 
                     HPOS="1110"
                     VPOS="4576"
@@ -1312,24 +1312,24 @@
           
           
           <TextLine ID="tl_25"
-                    
-                    BASELINE="525 4883 767 4885 1475 4887 1945 4915 2415 4919 2851 4893 3799 4919" 
-                    HPOS="504"
-                    VPOS="4738"
-                    WIDTH="3318"
-                    HEIGHT="153">
-            <Shape><Polygon POINTS="504 4891 3822 4855 974 4738 838 4836 505 4743"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="525 4883 767 4885 1475 4887 1945 4915 2429 4905 2851 4893 3799 4919" 
+                    HPOS="518"
+                    VPOS="4714"
+                    WIDTH="3280"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="518 4880 528 4724 871 4753 1008 4714 1047 4753 1174 4724 1223 4763 1507 4763 1556 4724 1693 4724 1732 4763 2046 4724 2134 4773 2242 4733 2320 4773 2477 4733 2575 4773 2721 4733 2819 4773 3661 4763 3769 4782 3798 4909 528 4900"/></Shape>
 	    <String CONTENT="182 Brabant (Vve), Paris, boul. Haussmann,"
-                    HPOS="504"
-                    VPOS="4738"
-                    WIDTH="3318"
-                    HEIGHT="153"></String>
+                    HPOS="518"
+                    VPOS="4714"
+                    WIDTH="3280"
+                    HEIGHT="195"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_26"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1123 5061 1407 5057" 
                     HPOS="1101"
                     VPOS="4917"
@@ -1346,24 +1346,24 @@
           
           
           <TextLine ID="tl_27"
-                    
-                    BASELINE="525 5229 771 5231 1459 5231 1763 5165 2075 5259 2515 5259 2919 5235 3803 5265" 
-                    HPOS="502"
-                    VPOS="5086"
-                    WIDTH="3323"
-                    HEIGHT="183">
-            <Shape><Polygon POINTS="502 5238 3824 5269 3825 5154 3069 5099 2495 5175 504 5086"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="525 5229 771 5231 1459 5231 2075 5259 2515 5259 2919 5235 3803 5265" 
+                    HPOS="518"
+                    VPOS="5056"
+                    WIDTH="3280"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="518 5222 538 5066 881 5095 979 5056 1047 5105 1321 5105 1390 5066 1488 5105 1625 5066 1752 5115 1840 5066 1987 5066 2056 5115 2105 5066 2232 5125 2340 5076 2457 5125 2545 5076 2702 5125 2790 5086 3700 5115 3779 5144 3798 5262 528 5242"/></Shape>
 	    <String CONTENT="184 Duranti (Cte de), Paris, boul. Haussmann,"
-                    HPOS="502"
-                    VPOS="5086"
-                    WIDTH="3323"
-                    HEIGHT="183"></String>
+                    HPOS="518"
+                    VPOS="5056"
+                    WIDTH="3280"
+                    HEIGHT="206"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_28"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1121 5405 1371 5407" 
                     HPOS="1100"
                     VPOS="5263"
@@ -1380,24 +1380,24 @@
           
           
           <TextLine ID="line_1589406859874_6683"
-                    
+                    TAGREFS="LT96"
                     BASELINE="521 5573 1083 5575 1511 5577 1987 5601 2427 5605 2833 5579 3437 5609 3806 5580" 
                     HPOS="500"
                     VPOS="5430"
-                    WIDTH="3322"
+                    WIDTH="3358"
                     HEIGHT="179">
-            <Shape><Polygon POINTS="501 5430 3822 5508 3821 5594 3584 5609 2635 5609 500 5582"/></Shape>
+            <Shape><Polygon POINTS="501 5430 3858 5436 3821 5594 3584 5609 2635 5609 500 5582"/></Shape>
 	    <String CONTENT="186-188 Allez (Vve), Paris, boul. Péreire, 203."
                     HPOS="500"
                     VPOS="5430"
-                    WIDTH="3322"
+                    WIDTH="3358"
                     HEIGHT="179"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_30"
-                    
+                    TAGREFS="LT96"
                     BASELINE="527 5747 767 5747 1541 5747 1895 5751 2617 5781 3091 5781 3811 5727" 
                     HPOS="505"
                     VPOS="5605"
@@ -1414,7 +1414,7 @@
           
           
           <TextLine ID="tl_31"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1113 5921 1677 5951 1937 5925" 
                     HPOS="1093"
                     VPOS="5783"
@@ -1431,7 +1431,7 @@
           
           
           <TextLine ID="tl_32"
-                    
+                    TAGREFS="LT96"
                     BASELINE="521 6091 771 6093 1405 6121 1871 6127 2047 6095 2579 6097 2747 6127 3021 6097" 
                     HPOS="499"
                     VPOS="5949"
@@ -1448,7 +1448,7 @@
           
           
           <TextLine ID="tl_33"
-                    
+                    TAGREFS="LT96"
                     BASELINE="519 6475 1079 6475" 
                     HPOS="498"
                     VPOS="6318"
@@ -1465,7 +1465,7 @@
           
           
           <TextLine ID="tl_34"
-                    
+                    TAGREFS="LT96"
                     BASELINE="787 6649 2467 6657 3319 6697 3515 6611" 
                     HPOS="767"
                     VPOS="6501"
@@ -1482,7 +1482,7 @@
           
           
           <TextLine ID="tl_35"
-                    
+                    TAGREFS="LT96"
                     BASELINE="697 6951 909 6957 1451 6955 1603 6957 2553 6989 2763 6963" 
                     HPOS="675"
                     VPOS="6808"
@@ -1499,7 +1499,7 @@
           
           
           <TextLine ID="tl_36"
-                    
+                    TAGREFS="LT96"
                     BASELINE="607 7123 765 7127 1389 7127 1781 7129 2573 7165 2865 7135" 
                     HPOS="588"
                     VPOS="6983"
@@ -1516,7 +1516,7 @@
           
           
           <TextLine ID="tl_37"
-                    
+                    TAGREFS="LT96"
                     BASELINE="615 7299 761 7299 1391 7305 1569 7303 2521 7337 2727 7307" 
                     HPOS="596"
                     VPOS="7155"
@@ -1533,7 +1533,7 @@
           
           
           <TextLine ID="tl_38"
-                    
+                    TAGREFS="LT96"
                     BASELINE="519 7683 705 7683 2931 7695 3403 7697 3619 7649" 
                     HPOS="499"
                     VPOS="7526"
@@ -1550,24 +1550,24 @@
           
           
           <TextLine ID="tl_39"
-                    
-                    BASELINE="691 7989 755 7989 1619 8019 1979 7995 2671 8025 3155 8023 3355 7999 3809 7973" 
-                    HPOS="670"
-                    VPOS="7842"
-                    WIDTH="3161"
-                    HEIGHT="152">
-            <Shape><Polygon POINTS="670 7994 3831 7978 3497 7859 3349 7945 1839 7858 1625 7949 1431 7850 822 7932 670 7842"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="691 7989 755 7989 1619 8019 1979 7995 2671 8025 3141 8001 3355 7999 3809 7973" 
+                    HPOS="685"
+                    VPOS="7814"
+                    WIDTH="3123"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="685 7981 704 7814 871 7883 930 7824 1106 7834 1145 7873 1331 7873 1429 7824 1576 7883 1850 7834 1938 7893 2016 7893 2075 7834 2271 7834 2320 7883 2496 7834 2633 7893 2839 7834 2888 7883 3035 7844 3113 7902 3720 7844 3808 7971 3720 8020 3240 8030 695 8000"/></Shape>
 	    <String CONTENT="1 Récamier, gér. Schmitz, Paris, r. Port-"
-                    HPOS="670"
-                    VPOS="7842"
-                    WIDTH="3161"
-                    HEIGHT="152"></String>
+                    HPOS="685"
+                    VPOS="7814"
+                    WIDTH="3123"
+                    HEIGHT="216"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_40"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1109 8163 1611 8189 1813 8165" 
                     HPOS="1087"
                     VPOS="8019"
@@ -1584,24 +1584,24 @@
           
           
           <TextLine ID="tl_41"
-                    
-                    BASELINE="699 8331 757 8331 823 8283 1733 8335 1805 8381 2063 8271 2169 8367 2605 8341 3011 8369 3797 8375" 
-                    HPOS="679"
-                    VPOS="8189"
-                    WIDTH="3143"
-                    HEIGHT="197">
-            <Shape><Polygon POINTS="679 8337 3786 8386 3822 8276 683 8189"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="699 8331 757 8331 823 8283 1733 8335 1805 8381 2169 8367 2605 8341 3011 8369 3797 8375" 
+                    HPOS="695"
+                    VPOS="8157"
+                    WIDTH="3094"
+                    HEIGHT="244">
+            <Shape><Polygon POINTS="695 8323 714 8166 1742 8206 2046 8157 2134 8225 2271 8166 2349 8215 2888 8186 2947 8245 3133 8196 3730 8215 3789 8372 3632 8401 2810 8362 2761 8401 2682 8352 2633 8391 2408 8352 2075 8382 1047 8352 871 8303 704 8343"/></Shape>
 	    <String CONTENT="1bis Jacquemart (Mme), Neuilly s/S., r. Rouvray,"
-                    HPOS="679"
-                    VPOS="8189"
-                    WIDTH="3143"
-                    HEIGHT="197"></String>
+                    HPOS="695"
+                    VPOS="8157"
+                    WIDTH="3094"
+                    HEIGHT="244"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_42"
-                    
+                    TAGREFS="LT96"
                     BASELINE="1109 8507 1235 8505" 
                     HPOS="1088"
                     VPOS="8362"
@@ -1618,24 +1618,24 @@
           
           
           <TextLine ID="tl_43"
-                    
-                    BASELINE="687 8673 765 8673 1511 8679 1599 8719 1827 8611 1961 8705 2415 8709 2597 8683 3413 8713 3707 8691" 
-                    HPOS="667"
-                    VPOS="8515"
-                    WIDTH="3063"
-                    HEIGHT="220">
-            <Shape><Polygon POINTS="667 8678 1600 8730 1836 8618 1938 8714 2975 8735 3729 8695 3730 8600 2665 8546 2581 8623 1797 8515 973 8533 865 8623 668 8538"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="687 8673 765 8673 1511 8679 1599 8719 1961 8705 2415 8709 2597 8683 3413 8713 3707 8691" 
+                    HPOS="685"
+                    VPOS="8509"
+                    WIDTH="3015"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="685 8665 695 8509 773 8558 900 8558 949 8509 1028 8558 1155 8558 1233 8509 1311 8568 1517 8568 1654 8509 1870 8509 1948 8568 2046 8509 2134 8568 2271 8519 2330 8577 2575 8577 2633 8519 2761 8519 2917 8577 3025 8528 3103 8577 3240 8577 3348 8528 3417 8587 3475 8528 3632 8528 3700 8685 3005 8724 2751 8685 695 8695"/></Shape>
 	    <String CONTENT="3 Assolant (Mme), Paris, r. Vaugirard, 38."
-                    HPOS="667"
-                    VPOS="8515"
-                    WIDTH="3063"
-                    HEIGHT="220"></String>
+                    HPOS="685"
+                    VPOS="8509"
+                    WIDTH="3015"
+                    HEIGHT="215"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_44"
-                    
+                    TAGREFS="LT96"
                     BASELINE="685 8843 765 8843 1639 8845 1823 8853 2281 8877 2749 8879 2931 8857 3479 8887 3789 8863" 
                     HPOS="664"
                     VPOS="8704"
@@ -1652,24 +1652,24 @@
           
           
           <TextLine ID="tl_45"
-                    
-                    BASELINE="685 9015 763 9015 1545 9047 1997 9049 2395 9027 3097 9057 3305 9035" 
-                    HPOS="666"
-                    VPOS="8876"
-                    WIDTH="2659"
-                    HEIGHT="181">
-            <Shape><Polygon POINTS="666 9008 827 8948 1534 9057 3325 9039 3239 8898 3086 8987 2832 8894 2403 8957 2066 8884 1987 8962 1881 8891 667 8876"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="685 9015 763 9015 1545 9047 1997 9013 2395 9027 3097 9057 3305 9035" 
+                    HPOS="675"
+                    VPOS="8851"
+                    WIDTH="2624"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="675 9008 685 8851 744 8851 851 8890 1321 8861 1351 8900 1546 8900 1586 8861 1713 8900 1821 8861 1899 8910 2036 8871 2124 8910 2330 8880 2369 8920 2437 8880 2937 8880 3025 8929 3240 8880 3299 9027 3035 9066 685 9017"/></Shape>
 	    <String CONTENT="7 Cretaine, Paris, boul. Flandrin, 8."
-                    HPOS="666"
-                    VPOS="8876"
-                    WIDTH="2659"
-                    HEIGHT="181"></String>
+                    HPOS="675"
+                    VPOS="8851"
+                    WIDTH="2624"
+                    HEIGHT="215"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_46"
-                    
+                    TAGREFS="LT96"
                     BASELINE="683 9185 763 9185 2023 9195 2313 9214 2521 9220 2950 9215 3509 9230 3799 9201" 
                     HPOS="662"
                     VPOS="9047"
@@ -1686,7 +1686,7 @@
           
           
           <TextLine ID="line_1589406978503_6715"
-                    
+                    TAGREFS="LT96"
                     BASELINE="615 9353 755 9357 1395 9361 1781 9367 2701 9399 3077 9375" 
                     HPOS="596"
                     VPOS="9214"
@@ -1703,7 +1703,7 @@
           
           
           <TextLine ID="tl_48"
-                    
+                    TAGREFS="LT96"
                     BASELINE="615 9523 993 9535 1535 9531 1959 9541 2861 9573 3153 9547" 
                     HPOS="595"
                     VPOS="9385"
@@ -1719,25 +1719,25 @@
 
           
           
-          <TextLine ID="line_1589407009578_6728"
-                    
-                    BASELINE="612 9700 927 9707 1551 9729 2053 9737 2487 9715 3407 9747 3785 9723" 
-                    HPOS="1738"
-                    VPOS="9729"
-                    WIDTH="2068"
-                    HEIGHT="29">
-            <Shape><Polygon POINTS="1738 9729 3806 9729 3394 9758"/></Shape>
+          <TextLine ID="eSc_line_d2eb3e38"
+                    TAGREFS="LT96"
+                    BASELINE="598 9716 3767 9723" 
+                    HPOS="598"
+                    VPOS="9716"
+                    WIDTH="3169"
+                    HEIGHT="7">
+            
 	    <String CONTENT="19 Baillière, Paris, boul. St-Germain, 106."
-                    HPOS="1738"
-                    VPOS="9729"
-                    WIDTH="2068"
-                    HEIGHT="29"></String>
+                    HPOS="598"
+                    VPOS="9716"
+                    WIDTH="3169"
+                    HEIGHT="7"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_50"
-                    
+                    TAGREFS="LT96"
                     BASELINE="603 9867 749 9869 1389 9903 1849 9907 2013 9887 2465 9887 3217 9917 3407 9893" 
                     HPOS="582"
                     VPOS="9732"
@@ -1754,7 +1754,7 @@
           
           
           <TextLine ID="tl_51"
-                    
+                    TAGREFS="LT96"
                     BASELINE="685 10043 769 10043 1397 10049 1623 10051 3009 10085 3203 10063" 
                     HPOS="665"
                     VPOS="9904"
@@ -1771,69 +1771,69 @@
           
           
           <TextLine ID="tl_52"
-                    
-                    BASELINE="683 10215 767 10215 1311 10245 1761 10249 1945 10227 2773 10259 3047 10235" 
-                    HPOS="663"
-                    VPOS="10086"
-                    WIDTH="2404"
-                    HEIGHT="159">
-            <Shape><Polygon POINTS="663 10199 3067 10245 3002 10096 2784 10152 2039 10090 1787 10182 1644 10086 664 10113"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="683 10215 767 10215 1282 10223 1761 10249 1945 10227 2773 10259 3047 10235" 
+                    HPOS="675"
+                    VPOS="10054"
+                    WIDTH="2369"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="675 10211 695 10054 773 10093 949 10064 998 10103 1125 10054 1282 10103 1409 10064 1468 10113 1625 10054 1772 10123 2144 10064 2193 10113 2330 10074 2379 10123 2457 10093 2751 10142 2810 10084 2986 10084 3044 10230 2623 10269 685 10220"/></Shape>
 	    <String CONTENT="4 Ledé, Paris, r. Maubeuge, 57."
-                    HPOS="663"
-                    VPOS="10086"
-                    WIDTH="2404"
-                    HEIGHT="159"></String>
+                    HPOS="675"
+                    VPOS="10054"
+                    WIDTH="2369"
+                    HEIGHT="215"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_53"
-                    
-                    BASELINE="687 10383 761 10383 1387 10391 1535 10391 2269 10417 2463 10401" 
-                    HPOS="668"
-                    VPOS="10252"
-                    WIDTH="1817"
-                    HEIGHT="171">
-            <Shape><Polygon POINTS="668 10375 850 10325 952 10402 2269 10423 2483 10406 2485 10328 2387 10260 2258 10344 1807 10257 1744 10302 671 10252"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="687 10383 761 10383 1394 10405 1535 10391 2269 10417 2463 10401" 
+                    HPOS="685"
+                    VPOS="10220"
+                    WIDTH="1772"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="685 10377 714 10220 763 10269 1028 10230 1067 10269 1302 10240 1478 10289 1586 10240 1713 10279 1801 10240 1870 10289 2056 10240 2222 10308 2300 10250 2398 10250 2457 10397 2222 10436 695 10387"/></Shape>
 	    <String CONTENT="6 Entrée r. Poitevins, 2."
-                    HPOS="668"
-                    VPOS="10252"
-                    WIDTH="1817"
-                    HEIGHT="171"></String>
+                    HPOS="685"
+                    VPOS="10220"
+                    WIDTH="1772"
+                    HEIGHT="216"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_54"
-                    
-                    BASELINE="689 10555 767 10555 1397 10561 1553 10563 2299 10597 2495 10573" 
-                    HPOS="669"
-                    VPOS="10416"
-                    WIDTH="1845"
-                    HEIGHT="163">
-            <Shape><Polygon POINTS="669 10556 827 10506 937 10571 2514 10579 2422 10437 2284 10516 2093 10433 1767 10475 1702 10428 1227 10467 932 10422 873 10471 673 10416"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="689 10555 767 10555 1397 10561 1553 10563 2299 10575 2495 10573" 
+                    HPOS="685"
+                    VPOS="10397"
+                    WIDTH="1801"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="685 10553 695 10397 773 10436 910 10397 1067 10445 1302 10406 1566 10445 1693 10406 1742 10455 1791 10416 1909 10455 2036 10416 2310 10455 2408 10416 2486 10563 695 10563"/></Shape>
 	    <String CONTENT="8 Entrée r. Poitevins, 1."
-                    HPOS="669"
-                    VPOS="10416"
-                    WIDTH="1845"
-                    HEIGHT="163"></String>
+                    HPOS="685"
+                    VPOS="10397"
+                    WIDTH="1801"
+                    HEIGHT="166"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_55"
-                    
-                    BASELINE="619 10717 765 10725 1399 10763 1869 10763 2289 10743 3497 10775 3785 10751" 
-                    HPOS="600"
-                    VPOS="10577"
-                    WIDTH="3207"
-                    HEIGHT="208">
-            <Shape><Polygon POINTS="600 10725 3489 10785 3807 10685 2198 10604 1860 10687 1490 10597 1395 10687 601 10577"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="619 10717 765 10725 1413 10741 1869 10763 2289 10743 3497 10775 3785 10751" 
+                    HPOS="616"
+                    VPOS="10543"
+                    WIDTH="3163"
+                    HEIGHT="264">
+            <Shape><Polygon POINTS="616 10710 636 10543 763 10602 1028 10573 1204 10612 1429 10612 1468 10573 1664 10612 1713 10573 1781 10621 1899 10621 1967 10573 2016 10621 2222 10582 2310 10631 2359 10582 2790 10641 2839 10592 3025 10631 3211 10631 3270 10592 3495 10651 3544 10602 3730 10602 3779 10749 3446 10807 3025 10758 2839 10788 626 10739"/></Shape>
 	    <String CONTENT="10 Royer, Paris, boul. Bonne-Nouvelle, 10."
-                    HPOS="600"
-                    VPOS="10577"
-                    WIDTH="3207"
-                    HEIGHT="208"></String>
+                    HPOS="616"
+                    VPOS="10543"
+                    WIDTH="3163"
+                    HEIGHT="264"></String>
           </TextLine>
 
           

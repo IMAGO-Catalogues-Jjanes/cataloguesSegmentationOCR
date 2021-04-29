@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-04-29T14:35:53.807037+00:00</Created>
+    <LastChange>2021-04-29T14:35:53.807083+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1866_04_23_GAB_0004.jpg" imageWidth="1811" imageHeight="2838">
+
+    
+    <TextRegion id="eSc_textblock_3d27843b"  custom="structure {type:Main;}">
+      <Coords points="338,853 338,1518 1546,1518 1546,853"/>
+      
+      
+      <TextLine id="tl_1" custom="structure {type:Default;}">
+        <Coords points="857,895 978,895 978,930 857,930"/>
+        <Baseline points="857,929 978,930"/>
+        <TextEquiv>
+          <Unicode>AVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="tl_2" custom="structure {type:Default;}">
+        <Coords points="416,1040 1364,1040 1364,1087 416,1087"/>
+        <Baseline points="416,1072 438,1072 534,1073 585,1073 628,1074 732,1074 768,1074 807,1084 894,1074 1076,1075 1129,1075 1164,1075 1200,1075 1234,1075 1364,1076"/>
+        <TextEquiv>
+          <Unicode>Le jour de la veille il y aura exposition de 2 k 4 heures.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="tl_3" custom="structure {type:Default;}">
+        <Coords points="416,1106 1461,1106 1461,1152 416,1152"/>
+        <Baseline points="416,1138 461,1138 557,1139 648,1140 751,1140 851,1140 900,1140 1106,1140 1176,1141 1306,1150 1410,1143 1461,1143"/>
+        <TextEquiv>
+          <Unicode>Ou aura huit jours pour la vérification des pièces; passé ce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="tl_4" custom="structure {type:Default;}">
+        <Coords points="374,1172 1089,1172 1089,1213 374,1213"/>
+        <Baseline points="374,1204 468,1211 607,1205 816,1204 872,1205 951,1206 1089,1207"/>
+        <TextEquiv>
+          <Unicode>délai, aucune réclamation ne sera admise.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="tl_5" custom="structure {type:Default;}">
+        <Coords points="414,1243 1456,1243 1456,1289 414,1289"/>
+        <Baseline points="414,1275 461,1275 617,1276 700,1286 860,1277 930,1278 1024,1277 1077,1278 1143,1278 1212,1279 1456,1279"/>
+        <TextEquiv>
+          <Unicode>On percevra cinq centimes par franc eu sus des adjudications.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="tl_6" custom="structure {type:Default;}">
+        <Coords points="414,1311 1459,1311 1459,1361 414,1361"/>
+        <Baseline points="414,1343 441,1343 617,1343 663,1344 962,1346 1028,1346 1082,1346 1220,1354 1392,1350 1459,1351"/>
+        <TextEquiv>
+          <Unicode>M. Gabiurl Charavay, chargé de la vente, remplira les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="tl_7" custom="structure {type:Default;}">
+        <Coords points="372,1380 1103,1380 1103,1424 372,1424"/>
+        <Baseline points="373,1412 581,1414 690,1413 824,1413 906,1413 965,1413 1103,1414"/>
+        <TextEquiv>
+          <Unicode>commissions qu’on voudra bien lui confier.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

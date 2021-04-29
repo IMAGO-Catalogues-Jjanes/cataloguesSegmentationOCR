@@ -10,14 +10,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT202" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT203" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT204" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT205" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-    <OtherTag ID="LT85" LABEL="Default" DESCRIPTION="line type Default"/>
+    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1062"
           HEIGHT="2361"
-          PHYSICAL_IMG_NR="10"
+          PHYSICAL_IMG_NR="26"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -29,310 +29,23 @@
                    WIDTH="320"
                    HEIGHT="42"
                    ID="r_1_1"
-                   TAGREFS="BT205">
+                   TAGREFS="BT233">
           <Shape><Polygon POINTS="36 96 356 96 356 138 36 138"/></Shape>
           
           
           <TextLine ID="tl_1"
-                    
+                    TAGREFS="LT96"
                     BASELINE="37 135 355 135" 
-                    HPOS="37.0"
-                    VPOS="97.0"
-                    WIDTH="318.0"
-                    HEIGHT="40.0">
+                    HPOS="37"
+                    VPOS="97"
+                    WIDTH="318"
+                    HEIGHT="40">
             <Shape><Polygon POINTS="37 97 355 97 355 137 37 137"/></Shape>
 	    <String CONTENT="ROUMANIE"
-                    HPOS="37.0"
-                    VPOS="97.0"
-                    WIDTH="318.0"
-                    HEIGHT="40.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="458"
-                   VPOS="1718"
-                   WIDTH="193"
-                   HEIGHT="33"
-                   ID="r_4_1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="458 1718 651 1718 651 1751 458 1751"/></Shape>
-          
-          
-          <TextLine ID="tl_28"
-                    
-                    BASELINE="459 1749 650 1750" 
-                    HPOS="459.0"
-                    VPOS="1719.0"
-                    WIDTH="191.0"
-                    HEIGHT="31.0">
-            <Shape><Polygon POINTS="459 1719 650 1719 650 1750 459 1750"/></Shape>
-	    <String CONTENT="PEINTURE"
-                    HPOS="459.0"
-                    VPOS="1719.0"
-                    WIDTH="191.0"
-                    HEIGHT="31.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="151"
-                   VPOS="1781"
-                   WIDTH="825"
-                   HEIGHT="74"
-                   ID="r_4_2"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="151 1781 976 1781 976 1855 151 1855"/></Shape>
-          
-          
-          <TextLine ID="tl_29"
-                    
-                    BASELINE="153 1814 271 1817 315 1817 544 1821 602 1821 689 1821 728 1821 820 1819 975 1812" 
-                    HPOS="153.0"
-                    VPOS="1782.0"
-                    WIDTH="822.0"
-                    HEIGHT="45.0">
-            <Shape><Polygon POINTS="153 1782 975 1782 975 1827 153 1827"/></Shape>
-	    <String CONTENT="Dimitrie GAVRILEAN, né en 1942 à Güra Humorului"
-                    HPOS="153.0"
-                    VPOS="1782.0"
-                    WIDTH="822.0"
-                    HEIGHT="45.0"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_30"
-                    
-                    BASELINE="152 1851 326 1851" 
-                    HPOS="152.0"
-                    VPOS="1823.0"
-                    WIDTH="174.0"
-                    HEIGHT="31.0">
-            <Shape><Polygon POINTS="152 1823 326 1823 326 1854 152 1854"/></Shape>
-	    <String CONTENT="(Roumanie)."
-                    HPOS="152.0"
-                    VPOS="1823.0"
-                    WIDTH="174.0"
-                    HEIGHT="31.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="119"
-                   VPOS="1863"
-                   WIDTH="694"
-                   HEIGHT="40"
-                   ID="r_4_3"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="119 1863 813 1863 813 1903 119 1903"/></Shape>
-          
-          
-          <TextLine ID="tl_31"
-                    
-                    BASELINE="120 1888 129 1888 182 1890 288 1892 340 1893 381 1894 449 1900 529 1895 640 1901 703 1896 738 1894 812 1893" 
-                    HPOS="120.0"
-                    VPOS="1864.0"
-                    WIDTH="692.0"
-                    HEIGHT="38.0">
-            <Shape><Polygon POINTS="120 1864 812 1864 812 1902 120 1902"/></Shape>
-	    <String CONTENT="1 La danse de la vie, 1969 (huile, 137 x 117)."
-                    HPOS="120.0"
-                    VPOS="1864.0"
-                    WIDTH="692.0"
-                    HEIGHT="38.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="118"
-                   VPOS="1896"
-                   WIDTH="854"
-                   HEIGHT="44"
-                   ID="r_4_4"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="118 1896 972 1896 972 1940 118 1940"/></Shape>
-          
-          
-          <TextLine ID="tl_32"
-                    
-                    BASELINE="119 1921 133 1921 185 1923 303 1930 384 1927 492 1928 543 1930 577 1928 638 1928 971 1939" 
-                    HPOS="119.0"
-                    VPOS="1897.0"
-                    WIDTH="852.0"
-                    HEIGHT="42.0">
-            <Shape><Polygon POINTS="119 1897 971 1897 971 1939 119 1939"/></Shape>
-	    <String CONTENT="2 Le temps, 1969 (huile 70 x 70). ,"
-                    HPOS="119.0"
-                    VPOS="1897.0"
-                    WIDTH="852.0"
-                    HEIGHT="42.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="118"
-                   VPOS="1923"
-                   WIDTH="860"
-                   HEIGHT="47"
-                   ID="r_4_5"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="118 1923 978 1923 978 1970 118 1970"/></Shape>
-          
-          
-          <TextLine ID="tl_33"
-                    
-                    BASELINE="119 1955 133 1955 182 1956 263 1958 318 1958 363 1959 510 1961 628 1967 711 1962 822 1964 885 1958 916 1956 977 1953" 
-                    HPOS="119.0"
-                    VPOS="1924.0"
-                    WIDTH="858.0"
-                    HEIGHT="45.0">
-            <Shape><Polygon POINTS="119 1924 977 1924 977 1969 119 1969"/></Shape>
-	    <String CONTENT="3 La fête de ta nouvelle année, 1969 (huile, 110 x 170)."
-                    HPOS="119.0"
-                    VPOS="1924.0"
-                    WIDTH="858.0"
-                    HEIGHT="45.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="436"
-                   VPOS="2036"
-                   WIDTH="230"
-                   HEIGHT="34"
-                   ID="r_5_1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="436 2036 666 2036 666 2070 436 2070"/></Shape>
-          
-          
-          <TextLine ID="tl_34"
-                    
-                    BASELINE="437 2067 665 2068" 
-                    HPOS="437.0"
-                    VPOS="2037.0"
-                    WIDTH="228.0"
-                    HEIGHT="32.0">
-            <Shape><Polygon POINTS="437 2037 665 2037 665 2069 437 2069"/></Shape>
-	    <String CONTENT="SCULPTURE"
-                    HPOS="437.0"
-                    VPOS="2037.0"
-                    WIDTH="228.0"
-                    HEIGHT="32.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="147"
-                   VPOS="2101"
-                   WIDTH="767"
-                   HEIGHT="44"
-                   ID="r_5_2"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="147 2101 914 2101 914 2145 147 2145"/></Shape>
-          
-          
-          <TextLine ID="tl_35"
-                    
-                    BASELINE="148 2132 230 2134 267 2133 413 2136 466 2137 545 2139 577 2139 727 2138 913 2132" 
-                    HPOS="148.0"
-                    VPOS="2102.0"
-                    WIDTH="765.0"
-                    HEIGHT="42.0">
-            <Shape><Polygon POINTS="148 2102 913 2102 913 2144 148 2144"/></Shape>
-	    <String CONTENT="Silvia RAOU, née en 1935 à Pietroaia (Roumanie)."
-                    HPOS="148.0"
-                    VPOS="2102.0"
-                    WIDTH="765.0"
-                    HEIGHT="42.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="114"
-                   VPOS="2147"
-                   WIDTH="615"
-                   HEIGHT="40"
-                   ID="r_5_3"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="114 2147 729 2147 729 2187 114 2187"/></Shape>
-          
-          
-          <TextLine ID="tl_36"
-                    
-                    BASELINE="115 2173 130 2173 273 2181 357 2176 484 2184 553 2180 588 2178 633 2180 667 2178 728 2179" 
-                    HPOS="115.0"
-                    VPOS="2148.0"
-                    WIDTH="613.0"
-                    HEIGHT="38.0">
-            <Shape><Polygon POINTS="115 2148 728 2148 728 2186 115 2186"/></Shape>
-	    <String CONTENT="4 Colonne, 1969 (pierre, 148 x 43 x 43)."
-                    HPOS="115.0"
-                    VPOS="2148.0"
-                    WIDTH="613.0"
-                    HEIGHT="38.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="114"
-                   VPOS="2181"
-                   WIDTH="651"
-                   HEIGHT="39"
-                   ID="r_5_4"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="114 2181 765 2181 765 2220 114 2220"/></Shape>
-          
-          
-          <TextLine ID="tl_37"
-                    
-                    BASELINE="115 2206 129 2206 296 2214 381 2211 520 2217 589 2213 625 2211 670 2212 703 2211 764 2211" 
-                    HPOS="115.0"
-                    VPOS="2182.0"
-                    WIDTH="649.0"
-                    HEIGHT="37.0">
-            <Shape><Polygon POINTS="115 2182 764 2182 764 2219 115 2219"/></Shape>
-	    <String CONTENT="5 Maternité, 1969 (bronze, 155 x 32 x 40)."
-                    HPOS="115.0"
-                    VPOS="2182.0"
-                    WIDTH="649.0"
-                    HEIGHT="37.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="114"
-                   VPOS="2214"
-                   WIDTH="617"
-                   HEIGHT="39"
-                   ID="r_5_5"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="114 2214 731 2214 731 2253 114 2253"/></Shape>
-          
-          
-          <TextLine ID="tl_38"
-                    
-                    BASELINE="115 2240 129 2240 304 2247 388 2244 501 2250 554 2246 591 2245 634 2246 668 2244 730 2245" 
-                    HPOS="115.0"
-                    VPOS="2215.0"
-                    WIDTH="615.0"
-                    HEIGHT="37.0">
-            <Shape><Polygon POINTS="115 2215 730 2215 730 2252 115 2252"/></Shape>
-	    <String CONTENT="6 Etendards, 1969 (acier, 61 x 60 x 60)."
-                    HPOS="115.0"
-                    VPOS="2215.0"
-                    WIDTH="615.0"
-                    HEIGHT="37.0"></String>
+                    HPOS="37"
+                    VPOS="97"
+                    WIDTH="318"
+                    HEIGHT="40"></String>
           </TextLine>
 
           
@@ -343,39 +56,39 @@
                    WIDTH="46"
                    HEIGHT="28"
                    ID="r_6_1"
-                   TAGREFS="BT">
+                   TAGREFS="BT232">
           <Shape><Polygon POINTS="99 2298 145 2298 145 2326 99 2326"/></Shape>
           
           
           <TextLine ID="tl_39"
-                    
+                    TAGREFS="LT96"
                     BASELINE="100 2324 144 2325" 
-                    HPOS="100.0"
-                    VPOS="2299.0"
-                    WIDTH="44.0"
-                    HEIGHT="26.0">
+                    HPOS="100"
+                    VPOS="2299"
+                    WIDTH="44"
+                    HEIGHT="26">
             <Shape><Polygon POINTS="100 2299 144 2299 144 2325 100 2325"/></Shape>
 	    <String CONTENT="112"
-                    HPOS="100.0"
-                    VPOS="2299.0"
-                    WIDTH="44.0"
-                    HEIGHT="26.0"></String>
+                    HPOS="100"
+                    VPOS="2299"
+                    WIDTH="44"
+                    HEIGHT="26"></String>
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="83"
-                   VPOS="224"
-                   WIDTH="906"
-                   HEIGHT="1164"
-                   ID="eSc_textblock_60c805a0"
-                   TAGREFS="BT2">
-          <Shape><Polygon POINTS="83 224 83 1388 989 1388 989 224"/></Shape>
+        <TextBlock HPOS="92"
+                   VPOS="211"
+                   WIDTH="932"
+                   HEIGHT="2065"
+                   ID="eSc_textblock_e22ea948"
+                   TAGREFS="BT231">
+          <Shape><Polygon POINTS="1024 2276 1024 211 92 211 92 2276"/></Shape>
           
           
           <TextLine ID="tl_2"
-                    
+                    TAGREFS="LT96"
                     BASELINE="110 256 238 257 357 256 454 257 622 259 760 261 835 263 959 271" 
                     HPOS="110"
                     VPOS="225"
@@ -392,7 +105,7 @@
           
           
           <TextLine ID="tl_3"
-                    
+                    TAGREFS="LT96"
                     BASELINE="108 298 417 299 544 300 715 302 787 303 867 307 960 312" 
                     HPOS="108"
                     VPOS="266"
@@ -409,58 +122,58 @@
           
           
           <TextLine ID="tl_4"
-                    
-                    BASELINE="106 333 146 333 317 341 448 341 547 342 730 350 906 349 961 353" 
+                    TAGREFS="LT96"
+                    BASELINE="107 339 144 338 317 341 448 341 547 342 730 350 906 349 961 353" 
                     HPOS="106"
-                    VPOS="310"
-                    WIDTH="855"
-                    HEIGHT="43">
-            <Shape><Polygon POINTS="106 310 961 310 961 353 106 353"/></Shape>
+                    VPOS="299"
+                    WIDTH="853"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="106 338 108 308 169 308 191 299 202 310 212 302 246 310 281 301 309 312 336 312 344 304 388 312 413 304 425 314 463 314 498 304 545 316 628 306 634 314 707 308 725 318 776 310 884 312 904 322 953 322 959 352 108 340"/></Shape>
 	    <String CONTENT="— véritable drame avec masques, semblable aux"
                     HPOS="106"
-                    VPOS="310"
-                    WIDTH="855"
-                    HEIGHT="43"></String>
+                    VPOS="299"
+                    WIDTH="853"
+                    HEIGHT="53"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_5"
-                    
-                    BASELINE="110 382 266 383 326 382 460 383 544 384 602 376 807 388 847 388 961 394" 
-                    HPOS="109"
-                    VPOS="351"
-                    WIDTH="852"
-                    HEIGHT="43">
-            <Shape><Polygon POINTS="109 351 961 351 961 394 109 394"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="110 382 266 383 326 382 460 383 544 384 606 384 807 388 847 388 961 394" 
+                    HPOS="108"
+                    VPOS="342"
+                    WIDTH="851"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="108 381 114 342 137 350 155 342 185 350 197 344 204 352 279 352 297 344 327 354 372 344 433 356 443 346 457 356 490 346 555 358 685 348 701 358 715 352 746 360 792 350 805 360 823 350 841 362 929 354 953 362 959 393 110 385"/></Shape>
 	    <String CONTENT="Mystères du Moyen Age — deviennent la matière"
-                    HPOS="109"
-                    VPOS="351"
-                    WIDTH="852"
-                    HEIGHT="43"></String>
+                    HPOS="108"
+                    VPOS="342"
+                    WIDTH="851"
+                    HEIGHT="51"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_6"
-                    
-                    BASELINE="107 424 203 424 372 424 559 432 634 426 776 428 839 430 961 428" 
-                    HPOS="107"
-                    VPOS="393"
-                    WIDTH="854"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="107 393 961 393 961 437 107 437"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="107 424 203 424 372 424 558 427 634 426 776 428 839 430 961 428" 
+                    HPOS="106"
+                    VPOS="387"
+                    WIDTH="853"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="106 423 112 387 139 395 307 387 368 397 453 397 461 389 478 397 486 389 522 389 530 397 632 389 667 391 675 399 713 391 730 399 786 399 794 391 815 399 935 395 953 397 959 426 953 436 719 436 642 426 618 434 569 426 553 434 482 426 470 434 431 426 386 434 346 424 319 432 246 424 228 432 208 424 193 432 143 432 132 424 108 430"/></Shape>
 	    <String CONTENT="d’une peinture narrative, qui évoque les merveil¬"
-                    HPOS="107"
-                    VPOS="393"
-                    WIDTH="854"
-                    HEIGHT="44"></String>
+                    HPOS="106"
+                    VPOS="387"
+                    WIDTH="853"
+                    HEIGHT="49"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_7"
-                    
+                    TAGREFS="LT96"
                     BASELINE="109 466 218 467 397 467 622 468 709 470 914 475 960 477" 
                     HPOS="109"
                     VPOS="434"
@@ -477,7 +190,7 @@
           
           
           <TextLine ID="tl_8"
-                    
+                    TAGREFS="LT96"
                     BASELINE="109 508 184 508 250 508 302 509 497 509" 
                     HPOS="109"
                     VPOS="477"
@@ -494,24 +207,24 @@
           
           
           <TextLine ID="tl_9"
-                    
-                    BASELINE="165 563 251 564 360 563 619 571 726 566 898 570 963 573" 
-                    HPOS="165"
-                    VPOS="532"
+                    TAGREFS="LT96"
+                    BASELINE="165 563 251 564 360 563 621 567 726 566 898 570 963 573" 
+                    HPOS="163"
+                    VPOS="521"
                     WIDTH="798"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="165 532 963 532 963 576 165 576"/></Shape>
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="163 562 171 521 220 529 354 521 394 531 516 521 541 533 563 523 577 533 650 527 667 535 687 525 713 535 770 535 799 525 811 533 874 527 908 537 918 527 935 527 955 535 961 572 165 564"/></Shape>
 	    <String CONTENT="Chez Ethel Lucaci-Baias, cette aspiration finit"
-                    HPOS="165"
-                    VPOS="532"
+                    HPOS="163"
+                    VPOS="521"
                     WIDTH="798"
-                    HEIGHT="44"></String>
+                    HEIGHT="51"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_10"
-                    
+                    TAGREFS="LT96"
                     BASELINE="107 612 163 605 396 606 449 606 587 607 654 607 812 609 888 611 961 614" 
                     HPOS="107"
                     VPOS="573"
@@ -528,41 +241,41 @@
           
           
           <TextLine ID="tl_11"
-                    
-                    BASELINE="109 646 303 647 365 647 445 654 497 648 660 649 722 650 798 651 962 655" 
-                    HPOS="109"
-                    VPOS="616"
+                    TAGREFS="LT96"
+                    BASELINE="109 646 303 647 365 647 447 649 497 648 660 649 722 650 798 651 962 655" 
+                    HPOS="108"
+                    VPOS="607"
                     WIDTH="853"
-                    HEIGHT="45">
-            <Shape><Polygon POINTS="109 616 962 616 962 661 109 661"/></Shape>
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="108 645 110 611 145 607 179 615 204 607 216 617 262 619 287 609 303 619 332 611 378 619 396 609 445 619 472 609 492 621 524 611 535 621 563 611 575 619 630 611 673 621 697 611 723 623 839 623 884 613 955 623 961 653 482 655 459 647 242 653 137 645 110 651"/></Shape>
 	    <String CONTENT="Frémissant de vie, le contenu de son graphisme"
-                    HPOS="109"
-                    VPOS="616"
+                    HPOS="108"
+                    VPOS="607"
                     WIDTH="853"
-                    HEIGHT="45"></String>
+                    HEIGHT="48"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_12"
-                    
-                    BASELINE="107 689 261 690 450 696 579 691 639 691 766 692 798 693 840 693 963 697" 
-                    HPOS="107"
-                    VPOS="657"
-                    WIDTH="856"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="107 657 963 657 963 701 107 701"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="107 689 261 690 451 691 579 691 639 691 766 692 798 693 840 693 963 697" 
+                    HPOS="106"
+                    VPOS="651"
+                    WIDTH="855"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="106 688 108 651 504 661 713 655 721 663 931 657 955 661 961 696 780 702 648 694 108 694"/></Shape>
 	    <String CONTENT="demeure diaphane, rempli de poésie à la manière"
-                    HPOS="107"
-                    VPOS="657"
-                    WIDTH="856"
-                    HEIGHT="44"></String>
+                    HPOS="106"
+                    VPOS="651"
+                    WIDTH="855"
+                    HEIGHT="51"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_13"
-                    
+                    TAGREFS="LT96"
                     BASELINE="106 731 166 731 329 731 426 732 618 733 880 737 920 737 962 739" 
                     HPOS="106"
                     VPOS="700"
@@ -579,7 +292,7 @@
           
           
           <TextLine ID="tl_14"
-                    
+                    TAGREFS="LT96"
                     BASELINE="108 773 239 774 309 773 429 774 507 774 669 775 753 776 862 778 912 779 963 781" 
                     HPOS="108"
                     VPOS="742"
@@ -596,7 +309,7 @@
           
           
           <TextLine ID="tl_15"
-                    
+                    TAGREFS="LT96"
                     BASELINE="106 815 192 815 338 815 440 816 624 817 711 818 778 818 902 820 964 822" 
                     HPOS="106"
                     VPOS="783"
@@ -613,7 +326,7 @@
           
           
           <TextLine ID="tl_16"
-                    
+                    TAGREFS="LT96"
                     BASELINE="106 856 239 857" 
                     HPOS="106"
                     VPOS="826"
@@ -630,41 +343,41 @@
           
           
           <TextLine ID="tl_17"
-                    
-                    BASELINE="164 913 269 912 308 912 359 912 549 913 612 913 728 915 842 921 913 916 965 917" 
-                    HPOS="164"
-                    VPOS="880"
-                    WIDTH="801"
-                    HEIGHT="43">
-            <Shape><Polygon POINTS="164 880 965 880 965 923 164 923"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="164 913 269 912 308 912 359 912 549 913 612 913 728 915 844 915 913 916 965 917" 
+                    HPOS="163"
+                    VPOS="869"
+                    WIDTH="800"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="163 912 165 869 195 869 202 877 252 871 262 879 283 871 338 871 348 879 372 871 384 879 396 871 415 879 516 871 575 879 585 871 593 879 663 873 693 881 707 873 740 881 766 873 784 881 805 873 819 881 864 881 886 873 894 881 941 881 951 873 963 916 165 916"/></Shape>
 	    <String CONTENT="Quant à la sculpture de Silvia Radu, elle est"
-                    HPOS="164"
-                    VPOS="880"
-                    WIDTH="801"
-                    HEIGHT="43"></String>
+                    HPOS="163"
+                    VPOS="869"
+                    WIDTH="800"
+                    HEIGHT="47"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_18"
-                    
-                    BASELINE="107 960 282 954 342 954 506 961 748 956 923 958 966 958" 
-                    HPOS="107"
-                    VPOS="922"
+                    TAGREFS="LT96"
+                    BASELINE="107 960 282 954 342 954 507 958 748 956 923 958 966 958" 
+                    HPOS="106"
+                    VPOS="916"
                     WIDTH="859"
-                    HEIGHT="43">
-            <Shape><Polygon POINTS="107 922 966 922 966 965 107 965"/></Shape>
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="106 958 108 920 128 916 254 916 281 928 327 916 358 926 413 916 470 928 482 920 492 928 553 926 563 918 579 924 587 916 600 924 624 916 648 928 679 916 729 926 825 916 835 926 845 916 862 926 957 922 965 956 108 958"/></Shape>
 	    <String CONTENT="pesanteur et volume, architecture intérieure et"
-                    HPOS="107"
-                    VPOS="922"
+                    HPOS="106"
+                    VPOS="916"
                     WIDTH="859"
-                    HEIGHT="43"></String>
+                    HEIGHT="42"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_19"
-                    
+                    TAGREFS="LT96"
                     BASELINE="109 995 227 996 315 996 491 997 820 998 866 999 967 991" 
                     HPOS="109"
                     VPOS="964"
@@ -681,24 +394,24 @@
           
           
           <TextLine ID="tl_20"
-                    
-                    BASELINE="105 1043 168 1037 231 1037 290 1038 442 1038 505 1039 630 1046 672 1039 811 1040 874 1041 967 1042" 
-                    HPOS="105"
-                    VPOS="1006"
-                    WIDTH="862"
-                    HEIGHT="42">
-            <Shape><Polygon POINTS="105 1006 967 1006 967 1048 105 1048"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="105 1036 168 1037 231 1037 290 1038 442 1038 505 1039 630 1046 672 1039 811 1040 874 1041 967 1042" 
+                    HPOS="104"
+                    VPOS="999"
+                    WIDTH="861"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="104 1034 106 1003 114 999 155 1007 342 1007 356 999 372 1009 417 1009 427 1001 439 1009 468 1001 547 1009 559 1001 589 1009 612 1003 620 1011 652 1003 671 1011 693 1003 762 1003 776 1011 797 1005 805 1013 866 1005 878 1013 886 1005 914 1005 957 1011 965 1040 943 1048 766 1048 756 1040 106 1040"/></Shape>
 	    <String CONTENT="gne de sa volonté de saisir, à travers les fibres"
-                    HPOS="105"
-                    VPOS="1006"
-                    WIDTH="862"
-                    HEIGHT="42"></String>
+                    HPOS="104"
+                    VPOS="999"
+                    WIDTH="861"
+                    HEIGHT="49"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_21"
-                    
+                    TAGREFS="LT96"
                     BASELINE="106 1078 146 1079 203 1079 366 1080 550 1082 620 1081 788 1082 966 1089" 
                     HPOS="106"
                     VPOS="1047"
@@ -715,24 +428,24 @@
           
           
           <TextLine ID="tl_22"
-                    
-                    BASELINE="106 1120 220 1122 346 1122 397 1123 454 1122 605 1129 654 1124 736 1124 791 1124 966 1124" 
-                    HPOS="106"
-                    VPOS="1090"
-                    WIDTH="860"
-                    HEIGHT="43">
-            <Shape><Polygon POINTS="106 1090 966 1090 966 1133 106 1133"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="106 1120 220 1122 346 1122 397 1123 454 1122 608 1122 654 1124 736 1124 791 1124 966 1124" 
+                    HPOS="104"
+                    VPOS="1084"
+                    WIDTH="861"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="104 1119 110 1084 133 1091 145 1084 181 1084 189 1091 264 1084 271 1091 336 1093 376 1086 396 1093 423 1086 443 1093 510 1093 522 1086 537 1093 608 1093 616 1086 634 1093 660 1086 717 1093 821 1086 847 1093 882 1086 894 1093 959 1093 965 1123 106 1123"/></Shape>
 	    <String CONTENT="autour d’axes et de noyaux, le flux de l&#39;existence."
-                    HPOS="106"
-                    VPOS="1090"
-                    WIDTH="860"
-                    HEIGHT="43"></String>
+                    HPOS="104"
+                    VPOS="1084"
+                    WIDTH="861"
+                    HEIGHT="39"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_23"
-                    
+                    TAGREFS="LT96"
                     BASELINE="167 1162 246 1163 313 1164 410 1165 469 1164 520 1164 672 1165 742 1166 924 1165 967 1165" 
                     HPOS="167"
                     VPOS="1131"
@@ -749,24 +462,24 @@
           
           
           <TextLine ID="tl_24"
-                    
-                    BASELINE="108 1203 175 1204 305 1211 375 1207 582 1208 621 1207 683 1207 818 1206 967 1207" 
-                    HPOS="108"
-                    VPOS="1172"
-                    WIDTH="860"
-                    HEIGHT="43">
-            <Shape><Polygon POINTS="108 1172 968 1172 968 1215 108 1215"/></Shape>
+                    TAGREFS="LT96"
+                    BASELINE="108 1203 175 1204 306 1203 375 1207 582 1208 621 1207 683 1207 818 1206 967 1207" 
+                    HPOS="106"
+                    VPOS="1166"
+                    WIDTH="859"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="106 1202 108 1166 137 1174 214 1168 222 1176 269 1168 293 1176 340 1168 366 1176 403 1176 413 1168 453 1168 464 1176 593 1176 600 1168 622 1176 736 1176 756 1168 768 1176 868 1176 914 1168 922 1176 959 1176 965 1206 108 1206"/></Shape>
 	    <String CONTENT="l’art vivant, les références à un monde mythique"
-                    HPOS="108"
-                    VPOS="1172"
-                    WIDTH="860"
-                    HEIGHT="43"></String>
+                    HPOS="106"
+                    VPOS="1166"
+                    WIDTH="859"
+                    HEIGHT="40"></String>
           </TextLine>
 
           
           
           <TextLine ID="tl_25"
-                    
+                    TAGREFS="LT96"
                     BASELINE="108 1245 147 1245 312 1247 514 1249 580 1249 747 1249 809 1248 927 1249 968 1248" 
                     HPOS="108"
                     VPOS="1213"
@@ -783,7 +496,7 @@
           
           
           <TextLine ID="tl_26"
-                    
+                    TAGREFS="LT96"
                     BASELINE="107 1287 226 1288 270 1289 386 1290 555 1290 758 1290" 
                     HPOS="107"
                     VPOS="1257"
@@ -800,7 +513,7 @@
           
           
           <TextLine ID="tl_27"
-                    
+                    TAGREFS="LT96"
                     BASELINE="758 1371 806 1370 967 1369" 
                     HPOS="758"
                     VPOS="1339"
@@ -812,6 +525,193 @@
                     VPOS="1339"
                     WIDTH="209"
                     HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_28"
+                    TAGREFS="LT96"
+                    BASELINE="459 1749 650 1750" 
+                    HPOS="459"
+                    VPOS="1719"
+                    WIDTH="191"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="459 1719 650 1719 650 1750 459 1750"/></Shape>
+	    <String CONTENT="PEINTURE"
+                    HPOS="459"
+                    VPOS="1719"
+                    WIDTH="191"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_29"
+                    TAGREFS="LT96"
+                    BASELINE="153 1814 271 1817 315 1817 544 1821 602 1821 689 1821 728 1821 820 1819 975 1817" 
+                    HPOS="151"
+                    VPOS="1774"
+                    WIDTH="822"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="151 1812 153 1778 167 1774 197 1786 214 1774 228 1786 244 1780 258 1788 331 1780 445 1788 457 1780 476 1790 618 1790 634 1778 677 1778 689 1790 717 1784 744 1792 766 1780 821 1792 859 1780 884 1788 904 1780 967 1780 973 1816 967 1829 153 1817"/></Shape>
+	    <String CONTENT="Dimitrie GAVRILEAN, né en 1942 à Güra Humorului"
+                    HPOS="151"
+                    VPOS="1774"
+                    WIDTH="822"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_30"
+                    TAGREFS="LT96"
+                    BASELINE="152 1851 326 1851" 
+                    HPOS="152"
+                    VPOS="1823"
+                    WIDTH="174"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="152 1823 326 1823 326 1854 152 1854"/></Shape>
+	    <String CONTENT="(Roumanie)."
+                    HPOS="152"
+                    VPOS="1823"
+                    WIDTH="174"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_31"
+                    TAGREFS="LT96"
+                    BASELINE="120 1888 129 1888 182 1890 288 1892 340 1893 381 1894 449 1891 529 1895 645 1895 703 1896 738 1894 812 1893" 
+                    HPOS="118"
+                    VPOS="1853"
+                    WIDTH="693"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="118 1886 122 1855 141 1861 149 1853 163 1861 218 1853 232 1863 311 1863 325 1855 336 1861 354 1853 435 1865 463 1865 476 1855 589 1865 606 1855 618 1867 673 1857 807 1857 811 1892 794 1902 626 1902 600 1894 421 1900 409 1892 226 1898 120 1890"/></Shape>
+	    <String CONTENT="1 La danse de la vie, 1969 (huile, 137 x 117)."
+                    HPOS="118"
+                    VPOS="1853"
+                    WIDTH="693"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_32"
+                    TAGREFS="LT96"
+                    BASELINE="119 1921 133 1921 185 1923 303 1930 384 1927 492 1928 543 1930 641 1929" 
+                    HPOS="118"
+                    VPOS="1888"
+                    WIDTH="522"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="118 1920 120 1890 135 1888 159 1898 378 1894 390 1902 409 1894 423 1902 451 1894 500 1902 508 1894 541 1904 622 1896 634 1904 640 1928 516 1934 120 1922"/></Shape>
+	    <String CONTENT="2 Le temps, 1969 (huile 70 x 70). ,"
+                    HPOS="118"
+                    VPOS="1888"
+                    WIDTH="522"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_33"
+                    TAGREFS="LT96"
+                    BASELINE="119 1955 133 1955 182 1956 263 1958 318 1958 363 1959 510 1961 628 1967 711 1962 822 1964 885 1958 916 1956 941 1955 977 1953" 
+                    HPOS="118"
+                    VPOS="1922"
+                    WIDTH="857"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="118 1953 122 1922 181 1932 214 1924 258 1934 470 1928 510 1936 632 1936 654 1924 717 1922 730 1932 742 1924 796 1924 813 1937 843 1924 971 1924 975 1951 969 1963 933 1963 926 1971 894 1963 819 1971 721 1971 713 1963 464 1969 370 1959 350 1967 323 1959 228 1967 208 1957 157 1957 147 1965 120 1957"/></Shape>
+	    <String CONTENT="3 La fête de ta nouvelle année, 1969 (huile, 110 x 170)."
+                    HPOS="118"
+                    VPOS="1922"
+                    WIDTH="857"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_34"
+                    TAGREFS="LT96"
+                    BASELINE="437 2067 665 2068" 
+                    HPOS="437"
+                    VPOS="2037"
+                    WIDTH="228"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="437 2037 665 2037 665 2069 437 2069"/></Shape>
+	    <String CONTENT="SCULPTURE"
+                    HPOS="437"
+                    VPOS="2037"
+                    WIDTH="228"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_35"
+                    TAGREFS="LT96"
+                    BASELINE="148 2132 230 2134 267 2133 413 2136 466 2137 545 2139 577 2139 727 2138 913 2132" 
+                    HPOS="148"
+                    VPOS="2102"
+                    WIDTH="765"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="148 2102 913 2102 913 2144 148 2144"/></Shape>
+	    <String CONTENT="Silvia RAOU, née en 1935 à Pietroaia (Roumanie)."
+                    HPOS="148"
+                    VPOS="2102"
+                    WIDTH="765"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_36"
+                    TAGREFS="LT96"
+                    BASELINE="115 2173 130 2173 273 2178 274 2178 357 2176 484 2184 553 2180 588 2178 633 2180 667 2178 728 2179" 
+                    HPOS="114"
+                    VPOS="2132"
+                    WIDTH="613"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="114 2172 118 2140 141 2132 163 2144 189 2138 197 2146 250 2148 313 2138 364 2146 376 2138 425 2150 449 2140 459 2150 488 2154 528 2142 561 2142 595 2156 608 2144 646 2152 709 2146 723 2158 727 2178 707 2187 646 2179 488 2185 372 2176 116 2176"/></Shape>
+	    <String CONTENT="4 Colonne, 1969 (pierre, 148 x 43 x 43)."
+                    HPOS="114"
+                    VPOS="2132"
+                    WIDTH="613"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_37"
+                    TAGREFS="LT96"
+                    BASELINE="115 2206 129 2206 296 2214 381 2211 520 2217 589 2213 625 2211 670 2212 703 2211 764 2211" 
+                    HPOS="115"
+                    VPOS="2182"
+                    WIDTH="649"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="115 2182 764 2182 764 2219 115 2219"/></Shape>
+	    <String CONTENT="5 Maternité, 1969 (bronze, 155 x 32 x 40)."
+                    HPOS="115"
+                    VPOS="2182"
+                    WIDTH="649"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_38"
+                    TAGREFS="LT96"
+                    BASELINE="115 2240 129 2240 304 2247 388 2244 501 2250 554 2246 591 2245 634 2246 668 2244 730 2245" 
+                    HPOS="115"
+                    VPOS="2215"
+                    WIDTH="615"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="115 2215 730 2215 730 2252 115 2252"/></Shape>
+	    <String CONTENT="6 Etendards, 1969 (acier, 61 x 60 x 60)."
+                    HPOS="115"
+                    VPOS="2215"
+                    WIDTH="615"
+                    HEIGHT="37"></String>
           </TextLine>
 
           

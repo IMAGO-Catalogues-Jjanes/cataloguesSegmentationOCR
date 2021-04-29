@@ -10,14 +10,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT202" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT203" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT204" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT205" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-    <OtherTag ID="LT85" LABEL="Default" DESCRIPTION="line type Default"/>
+    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="3548"
           HEIGHT="4609"
-          PHYSICAL_IMG_NR="5"
+          PHYSICAL_IMG_NR="36"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -29,35 +29,45 @@
                    WIDTH="80"
                    HEIGHT="61"
                    ID="r_5_1"
-                   TAGREFS="BT202">
+                   TAGREFS="BT232">
           <Shape><Polygon POINTS="589 4112 669 4112 669 4173 589 4173"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="618"
+                   VPOS="4166"
+                   WIDTH="25"
+                   HEIGHT="17"
+                   ID="eSc_textblock_e5b7f2ab"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="618 4183 618 4166 643 4166 643 4183"/></Shape>
           
           
           <TextLine ID="tl_34"
                     
                     BASELINE="590 4172 668 4170" 
-                    HPOS="590.0"
-                    VPOS="4113.0"
-                    WIDTH="78.0"
-                    HEIGHT="59.0">
+                    HPOS="590"
+                    VPOS="4113"
+                    WIDTH="78"
+                    HEIGHT="59">
             <Shape><Polygon POINTS="590 4113 668 4113 668 4172 590 4172"/></Shape>
 	    <String CONTENT="56"
-                    HPOS="590.0"
-                    VPOS="4113.0"
-                    WIDTH="78.0"
-                    HEIGHT="59.0"></String>
+                    HPOS="590"
+                    VPOS="4113"
+                    WIDTH="78"
+                    HEIGHT="59"></String>
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="537"
-                   VPOS="407"
-                   WIDTH="2458"
-                   HEIGHT="3678"
-                   ID="eSc_textblock_d7e84623"
-                   TAGREFS="BT2">
-          <Shape><Polygon POINTS="537 407 537 4085 2995 4085 2995 407"/></Shape>
+        <TextBlock HPOS="564"
+                   VPOS="405"
+                   WIDTH="2424"
+                   HEIGHT="3628"
+                   ID="eSc_textblock_928cfd4b"
+                   TAGREFS="BT231">
+          <Shape><Polygon POINTS="564 4033 564 405 2988 405 2988 4033"/></Shape>
           
           
           <TextLine ID="tl_1"
@@ -551,16 +561,6 @@
                     HEIGHT="69"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="618"
-                   VPOS="4166"
-                   WIDTH="25"
-                   HEIGHT="17"
-                   ID="eSc_textblock_e5b7f2ab"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="618 4183 618 4166 643 4166 643 4183"/></Shape>
           
         </TextBlock>
         
