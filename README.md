@@ -1,11 +1,15 @@
-# Model for OCR processing of Catalogs
+# Dataset for OCR of historical catalogs
 
-This repository includes a model for ocerizing catalogs and the dataset used for its creation.
+The Artl@s project focus on the global circulation of images from the 1890s to the advent of the Internet, using digital methodologies. Among its projects, BasArt is an online database of exhibition catalogs from the 19th and 20th centuries. 
+In order to broaden this database, Caroline Corbières, intern of the project in 2020, worked on the automatisation of its process. A scanned exhibition catalog is taken as an input and then encoded in XML-TEI and structured in csv. 
 
-The aim of this work was to improve the ocerization and segmentation of the [Catalogs Workflow](https://github.com/carolinecorbieres/ArtlasCatalogues) done by Caroline Corbières, which allows to get a TEI file and a csv from exhibition catalogs.
-The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/fr/) but also to make a useful tool for researchers who need to ocerize their catalogues. Therefore, the dataset used to train this model holds not only the dataset of the project, prepared by Caroline Corbières but also catalogs of 19th to nowadays manuscripts fairs of the [Katabase](https://github.com/katabase) project and datas from the [Adresses et Annuaires group](https://paris-timemachine.huma-num.fr/groupe-adresses-et-annuaires/) of Paris Time Machine of the EHESS, produced by Gabriela Elgarrista.
+In this context, the aim of this repository is to improve the ocerization and segmentation of this [Catalogs Workflow](https://github.com/carolinecorbieres/ArtlasCatalogues). This stage occurs at the beginning of the workflow and transforms the data from an image to a text. 
+The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/fr/) but also to make a useful tool for researchers who need to ocerize their catalogues. Therefore, this dataset holds exhibition catalogs, prepared by Caroline Corbières, catalogs of 19th to nowadays manuscripts fairs of the [Katabase](https://github.com/katabase) project, arranged by Simon Gabay and from the [Adresses et Annuaires group](https://paris-timemachine.huma-num.fr/groupe-adresses-et-annuaires/) of Paris Time Machine of the EHESS, produced by Gabriela Elgarrista. 
 
---Détails plus précis sur les données utilisées--
+The dataset is composed of 150 pages, with 50 pages of each type of data. Its developed presentation is accessible in the csv file, where each page is described. The schema below explains its process of creation. The pages have been prepared and segmented in eScriptorium using the SegmOnto ontology which allows to name the differents zones and lines. Lastly, the work done has been exported in PageXML and ALTO4 format and are accessible in this repository, along with the images used. 
+
+
+
 
 ## Repository 
 ```
@@ -13,16 +17,19 @@ The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/
 │     ├── annuaires
 │     │  └── Data_segmenteur 
 │     │     ├─ alto_xml
+|     |     ├─ page_xml
 │     │     └─ images
 │     │ 
 │     ├── Cat_expositions
 │     │  └── Data_segmenteur
 │     │     ├─ alto_xml
+|     |     ├─ page_xml
 │     │     └─ image
 |     |
 |     └── Cat_manuscrits
 │        └── Data_segmenteur
 │           ├─ alto_xml
+|           ├─ page_xml
 │           └─ image
 |
 ├── 2_Boite_a_outils
@@ -35,7 +42,8 @@ The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/
                   
 
 ## Thanks to 
---Remerciements--
+Thanks to Simon Gabay, Claire Jahan, Caroline Corbières, Gabriela Elgarrista and Carmen Brando for their help and work.
+
 ## Credits
 This repository is developed by Juliette Janes, intern of the [Artl@s](https://artlas.huma-num.fr/fr/) project, with the help of Simon Gabay under the supervision of Béatrice Joyeux-Prunel.
 
