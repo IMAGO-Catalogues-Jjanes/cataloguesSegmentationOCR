@@ -2,7 +2,7 @@
 
 ## Naming zones and lines with SegmOnto
 
-The idea was to train a segmentation model which could automatically tag the differents zones and lines of an image, so that the post-process of transformation in TEI would be easier. Due to this, the dataset has been prepared in eScriptorium using a system of tagging lines and regions of an image. Do to that, we rely on the work done by SegmOnto initiative, which is a group aiming to create a TEI-based ontology for HTR. 
+The idea was to train a segmentation model which could automatically tag the differents zones and lines of an image, so that the TEI transformation would be easier. Due to this, the dataset has been prepared in eScriptorium using a system of tagging lines and regions of an image. Do to that, we rely on the work done by SegmOnto initiative, which is a group aiming to create a TEI-based ontology for HTR. 
 
 If the lines in this dataset are all defined by _default_, there are various types of zones represented. Here is a list of them and their explanation done by [SegmOnto](https://github.com/SegmOnto/examples):
   - _main_ : the main area designed to contain text, either as a single or several columns
