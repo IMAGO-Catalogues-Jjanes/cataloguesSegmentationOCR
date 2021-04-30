@@ -1,0 +1,493 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-12T14:03:58.504+02:00</Created>
+        <LastChange>2020-06-12T15:04:55.229+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="407978" pageId="16134672" pageNr="5" tsid="31475894" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=LWIEMABALNXMCCMLIUOBDKLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQJBKWHBZJFEZXKSOAIORHPW" imageId="11941110"/>
+    </Metadata>
+  <Page imageFilename="Cat_Paris_1961_typo_0005.jpg" imageWidth="1683" imageHeight="2218">
+    <PrintSpace>
+            <Coords points="0,0 1683,0 1683,2218 0,2218"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604240299922" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_8_1"/>
+                <RegionRefIndexed index="2" regionRef="r_8_2"/>
+                <RegionRefIndexed index="3" regionRef="r_8_3"/>
+                <RegionRefIndexed index="4" regionRef="r_8_4"/>
+                <RegionRefIndexed index="5" regionRef="r_8_5"/>
+                <RegionRefIndexed index="6" regionRef="r_8_6"/>
+                <RegionRefIndexed index="7" regionRef="r_8_7"/>
+                <RegionRefIndexed index="8" regionRef="r_8_8"/>
+                <RegionRefIndexed index="9" regionRef="r_8_9"/>
+                <RegionRefIndexed index="10" regionRef="r_8_10"/>
+                <RegionRefIndexed index="11" regionRef="r_8_11"/>
+                <RegionRefIndexed index="12" regionRef="r_8_12"/>
+                <RegionRefIndexed index="13" regionRef="r_8_13"/>
+                <RegionRefIndexed index="14" regionRef="r_8_14"/>
+                <RegionRefIndexed index="15" regionRef="r_8_15"/>
+                <RegionRefIndexed index="16" regionRef="r_8_16"/>
+                <RegionRefIndexed index="17" regionRef="r_8_17"/>
+                <RegionRefIndexed index="18" regionRef="r_8_18"/>
+                <RegionRefIndexed index="19" regionRef="r_8_19"/>
+                <RegionRefIndexed index="20" regionRef="r_8_20"/>
+                <RegionRefIndexed index="21" regionRef="r_8_21"/>
+                <RegionRefIndexed index="22" regionRef="r_8_22"/>
+                <RegionRefIndexed index="23" regionRef="r_8_23"/>
+                <RegionRefIndexed index="24" regionRef="r_8_24"/>
+                <RegionRefIndexed index="25" regionRef="r_8_25"/>
+                <RegionRefIndexed index="26" regionRef="r_8_26"/>
+                <RegionRefIndexed index="27" regionRef="r_8_27"/>
+                <RegionRefIndexed index="28" regionRef="r_8_28"/>
+                <RegionRefIndexed index="29" regionRef="r_8_29"/>
+                <RegionRefIndexed index="30" regionRef="r_8_30"/>
+                <RegionRefIndexed index="31" regionRef="r_9_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="1497,32 1682,32 1682,68 1497,68"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1498,33 1681,33 1681,67 1498,67"/>
+        <Baseline points="1498,67 1681,65"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="1498,33 1681,33 1681,67 1498,67"/>
+          <TextEquiv>
+            <Unicode>BRÉSIL</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.5" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_1" custom="readingOrder {index:1;}">
+      <Coords points="603,481 1132,481 1132,588 603,588"/>
+      <TextLine id="tl_12" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="604,482 1131,482 1131,513 604,513"/>
+        <Baseline points="604,512 750,511 881,512 1131,509"/>
+        <Word id="w_w2aab1c15b2b1b1ab1">
+          <Coords points="604,482 1131,482 1131,513 604,513"/>
+          <TextEquiv>
+            <Unicode>SECTION ARTS PLASTIQUES</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_13" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="681,558 1056,558 1056,587 681,587"/>
+        <Baseline points="681,586 848,586 911,586 1056,585"/>
+        <Word id="w_w2aab1c15b2b1b3ab1">
+          <Coords points="681,558 1056,558 1056,587 681,587"/>
+          <TextEquiv>
+            <Unicode>PEINTURE ET DESSIN</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_2" custom="readingOrder {index:2;}">
+      <Coords points="204,632 1194,632 1194,673 204,673"/>
+      <TextLine id="tl_14" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="205,633 1193,633 1193,672 205,672"/>
+        <Baseline points="205,668 310,668 359,667 632,665 672,665 868,664 1029,663 1089,663 1193,661"/>
+        <Word id="w_w2aab1c15b2b3b1ab1">
+          <Coords points="205,633 1193,633 1193,672 205,672"/>
+          <TextEquiv>
+            <Unicode>Fabio BARBOSA, né à Cachoeira Paulista en 1934.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_3" custom="readingOrder {index:3;}">
+      <Coords points="145,680 790,680 790,720 145,720"/>
+      <TextLine id="tl_15" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="146,681 789,681 789,719 146,719"/>
+        <Baseline points="146,715 159,715 352,714 393,719 487,713 617,717 789,711"/>
+        <Word id="w_w2aab1c15b2b5b1ab1">
+          <Coords points="146,681 789,681 789,719 146,719"/>
+          <TextEquiv>
+            <Unicode>1 Peinture I, 1960 (huile, 116x89).</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_4" custom="readingOrder {index:4;}">
+      <Coords points="145,718 753,718 753,761 145,761"/>
+      <TextLine id="tl_16" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="146,719 752,719 752,760 146,760"/>
+        <Baseline points="146,753 165,753 298,752 362,757 455,751 582,755 752,749"/>
+        <Word id="w_w2aab1c15b2b7b1ab1">
+          <Coords points="146,719 752,719 752,760 146,760"/>
+          <TextEquiv>
+            <Unicode>2 Opus 31, 1960 (huile, 120x80).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_5" custom="readingOrder {index:5;}">
+      <Coords points="206,780 1018,780 1018,821 206,821"/>
+      <TextLine id="tl_17" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="207,781 1017,781 1017,820 207,820"/>
+        <Baseline points="207,815 317,815 367,814 590,813 630,813 751,811 851,811 912,811 1017,810"/>
+        <Word id="w_w2aab1c15b2b9b1ab1">
+          <Coords points="207,781 1017,781 1017,820 207,820"/>
+          <TextEquiv>
+            <Unicode>Paulo BECKER, né à Santa Cruz en 1927.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_6" custom="readingOrder {index:6;}">
+      <Coords points="147,827 790,827 790,866 147,866"/>
+      <TextLine id="tl_18" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="148,828 789,828 789,865 148,865"/>
+        <Baseline points="148,862 166,862 353,860 394,865 488,859 618,864 789,857"/>
+        <Word id="w_w2aab1c15b2c11b1ab1">
+          <Coords points="148,828 789,828 789,865 148,865"/>
+          <TextEquiv>
+            <Unicode>3 Peinture I, 1960 (huile, 81x130).</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_7" custom="readingOrder {index:7;}">
+      <Coords points="147,865 811,865 811,904 147,904"/>
+      <TextLine id="tl_19" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="148,866 810,866 810,903 148,903"/>
+        <Baseline points="148,899 167,899 354,898 418,903 511,897 639,901 810,895"/>
+        <Word id="w_w2aab1c15b2c13b1ab1">
+          <Coords points="148,866 810,866 810,903 148,903"/>
+          <TextEquiv>
+            <Unicode>4 Peinture III, 1960 (huile, 81x130).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_8" custom="readingOrder {index:8;}">
+      <Coords points="205,921 1473,921 1473,959 205,959"/>
+      <TextLine id="tl_20" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="206,922 1472,922 1472,958 206,958"/>
+        <Baseline points="206,957 341,957 516,956 798,954 849,953 1157,952 1197,952 1307,951 1368,950 1472,950"/>
+        <Word id="w_w2aab1c15b2c15b1ab1">
+          <Coords points="206,922 1472,922 1472,958 206,958"/>
+          <TextEquiv>
+            <Unicode>Glauco Octavio CASTILHOS RODRIGUES, né à Bagé en 1929.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_9" custom="readingOrder {index:9;}">
+      <Coords points="148,970 731,970 731,1010 148,1010"/>
+      <TextLine id="tl_21" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="149,971 730,971 730,1009 149,1009"/>
+        <Baseline points="149,1004 166,1004 247,989 313,1008 403,1002 539,1007 730,1001"/>
+        <Word id="w_w2aab1c15b2c17b1ab1">
+          <Coords points="149,971 730,971 730,1009 149,1009"/>
+          <TextEquiv>
+            <Unicode>5 N° 23, 1961 (huile, 97x195)*.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_10" custom="readingOrder {index:10;}">
+      <Coords points="206,1028 1113,1028 1113,1070 206,1070"/>
+      <TextLine id="tl_22" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="207,1029 1112,1029 1112,1069 207,1069"/>
+        <Baseline points="207,1062 330,1061 407,1061 456,1061 694,1060 734,1060 948,1058 1009,1058 1112,1057"/>
+        <Word id="w_w2aab1c15b2c19b1ab1">
+          <Coords points="207,1029 1112,1029 1112,1069 207,1069"/>
+          <TextEquiv>
+            <Unicode>Willys DE CASTRO, né à Uberlandia en 1926.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_11" custom="readingOrder {index:11;}">
+      <Coords points="148,1073 1049,1073 1049,1115 148,1115"/>
+      <TextLine id="tl_23" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="149,1074 1048,1074 1048,1114 149,1114"/>
+        <Baseline points="149,1109 168,1109 381,1108 593,1112 767,1105 898,1110 978,1104 1048,1104"/>
+        <Word id="w_w2aab1c15b2c21b1ab1">
+          <Coords points="149,1074 1048,1074 1048,1114 149,1114"/>
+          <TextEquiv>
+            <Unicode>6 Instabilité intégrative, 1959-1961 (huile, 99x 99).</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_12" custom="readingOrder {index:12;}">
+      <Coords points="148,1111 1057,1111 1057,1153 148,1153"/>
+      <TextLine id="tl_24" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="149,1112 1056,1112 1056,1152 149,1152"/>
+        <Baseline points="149,1147 167,1147 318,1146 375,1146 474,1145 597,1150 772,1144 905,1148 1056,1142"/>
+        <Word id="w_w2aab1c15b2c23b1ab1">
+          <Coords points="149,1112 1056,1112 1056,1152 149,1152"/>
+          <TextEquiv>
+            <Unicode>7 Forme de deux plans, 1960-1961 (huile, 99x99).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_13" custom="readingOrder {index:13;}">
+      <Coords points="209,1175 1107,1175 1107,1214 209,1214"/>
+      <TextLine id="tl_25" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="210,1176 1106,1176 1106,1213 210,1213"/>
+        <Baseline points="210,1209 345,1208 487,1207 532,1207 755,1206 796,1206 941,1206 1002,1205 1106,1204"/>
+        <Word id="w_w2aab1c15b2c25b1ab1">
+          <Coords points="210,1176 1106,1176 1106,1213 210,1213"/>
+          <TextEquiv>
+            <Unicode>Rubem Mauro LUDOLF, né à Maceó en 1932.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_14" custom="readingOrder {index:14;}">
+      <Coords points="150,1221 824,1221 824,1263 150,1263"/>
+      <TextLine id="tl_26" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="151,1222 823,1222 823,1262 151,1262"/>
+        <Baseline points="151,1255 169,1255 447,1259 541,1253 669,1258 823,1252"/>
+        <Word id="w_w2aab1c15b2c27b1ab1">
+          <Coords points="151,1222 823,1222 823,1262 151,1262"/>
+          <TextEquiv>
+            <Unicode>8 Périphérique, 1960 (huile, 60x60).</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_15" custom="readingOrder {index:15;}">
+      <Coords points="150,1260 755,1260 755,1301 150,1301"/>
+      <TextLine id="tl_27" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="151,1261 754,1261 754,1300 151,1300"/>
+        <Baseline points="151,1294 169,1294 378,1297 472,1292 601,1296 754,1290"/>
+        <Word id="w_w2aab1c15b2c29b1ab1">
+          <Coords points="151,1261 754,1261 754,1300 151,1300"/>
+          <TextEquiv>
+            <Unicode>9 Dialogue, 1960 (huile, 60x60).</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_16" custom="readingOrder {index:16;}">
+      <Coords points="208,1321 1158,1321 1158,1361 208,1361"/>
+      <TextLine id="tl_28" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="209,1322 1157,1322 1157,1360 209,1360"/>
+        <Baseline points="209,1355 342,1355 391,1355 662,1354 703,1354 779,1353 841,1353 991,1352 1052,1352 1157,1350"/>
+        <Word id="w_w2aab1c15b2c31b1ab1">
+          <Coords points="209,1322 1157,1322 1157,1360 209,1360"/>
+          <TextEquiv>
+            <Unicode>Teresa NICOLAO, née à Rio de Janeiro en 1928.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_17" custom="readingOrder {index:17;}">
+      <Coords points="133,1369 700,1369 700,1408 133,1408"/>
+      <TextLine id="tl_29" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="134,1370 699,1370 699,1407 134,1407"/>
+        <Baseline points="134,1403 146,1403 250,1388 317,1407 414,1401 545,1405 699,1399"/>
+        <Word id="w_w2aab1c15b2c33b1ab1">
+          <Coords points="134,1370 699,1370 699,1407 134,1407"/>
+          <TextEquiv>
+            <Unicode>10 N° 11, 1959 (huile, 61x80).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_18" custom="readingOrder {index:18;}">
+      <Coords points="133,1407 718,1407 718,1446 133,1446"/>
+      <TextLine id="tl_30" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="134,1408 717,1408 717,1445 134,1445"/>
+        <Baseline points="134,1441 147,1441 250,1426 317,1445 413,1439 544,1444 717,1437"/>
+        <Word id="w_w2aab1c15b2c35b1ab1">
+          <Coords points="134,1408 717,1408 717,1445 134,1445"/>
+          <TextEquiv>
+            <Unicode>11 N° 12, 1960 (huile, 162x97).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_19" custom="readingOrder {index:19;}">
+      <Coords points="211,1465 1089,1465 1089,1506 211,1506"/>
+      <TextLine id="tl_31" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="212,1466 1088,1466 1088,1505 212,1505"/>
+        <Baseline points="212,1498 325,1505 374,1497 666,1497 706,1496 791,1496 924,1495 984,1495 1088,1494"/>
+        <Word id="w_w2aab1c15b2c37b1ab1">
+          <Coords points="212,1466 1088,1466 1088,1505 212,1505"/>
+          <TextEquiv>
+            <Unicode>Darcy PENTEADO, né à Sào Roque en 1926.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_20" custom="readingOrder {index:20;}">
+      <Coords points="134,1510 913,1510 913,1553 134,1553"/>
+      <TextLine id="tl_32" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="135,1511 912,1511 912,1552 135,1552"/>
+        <Baseline points="135,1546 147,1546 301,1545 355,1550 463,1544 612,1543 740,1548 912,1541"/>
+        <Word id="w_w2aab1c15b2c39b1ab1">
+          <Coords points="135,1511 912,1511 912,1552 135,1552"/>
+          <TextEquiv>
+            <Unicode>12 Cage II, 1960 (dessin émail, 65x50)*.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_21" custom="readingOrder {index:21;}">
+      <Coords points="134,1549 895,1549 895,1591 134,1591"/>
+      <TextLine id="tl_33" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="135,1550 894,1550 894,1590 135,1590"/>
+        <Baseline points="135,1584 171,1584 301,1583 367,1587 464,1582 612,1581 740,1586 894,1579"/>
+        <Word id="w_w2aab1c15b2c41b1ab1">
+          <Coords points="135,1550 894,1550 894,1590 135,1590"/>
+          <TextEquiv>
+            <Unicode>13 Cage III, 1960 (dessin émail, 46x38).</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_22" custom="readingOrder {index:22;}">
+      <Coords points="211,1596 1019,1596 1019,1639 211,1639"/>
+      <TextLine id="tl_34" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="212,1597 1018,1597 1018,1638 212,1638"/>
+        <Baseline points="212,1633 295,1633 344,1632 558,1631 598,1631 722,1631 853,1630 914,1629 1018,1629"/>
+        <Word id="w_w2aab1c15b2c43b1ab1">
+          <Coords points="212,1597 1018,1597 1018,1638 212,1638"/>
+          <TextEquiv>
+            <Unicode>Loio PÉRSIO, né à Minas Gerais en 1927.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_23" custom="readingOrder {index:23;}">
+      <Coords points="135,1645 1013,1645 1013,1686 135,1686"/>
+      <TextLine id="tl_35" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="136,1646 1012,1646 1012,1685 136,1685"/>
+        <Baseline points="136,1680 148,1680 322,1679 497,1678 557,1664 602,1683 689,1677 823,1681 1012,1675"/>
+        <Word id="w_w2aab1c15b2c45b1ab1">
+          <Coords points="136,1646 1012,1646 1012,1685 136,1685"/>
+          <TextEquiv>
+            <Unicode>14 Vision tropicale N° 3, 1961 (huile, 195x176).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_24" custom="readingOrder {index:24;}">
+      <Coords points="135,1683 867,1683 867,1725 135,1725"/>
+      <TextLine id="tl_36" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="136,1684 866,1684 866,1724 136,1724"/>
+        <Baseline points="136,1718 148,1718 450,1722 538,1715 674,1720 866,1713"/>
+        <Word id="w_w2aab1c15b2c47b1ab1">
+          <Coords points="136,1684 866,1684 866,1724 136,1724"/>
+          <TextEquiv>
+            <Unicode>15 Composition, 1961 (huile, 195x176).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_25" custom="readingOrder {index:25;}">
+      <Coords points="212,1738 918,1738 918,1782 212,1782"/>
+      <TextLine id="tl_37" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="213,1739 917,1739 917,1781 213,1781"/>
+        <Baseline points="213,1776 330,1776 380,1775 571,1775 611,1774 754,1773 814,1773 917,1772"/>
+        <Word id="w_w2aab1c15b2c49b1ab1">
+          <Coords points="213,1739 917,1739 917,1781 213,1781"/>
+          <TextEquiv>
+            <Unicode>Flavio SHIRÔ, né à Saporo en 1928.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_26" custom="readingOrder {index:26;}">
+      <Coords points="135,1789 891,1789 891,1830 135,1830"/>
+      <TextLine id="tl_38" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="136,1790 890,1790 890,1829 136,1829"/>
+        <Baseline points="136,1823 149,1823 252,1823 348,1822 480,1826 568,1820 701,1825 890,1819"/>
+        <Word id="w_w2aab1c15b2c51b1ab1">
+          <Coords points="136,1790 890,1790 890,1829 136,1829"/>
+          <TextEquiv>
+            <Unicode>16 Le haut Xingu, 1961 (huile, 199x103).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_27" custom="readingOrder {index:27;}">
+      <Coords points="136,1827 868,1827 868,1869 136,1869"/>
+      <TextLine id="tl_39" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="137,1828 867,1828 867,1868 137,1868"/>
+        <Baseline points="137,1861 149,1861 452,1865 541,1859 677,1864 867,1857"/>
+        <Word id="w_w2aab1c15b2c53b1ab1">
+          <Coords points="137,1828 867,1828 867,1868 137,1868"/>
+          <TextEquiv>
+            <Unicode>17 Muirapinema, 1961 (huile, 120x155).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_28" custom="readingOrder {index:28;}">
+      <Coords points="213,1884 1318,1884 1318,1924 213,1924"/>
+      <TextLine id="tl_40" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="214,1885 1317,1885 1317,1923 214,1923"/>
+        <Baseline points="214,1919 296,1919 382,1918 537,1917 591,1917 824,1916 864,1916 940,1915 1003,1915 1153,1914 1214,1914 1317,1913"/>
+        <Word id="w_w2aab1c15b2c55b1ab1">
+          <Coords points="214,1885 1317,1885 1317,1923 214,1923"/>
+          <TextEquiv>
+            <Unicode>Ivan DA SILVA MORAES, né à Rio de Janeiro en 1936.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_29" custom="readingOrder {index:29;}">
+      <Coords points="136,1930 1198,1930 1198,1972 136,1972"/>
+      <TextLine id="tl_41" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="137,1931 1197,1931 1197,1971 137,1971"/>
+        <Baseline points="137,1966 150,1966 415,1965 474,1964 552,1964 608,1963 743,1968 922,1961 1048,1966 1197,1960"/>
+        <Word id="w_w2aab1c15b2c57b1ab1">
+          <Coords points="137,1931 1197,1931 1197,1971 137,1971"/>
+          <TextEquiv>
+            <Unicode>18 Candomble (la fille de Oxùn), 1959-1960 (huile, 55x46).</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_8_30" custom="readingOrder {index:30;}">
+      <Coords points="136,1967 1549,1967 1549,2009 136,2009"/>
+      <TextLine id="tl_42" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="137,1968 1548,1968 1548,2008 137,2008"/>
+        <Baseline points="137,2004 173,2004 415,2003 564,2007 655,2001 780,2006 947,1999 1144,1998 1206,1998 1363,1997 1421,1997 1548,1997"/>
+        <Word id="w_w2aab1c15b2c59b1ab1">
+          <Coords points="137,1968 1548,1968 1548,2008 137,2008"/>
+          <TextEquiv>
+            <Unicode>19 Candomble (Oxùn), 1960 (huile, 100x80). Collection Dr Alognio de Paula.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_9_1" custom="readingOrder {index:31;}">
+      <Coords points="1441,2132 1476,2132 1476,2159 1441,2159"/>
+      <TextLine id="tl_43" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1442,2133 1475,2133 1475,2158 1442,2158"/>
+        <Baseline points="1442,2158 1475,2158"/>
+        <Word id="w_w2aab1c17b2b1b1ab1">
+          <Coords points="1442,2133 1475,2133 1475,2158 1442,2158"/>
+          <TextEquiv>
+            <Unicode>19</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

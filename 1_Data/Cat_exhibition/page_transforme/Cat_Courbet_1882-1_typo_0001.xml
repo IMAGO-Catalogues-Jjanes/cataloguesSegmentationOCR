@@ -1,0 +1,445 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T09:46:13.996+02:00</Created>
+        <LastChange>2020-06-11T11:50:23.380+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="405341" pageId="15735806" pageNr="1" tsid="31417787" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=BSWTVAUQCCHMLTUGUVZFBONW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGFHBJAOSOFRFMWDTQRIIVBR" imageId="11553394"/>
+    </Metadata>
+  <Page imageFilename="Cat_Courbet_1882-1_typo_0001.jpg" imageWidth="1749" imageHeight="2481">
+    <PrintSpace>
+            <Coords points="370,388 1308,388 1308,2049 370,2049"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604242582576" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_1_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1_3"/>
+                <RegionRefIndexed index="3" regionRef="r_1_4"/>
+                <RegionRefIndexed index="4" regionRef="r_1_5"/>
+                <RegionRefIndexed index="5" regionRef="r_1_6"/>
+                <RegionRefIndexed index="6" regionRef="r_1_7"/>
+                <RegionRefIndexed index="7" regionRef="r_1_8"/>
+                <RegionRefIndexed index="8" regionRef="r_1_9"/>
+                <RegionRefIndexed index="9" regionRef="r_1_10"/>
+                <RegionRefIndexed index="10" regionRef="r_1_11"/>
+                <RegionRefIndexed index="11" regionRef="r_1_12"/>
+                <RegionRefIndexed index="12" regionRef="r_2_1"/>
+                <RegionRefIndexed index="13" regionRef="r_2_2"/>
+                <RegionRefIndexed index="14" regionRef="r_2_3"/>
+                <RegionRefIndexed index="15" regionRef="r_2_4"/>
+                <RegionRefIndexed index="16" regionRef="r_2_5"/>
+                <RegionRefIndexed index="17" regionRef="r_2_6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="784,394 903,394 903,431 784,431"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="785,395 902,395 902,430 785,430"/>
+        <Baseline points="785,417 813,417 863,430 902,415"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="785,395 902,395 902,430 785,430"/>
+          <TextEquiv>
+            <Unicode>— 39 —</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+      <Coords points="409,483 900,481 900,520 409,522"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="411,482 899,482 899,519 411,519"/>
+        <Baseline points="411,520 765,518 899,516"/>
+        <Word id="w_w2aab1b1b2b3b1ab1">
+          <Coords points="411,482 899,482 899,519 411,519"/>
+          <TextEquiv>
+            <Unicode>16. — L’Homme blessé.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
+      <Coords points="594,552 1116,552 1116,592 594,592"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="595,553 1115,553 1115,591 595,591"/>
+        <Baseline points="595,582 677,581 700,581 749,582 893,587 971,580 1115,580"/>
+        <Word id="w_w2aab1b1b2b5b1ab1">
+          <Coords points="595,553 1115,553 1115,591 595,591"/>
+          <TextEquiv>
+            <Unicode>Signé : G. Courbet, avec paraphe.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_4" custom="readingOrder {index:3;}">
+      <Coords points="594,595 747,595 747,624 594,624"/>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="595,596 746,596 746,623 595,623"/>
+        <Baseline points="595,622 664,621 746,622"/>
+        <Word id="w_w2aab1b1b2b7b1ab1">
+          <Coords points="595,596 746,596 746,623 595,623"/>
+          <TextEquiv>
+            <Unicode>Sans date.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_5" custom="readingOrder {index:4;}">
+      <Coords points="593,632 1277,632 1277,672 593,672"/>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="594,633 1276,633 1276,671 594,671"/>
+        <Baseline points="594,663 772,662 971,660 1020,660 1108,660 1147,659 1190,660 1276,661"/>
+        <Word id="w_w2aab1b1b2b9b1ab1">
+          <Coords points="594,633 1276,633 1276,671 594,671"/>
+          <TextEquiv>
+            <Unicode>Expositions particulières de 1855 et de 1867.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_6" custom="readingOrder {index:5;}">
+      <Coords points="561,673 1299,673 1299,1116 561,1116"/>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="598,674 1293,674 1293,712 598,712"/>
+        <Baseline points="598,703 632,702 801,701 866,701 958,702 1109,700 1293,701"/>
+        <Word id="w_w2aab1b1b2c11b1ab1">
+          <Coords points="598,674 1293,674 1293,712 598,712"/>
+          <TextEquiv>
+            <Unicode>Le catalogue de cette dernière exposition</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="562,714 1295,714 1295,752 562,752"/>
+        <Baseline points="563,752 640,743 818,741 853,741 1030,741 1067,741 1170,741 1221,741 1295,741"/>
+        <Word id="w_w2aab1b1b2c11b3ab1">
+          <Coords points="562,714 1295,714 1295,752 562,752"/>
+          <TextEquiv>
+            <Unicode>place l'exécution de l’Homme blessé à la date</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="568,754 1293,754 1293,792 568,792"/>
+        <Baseline points="568,784 602,785 698,782 786,783 984,781 1058,780 1183,782 1220,781 1293,777"/>
+        <Word id="w_w2aab1b1b2c11b5ab1">
+          <Coords points="568,754 1293,754 1293,792 568,792"/>
+          <TextEquiv>
+            <Unicode>de 1844. C’est évidemment une erreur : il suf¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:3;}">
+        <Coords points="566,794 1295,794 1295,832 566,832"/>
+        <Baseline points="566,825 597,825 784,823 828,823 947,823 1033,821 1077,822 1188,822 1243,822 1295,816"/>
+        <Word id="w_w2aab1b1b2c11b7ab1">
+          <Coords points="566,794 1295,794 1295,832 566,832"/>
+          <TextEquiv>
+            <Unicode>fit d’examiner la facture libre et souple du ta¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:4;}">
+        <Coords points="568,836 1297,836 1297,873 568,873"/>
+        <Baseline points="568,866 656,870 745,864 821,863 992,863 1065,863 1115,863 1198,861 1297,864"/>
+        <Word id="w_w2aab1b1b2c11b9ab1">
+          <Coords points="568,836 1297,836 1297,873 568,873"/>
+          <TextEquiv>
+            <Unicode>bleau, pour être convaincu que ce n’est point</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_11" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:5;}">
+        <Coords points="564,876 1297,876 1297,914 564,914"/>
+        <Baseline points="564,906 589,907 668,905 783,905 833,904 990,903 1136,903 1240,903 1297,903"/>
+        <Word id="w_w2aab1b1b2c11c11ab1">
+          <Coords points="564,876 1297,876 1297,914 564,914"/>
+          <TextEquiv>
+            <Unicode>là une oeuvre de débutant. L’erreur ayant été</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_12" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:6;}">
+        <Coords points="568,916 1295,916 1295,954 568,954"/>
+        <Baseline points="568,947 725,945 820,944 871,944 1034,943 1086,943 1137,943 1237,943 1295,944"/>
+        <Word id="w_w2aab1b1b2c11c13ab1">
+          <Coords points="568,916 1295,916 1295,954 568,954"/>
+          <TextEquiv>
+            <Unicode>reproduite dans le catalogue de la vente du</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_13" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:7;}">
+        <Coords points="563,957 1298,957 1298,997 563,997"/>
+        <Baseline points="563,997 580,997 736,986 831,991 923,985 1054,983 1163,983 1202,983 1298,977"/>
+        <Word id="w_w2aab1b1b2c11c15ab1">
+          <Coords points="563,957 1298,957 1298,997 563,997"/>
+          <TextEquiv>
+            <Unicode>9 décembre 1881, nous croyons devoir la recti¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_14" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:8;}">
+        <Coords points="567,997 1293,997 1293,1033 567,1033"/>
+        <Baseline points="567,1028 626,1025 675,1026 820,1025 893,1026 947,1024 1042,1029 1163,1023 1293,1024"/>
+        <Word id="w_w2aab1b1b2c11c17ab1">
+          <Coords points="567,997 1293,997 1293,1033 567,1033"/>
+          <TextEquiv>
+            <Unicode>fier. La véritable date est 1854, comme l’atteste</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_15" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:9;}">
+        <Coords points="565,1038 1296,1038 1296,1075 565,1075"/>
+        <Baseline points="565,1068 590,1068 747,1066 801,1065 849,1065 1005,1065 1181,1064 1296,1064"/>
+        <Word id="w_w2aab1b1b2c11c19ab1">
+          <Coords points="565,1038 1296,1038 1296,1075 565,1075"/>
+          <TextEquiv>
+            <Unicode>le catalogue de la première exposition privée</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_16" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:10;}">
+        <Coords points="566,1079 877,1079 877,1115 566,1115"/>
+        <Baseline points="566,1108 604,1108 733,1114 782,1107 877,1107"/>
+        <Word id="w_w2aab1b1b2c11c21ab1">
+          <Coords points="566,1079 877,1079 877,1115 566,1115"/>
+          <TextEquiv>
+            <Unicode>du peintre, en 1855.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_7" custom="readingOrder {index:6;}">
+      <Coords points="565,1123 1298,1123 1298,1204 565,1204"/>
+      <TextLine id="tl_17" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="596,1126 1297,1126 1297,1171 596,1171"/>
+        <Baseline points="596,1163 697,1160 801,1160 911,1160 955,1162 1012,1160 1117,1159 1184,1160 1226,1168 1297,1153"/>
+        <Word id="w_w2aab1b1b2c13b1ab1">
+          <Coords points="596,1126 1297,1126 1297,1171 596,1171"/>
+          <TextEquiv>
+            <Unicode>Acheté pour l’État à la vente du 9 dé¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_18" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="566,1176 770,1176 770,1203 566,1203"/>
+        <Baseline points="566,1203 676,1202 741,1202 770,1202"/>
+        <Word id="w_w2aab1b1b2c13b3ab1">
+          <Coords points="566,1176 770,1176 770,1203 566,1203"/>
+          <TextEquiv>
+            <Unicode>cembre 1851.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_8" custom="readingOrder {index:7;}">
+      <Coords points="875,1212 1238,1212 1238,1251 875,1251"/>
+      <TextLine id="tl_19" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="876,1213 1237,1213 1237,1250 876,1250"/>
+        <Baseline points="876,1241 908,1240 954,1235 1005,1241 1095,1239 1143,1240 1237,1240"/>
+        <Word id="w_w2aab1b1b2c15b1ab1">
+          <Coords points="876,1213 1237,1213 1237,1250 876,1250"/>
+          <TextEquiv>
+            <Unicode>T. — H. 8.90. L. 0.81.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_9" custom="readingOrder {index:8;}">
+      <Coords points="403,1313 970,1309 970,1349 403,1353"/>
+      <TextLine id="tl_20" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="405,1315 969,1311 969,1349 405,1353"/>
+        <Baseline points="423,1351 622,1346 823,1345 969,1345"/>
+        <Word id="w_w2aab1b1b2c17b1ab1">
+          <Coords points="405,1315 969,1311 969,1349 405,1353"/>
+          <TextEquiv>
+            <Unicode>17. — Le Chasseur badois.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_10" custom="readingOrder {index:9;}">
+      <Coords points="597,1379 1214,1379 1214,1420 597,1420"/>
+      <TextLine id="tl_21" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="598,1380 1213,1380 1213,1419 598,1419"/>
+        <Baseline points="598,1410 678,1409 706,1408 824,1408 843,1408 886,1408 935,1407 1070,1407 1213,1405"/>
+        <Word id="w_w2aab1b1b2c19b1ab1">
+          <Coords points="598,1380 1213,1380 1213,1419 598,1419"/>
+          <TextEquiv>
+            <Unicode>Signé à gauche : .. 59. Gustave Courbet.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_11" custom="readingOrder {index:10;}">
+      <Coords points="864,1429 1235,1429 1235,1467 864,1467"/>
+      <TextLine id="tl_22" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="865,1430 1234,1430 1234,1466 865,1466"/>
+        <Baseline points="865,1459 897,1458 946,1452 995,1457 1090,1457 1139,1456 1234,1456"/>
+        <Word id="w_w2aab1b1b2c21b1ab1">
+          <Coords points="865,1430 1234,1430 1234,1466 865,1466"/>
+          <TextEquiv>
+            <Unicode>T. — H. 1.18. L. 1.75.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_12" custom="readingOrder {index:11;}">
+      <Coords points="597,1476 1000,1476 1000,1514 597,1514"/>
+      <TextLine id="tl_23" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="598,1477 999,1477 999,1513 598,1513"/>
+        <Baseline points="598,1504 762,1504 798,1504 848,1502 914,1503 977,1502 998,1502"/>
+        <Word id="w_w2aab1b1b2c23b1ab1">
+          <Coords points="598,1477 999,1477 999,1513 598,1513"/>
+          <TextEquiv>
+            <Unicode>Appartient à M. D... M...</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:12;}">
+      <Coords points="422,1578 1301,1580 1301,1737 422,1735"/>
+      <TextLine id="tl_24" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="422,1581 1300,1581 1300,1631 422,1631"/>
+        <Baseline points="428,1624 736,1621 789,1619 856,1617 1099,1625 1233,1617 1300,1618"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="422,1581 1300,1581 1300,1631 422,1631"/>
+          <TextEquiv>
+            <Unicode>18. — Portrait, de M. Gueymard, artiste de</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_25" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="620,1640 1300,1640 1300,1688 620,1688"/>
+        <Baseline points="620,1677 778,1686 885,1677 925,1676 1017,1675 1062,1675 1236,1675 1300,1675"/>
+        <Word id="w_w2aab1b3b2b1b3ab1">
+          <Coords points="620,1640 1300,1640 1300,1688 620,1688"/>
+          <TextEquiv>
+            <Unicode>l’Opéra, dans le rôle de Robert le</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_26" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="618,1701 756,1701 756,1736 618,1736"/>
+        <Baseline points="618,1735 756,1735"/>
+        <Word id="w_w2aab1b3b2b1b5ab1">
+          <Coords points="618,1701 756,1701 756,1736 618,1736"/>
+          <TextEquiv>
+            <Unicode>Diable.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:13;}">
+      <Coords points="649,1770 1112,1770 1112,1806 649,1806"/>
+      <TextLine id="tl_27" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="650,1771 1111,1771 1111,1805 650,1805"/>
+        <Baseline points="650,1798 661,1798 745,1805 815,1798 867,1798 936,1798 1083,1797 1111,1792"/>
+        <Word id="w_w2aab1b3b2b3b1ab1">
+          <Coords points="650,1771 1111,1771 1111,1805 650,1805"/>
+          <TextEquiv>
+            <Unicode>« Oui, l’or est une chimère. »</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:14;}">
+      <Coords points="601,1829 1054,1829 1054,1868 601,1868"/>
+      <TextLine id="tl_28" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="602,1830 1053,1830 1053,1867 602,1867"/>
+        <Baseline points="602,1858 683,1858 713,1858 832,1857 852,1857 905,1858 1053,1855"/>
+        <Word id="w_w2aab1b3b2b5b1ab1">
+          <Coords points="602,1830 1053,1830 1053,1867 602,1867"/>
+          <TextEquiv>
+            <Unicode>Signé à gauche : G. Courbet.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:15;}">
+      <Coords points="600,1872 752,1872 752,1901 600,1901"/>
+      <TextLine id="tl_29" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="601,1873 751,1873 751,1900 601,1900"/>
+        <Baseline points="601,1899 669,1898 751,1898"/>
+        <Word id="w_w2aab1b3b2b7b1ab1">
+          <Coords points="601,1873 751,1873 751,1900 601,1900"/>
+          <TextEquiv>
+            <Unicode>Sans date.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_5" custom="readingOrder {index:16;}">
+      <Coords points="599,1912 825,1912 825,1948 599,1948"/>
+      <TextLine id="tl_30" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="600,1913 824,1913 824,1947 600,1947"/>
+        <Baseline points="600,1939 681,1938 728,1939 824,1939"/>
+        <Word id="w_w2aab1b3b2b9b1ab1">
+          <Coords points="600,1913 824,1913 824,1947 600,1947"/>
+          <TextEquiv>
+            <Unicode>Salon de 1857.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_6" custom="readingOrder {index:17;}">
+      <Coords points="598,1950 1238,1950 1238,2044 598,2044"/>
+      <TextLine id="tl_31" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="884,1951 1237,1951 1237,1986 884,1986"/>
+        <Baseline points="884,1979 916,1979 965,1972 1009,1977 1096,1976 1143,1978 1174,1977 1237,1977"/>
+        <Word id="w_w2aab1b3b2c11b1ab1">
+          <Coords points="884,1951 1237,1951 1237,1986 884,1986"/>
+          <TextEquiv>
+            <Unicode>T. — H. 1.57. L. 1.06.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_32" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="599,2005 1136,2005 1136,2043 599,2043"/>
+        <Baseline points="599,2034 764,2034 836,2033 977,2032 1136,2031"/>
+        <Word id="w_w2aab1b3b2c11b3ab1">
+          <Coords points="599,2005 1136,2005 1136,2043 599,2043"/>
+          <TextEquiv>
+            <Unicode>Appartient à M. Adolphe Reignard.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
