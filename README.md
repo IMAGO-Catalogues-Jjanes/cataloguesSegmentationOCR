@@ -18,23 +18,26 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
 │     ├── annuaires
 │     │  └── Data_segmenteur 
 │     │     ├─ alto
+|     |     ├─ page
 │     │     └─ images
 │     │ 
 │     ├── Cat_expositions
 │     │  └── Data_segmenteur
 │     │     ├─ alto
+|     |     ├─ page
 │     │     └─ image
 |     |
 |     └── Cat_manuscrits
 │        └── Data_segmenteur
 │           ├─ alto
+|           ├─ page
 │           └─ image
 |
 ├── 2_Boite_a_outils
 |     └──  Dépôt commun d'outils pour la préparation des données
 |
+├── 3_Scripts_training_construction
 ├── Dataset_190421.csv 
-├── model_segmenteur_test_220421.mlmodel 
 └── rapport datasetTest_segmentation.pdf
 ```
                   
