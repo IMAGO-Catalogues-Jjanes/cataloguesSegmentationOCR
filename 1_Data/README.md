@@ -22,7 +22,7 @@ Main area is in purple, title in pink, numbering in green, running title in yell
 </p>  
 The first image is from a exhibition catalog and present the most basic structure of the dataset, which is a page containing a numbering area at the top and a large and unique main zone. The second is an annuaire's page and looks quite the same, except there are two columns of text, hence two mains' zone. This example is the second most common type of pages of the dataset. Lastly, the third image, a page of a manuscripts' fair catalog, shows the least frequent structure of the dataset, with figures imbricated in main, running title and numbering. 
 
-Title are also a less recurent type of elements in the dataset. As it can be seen on the two images below, it has been decided only the biggest titles would be defined as title in the dataset. Therefore, a title of a part of the document is included in a main area.
+Title are also a less recurent type of elements in the dataset. As it can be seen on the two images below, it has been decided only the biggest titles would be defined as title in the dataset. Therefore, smaller title are included in a main area.
 <p class="float" align="center"/>
     <img src="../images/1845_05_14_CHA-0012.png" height="350"/>
     <img src="../images/Cat_SaoPaulo_1951_0002.png" height="350"/>
