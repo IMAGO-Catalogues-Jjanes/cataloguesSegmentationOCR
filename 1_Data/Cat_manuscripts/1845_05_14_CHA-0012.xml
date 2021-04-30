@@ -24,60 +24,6 @@
                   WIDTH="5866"
                   HEIGHT="9133">
         
-        <TextBlock HPOS="2833"
-                   VPOS="1459"
-                   WIDTH="334"
-                   HEIGHT="116"
-                   ID="r_2_1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="2833 1459 3167 1459 3167 1575 2833 1575"/></Shape>
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT96"
-                    BASELINE="2834 1568 3166 1572" 
-                    HPOS="2834"
-                    VPOS="1460"
-                    WIDTH="332"
-                    HEIGHT="114">
-            <Shape><Polygon POINTS="2834 1460 3166 1460 3166 1574 2834 1574"/></Shape>
-	    <String CONTENT="D&#39;UNE"
-                    HPOS="2834"
-                    VPOS="1460"
-                    WIDTH="332"
-                    HEIGHT="114"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2941"
-                   VPOS="2144"
-                   WIDTH="111"
-                   HEIGHT="61"
-                   ID="r_2_3"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="2941 2144 3052 2144 3052 2205 2941 2205"/></Shape>
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT96"
-                    BASELINE="2942 2200 3051 2204" 
-                    HPOS="2942"
-                    VPOS="2145"
-                    WIDTH="109"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="2942 2145 3051 2145 3051 2204 2942 2204"/></Shape>
-	    <String CONTENT="DE"
-                    HPOS="2942"
-                    VPOS="2145"
-                    WIDTH="109"
-                    HEIGHT="59"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="4183"
                    VPOS="7466"
                    WIDTH="44"
@@ -105,67 +51,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="955"
-                   VPOS="890"
-                   WIDTH="4077"
-                   HEIGHT="1924"
-                   ID="eSc_textblock_00db12d6"
-                   TAGREFS="BT235">
-          <Shape><Polygon POINTS="955 890 955 2814 5032 2814 5032 890"/></Shape>
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT96"
-                    BASELINE="1888 1234 4084 1272" 
-                    HPOS="1888"
-                    VPOS="1022"
-                    WIDTH="2197"
-                    HEIGHT="258">
-            <Shape><Polygon POINTS="1888 1022 4085 1022 4085 1280 1888 1280"/></Shape>
-	    <String CONTENT="CATALOGUE"
-                    HPOS="1888"
-                    VPOS="1022"
-                    WIDTH="2197"
-                    HEIGHT="258"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT96"
-                    BASELINE="2178 1904 2689 1913 3793 1938" 
-                    HPOS="2178"
-                    VPOS="1778"
-                    WIDTH="1615"
-                    HEIGHT="164">
-            <Shape><Polygon POINTS="2178 1778 3793 1778 3793 1942 2178 1942"/></Shape>
-	    <String CONTENT="BELLE COLLECTION"
-                    HPOS="2178"
-                    VPOS="1778"
-                    WIDTH="1615"
-                    HEIGHT="164"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_5"
-                    TAGREFS="LT96"
-                    BASELINE="1064 2639 2398 2658 4905 2715" 
-                    HPOS="1064"
-                    VPOS="2388"
-                    WIDTH="3845"
-                    HEIGHT="335">
-            <Shape><Polygon POINTS="1064 2388 4909 2388 4909 2723 1064 2723"/></Shape>
-	    <String CONTENT="LETTRES AUTOGRAPHES."
-                    HPOS="1064"
-                    VPOS="2388"
-                    WIDTH="3845"
-                    HEIGHT="335"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="4763"
                    VPOS="7093"
                    WIDTH="161"
@@ -181,7 +66,7 @@
                    WIDTH="3942"
                    HEIGHT="4090"
                    ID="eSc_textblock_cf1cb96b"
-                   TAGREFS="BT">
+                   TAGREFS="BT231">
           <Shape><Polygon POINTS="982 3352 982 7442 4924 7442 4924 3352"/></Shape>
           
           
@@ -628,9 +513,104 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="955"
+                   VPOS="890"
+                   WIDTH="4077"
+                   HEIGHT="1924"
+                   ID="eSc_textblock_ee459e41"
+                   TAGREFS="BT235">
+          <Shape><Polygon POINTS="955 890 955 2814 2995 2814 5032 2814 5032 890"/></Shape>
+          
+        </TextBlock>
+        
 
         
         <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="tl_2"
+                    TAGREFS="LT96"
+                    BASELINE="2834 1568 3166 1572" 
+                    HPOS="2834"
+                    VPOS="1460"
+                    WIDTH="332"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="2834 1460 3166 1460 3166 1574 2834 1574"/></Shape>
+	    <String CONTENT="D&#39;UNE"
+                    HPOS="2834"
+                    VPOS="1460"
+                    WIDTH="332"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_4"
+                    TAGREFS="LT96"
+                    BASELINE="2942 2200 3051 2204" 
+                    HPOS="2942"
+                    VPOS="2145"
+                    WIDTH="109"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2942 2145 3051 2145 3051 2204 2942 2204"/></Shape>
+	    <String CONTENT="DE"
+                    HPOS="2942"
+                    VPOS="2145"
+                    WIDTH="109"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_1"
+                    TAGREFS="LT96"
+                    BASELINE="1888 1234 4084 1272" 
+                    HPOS="1888"
+                    VPOS="1022"
+                    WIDTH="2197"
+                    HEIGHT="258">
+            <Shape><Polygon POINTS="1888 1022 4085 1022 4085 1280 1888 1280"/></Shape>
+	    <String CONTENT="CATALOGUE"
+                    HPOS="1888"
+                    VPOS="1022"
+                    WIDTH="2197"
+                    HEIGHT="258"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_3"
+                    TAGREFS="LT96"
+                    BASELINE="2178 1904 2689 1913 3793 1938" 
+                    HPOS="2178"
+                    VPOS="1778"
+                    WIDTH="1615"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="2178 1778 3793 1778 3793 1942 2178 1942"/></Shape>
+	    <String CONTENT="BELLE COLLECTION"
+                    HPOS="2178"
+                    VPOS="1778"
+                    WIDTH="1615"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_5"
+                    TAGREFS="LT96"
+                    BASELINE="1064 2639 2398 2658 4905 2715" 
+                    HPOS="1064"
+                    VPOS="2388"
+                    WIDTH="3845"
+                    HEIGHT="335">
+            <Shape><Polygon POINTS="1064 2388 4909 2388 4909 2723 1064 2723"/></Shape>
+	    <String CONTENT="LETTRES AUTOGRAPHES."
+                    HPOS="1064"
+                    VPOS="2388"
+                    WIDTH="3845"
+                    HEIGHT="335"></String>
+          </TextLine>
+
           
           
           <TextLine ID="tl_18"
