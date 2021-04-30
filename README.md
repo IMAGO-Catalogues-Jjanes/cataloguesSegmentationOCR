@@ -9,7 +9,7 @@ The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/
 The dataset is composed of 150 pages, with 50 pages of each type of data. Its presentation is accessible in the csv file, where each page is described. The schema below explains its process of creation. The pages have been prepared and segmented in [eScriptorium](http://traces6.paris.inria.fr/) using the [SegmOnto](https://github.com/SegmOnto) ontology which allows to name the differents zones and lines. This work is developped [here](https://github.com/Juliettejns/cataloguesPipeline/blob/main/1_Data/README.md). Lastly, the work done has been exported in ALTO4 format, accessible in this repository, along with the images used. 
 
 <p align="center">
-  <img src="images/pipeline_segmentation.png" width="500" height="500"/>
+  <img src="images/pipelineSegmentation.png" width="500"/>
 </p>
 
 ## Repository 
@@ -47,10 +47,12 @@ Thanks to Simon Gabay, Claire Jahan, Caroline Corbières, Gabriela Elgarrista an
 
 ## Credits
 This repository is developed by Juliette Janes, intern of the [Artl@s](https://artlas.huma-num.fr/fr/) project, with the help of Simon Gabay under the supervision of Béatrice Joyeux-Prunel.
-
+ - Manuscripts' catalogs preparation has been done by Simon Gabay.
+ - Exhibitions' catalogs preparation has been done by Caroline Corbières. 
+ - Annuaires preparation has been done by Gabriela Elgarrista, under the supervision of Carmen Brando.
 ## Licence
-This repository is CC-BY.
-
+Images from catalogs published prior 1920 and transcriptions are CC-BY. </br>
+The other images are extracts of catalogs published after 1920 and are the intellectual property of their productor.</br>
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ## Cite this repository
