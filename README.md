@@ -9,7 +9,7 @@ The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/
 The dataset is composed of 150 pages, with 50 pages of each type of data. Its presentation is accessible in the csv file, where each page is described. The schema below explains its process of creation. The pages have been prepared and segmented in [eScriptorium](http://traces6.paris.inria.fr/) using the [SegmOnto](https://github.com/SegmOnto) ontology which allows to name the differents zones and lines. This part is developed [here](https://github.com/Juliettejns/cataloguesPipeline/blob/main/1_Data/README.md) Lastly, the work done has been exported in ALTO4 format, accessible in this repository, along with the images used. 
 
 <p align="center">
-  <img src="images/pipelineSegmenteur.png" />
+  <img src="images/pipeline_segmentation.png" width="500" height="500"/>
 </p>
 
 ## Repository 
