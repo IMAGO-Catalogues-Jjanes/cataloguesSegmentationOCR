@@ -52,3 +52,7 @@ This repository is CC-BY.
 
 ## Cite this repository
 Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Model for OCR processing Catalogs_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesPipeline/
+
+## Contacts
+If you have any questions or remarks, please contact juliette.janes@chartes.psl.eu and simon.gabay@unige.ch.
+
