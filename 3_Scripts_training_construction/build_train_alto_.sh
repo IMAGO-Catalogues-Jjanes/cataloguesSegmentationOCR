@@ -5,9 +5,9 @@ rm -r trainingData; mkdir trainingData
 #if [ -d trainingData ]; then rm -Rf trainingData; fi
 mkdir -p trainingData
 #getting images
-cp 1_Data/*/data_segmenteur/images/*png trainingData
-cp 1_Data/*/data_segmenteur/images/*jpg trainingData
-cp 1_Data/*/data_segmenteur/images/*tif trainingData
+cp ../1_Data/*/images/*png trainingData
+cp ../1_Data/*/images/*jpg trainingData
+cp ../1_Data/*/images/*tif trainingData
 #getting the ALTO4 files
-cp 1_Data/*/data_segmenteur/alto_xml/*xml trainingData
+cp ../1_Data/*/alto_xml/*xml trainingData
 
