@@ -37,7 +37,14 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
 |     └──  Dépôt commun d'outils pour la préparation des données
 |
 ├── 3_Scripts_training_construction
-├── Dataset_190421.csv 
+│     ├─ bash_train_alto.sh
+|     ├─ bash_train_alto_annuaires.sh
+|     ├─ bash_train_alto_exhibition.sh
+│     └─ bash_train_alto_manuscripts.sh
+|
+├── images
+|
+├── Dataset.csv 
 └── rapport datasetTest_segmentation.pdf
 ```
                   
