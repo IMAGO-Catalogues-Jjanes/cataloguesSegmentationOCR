@@ -17,20 +17,17 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its de
 ├── 1_Data
 │     ├── annuaires
 │     │  └── Data_segmenteur 
-│     │     ├─ alto_xml
-|     |     ├─ page_xml
+│     │     ├─ alto
 │     │     └─ images
 │     │ 
 │     ├── Cat_expositions
 │     │  └── Data_segmenteur
-│     │     ├─ alto_xml
-|     |     ├─ page_xml
+│     │     ├─ alto
 │     │     └─ image
 |     |
 |     └── Cat_manuscrits
 │        └── Data_segmenteur
-│           ├─ alto_xml
-|           ├─ page_xml
+│           ├─ alto
 │           └─ image
 |
 ├── 2_Boite_a_outils
@@ -54,4 +51,4 @@ This repository is CC-BY.
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ## Cite this repository
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Model for OCR processing Catalogs_, 2020, https://github.com/Juliettejns/cataloguesPipeline/
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Model for OCR processing Catalogs_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesPipeline/
