@@ -17,20 +17,22 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
 ├── 1_Data
 │     ├── annuaires
 │     │  └── Data_segmenteur 
-│     │     ├─ alto
-|     |     ├─ page
+│     │     ├─ alto_eScriptorium
+|     |     ├─ page_Transkribus
 │     │     └─ images
 │     │ 
 │     ├── Cat_expositions
 │     │  └── Data_segmenteur
-│     │     ├─ alto
-|     |     ├─ page
+│     │     ├─ alto_eScriptorium
+|     |     ├─ page_Transkribus
+|     |     ├─ page_transforme
 │     │     └─ image
 |     |
 |     └── Cat_manuscrits
 │        └── Data_segmenteur
-│           ├─ alto
-|           ├─ page
+│           ├─ alto_eScriptorium
+|           ├─ page_Transkribus
+|           ├─ page_transforme
 │           └─ image
 |
 ├── 2_Boite_a_outils
