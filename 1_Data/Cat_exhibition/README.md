@@ -7,7 +7,7 @@ The goal was to recreate a small dataset of 50 images which could represent the 
 
 <p class="float">
 <img src="/images/nbre_pages_expo.png" height="350"/>
-<img src="/images/repartition_expositions.png" height="350"/>
+<img src="/images/repartition_expositions.png" height="370"/>
 </p>
 
 ## Directory
