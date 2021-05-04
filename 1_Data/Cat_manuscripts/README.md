@@ -13,7 +13,13 @@ The goal was to recreate a small dataset of 50 images which could represent the 
 ## Directory
 Since it is mostly extract from very different catalogs, all the different formats of the images are contained in the same directory.
 
-- **images**: contains the ipages in their png or jpg format
+- **images**: contains the images
 - **page_Transkribus**: contains the PageXML export done from Transkribus in order to migrate to eScriptorium
 - **page_transforme**: contains the PageXML obtained after its transformation by the script done [here](https://github.com/Heresta/BAO_Stage_DH_ENS_2021/tree/main/CorrectionPageXMLeScriptorium) in order for eScriptorium to display the manual corrections done on the transcriptions
 - **alto_eScriptorium**: contains the ouput of eScriptorium in ALTO4 format.
+
+## Images properties
+- format: jpg or png
+- dimensions: variable, from 2000 * 3000 to 5000 * 9000 px
+- DPI: 300 or 400 
+- RGB
