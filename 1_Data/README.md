@@ -15,7 +15,7 @@ If the lines in this dataset are all defined by _default_, there are various typ
 ## Application and choices
 Here are typical exemples of zones' tagging. </br>
 Main area is in purple, title in pink, numbering in green, running title in yellow and figure in blue.
-<p class="float" align="center"/>
+<p class="float" align="center">
     <img src="../images/Cat_Inde_1892_typo_0002.png" height="350"/>
     <img src="../images/Annuaire_1898 777.png" height="350"/>
   <img src="../images/1887_bovet_bpt6k6325943w_gt_0079.png" height="350"/> 
@@ -27,3 +27,11 @@ Title are also a less recurent type of elements in the dataset. As it can be see
     <img src="../images/1845_05_14_CHA-0012.png" height="350"/>
     <img src="../images/Cat_SaoPaulo_1951_0002.png" height="350"/>
 </p>
+
+## Distribution of zones in the dataset
+
+<p align="center">
+  <img src="../images/repartition_types_zones.png" height="400"/>
+  </p>
+    
+  
