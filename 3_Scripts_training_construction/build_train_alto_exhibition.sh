@@ -6,5 +6,5 @@ mkdir -p trainingDataExhibition
 cp ../1_Data/Cat_exhibition/images/*png trainingDataExhibition
 cp ../1_Data/Cat_exhibition/images/*jpg trainingDataExhibition
 #getting the ALTO4 files
-cp ../1_Data/Cat_exhibition/alto_xml/*xml trainingDataExhibition
+cp ../1_Data/Cat_exhibition/alto_eScriptorium/*xml trainingDataExhibition
 
