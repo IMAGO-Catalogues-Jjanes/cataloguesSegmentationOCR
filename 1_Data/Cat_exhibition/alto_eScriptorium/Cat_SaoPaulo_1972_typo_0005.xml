@@ -1,572 +1,467 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-  <Description>
-    <MeasurementUnit>pixel</MeasurementUnit>
-    <sourceImageInformation>
-      <fileName>Cat_SaoPaulo_1972_typo_0005.jpg</fileName>
-    </sourceImageInformation>
-  </Description>
-  
-  <Tags>
-    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
-    <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
-  </Tags>
-  
-  <Layout>
-    <Page WIDTH="3548"
-          HEIGHT="4609"
-          PHYSICAL_IMG_NR="36"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3548"
-                  HEIGHT="4609">
-        
-        <TextBlock HPOS="589"
-                   VPOS="4112"
-                   WIDTH="80"
-                   HEIGHT="61"
-                   ID="r_5_1"
-                   TAGREFS="BT232">
-          <Shape><Polygon POINTS="589 4112 669 4112 669 4173 589 4173"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="618"
-                   VPOS="4166"
-                   WIDTH="25"
-                   HEIGHT="17"
-                   ID="eSc_textblock_e5b7f2ab"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="618 4183 618 4166 643 4166 643 4183"/></Shape>
-          
-          
-          <TextLine ID="tl_34"
-                    
-                    BASELINE="590 4172 668 4170" 
-                    HPOS="590"
-                    VPOS="4113"
-                    WIDTH="78"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="590 4113 668 4113 668 4172 590 4172"/></Shape>
-	    <String CONTENT="56"
-                    HPOS="590"
-                    VPOS="4113"
-                    WIDTH="78"
-                    HEIGHT="59"></String>
-          </TextLine>
+        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description>
+                <MeasurementUnit>pixel</MeasurementUnit>
+                <sourceImageInformation>
+                        <fileName>Cat_SaoPaulo_1972_typo_0005.jpg</fileName>
+                </sourceImageInformation>
+        </Description>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="564"
-                   VPOS="405"
-                   WIDTH="2424"
-                   HEIGHT="3628"
-                   ID="eSc_textblock_928cfd4b"
-                   TAGREFS="BT231">
-          <Shape><Polygon POINTS="564 4033 564 405 2988 405 2988 4033"/></Shape>
-          
-          
-          <TextLine ID="tl_1"
-                    
-                    BASELINE="591 484 851 485 944 495 1078 494 1194 484 1279 483 1412 482 2970 483" 
-                    HPOS="591"
-                    VPOS="422"
-                    WIDTH="2379"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="591 422 2970 422 2970 499 591 499"/></Shape>
-	    <String CONTENT="Rítimos 6, 72, 70x50. 680,00"
-                    HPOS="591"
-                    VPOS="422"
-                    WIDTH="2379"
-                    HEIGHT="77"></String>
-          </TextLine>
+        <Tags>
+                <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/>
+                <OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/>
+                <OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+                <OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
+                <OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+                <OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+                <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
+        </Tags>
 
-          
-          
-          <TextLine ID="tl_2"
-                    
-                    BASELINE="587 581 846 583 940 592 1072 592 1189 583 1273 582 1406 580 2964 581" 
-                    HPOS="587"
-                    VPOS="521"
-                    WIDTH="2377"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="587 521 2964 521 2964 596 587 596"/></Shape>
-	    <String CONTENT="Rítimos 7, 72, 70x50. 680,00"
-                    HPOS="587"
-                    VPOS="521"
-                    WIDTH="2377"
-                    HEIGHT="75"></String>
-          </TextLine>
+        <Layout>
+                <Page WIDTH="3548" HEIGHT="4609" PHYSICAL_IMG_NR="36" ID="eSc_dummypage_">
+                        <PrintSpace HPOS="0" VPOS="0" WIDTH="3548" HEIGHT="4609">
 
-          
-          
-          <TextLine ID="tl_3"
-                    
-                    BASELINE="593 775 630 775 932 778 1412 777 1635 777 1751 764 2173 788 2294 765 2515 779" 
-                    HPOS="593"
-                    VPOS="719"
-                    WIDTH="1922"
-                    HEIGHT="73">
-            <Shape><Polygon POINTS="593 719 2515 719 2515 792 593 792"/></Shape>
-	    <String CONTENT="SILVA, Regis Machado (1944 — Paraibuna) — bp-72"
-                    HPOS="593"
-                    VPOS="719"
-                    WIDTH="1922"
-                    HEIGHT="73"></String>
-          </TextLine>
+                                <TextBlock HPOS="589" VPOS="4112" WIDTH="80" HEIGHT="61" ID="r_5_1"
+                                        TAGREFS="BT232">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="589 4112 669 4112 669 4173 589 4173"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_4"
-                    
-                    BASELINE="587 969 960 967 1045 977 1157 967 1417 977 1808 965 2965 964" 
-                    HPOS="587"
-                    VPOS="905"
-                    WIDTH="2378"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="587 905 2965 905 2965 984 587 984"/></Shape>
-	    <String CONTENT="Construção I, 72 objeto, montagem 2.000,00"
-                    HPOS="587"
-                    VPOS="905"
-                    WIDTH="2378"
-                    HEIGHT="79"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_5"
-                    
-                    BASELINE="588 1063 958 1061 1085 1073 1223 1072 1492 1071 1894 1060 2966 1057" 
-                    HPOS="588"
-                    VPOS="1000"
-                    WIDTH="2378"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="588 1000 2966 1000 2966 1077 588 1077"/></Shape>
-	    <String CONTENT="Construção II, 72, objeto, montagem 2.000,00"
-                    HPOS="588"
-                    VPOS="1000"
-                    WIDTH="2378"
-                    HEIGHT="77"></String>
-          </TextLine>
+                                <TextBlock HPOS="618" VPOS="4166" WIDTH="25" HEIGHT="17"
+                                        ID="eSc_textblock_e5b7f2ab" TAGREFS="BT232">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="618 4183 618 4166 643 4166 643 4183"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_6"
-                    
-                    BASELINE="586 1158 957 1157 1113 1166 1248 1167 1519 1167 1918 1155 2966 1155" 
-                    HPOS="586"
-                    VPOS="1095"
-                    WIDTH="2380"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="586 1095 2966 1095 2966 1171 586 1171"/></Shape>
-	    <String CONTENT="Construção III, 72, objeto, montagem 2.000,00"
-                    HPOS="586"
-                    VPOS="1095"
-                    WIDTH="2380"
-                    HEIGHT="76"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_7"
-                    
-                    BASELINE="587 1252 959 1252 1090 1251 1244 1262 1513 1261 1912 1250 2963 1246" 
-                    HPOS="587"
-                    VPOS="1189"
-                    WIDTH="2376"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="587 1189 2963 1189 2963 1268 587 1268"/></Shape>
-	    <String CONTENT="Construção IV ,72, objeto, montagem 2.000,00"
-                    HPOS="587"
-                    VPOS="1189"
-                    WIDTH="2376"
-                    HEIGHT="79"></String>
-          </TextLine>
+                                        <TextLine ID="tl_34" BASELINE="590 4172 668 4170" HPOS="590"
+                                                VPOS="4113" WIDTH="78" HEIGHT="59">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="590 4113 668 4113 668 4172 590 4172"/>
+                                                </Shape>
+                                                <String CONTENT="56" HPOS="590" VPOS="4113"
+                                                  WIDTH="78" HEIGHT="59"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_8"
-                    
-                    BASELINE="591 1348 964 1346 1083 1358 1226 1358 1497 1356 1900 1344 2967 1342" 
-                    HPOS="591"
-                    VPOS="1282"
-                    WIDTH="2376"
-                    HEIGHT="81">
-            <Shape><Polygon POINTS="591 1282 2967 1282 2967 1363 591 1363"/></Shape>
-	    <String CONTENT="Construção V, 72, objeto, montagem 2.000,00"
-                    HPOS="591"
-                    VPOS="1282"
-                    WIDTH="2376"
-                    HEIGHT="81"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_9"
-                    
-                    BASELINE="594 1563 633 1563 1159 1562 1342 1562 1566 1564 1683 1551 1778 1563 2038 1574 2160 1552 2375 1566" 
-                    HPOS="594"
-                    VPOS="1508"
-                    WIDTH="1781"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="594 1508 2375 1508 2375 1576 594 1576"/></Shape>
-	    <String CONTENT="SMITH, Ricardo Luiz (1945 — S. Paulo) — bp-72"
-                    HPOS="594"
-                    VPOS="1508"
-                    WIDTH="1781"
-                    HEIGHT="68"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_10"
-                    
-                    BASELINE="585 1753 752 1753 1072 1753 1397 1723 1516 1739 2013 1753 2099 1763 2211 1753 2319 1755 2397 1753 2567 1755 2961 1752" 
-                    HPOS="585"
-                    VPOS="1692"
-                    WIDTH="2376"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="585 1692 2961 1692 2961 1768 585 1768"/></Shape>
-	    <String CONTENT="Série “Gênese Formal” — Diferenciação I, 72 60x1,40 1.000,00"
-                    HPOS="585"
-                    VPOS="1692"
-                    WIDTH="2376"
-                    HEIGHT="76"></String>
-          </TextLine>
+                                <TextBlock HPOS="564" VPOS="405" WIDTH="2424" HEIGHT="3628"
+                                        ID="eSc_textblock_928cfd4b" TAGREFS="BT231">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="564 4033 564 405 2988 405 2988 4033"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_11"
-                    
-                    BASELINE="585 1848 752 1847 1070 1847 1392 1820 1506 1833 2001 1848 2114 1858 2243 1860 2349 1846 2421 1854 2566 1848 2960 1844" 
-                    HPOS="585"
-                    VPOS="1787"
-                    WIDTH="2375"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="585 1787 2960 1787 2960 1862 585 1862"/></Shape>
-	    <String CONTENT="Série “Gênese Formal” — Diferenciação II, 72, 80x120 1.000,00"
-                    HPOS="585"
-                    VPOS="1787"
-                    WIDTH="2375"
-                    HEIGHT="75"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_12"
-                    
-                    BASELINE="588 1944 754 1942 1056 1943 1373 1914 1483 1928 1978 1941 2118 1953 2239 1953 2345 1941 2415 1943 2573 1945 2963 1941" 
-                    HPOS="588"
-                    VPOS="1883"
-                    WIDTH="2375"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="588 1883 2963 1883 2963 1957 588 1957"/></Shape>
-	    <String CONTENT="Série “Gênese Formal” — Diferenciação III, 72, 60x1,20 1.000,00"
-                    HPOS="588"
-                    VPOS="1883"
-                    WIDTH="2375"
-                    HEIGHT="74"></String>
-          </TextLine>
+                                        <TextLine ID="tl_1"
+                                                BASELINE="591 484 851 485 944 495 1078 494 1194 484 1279 483 1412 482 2970 483"
+                                                HPOS="591" VPOS="422" WIDTH="2379" HEIGHT="77">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="591 422 2970 422 2970 499 591 499"/>
+                                                </Shape>
+                                                <String CONTENT="Rítimos 6, 72, 70x50. 680,00"
+                                                  HPOS="591" VPOS="422" WIDTH="2379" HEIGHT="77"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_13"
-                    
-                    BASELINE="581 2038 748 2035 1062 2036 1381 2008 1494 2023 1985 2036 2118 2048 2241 2047 2403 2039 2473 2037 2576 2040 2955 2039" 
-                    HPOS="581"
-                    VPOS="1976"
-                    WIDTH="2374"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="581 1976 2955 1976 2955 2050 581 2050"/></Shape>
-	    <String CONTENT="Série “Gênese Formal” — Diferenciação IV, 72, 1,60x40 1.000,00"
-                    HPOS="581"
-                    VPOS="1976"
-                    WIDTH="2374"
-                    HEIGHT="74"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_14"
-                    
-                    BASELINE="577 2133 744 2131 1062 2132 1385 2102 1504 2117 2000 2131 2110 2143 2239 2140 2349 2132 2426 2132 2558 2130 2950 2129" 
-                    HPOS="577"
-                    VPOS="2071"
-                    WIDTH="2373"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="577 2071 2950 2071 2950 2145 577 2145"/></Shape>
-	    <String CONTENT="Série “Gênese Formal” — Diferenciação V, 72, 80x60. 1.000,00"
-                    HPOS="577"
-                    VPOS="2071"
-                    WIDTH="2373"
-                    HEIGHT="74"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_15"
-                    
-                    BASELINE="583 2227 748 2226 1066 2225 1387 2197 1499 2211 1994 2227 2129 2236 2256 2237 2363 2225 2435 2225 2595 2227 2955 2221" 
-                    HPOS="583"
-                    VPOS="2168"
-                    WIDTH="2372"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="583 2168 2955 2168 2955 2239 583 2239"/></Shape>
-	    <String CONTENT="Série “Gênese Formal” — Diferenciação VI, 72, 70x1,40 1.000,00"
-                    HPOS="583"
-                    VPOS="2168"
-                    WIDTH="2372"
-                    HEIGHT="71"></String>
-          </TextLine>
+                                        <TextLine ID="tl_2"
+                                                BASELINE="587 581 846 583 940 592 1072 592 1189 583 1273 582 1406 580 2964 581"
+                                                HPOS="587" VPOS="521" WIDTH="2377" HEIGHT="75">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="587 521 2964 521 2964 596 587 596"/>
+                                                </Shape>
+                                                <String CONTENT="Rítimos 7, 72, 70x50. 680,00"
+                                                  HPOS="587" VPOS="521" WIDTH="2377" HEIGHT="75"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_16"
-                    
-                    BASELINE="596 2457 1025 2457 1251 2459 1369 2446 1556 2469 1685 2446 1903 2459" 
-                    HPOS="596"
-                    VPOS="2404"
-                    WIDTH="1307"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="596 2404 1903 2404 1903 2470 596 2470"/></Shape>
-	    <String CONTENT="SPARAPAN (1950 — Jaú) — bp-72"
-                    HPOS="596"
-                    VPOS="2404"
-                    WIDTH="1307"
-                    HEIGHT="66"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_17"
-                    
-                    BASELINE="587 2645 879 2643 1028 2643 1294 2645 1646 2647 1758 2632 2093 2648 2962 2637" 
-                    HPOS="587"
-                    VPOS="2589"
-                    WIDTH="2375"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="587 2589 2962 2589 2962 2660 587 2660"/></Shape>
-	    <String CONTENT="Subúrbio nas Linhas Paralelas — Proposta 1."
-                    HPOS="587"
-                    VPOS="2589"
-                    WIDTH="2375"
-                    HEIGHT="71"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_18"
-                    
-                    BASELINE="587 2735 853 2736 969 2737 1425 2739 1545 2726 1888 2740 1983 2740 2963 2731" 
-                    HPOS="587"
-                    VPOS="2683"
-                    WIDTH="2376"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="587 2683 2963 2683 2963 2755 587 2755"/></Shape>
-	    <String CONTENT="Arquivo de Sentimentos — Proposta 2. "
-                    HPOS="587"
-                    VPOS="2683"
-                    WIDTH="2376"
-                    HEIGHT="72"></String>
-          </TextLine>
+                                        <TextLine ID="tl_3"
+                                                BASELINE="593 775 630 775 932 778 1412 777 1635 777 1751 764 2173 788 2294 765 2515 779"
+                                                HPOS="593" VPOS="719" WIDTH="1922" HEIGHT="73">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="593 719 2515 719 2515 792 593 792"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="SILVA, Regis Machado (1944 — Paraibuna) — bp-72"
+                                                  HPOS="593" VPOS="719" WIDTH="1922" HEIGHT="73"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_19"
-                    
-                    BASELINE="582 2832 1082 2832 1195 2833 1458 2838 1570 2835 1670 2835 2031 2837 2139 2824 2466 2839 2958 2828" 
-                    HPOS="582"
-                    VPOS="2778"
-                    WIDTH="2376"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="582 2778 2958 2778 2958 2853 582 2853"/></Shape>
-	    <String CONTENT="Coloquemo-nos no Mesmo Pé de Igualdade — Proposta 3."
-                    HPOS="582"
-                    VPOS="2778"
-                    WIDTH="2376"
-                    HEIGHT="75"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_20"
-                    
-                    BASELINE="590 2925 738 2926 927 2926 1076 2927 1191 2913 1527 2927 1620 2927 2964 2920" 
-                    HPOS="590"
-                    VPOS="2872"
-                    WIDTH="2374"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="590 2872 2964 2872 2964 2942 590 2942"/></Shape>
-	    <String CONTENT="Olhe para Ele — Proposta 4. "
-                    HPOS="590"
-                    VPOS="2872"
-                    WIDTH="2374"
-                    HEIGHT="70"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_21"
-                    
-                    BASELINE="576 3019 675 3019 1006 3020 1108 3020 1337 3021 1504 3023 1700 3023 1802 3025 2071 3025 2125 3013 2460 3028 2544 3026 2953 3016" 
-                    HPOS="576"
-                    VPOS="2966"
-                    WIDTH="2377"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="576 2966 2953 2966 2953 3038 576 3038"/></Shape>
-	    <String CONTENT="Na Presença do Corpo nem Tudo se Mostra - Proposta 5. "
-                    HPOS="576"
-                    VPOS="2966"
-                    WIDTH="2377"
-                    HEIGHT="72"></String>
-          </TextLine>
+                                        <TextLine ID="tl_4"
+                                                BASELINE="587 969 960 967 1045 977 1157 967 1417 977 1808 965 2965 964"
+                                                HPOS="587" VPOS="905" WIDTH="2378" HEIGHT="79">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="587 905 2965 905 2965 984 587 984"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Construção I, 72 objeto, montagem 2.000,00"
+                                                  HPOS="587" VPOS="905" WIDTH="2378" HEIGHT="79"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_22"
-                    
-                    BASELINE="585 3112 874 3113 981 3114 1214 3114 1281 3114 1351 3115 1662 3118 1771 3104 2104 3119 2189 3119 2957 3108" 
-                    HPOS="585"
-                    VPOS="3060"
-                    WIDTH="2372"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="585 3060 2957 3060 2957 3134 585 3134"/></Shape>
-	    <String CONTENT="O Espaço do Corpo e a Vontade — Proposta 6. "
-                    HPOS="585"
-                    VPOS="3060"
-                    WIDTH="2372"
-                    HEIGHT="74"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_23"
-                    
-                    BASELINE="580 3206 765 3207 1003 3208 1074 3209 1361 3211 1693 3214 1850 3213 2269 3214 2953 3204" 
-                    HPOS="580"
-                    VPOS="3155"
-                    WIDTH="2373"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="580 3155 2953 3155 2953 3217 580 3217"/></Shape>
-	    <String CONTENT="Estas Cenas e Minhas Cadeiras não Entendidas "
-                    HPOS="580"
-                    VPOS="3155"
-                    WIDTH="2373"
-                    HEIGHT="62"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_24"
-                    
-                    BASELINE="579 3300 876 3303 966 3301 2953 3296" 
-                    HPOS="579"
-                    VPOS="3250"
-                    WIDTH="2374"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="579 3250 2953 3250 2953 3318 579 3318"/></Shape>
-	    <String CONTENT="Proposta 7. "
-                    HPOS="579"
-                    VPOS="3250"
-                    WIDTH="2374"
-                    HEIGHT="68"></String>
-          </TextLine>
+                                        <TextLine ID="tl_5"
+                                                BASELINE="588 1063 958 1061 1085 1073 1223 1072 1492 1071 1894 1060 2966 1057"
+                                                HPOS="588" VPOS="1000" WIDTH="2378" HEIGHT="77">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="588 1000 2966 1000 2966 1077 588 1077"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Construção II, 72, objeto, montagem 2.000,00"
+                                                  HPOS="588" VPOS="1000" WIDTH="2378" HEIGHT="77"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_25"
-                    
-                    BASELINE="591 3525 1147 3537 1246 3527 1637 3530 1748 3526 2015 3536 2142 3517 2370 3529" 
-                    HPOS="591"
-                    VPOS="3471"
-                    WIDTH="1779"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="591 3471 2370 3471 2370 3540 591 3540"/></Shape>
-	    <String CONTENT="STEPANENKO, Bobby (1940 S. Paulo) — bp-72"
-                    HPOS="591"
-                    VPOS="3471"
-                    WIDTH="1779"
-                    HEIGHT="69"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_30"
-                    
-                    BASELINE="582 3698 626 3710 767 3711 968 3712 1268 3701 2955 3709" 
-                    HPOS="579"
-                    VPOS="3650"
-                    WIDTH="2384"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="579 3650 2963 3650 2963 3717 579 3717"/></Shape>
-	    <String CONTENT="I, 72, 1,80, chapas. 4.000,00"
-                    HPOS="579"
-                    VPOS="3650"
-                    WIDTH="2384"
-                    HEIGHT="67"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_31"
-                    
-                    BASELINE="585 3792 659 3804 788 3805 899 3796 976 3795 1107 3808 1391 3796 2952 3802" 
-                    HPOS="585"
-                    VPOS="3738"
-                    WIDTH="2375"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="585 3741 2960 3738 2960 3806 585 3809"/></Shape>
-	    <String CONTENT="II, 72, 35x35, chapas. 3.500,00"
-                    HPOS="585"
-                    VPOS="3738"
-                    WIDTH="2375"
-                    HEIGHT="71"></String>
-          </TextLine>
+                                        <TextLine ID="tl_6"
+                                                BASELINE="586 1158 957 1157 1113 1166 1248 1167 1519 1167 1918 1155 2966 1155"
+                                                HPOS="586" VPOS="1095" WIDTH="2380" HEIGHT="76">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="586 1095 2966 1095 2966 1171 586 1171"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Construção III, 72, objeto, montagem 2.000,00"
+                                                  HPOS="586" VPOS="1095" WIDTH="2380" HEIGHT="76"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_32"
-                    
-                    BASELINE="586 3887 694 3899 825 3901 959 3900 1246 3889 2949 3899" 
-                    HPOS="586"
-                    VPOS="3835"
-                    WIDTH="2373"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="586 3835 2959 3838 2959 3904 586 3901"/></Shape>
-	    <String CONTENT="III, 72, 40, chapas. 2.300,00"
-                    HPOS="586"
-                    VPOS="3835"
-                    WIDTH="2373"
-                    HEIGHT="69"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_33"
-                    
-                    BASELINE="588 3981 686 3993 817 3993 949 3993 1222 3983 2958 3992" 
-                    HPOS="588"
-                    VPOS="3928"
-                    WIDTH="2391"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="588 3928 2979 3931 2979 3997 588 3994"/></Shape>
-	    <String CONTENT="IV, 72, 40, chapas 2.300,00"
-                    HPOS="588"
-                    VPOS="3928"
-                    WIDTH="2391"
-                    HEIGHT="69"></String>
-          </TextLine>
 
-          
-        </TextBlock>
-        
+                                        <TextLine ID="tl_7"
+                                                BASELINE="587 1252 959 1252 1090 1251 1244 1262 1513 1261 1912 1250 2963 1246"
+                                                HPOS="587" VPOS="1189" WIDTH="2376" HEIGHT="79">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="587 1189 2963 1189 2963 1268 587 1268"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Construção IV ,72, objeto, montagem 2.000,00"
+                                                  HPOS="587" VPOS="1189" WIDTH="2376" HEIGHT="79"/>
+                                        </TextLine>
 
-        
-      </PrintSpace>
-    </Page>
-  </Layout>
+
+
+                                        <TextLine ID="tl_8"
+                                                BASELINE="591 1348 964 1346 1083 1358 1226 1358 1497 1356 1900 1344 2967 1342"
+                                                HPOS="591" VPOS="1282" WIDTH="2376" HEIGHT="81">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="591 1282 2967 1282 2967 1363 591 1363"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Construção V, 72, objeto, montagem 2.000,00"
+                                                  HPOS="591" VPOS="1282" WIDTH="2376" HEIGHT="81"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_9"
+                                                BASELINE="594 1563 633 1563 1159 1562 1342 1562 1566 1564 1683 1551 1778 1563 2038 1574 2160 1552 2375 1566"
+                                                HPOS="594" VPOS="1508" WIDTH="1781" HEIGHT="68">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="594 1508 2375 1508 2375 1576 594 1576"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="SMITH, Ricardo Luiz (1945 — S. Paulo) — bp-72"
+                                                  HPOS="594" VPOS="1508" WIDTH="1781" HEIGHT="68"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_10"
+                                                BASELINE="585 1753 752 1753 1072 1753 1397 1723 1516 1739 2013 1753 2099 1763 2211 1753 2319 1755 2397 1753 2567 1755 2961 1752"
+                                                HPOS="585" VPOS="1692" WIDTH="2376" HEIGHT="76">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="585 1692 2961 1692 2961 1768 585 1768"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Série “Gênese Formal” — Diferenciação I, 72 60x1,40 1.000,00"
+                                                  HPOS="585" VPOS="1692" WIDTH="2376" HEIGHT="76"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_11"
+                                                BASELINE="585 1848 752 1847 1070 1847 1392 1820 1506 1833 2001 1848 2114 1858 2243 1860 2349 1846 2421 1854 2566 1848 2960 1844"
+                                                HPOS="585" VPOS="1787" WIDTH="2375" HEIGHT="75">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="585 1787 2960 1787 2960 1862 585 1862"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Série “Gênese Formal” — Diferenciação II, 72, 80x120 1.000,00"
+                                                  HPOS="585" VPOS="1787" WIDTH="2375" HEIGHT="75"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_12"
+                                                BASELINE="588 1944 754 1942 1056 1943 1373 1914 1483 1928 1978 1941 2118 1953 2239 1953 2345 1941 2415 1943 2573 1945 2963 1941"
+                                                HPOS="588" VPOS="1883" WIDTH="2375" HEIGHT="74">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="588 1883 2963 1883 2963 1957 588 1957"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Série “Gênese Formal” — Diferenciação III, 72, 60x1,20 1.000,00"
+                                                  HPOS="588" VPOS="1883" WIDTH="2375" HEIGHT="74"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_13"
+                                                BASELINE="581 2038 748 2035 1062 2036 1381 2008 1494 2023 1985 2036 2118 2048 2241 2047 2403 2039 2473 2037 2576 2040 2955 2039"
+                                                HPOS="581" VPOS="1976" WIDTH="2374" HEIGHT="74">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="581 1976 2955 1976 2955 2050 581 2050"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Série “Gênese Formal” — Diferenciação IV, 72, 1,60x40 1.000,00"
+                                                  HPOS="581" VPOS="1976" WIDTH="2374" HEIGHT="74"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_14"
+                                                BASELINE="577 2133 744 2131 1062 2132 1385 2102 1504 2117 2000 2131 2110 2143 2239 2140 2349 2132 2426 2132 2558 2130 2950 2129"
+                                                HPOS="577" VPOS="2071" WIDTH="2373" HEIGHT="74">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="577 2071 2950 2071 2950 2145 577 2145"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Série “Gênese Formal” — Diferenciação V, 72, 80x60. 1.000,00"
+                                                  HPOS="577" VPOS="2071" WIDTH="2373" HEIGHT="74"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_15"
+                                                BASELINE="583 2227 748 2226 1066 2225 1387 2197 1499 2211 1994 2227 2129 2236 2256 2237 2363 2225 2435 2225 2595 2227 2955 2221"
+                                                HPOS="583" VPOS="2168" WIDTH="2372" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="583 2168 2955 2168 2955 2239 583 2239"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Série “Gênese Formal” — Diferenciação VI, 72, 70x1,40 1.000,00"
+                                                  HPOS="583" VPOS="2168" WIDTH="2372" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_16"
+                                                BASELINE="596 2457 1025 2457 1251 2459 1369 2446 1556 2469 1685 2446 1903 2459"
+                                                HPOS="596" VPOS="2404" WIDTH="1307" HEIGHT="66">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="596 2404 1903 2404 1903 2470 596 2470"/>
+                                                </Shape>
+                                                <String CONTENT="SPARAPAN (1950 — Jaú) — bp-72"
+                                                  HPOS="596" VPOS="2404" WIDTH="1307" HEIGHT="66"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_17"
+                                                BASELINE="587 2645 879 2643 1028 2643 1294 2645 1646 2647 1758 2632 2093 2648 2962 2637"
+                                                HPOS="587" VPOS="2589" WIDTH="2375" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="587 2589 2962 2589 2962 2660 587 2660"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Subúrbio nas Linhas Paralelas — Proposta 1."
+                                                  HPOS="587" VPOS="2589" WIDTH="2375" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_18"
+                                                BASELINE="587 2735 853 2736 969 2737 1425 2739 1545 2726 1888 2740 1983 2740 2963 2731"
+                                                HPOS="587" VPOS="2683" WIDTH="2376" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="587 2683 2963 2683 2963 2755 587 2755"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Arquivo de Sentimentos — Proposta 2. "
+                                                  HPOS="587" VPOS="2683" WIDTH="2376" HEIGHT="72"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_19"
+                                                BASELINE="582 2832 1082 2832 1195 2833 1458 2838 1570 2835 1670 2835 2031 2837 2139 2824 2466 2839 2958 2828"
+                                                HPOS="582" VPOS="2778" WIDTH="2376" HEIGHT="75">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="582 2778 2958 2778 2958 2853 582 2853"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Coloquemo-nos no Mesmo Pé de Igualdade — Proposta 3."
+                                                  HPOS="582" VPOS="2778" WIDTH="2376" HEIGHT="75"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_20"
+                                                BASELINE="590 2925 738 2926 927 2926 1076 2927 1191 2913 1527 2927 1620 2927 2964 2920"
+                                                HPOS="590" VPOS="2872" WIDTH="2374" HEIGHT="70">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="590 2872 2964 2872 2964 2942 590 2942"/>
+                                                </Shape>
+                                                <String CONTENT="Olhe para Ele — Proposta 4. "
+                                                  HPOS="590" VPOS="2872" WIDTH="2374" HEIGHT="70"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_21"
+                                                BASELINE="576 3019 675 3019 1006 3020 1108 3020 1337 3021 1504 3023 1700 3023 1802 3025 2071 3025 2125 3013 2460 3028 2544 3026 2953 3016"
+                                                HPOS="576" VPOS="2966" WIDTH="2377" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="576 2966 2953 2966 2953 3038 576 3038"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Na Presença do Corpo nem Tudo se Mostra - Proposta 5. "
+                                                  HPOS="576" VPOS="2966" WIDTH="2377" HEIGHT="72"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_22"
+                                                BASELINE="585 3112 874 3113 981 3114 1214 3114 1281 3114 1351 3115 1662 3118 1771 3104 2104 3119 2189 3119 2957 3108"
+                                                HPOS="585" VPOS="3060" WIDTH="2372" HEIGHT="74">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="585 3060 2957 3060 2957 3134 585 3134"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="O Espaço do Corpo e a Vontade — Proposta 6. "
+                                                  HPOS="585" VPOS="3060" WIDTH="2372" HEIGHT="74"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_23"
+                                                BASELINE="580 3206 765 3207 1003 3208 1074 3209 1361 3211 1693 3214 1850 3213 2269 3214 2953 3204"
+                                                HPOS="580" VPOS="3155" WIDTH="2373" HEIGHT="62">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="580 3155 2953 3155 2953 3217 580 3217"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Estas Cenas e Minhas Cadeiras não Entendidas "
+                                                  HPOS="580" VPOS="3155" WIDTH="2373" HEIGHT="62"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_24"
+                                                BASELINE="579 3300 876 3303 966 3301 2953 3296"
+                                                HPOS="579" VPOS="3250" WIDTH="2374" HEIGHT="68">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="579 3250 2953 3250 2953 3318 579 3318"/>
+                                                </Shape>
+                                                <String CONTENT="Proposta 7. " HPOS="579"
+                                                  VPOS="3250" WIDTH="2374" HEIGHT="68"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_25"
+                                                BASELINE="591 3525 1147 3537 1246 3527 1637 3530 1748 3526 2015 3536 2142 3517 2370 3529"
+                                                HPOS="591" VPOS="3471" WIDTH="1779" HEIGHT="69">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="591 3471 2370 3471 2370 3540 591 3540"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="STEPANENKO, Bobby (1940 S. Paulo) — bp-72"
+                                                  HPOS="591" VPOS="3471" WIDTH="1779" HEIGHT="69"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_30"
+                                                BASELINE="582 3698 626 3710 767 3711 968 3712 1268 3701 2955 3709"
+                                                HPOS="579" VPOS="3650" WIDTH="2384" HEIGHT="67">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="579 3650 2963 3650 2963 3717 579 3717"/>
+                                                </Shape>
+                                                <String CONTENT="I, 72, 1,80, chapas. 4.000,00"
+                                                  HPOS="579" VPOS="3650" WIDTH="2384" HEIGHT="67"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_31"
+                                                BASELINE="585 3792 659 3804 788 3805 899 3796 976 3795 1107 3808 1391 3796 2952 3802"
+                                                HPOS="585" VPOS="3738" WIDTH="2375" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="585 3741 2960 3738 2960 3806 585 3809"/>
+                                                </Shape>
+                                                <String CONTENT="II, 72, 35x35, chapas. 3.500,00"
+                                                  HPOS="585" VPOS="3738" WIDTH="2375" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_32"
+                                                BASELINE="586 3887 694 3899 825 3901 959 3900 1246 3889 2949 3899"
+                                                HPOS="586" VPOS="3835" WIDTH="2373" HEIGHT="69">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="586 3835 2959 3838 2959 3904 586 3901"/>
+                                                </Shape>
+                                                <String CONTENT="III, 72, 40, chapas. 2.300,00"
+                                                  HPOS="586" VPOS="3835" WIDTH="2373" HEIGHT="69"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_33"
+                                                BASELINE="588 3981 686 3993 817 3993 949 3993 1222 3983 2958 3992"
+                                                HPOS="588" VPOS="3928" WIDTH="2391" HEIGHT="69">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="588 3928 2979 3931 2979 3997 588 3994"/>
+                                                </Shape>
+                                                <String CONTENT="IV, 72, 40, chapas 2.300,00"
+                                                  HPOS="588" VPOS="3928" WIDTH="2391" HEIGHT="69"/>
+                                        </TextLine>
+
+
+                                </TextBlock>
+
+
+
+                        </PrintSpace>
+                </Page>
+        </Layout>
 </alto>

@@ -1,160 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+  xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>1866_04_23_GAB_0004.jpg</fileName>
     </sourceImageInformation>
   </Description>
-  
+
   <Tags>
-    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/>
+    <OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/>
+    <OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+    <OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
+    <OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+    <OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
     <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
-  
+
   <Layout>
-    <Page WIDTH="1811"
-          HEIGHT="2838"
-          PHYSICAL_IMG_NR="58"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="1811"
-                  HEIGHT="2838">
-        
-        <TextBlock HPOS="338"
-                   VPOS="853"
-                   WIDTH="1208"
-                   HEIGHT="665"
-                   ID="eSc_textblock_3d27843b"
-                   TAGREFS="BT231">
-          <Shape><Polygon POINTS="338 853 338 1518 1546 1518 1546 853"/></Shape>
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT96"
-                    BASELINE="857 929 978 930" 
-                    HPOS="857"
-                    VPOS="895"
-                    WIDTH="121"
-                    HEIGHT="35">
-            <Shape><Polygon POINTS="857 895 978 895 978 930 857 930"/></Shape>
-	    <String CONTENT="AVIS"
-                    HPOS="857"
-                    VPOS="895"
-                    WIDTH="121"
-                    HEIGHT="35"></String>
+    <Page WIDTH="1811" HEIGHT="2838" PHYSICAL_IMG_NR="58" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1811" HEIGHT="2838">
+
+        <TextBlock HPOS="338" VPOS="853" WIDTH="1208" HEIGHT="665" ID="eSc_textblock_3d27843b"
+          TAGREFS="BT231">
+          <Shape>
+            <Polygon POINTS="338 853 338 1518 1546 1518 1546 853"/>
+          </Shape>
+
+
+          <TextLine ID="tl_1" TAGREFS="LT96" BASELINE="857 929 978 930" HPOS="857" VPOS="895"
+            WIDTH="121" HEIGHT="35">
+            <Shape>
+              <Polygon POINTS="857 895 978 895 978 930 857 930"/>
+            </Shape>
+            <String CONTENT="AVIS" HPOS="857" VPOS="895" WIDTH="121" HEIGHT="35"/>
           </TextLine>
 
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT96"
-                    BASELINE="416 1072 438 1072 534 1073 585 1073 628 1074 732 1074 768 1074 807 1084 894 1074 1076 1075 1129 1075 1164 1075 1200 1075 1234 1075 1364 1076" 
-                    HPOS="416"
-                    VPOS="1040"
-                    WIDTH="948"
-                    HEIGHT="47">
-            <Shape><Polygon POINTS="416 1040 1364 1040 1364 1087 416 1087"/></Shape>
-	    <String CONTENT="Le jour de la veille il y aura exposition de 2 k 4 heures."
-                    HPOS="416"
-                    VPOS="1040"
-                    WIDTH="948"
-                    HEIGHT="47"></String>
+
+
+          <TextLine ID="tl_2" TAGREFS="LT96"
+            BASELINE="416 1072 438 1072 534 1073 585 1073 628 1074 732 1074 768 1074 807 1084 894 1074 1076 1075 1129 1075 1164 1075 1200 1075 1234 1075 1364 1076"
+            HPOS="416" VPOS="1040" WIDTH="948" HEIGHT="47">
+            <Shape>
+              <Polygon POINTS="416 1040 1364 1040 1364 1087 416 1087"/>
+            </Shape>
+            <String CONTENT="Le jour de la veille il y aura exposition de 2 k 4 heures." HPOS="416"
+              VPOS="1040" WIDTH="948" HEIGHT="47"/>
           </TextLine>
 
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT96"
-                    BASELINE="416 1138 461 1138 557 1139 648 1140 751 1140 851 1140 900 1140 1106 1140 1176 1141 1306 1150 1410 1143 1461 1143" 
-                    HPOS="416"
-                    VPOS="1106"
-                    WIDTH="1045"
-                    HEIGHT="46">
-            <Shape><Polygon POINTS="416 1106 1461 1106 1461 1152 416 1152"/></Shape>
-	    <String CONTENT="Ou aura huit jours pour la vérification des pièces; passé ce"
-                    HPOS="416"
-                    VPOS="1106"
-                    WIDTH="1045"
-                    HEIGHT="46"></String>
+
+
+          <TextLine ID="tl_3" TAGREFS="LT96"
+            BASELINE="416 1138 461 1138 557 1139 648 1140 751 1140 851 1140 900 1140 1106 1140 1176 1141 1306 1150 1410 1143 1461 1143"
+            HPOS="416" VPOS="1106" WIDTH="1045" HEIGHT="46">
+            <Shape>
+              <Polygon POINTS="416 1106 1461 1106 1461 1152 416 1152"/>
+            </Shape>
+            <String CONTENT="Ou aura huit jours pour la vérification des pièces; passé ce"
+              HPOS="416" VPOS="1106" WIDTH="1045" HEIGHT="46"/>
           </TextLine>
 
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT96"
-                    BASELINE="374 1204 468 1211 607 1205 816 1204 872 1205 951 1206 1089 1207" 
-                    HPOS="374"
-                    VPOS="1172"
-                    WIDTH="715"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="374 1172 1089 1172 1089 1213 374 1213"/></Shape>
-	    <String CONTENT="délai, aucune réclamation ne sera admise."
-                    HPOS="374"
-                    VPOS="1172"
-                    WIDTH="715"
-                    HEIGHT="41"></String>
+
+
+          <TextLine ID="tl_4" TAGREFS="LT96"
+            BASELINE="374 1204 468 1211 607 1205 816 1204 872 1205 951 1206 1089 1207" HPOS="374"
+            VPOS="1172" WIDTH="715" HEIGHT="41">
+            <Shape>
+              <Polygon POINTS="374 1172 1089 1172 1089 1213 374 1213"/>
+            </Shape>
+            <String CONTENT="délai, aucune réclamation ne sera admise." HPOS="374" VPOS="1172"
+              WIDTH="715" HEIGHT="41"/>
           </TextLine>
 
-          
-          
-          <TextLine ID="tl_5"
-                    TAGREFS="LT96"
-                    BASELINE="414 1275 461 1275 617 1276 700 1286 860 1277 930 1278 1024 1277 1077 1278 1143 1278 1212 1279 1456 1279" 
-                    HPOS="414"
-                    VPOS="1243"
-                    WIDTH="1042"
-                    HEIGHT="46">
-            <Shape><Polygon POINTS="414 1243 1456 1243 1456 1289 414 1289"/></Shape>
-	    <String CONTENT="On percevra cinq centimes par franc eu sus des adjudications."
-                    HPOS="414"
-                    VPOS="1243"
-                    WIDTH="1042"
-                    HEIGHT="46"></String>
+
+
+          <TextLine ID="tl_5" TAGREFS="LT96"
+            BASELINE="414 1275 461 1275 617 1276 700 1286 860 1277 930 1278 1024 1277 1077 1278 1143 1278 1212 1279 1456 1279"
+            HPOS="414" VPOS="1243" WIDTH="1042" HEIGHT="46">
+            <Shape>
+              <Polygon POINTS="414 1243 1456 1243 1456 1289 414 1289"/>
+            </Shape>
+            <String CONTENT="On percevra cinq centimes par franc eu sus des adjudications."
+              HPOS="414" VPOS="1243" WIDTH="1042" HEIGHT="46"/>
           </TextLine>
 
-          
-          
-          <TextLine ID="tl_6"
-                    TAGREFS="LT96"
-                    BASELINE="414 1343 441 1343 617 1343 663 1344 962 1346 1028 1346 1082 1346 1220 1354 1392 1350 1459 1351" 
-                    HPOS="414"
-                    VPOS="1311"
-                    WIDTH="1045"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="414 1311 1459 1311 1459 1361 414 1361"/></Shape>
-	    <String CONTENT="M. Gabiurl Charavay, chargé de la vente, remplira les"
-                    HPOS="414"
-                    VPOS="1311"
-                    WIDTH="1045"
-                    HEIGHT="50"></String>
+
+
+          <TextLine ID="tl_6" TAGREFS="LT96"
+            BASELINE="414 1343 441 1343 617 1343 663 1344 962 1346 1028 1346 1082 1346 1220 1354 1392 1350 1459 1351"
+            HPOS="414" VPOS="1311" WIDTH="1045" HEIGHT="50">
+            <Shape>
+              <Polygon POINTS="414 1311 1459 1311 1459 1361 414 1361"/>
+            </Shape>
+            <String CONTENT="M. Gabiurl Charavay, chargé de la vente, remplira les" HPOS="414"
+              VPOS="1311" WIDTH="1045" HEIGHT="50"/>
           </TextLine>
 
-          
-          
-          <TextLine ID="tl_7"
-                    TAGREFS="LT96"
-                    BASELINE="373 1412 581 1414 690 1413 824 1413 906 1413 965 1413 1103 1414" 
-                    HPOS="372"
-                    VPOS="1380"
-                    WIDTH="731"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="372 1380 1103 1380 1103 1424 372 1424"/></Shape>
-	    <String CONTENT="commissions qu’on voudra bien lui confier."
-                    HPOS="372"
-                    VPOS="1380"
-                    WIDTH="731"
-                    HEIGHT="44"></String>
+
+
+          <TextLine ID="tl_7" TAGREFS="LT96"
+            BASELINE="373 1412 581 1414 690 1413 824 1413 906 1413 965 1413 1103 1414" HPOS="372"
+            VPOS="1380" WIDTH="731" HEIGHT="44">
+            <Shape>
+              <Polygon POINTS="372 1380 1103 1380 1103 1424 372 1424"/>
+            </Shape>
+            <String CONTENT="commissions qu’on voudra bien lui confier." HPOS="372" VPOS="1380"
+              WIDTH="731" HEIGHT="44"/>
           </TextLine>
 
-          
+
         </TextBlock>
-        
 
-        
+
+
       </PrintSpace>
     </Page>
   </Layout>
