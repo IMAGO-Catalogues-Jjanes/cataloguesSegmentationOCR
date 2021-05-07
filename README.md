@@ -35,8 +35,8 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
 |           ├─ page_transforme
 │           └─ image
 |
-├── 2_Boite_a_outils
-|     └──  Dépôt commun d'outils pour la préparation des données
+├── 2_ToolBox
+|     └──  Joint Toolbox for dataset's preparation
 |
 ├── 3_Scripts_training_construction
 │     ├─ build_train_alto.sh
@@ -46,8 +46,7 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
 |
 ├── images
 |
-├── Dataset.csv 
-└── rapport datasetTest_segmentation.pdf
+└─ Dataset.csv 
 ```
                   
 
