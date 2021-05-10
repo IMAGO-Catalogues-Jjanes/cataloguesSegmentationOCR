@@ -64,7 +64,7 @@ The other images are extracts of catalogs published after 1920 and are the intel
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ## Cite this repository
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Dataset for Historical Catalogs Segmentation_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesPipeline/
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Dataset for Historical Catalogs Segmentation_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesSegmentationOCR/
 
 ## Contacts
 If you have any questions or remarks, please contact juliette.janes@chartes.psl.eu and simon.gabay@unige.ch.
