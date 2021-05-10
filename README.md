@@ -1,4 +1,4 @@
-# Dataset for historical catalogs OCR
+# Dataset for historical catalogs Segmentation
 
 The Artl@s project focus on the global circulation of images from the 1890s to the advent of the Internet, using digital methodologies. Among its projects, BasArt is an online database of exhibition catalogs from the 19th and 20th centuries. 
 In order to broaden this database, Caroline Corbières, intern of the project in 2020, worked on the automatisation of its process. A scanned exhibition catalog is taken as an input and then encoded in XML-TEI and structured in csv. 
@@ -64,7 +64,7 @@ The other images are extracts of catalogs published after 1920 and are the intel
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ## Cite this repository
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Dataset for Historical Catalogs OCR_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesPipeline/
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Dataset for Historical Catalogs Segmentation_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesPipeline/
 
 ## Contacts
 If you have any questions or remarks, please contact juliette.janes@chartes.psl.eu and simon.gabay@unige.ch.
