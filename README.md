@@ -1,10 +1,10 @@
-# Dataset for historical catalogs OCR
+# Dataset for historical catalogs Segmentation
 
 The Artl@s project focus on the global circulation of images from the 1890s to the advent of the Internet, using digital methodologies. Among its projects, BasArt is an online database of exhibition catalogs from the 19th and 20th centuries. 
 In order to broaden this database, Caroline Corbières, intern of the project in 2020, worked on the automatisation of its process. A scanned exhibition catalog is taken as an input and then encoded in XML-TEI and structured in csv. 
 
 In this context, the aim of this repository is to improve the ocerization and segmentation of this [Catalogs Workflow](https://github.com/carolinecorbieres/ArtlasCatalogues). This step occurs at the beginning of the workflow and transforms the data from an image to a text. 
-The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/fr/) but also to make a useful tool for researchers who need to ocerize their catalogues. Therefore, this dataset holds exhibition catalogs, prepared by Caroline Corbières, catalogs of 19th to nowadays manuscripts fairs of the [Katabase](https://github.com/katabase) project, arranged by Simon Gabay and from the [Adresses et Annuaires group](https://paris-timemachine.huma-num.fr/groupe-adresses-et-annuaires/) of Paris Time Machine of the EHESS, produced by Gabriela Elgarrista. 
+The idea was not only to refine the OCR for [Artl@s](https://artlas.huma-num.fr/fr/) but also to make a useful tool for researchers who need to ocerize their catalogues. Therefore, this dataset holds exhibition catalogs, prepared by Caroline Corbières, catalogs of 19th to nowadays manuscripts fairs of the [Katabase](https://github.com/katabase) project, arranged by Simon Gabay and owners directories from the [Adresses et Annuaires group](https://paris-timemachine.huma-num.fr/groupe-adresses-et-annuaires/) of Paris Time Machine of the EHESS, produced by Gabriela Elgarrista. 
 
 The dataset is composed of 150 pages, with 50 pages of each type of data. Its presentation is accessible in the csv file, where each page is described. The schema below explains its process of creation. Since the pageXML from Transkribus was displayed without the manual corrections done in the transcription, a XSLT transformation has been done on them. It can be found [here](https://github.com/Heresta/BAO_Stage_DH_ENS_2021/tree/main/CorrectionPageXMLeScriptorium). Then, the pages have been prepared and segmented in [eScriptorium](http://traces6.paris.inria.fr/) using the [SegmOnto](https://github.com/SegmOnto) ontology which allows to name the differents zones and lines. This work is developped [here](https://github.com/Juliettejns/cataloguesPipeline/blob/main/1_Data/README.md). Lastly, the work done has been exported in ALTO4 format, accessible in this repository, along with the images used. 
 
@@ -35,8 +35,8 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
 |           ├─ page_transforme
 │           └─ image
 |
-├── 2_Boite_a_outils
-|     └──  Dépôt commun d'outils pour la préparation des données
+├── 2_ToolBox
+|     └──  Joint Toolbox for dataset's preparation
 |
 ├── 3_Scripts_training_construction
 │     ├─ build_train_alto.sh
@@ -46,8 +46,7 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
 |
 ├── images
 |
-├── Dataset.csv 
-└── rapport datasetTest_segmentation.pdf
+└─ Dataset.csv 
 ```
                   
 
@@ -65,7 +64,7 @@ The other images are extracts of catalogs published after 1920 and are the intel
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
 
 ## Cite this repository
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Dataset for Historical Catalogs OCR_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesPipeline/
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, _Dataset for Historical Catalogs Segmentation_, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesSegmentationOCR/
 
 ## Contacts
 If you have any questions or remarks, please contact juliette.janes@chartes.psl.eu and simon.gabay@unige.ch.
