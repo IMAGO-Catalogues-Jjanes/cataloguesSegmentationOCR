@@ -8,8 +8,8 @@ The goal was to recreate a small dataset of 50 images which could represent the 
 ## Directory
 - **images**: contains the images
 - **page_Transkribus**: contains the PageXML export done from Transkribus in order to migrate to eScriptorium
-- **alto_eScriptorium**: contains the ouput of eScriptorium in ALTO4 format.
-
+- **alto_eScriptorium_Simple**: contains the Dataset without Entry, output of eScriptorium, in ALTO4
+- **alto_eScriptorium_Entry**: contains the Dataset with Entry, output of eScriptorium in ALTO4
 ## Images properties
 - Format of the images: tif
 - Dimensions: 8009 * 11737 px
