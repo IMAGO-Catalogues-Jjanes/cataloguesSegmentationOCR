@@ -4,7 +4,7 @@
 rm -r trainingDataAnnuaire; mkdir trainingDataAnnuaire
 mkdir -p trainingDataAnnuaire
 #getting images
-cp ../1_Data/Annuaires/images/*tif trainingDataAnnuaire
+cp .../1_Data/Annuaires/images/*tif trainingDataAnnuaire
 #getting the ALTO4 files
-cp ../1_Data/Annuaires/alto_eScriptorium/*xml trainingDataAnnuaire
+cp .../1_Data/Annuaires/alto_eScriptorium_Simple/*xml trainingDataAnnuaire
 
