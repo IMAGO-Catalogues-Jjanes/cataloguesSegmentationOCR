@@ -16,7 +16,8 @@ Since it is mostly extracts from very different catalogs, all the different form
 - **images**: contains the images.
 - **page_Transkribus**: contains the PageXML export done from Transkribus in order to migrate to eScriptorium
 - **page_transforme**: contains the PageXML obtained after its transformation by the script done [here](https://github.com/Heresta/BAO_Stage_DH_ENS_2021/tree/main/CorrectionPageXMLeScriptorium) in order for eScriptorium to display the manual corrections done on the transcriptions
-- **alto_eScriptorium**: contains the ouput of eScriptorium in ALTO4 format.
+- **alto_eScriptorium_Simple**: contains the Dataset without Entry, output of eScriptorium, in ALTO4
+- **alto_eScriptorium_Entry**: contains the Dataset with Entry, output of eScriptorium in ALTO4
 
 ## Images properties
 - format: jpg
