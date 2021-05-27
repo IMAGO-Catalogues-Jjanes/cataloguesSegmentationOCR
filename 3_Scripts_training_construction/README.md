@@ -1,6 +1,7 @@
 # Training Dataset Construction
 
 These scripts allow to create a training dataset of the dataset presented, using terminal commands. 
+The ones in the withoutEntry directory are creating datasets using the dataset which only have SegmOnto Zones where as the withEntry directory creates datasets using the datasets with Entry zones.
 
 - build_train_alto : build a dataset using all the differents datas contained in the repository (annuaires, exhibition catalogs and manuscripts' fair catalogs)
 - build_train_alto_annuaire: build a dataset containing the annuaires xml and images
