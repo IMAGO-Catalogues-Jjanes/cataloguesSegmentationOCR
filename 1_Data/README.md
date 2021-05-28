@@ -55,4 +55,5 @@ From Left to Right: An entry for Exhibition Catalogs, an entry for Annuaires and
   <p align="center">
   <img src="../images/exemple_entryEnd.png" width="300"/>
   </p>
-When an entry straddles multiples columns or pages, such as the image above, the beginning of the entry is described as a basic entry, and the zone EntryEnd is used for the other part, such as the image above.
+  Purple: EntryEnd, Blue: Entry</br>
+When an entry straddles multiples columns or pages, such as the image above, the beginning of the entry is described as a basic entry, and the zone EntryEnd is used for the other part, such as the image above. 
