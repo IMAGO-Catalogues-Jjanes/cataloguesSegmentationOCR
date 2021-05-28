@@ -1,6 +1,6 @@
 # Segmentation of the dataset
 
-## Naming zones and lines with SegmOnto : dataset Simple
+## Naming zones and lines with SegmOnto
 
 The idea was to train a segmentation model which could automatically tag the differents zones and lines of an image, so that the TEI transformation would be easier. Due to this, the dataset has been prepared in eScriptorium using a system of tagging lines and regions of an image. Do to that, we rely on the work done by SegmOnto initiative, which is a group aiming to create a TEI-based ontology for HTR. 
 
@@ -35,9 +35,9 @@ Title are also a less recurent type of elements in the dataset. As it can be see
   </p>
     
   
-## The Entry Zone: Dataset Entry
+## The Entry Zone
 
-The entry zone has been added the SegmOnto zones in our second dataset, the Entry Dataset, in order to have a more representative segmentation of our corpus. 
+The entry zone has been added the SegmOnto zones in the Dataset in order to have a more representative segmentation of our corpus. 
 <p class="float" align="center">
     <img src="../images/Entry_Expo.png" width="300"/>
   <img src="../images/Entry_An.png" width="300"/>
@@ -50,3 +50,10 @@ From Left to Right: An entry for Exhibition Catalogs, an entry for Annuaires and
   </p>
   An exemple of an entry going on differents pages or columns. </br>
   An entry is contained in a main zone and can contain other zones such as figure, as it is shown on the image.
+  
+  
+  <p align="center">
+  <img src="../images/exemple_entryEnd.png" width="300"/>
+  </p>
+  Purple: EntryEnd, Blue: Entry</br>
+When an entry straddles multiples columns or pages, such as the image above, the beginning of the entry is described as a basic entry, and the zone EntryEnd is used for the other part, such as the image above. 
