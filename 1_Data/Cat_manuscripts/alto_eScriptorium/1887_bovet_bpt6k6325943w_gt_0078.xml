@@ -1,561 +1,526 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-  <Description>
-    <MeasurementUnit>pixel</MeasurementUnit>
-    <sourceImageInformation>
-      <fileName>1887_bovet_bpt6k6325943w_gt_0078.jpg</fileName>
-    </sourceImageInformation>
-  </Description>
-  
-  <Tags>
-    <OtherTag ID="BT356" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT357" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT358" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT359" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT360" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT361" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT375" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT422" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-    <OtherTag ID="LT135" LABEL="Default" DESCRIPTION="line type Default"/>
-  </Tags>
-  
-  <Layout>
-    <Page WIDTH="3637"
-          HEIGHT="4663"
-          PHYSICAL_IMG_NR="30"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3637"
-                  HEIGHT="4663">
-        
-        <TextBlock HPOS="756.0"
-                   VPOS="1003.0"
-                   WIDTH="2210.0"
-                   HEIGHT="1533.0"
-                   ID="eSc_textblock_6a732d3b"
-                   TAGREFS="BT356">
-          <Shape><Polygon POINTS="756 1003 756 2536 2966 2536 2966 1003"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1929.0"
-                   VPOS="3041.0"
-                   WIDTH="1091.0"
-                   HEIGHT="866.0"
-                   ID="eSc_textblock_ad6a5749"
-                   TAGREFS="BT356">
-          <Shape><Polygon POINTS="1929 3041 1929 3907 3020 3907 3020 3041"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="731.0"
-                   VPOS="604.0"
-                   WIDTH="130.0"
-                   HEIGHT="88.0"
-                   ID="eSc_textblock_91a17575"
-                   TAGREFS="BT358">
-          <Shape><Polygon POINTS="731 604 731 692 861 692 861 604"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_961c3b41"
-                    TAGREFS="LT135"
-                    BASELINE="785 651 850 648" 
-                    HPOS="781.0"
-                    VPOS="606.0"
-                    WIDTH="59.0"
-                    HEIGHT="70.0">
-            <Shape><Polygon POINTS="781 648 785 613 836 606 840 676 789 660"/></Shape>
-	    <String CONTENT="14"
-                    HPOS="781.0"
-                    VPOS="606.0"
-                    WIDTH="59.0"
-                    HEIGHT="70.0"></String>
-          </TextLine>
+        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description>
+                <MeasurementUnit>pixel</MeasurementUnit>
+                <sourceImageInformation>
+                        <fileName>1887_bovet_bpt6k6325943w_gt_0078.jpg</fileName>
+                </sourceImageInformation>
+        </Description>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1204.0"
-                   VPOS="592.0"
-                   WIDTH="1800.0"
-                   HEIGHT="94.0"
-                   ID="eSc_textblock_b3880394"
-                   TAGREFS="BT359">
-          <Shape><Polygon POINTS="1204 592 1204 686 3004 686 3004 592"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_920060e8"
-                    TAGREFS="LT135"
-                    BASELINE="1380 654 2414 648" 
-                    HPOS="1377.0"
-                    VPOS="594.0"
-                    WIDTH="1034.0"
-                    HEIGHT="66.0">
-            <Shape><Polygon POINTS="1377 652 1380 594 1594 594 1952 594 2396 594 2411 645 2400 660 1384 656"/></Shape>
-	    <String CONTENT="CHEFS DE GOUVERNEMENT"
-                    HPOS="1377.0"
-                    VPOS="594.0"
-                    WIDTH="1034.0"
-                    HEIGHT="66.0"></String>
-          </TextLine>
+        <Tags>
+                <OtherTag ID="BT356" LABEL="Figure" DESCRIPTION="block type Figure"/>
+                <OtherTag ID="BT357" LABEL="Main" DESCRIPTION="block type Main"/>
+                <OtherTag ID="BT358" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+                <OtherTag ID="BT359" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
+                <OtherTag ID="BT360" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+                <OtherTag ID="BT361" LABEL="Title" DESCRIPTION="block type Title"/>
+                <OtherTag ID="BT375" LABEL="Entry" DESCRIPTION="block type Entry"/>
+                <OtherTag ID="BT422" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
+                <OtherTag ID="LT135" LABEL="Default" DESCRIPTION="line type Default"/>
+        </Tags>
 
-          
-          
-          <TextLine ID="eSc_line_9b7b8527"
-                    TAGREFS="LT135"
-                    BASELINE="2912 645 3000 650" 
-                    HPOS="2902.0"
-                    VPOS="596.0"
-                    WIDTH="126.0"
-                    HEIGHT="73.0">
-            <Shape><Polygon POINTS="2909 641 2906 600 2991 596 3028 626 2999 648 2987 664 2902 669"/></Shape>
-	    <String CONTENT="S.I"
-                    HPOS="2902.0"
-                    VPOS="596.0"
-                    WIDTH="126.0"
-                    HEIGHT="73.0"></String>
-          </TextLine>
+        <Layout>
+                <Page WIDTH="3637" HEIGHT="4663" PHYSICAL_IMG_NR="30" ID="eSc_dummypage_">
+                        <PrintSpace HPOS="0" VPOS="0" WIDTH="3637" HEIGHT="4663">
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="690"
-                   VPOS="839"
-                   WIDTH="2393"
-                   HEIGHT="3076"
-                   ID="eSc_textblock_3f74e8d2"
-                   TAGREFS="BT357">
-          <Shape><Polygon POINTS="690 852 690 3915 3083 3908 3070 839"/></Shape>
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT135"
-                    BASELINE="812 918 854 917 1009 914 1066 915 1179 915 1312 915 1481 917 1569 918 1633 918 1886 916 1950 917 2261 927 2318 920 2444 926 2503 920 2631 920 2680 920 2736 919 2783 919 3001 913" 
-                    HPOS="812.0"
-                    VPOS="886.0"
-                    WIDTH="2189.0"
-                    HEIGHT="41.0">
-            <Shape><Polygon POINTS="812 886 3001 886 3001 927 812 927"/></Shape>
-	    <String CONTENT="Le Comité de Salut public ordonne que les départements de Seine-et-Marne, de l’Oise, de l’Eure et de la Seine-Inté¬"
-                    HPOS="812.0"
-                    VPOS="886.0"
-                    WIDTH="2189.0"
-                    HEIGHT="41.0"></String>
-          </TextLine>
+                                <TextBlock HPOS="756.0" VPOS="1003.0" WIDTH="2210.0" HEIGHT="1533.0"
+                                        ID="eSc_textblock_6a732d3b" TAGREFS="BT356">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="756 1003 756 2536 2966 2536 2966 1003"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT135"
-                    BASELINE="775 960 880 958 1083 957 1178 957 1270 957 1460 959 1621 961 1724 960 1874 958 1943 959 2101 961 2164 961 2346 962 2403 961 2549 962 2621 962 2743 961" 
-                    HPOS="775.0"
-                    VPOS="928.0"
-                    WIDTH="1968.0"
-                    HEIGHT="42.0">
-            <Shape><Polygon POINTS="775 928 2743 928 2743 970 775 970"/></Shape>
-	    <String CONTENT="rieure fourniront sept cent cinquante voitures pour assurer les moyens de transport de l’armée du Nord."
-                    HPOS="775.0"
-                    VPOS="928.0"
-                    WIDTH="1968.0"
-                    HEIGHT="42.0"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT135"
-                    BASELINE="816 2601 930 2602 994 2601 1041 2613 1389 2611 1584 2600 1654 2600 1819 2606 1929 2601 2057 2600 2128 2600 2326 2599 2509 2598 2656 2610 2803 2602 2875 2598 3003 2587" 
-                    HPOS="812.0"
-                    VPOS="2529.0"
-                    WIDTH="2190.0"
-                    HEIGHT="90.0">
-            <Shape><Polygon POINTS="812 2599 832 2549 890 2549 914 2568 972 2549 999 2568 1050 2549 1147 2560 1166 2545 1213 2560 1330 2545 1384 2564 1423 2545 1474 2560 1520 2541 1552 2556 1579 2541 1622 2556 1688 2541 1711 2560 1820 2560 1882 2541 1902 2556 2158 2556 2182 2537 2240 2556 2403 2537 2427 2552 2512 2552 2606 2529 2629 2549 2676 2529 2796 2529 2816 2549 2991 2545 3002 2584 2967 2611 2808 2599 2617 2615 2392 2615 2341 2599 2310 2615 2259 2599 2240 2619 2081 2599 1894 2615 1587 2603 1470 2619 816 2607"/></Shape>
-	    <String CONTENT="2° L. S. par Cambacérès, Merlin de Douai, Daunou et Gamon, au citoyen Pille; Paris, 16 fruc¬"
-                    HPOS="812.0"
-                    VPOS="2529.0"
-                    WIDTH="2190.0"
-                    HEIGHT="90.0"></String>
-          </TextLine>
+                                <TextBlock HPOS="1929.0" VPOS="3041.0" WIDTH="1091.0" HEIGHT="866.0"
+                                        ID="eSc_textblock_ad6a5749" TAGREFS="BT356">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="1929 3041 1929 3907 3020 3907 3020 3041"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_5"
-                    TAGREFS="LT135"
-                    BASELINE="766 2653 874 2655 944 2654 1023 2655 1083 2654 1331 2654 1524 2653 1589 2655 1775 2665 1976 2653 2036 2654 2136 2654 2382 2653" 
-                    HPOS="762.0"
-                    VPOS="2603.0"
-                    WIDTH="1618.0"
-                    HEIGHT="70.0">
-            <Shape><Polygon POINTS="762 2650 766 2603 2337 2603 2368 2611 2380 2650 2368 2673 766 2661"/></Shape>
-	    <String CONTENT="tidor an III (2 septembre 1795), 1 p. in-fol., vignette et tête imprimée."
-                    HPOS="762.0"
-                    VPOS="2603.0"
-                    WIDTH="1618.0"
-                    HEIGHT="70.0"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_6"
-                    TAGREFS="LT135"
-                    BASELINE="804 2723 848 2724 904 2724 1142 2724 1222 2724 1270 2724 1416 2724 1611 2732 1693 2724 1911 2724 1960 2723 2126 2731 2308 2724 2413 2724 2504 2724 2600 2724 2685 2723 2852 2722 3006 2720" 
-                    HPOS="804.0"
-                    VPOS="2693.0"
-                    WIDTH="2202.0"
-                    HEIGHT="40.0">
-            <Shape><Polygon POINTS="804 2693 3006 2693 3006 2733 804 2733"/></Shape>
-	    <String CONTENT="Ils le préviennent que le général Bonnaud, qui commande à Angers, demande qu’il soit pris des mesures sévères"
-                    HPOS="804.0"
-                    VPOS="2693.0"
-                    WIDTH="2202.0"
-                    HEIGHT="40.0"></String>
-          </TextLine>
+                                <TextBlock HPOS="731.0" VPOS="604.0" WIDTH="130.0" HEIGHT="88.0"
+                                        ID="eSc_textblock_91a17575" TAGREFS="BT358">
+                                        <Shape>
+                                                <Polygon POINTS="731 604 731 692 861 692 861 604"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_7"
-                    TAGREFS="LT135"
-                    BASELINE="768 2773 849 2765 1035 2765 1085 2766 1273 2765 1324 2767 1374 2766 1496 2767 1588 2767 1626 2776 1662 2767 1761 2767 1824 2766 1977 2765 2162 2766 2353 2766 2401 2766 2570 2765 2642 2765 2697 2765 2794 2764 2872 2763 3005 2761" 
-                    HPOS="768.0"
-                    VPOS="2737.0"
-                    WIDTH="2237.0"
-                    HEIGHT="39.0">
-            <Shape><Polygon POINTS="768 2737 3005 2737 3005 2776 768 2776"/></Shape>
-	    <String CONTENT="pour maintenir la discipline et se plaint qu’il y a dans les prisons plusieurs militaires et chouans qui ne sont pas encore"
-                    HPOS="768.0"
-                    VPOS="2737.0"
-                    WIDTH="2237.0"
-                    HEIGHT="39.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_8"
-                    TAGREFS="LT135"
-                    BASELINE="768 2814 918 2800 992 2806 1138 2807 1334 2815 1394 2807 1470 2808 1580 2808 1635 2808 1786 2807 1841 2807 2194 2816 2307 2815 2447 2807 2622 2814 2680 2805 2792 2809 2952 2803 3005 2802" 
-                    HPOS="768.0"
-                    VPOS="2775.0"
-                    WIDTH="2237.0"
-                    HEIGHT="41.0">
-            <Shape><Polygon POINTS="768 2775 3005 2775 3005 2816 768 2816"/></Shape>
-	    <String CONTENT="jugés.— (Le général Bonnaud,, un des héros de l’armée de Sambre-et-Meuse, périt, l’année suivante, en 1796, pendant la"
-                    HPOS="768.0"
-                    VPOS="2775.0"
-                    WIDTH="2237.0"
-                    HEIGHT="41.0"></String>
-          </TextLine>
+                                        <TextLine ID="eSc_line_961c3b41" TAGREFS="LT135"
+                                                BASELINE="785 651 850 648" HPOS="781.0" VPOS="606.0"
+                                                WIDTH="59.0" HEIGHT="70.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="781 648 785 613 836 606 840 676 789 660"/>
+                                                </Shape>
+                                                <String CONTENT="14" HPOS="781.0" VPOS="606.0"
+                                                  WIDTH="59.0" HEIGHT="70.0"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_9"
-                    TAGREFS="LT135"
-                    BASELINE="767 2848 890 2848 1042 2847 1101 2847 1282 2854" 
-                    HPOS="767.0"
-                    VPOS="2819.0"
-                    WIDTH="515.0"
-                    HEIGHT="35.0">
-            <Shape><Polygon POINTS="767 2819 1282 2819 1282 2854 767 2854"/></Shape>
-	    <String CONTENT="célèbre retraite de Jourdan.)"
-                    HPOS="767.0"
-                    VPOS="2819.0"
-                    WIDTH="515.0"
-                    HEIGHT="35.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_10"
-                    TAGREFS="LT135"
-                    BASELINE="768 2972 1391 2972 1755 2973 1818 2973 2113 2975 2254 2976 2341 2975 2678 2971 2859 2983" 
-                    HPOS="766.0"
-                    VPOS="2902.0"
-                    WIDTH="2089.0"
-                    HEIGHT="97.0">
-            <Shape><Polygon POINTS="766 2968 770 2922 851 2906 867 2922 953 2922 988 2902 1454 2902 1540 2918 1773 2906 1797 2926 2007 2926 2030 2906 2061 2926 2209 2926 2228 2906 2287 2926 2419 2926 2613 2906 2645 2926 2816 2926 2839 2910 2855 2980 2824 2999 2699 2980 2676 2995 2648 2980 2555 2995 2392 2980 2361 2999 2267 2980 2221 2980 2197 2999 1874 2980 1843 2999 1466 2999 1268 2976 1236 2992 1217 2976 1163 2992 1085 2976 1061 2995 898 2976 859 2995 770 2995"/></Shape>
-	    <String CONTENT="★27★ DIRECTOIRE EXÉCUTIF (1 novembre 1795 au 9 novembre 1799.)"
-                    HPOS="766.0"
-                    VPOS="2902.0"
-                    WIDTH="2089.0"
-                    HEIGHT="97.0"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_11"
-                    TAGREFS="LT135"
-                    BASELINE="820 3063 931 3062 1008 3062 1079 3074 1338 3074 1492 3063 1630 3063 1852 3054" 
-                    HPOS="816.0"
-                    VPOS="2995.0"
-                    WIDTH="1035.0"
-                    HEIGHT="82.0">
-            <Shape><Polygon POINTS="816 3062 820 3015 847 3007 898 3007 921 3030 964 3007 1135 3027 1155 3007 1190 3023 1260 3007 1287 3023 1310 2999 1384 2995 1450 2999 1470 3019 1742 3015 1785 2995 1839 3011 1851 3050 1839 3065 1384 3077 820 3069"/></Shape>
-	    <String CONTENT="1° L. S. par Carnot, Reubell et Revel¬"
-                    HPOS="816.0"
-                    VPOS="2995.0"
-                    WIDTH="1035.0"
-                    HEIGHT="82.0"></String>
-          </TextLine>
+                                <TextBlock HPOS="1204.0" VPOS="592.0" WIDTH="1800.0" HEIGHT="94.0"
+                                        ID="eSc_textblock_b3880394" TAGREFS="BT359">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="1204 592 1204 686 3004 686 3004 592"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_12"
-                    TAGREFS="LT135"
-                    BASELINE="768 3118 789 3118 1235 3116 1562 3118 1647 3118 1853 3108" 
-                    HPOS="768.0"
-                    VPOS="3080.0"
-                    WIDTH="1085.0"
-                    HEIGHT="50.0">
-            <Shape><Polygon POINTS="768 3080 1853 3080 1853 3130 768 3130"/></Shape>
-	    <String CONTENT="lière-Lépeaux, aux commissaires du gouver¬"
-                    HPOS="768.0"
-                    VPOS="3080.0"
-                    WIDTH="1085.0"
-                    HEIGHT="50.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_13"
-                    TAGREFS="LT135"
-                    BASELINE="766 3173 933 3173 1143 3172 1236 3171 1482 3172 1585 3173 1759 3173 1851 3173" 
-                    HPOS="766.0"
-                    VPOS="3134.0"
-                    WIDTH="1085.0"
-                    HEIGHT="51.0">
-            <Shape><Polygon POINTS="766 3134 1851 3134 1851 3185 766 3185"/></Shape>
-	    <String CONTENT="nement chargés de recueillir les objets de"
-                    HPOS="766.0"
-                    VPOS="3134.0"
-                    WIDTH="1085.0"
-                    HEIGHT="51.0"></String>
-          </TextLine>
+                                        <TextLine ID="eSc_line_920060e8" TAGREFS="LT135"
+                                                BASELINE="1380 654 2414 648" HPOS="1377.0"
+                                                VPOS="594.0" WIDTH="1034.0" HEIGHT="66.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="1377 652 1380 594 1594 594 1952 594 2396 594 2411 645 2400 660 1384 656"
+                                                  />
+                                                </Shape>
+                                                <String CONTENT="CHEFS DE GOUVERNEMENT"
+                                                  HPOS="1377.0" VPOS="594.0" WIDTH="1034.0"
+                                                  HEIGHT="66.0"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_14"
-                    TAGREFS="LT135"
-                    BASELINE="765 3229 941 3229 1013 3229 1166 3228 1249 3227 1464 3228 1690 3240 1850 3240" 
-                    HPOS="762.0"
-                    VPOS="3174.0"
-                    WIDTH="1085.0"
-                    HEIGHT="62.0">
-            <Shape><Polygon POINTS="762 3225 766 3186 805 3178 1260 3190 1287 3174 1404 3194 1520 3174 1618 3178 1637 3194 1804 3178 1836 3186 1847 3236 766 3236"/></Shape>
-	    <String CONTENT="sciences et d’arts en Italie, à Modène; Paris,"
-                    HPOS="762.0"
-                    VPOS="3174.0"
-                    WIDTH="1085.0"
-                    HEIGHT="62.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_15"
-                    TAGREFS="LT135"
-                    BASELINE="766 3282 785 3282 1040 3284 1110 3283 1168 3283 1254 3282 1497 3283 1656 3292 1696 3283 1762 3284 1853 3293" 
-                    HPOS="762.0"
-                    VPOS="3229.0"
-                    WIDTH="1089.0"
-                    HEIGHT="77.0">
-            <Shape><Polygon POINTS="762 3279 770 3236 1159 3229 1174 3244 1828 3240 1843 3244 1851 3291 1839 3306 1622 3306 1610 3291 1404 3302 1345 3287 1182 3299 1159 3283 766 3291"/></Shape>
-	    <String CONTENT="25 brumaire an V (i 5 novembre 1796), 1 p. 1/4"
-                    HPOS="762.0"
-                    VPOS="3229.0"
-                    WIDTH="1089.0"
-                    HEIGHT="77.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_16"
-                    TAGREFS="LT135"
-                    BASELINE="766 3335 967 3340 1213 3340" 
-                    HPOS="762.0"
-                    VPOS="3287.0"
-                    WIDTH="447.0"
-                    HEIGHT="70.0">
-            <Shape><Polygon POINTS="762 3334 766 3291 1170 3287 1198 3299 1209 3337 1198 3357 766 3349"/></Shape>
-	    <String CONTENT="in-4, tête imprimée."
-                    HPOS="762.0"
-                    VPOS="3287.0"
-                    WIDTH="447.0"
-                    HEIGHT="70.0"></String>
-          </TextLine>
+                                        <TextLine ID="eSc_line_9b7b8527" TAGREFS="LT135"
+                                                BASELINE="2912 645 3000 650" HPOS="2902.0"
+                                                VPOS="596.0" WIDTH="126.0" HEIGHT="73.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="2909 641 2906 600 2991 596 3028 626 2999 648 2987 664 2902 669"
+                                                  />
+                                                </Shape>
+                                                <String CONTENT="S.I" HPOS="2902.0" VPOS="596.0"
+                                                  WIDTH="126.0" HEIGHT="73.0"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_17"
-                    TAGREFS="LT135"
-                    BASELINE="800 3406 845 3406 1052 3410 1145 3410 1365 3410 1425 3410 1489 3410 1577 3409 1635 3409 1793 3409 1850 3409" 
-                    HPOS="800.0"
-                    VPOS="3378.0"
-                    WIDTH="1050.0"
-                    HEIGHT="40.0">
-            <Shape><Polygon POINTS="800 3378 1850 3378 1850 3418 800 3418"/></Shape>
-	    <String CONTENT="Ils expriment leur satisfaction de ce que le général de"
-                    HPOS="800.0"
-                    VPOS="3378.0"
-                    WIDTH="1050.0"
-                    HEIGHT="40.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_18"
-                    TAGREFS="LT135"
-                    BASELINE="765 3446 894 3448 1044 3451 1340 3453 1491 3453 1803 3452 1850 3451" 
-                    HPOS="762.0"
-                    VPOS="3407.0"
-                    WIDTH="1085.0"
-                    HEIGHT="43.0">
-            <Shape><Polygon POINTS="762 3442 766 3407 1836 3411 1847 3450 766 3450"/></Shape>
-	    <String CONTENT="l’armée d’Italie (Bonaparte) ait pourvu convenablement à"
-                    HPOS="762.0"
-                    VPOS="3407.0"
-                    WIDTH="1085.0"
-                    HEIGHT="43.0"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_19"
-                    TAGREFS="LT135"
-                    BASELINE="766 3488 842 3488 908 3490 1062 3492 1290 3494 1376 3494 1448 3495 1705 3494 1782 3495 1850 3494" 
-                    HPOS="766.0"
-                    VPOS="3462.0"
-                    WIDTH="1084.0"
-                    HEIGHT="41.0">
-            <Shape><Polygon POINTS="766 3462 1850 3462 1850 3503 766 3503"/></Shape>
-	    <String CONTENT="tous les besoins particuliers que les commissaires ont pu"
-                    HPOS="766.0"
-                    VPOS="3462.0"
-                    WIDTH="1084.0"
-                    HEIGHT="41.0"></String>
-          </TextLine>
+                                <TextBlock HPOS="690" VPOS="839" WIDTH="2393" HEIGHT="3076"
+                                        ID="eSc_textblock_3f74e8d2" TAGREFS="BT357">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="690 852 690 3915 3083 3908 3070 839"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_20"
-                    TAGREFS="LT135"
-                    BASELINE="767 3529 928 3531 1071 3533 1126 3533 1248 3535 1308 3535 1400 3537 1562 3536" 
-                    HPOS="767.0"
-                    VPOS="3502.0"
-                    WIDTH="795.0"
-                    HEIGHT="36.0">
-            <Shape><Polygon POINTS="767 3502 1562 3502 1562 3538 767 3538"/></Shape>
-	    <String CONTENT="éprouver durant le cours de leur mission."
-                    HPOS="767.0"
-                    VPOS="3502.0"
-                    WIDTH="795.0"
-                    HEIGHT="36.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_21"
-                    TAGREFS="LT135"
-                    BASELINE="802 3608 961 3608 1132 3604 1208 3605 1588 3609 1762 3608 1851 3608" 
-                    HPOS="802.0"
-                    VPOS="3573.0"
-                    WIDTH="1049.0"
-                    HEIGHT="44.0">
-            <Shape><Polygon POINTS="802 3573 1851 3573 1851 3617 802 3617"/></Shape>
-	    <String CONTENT="(Carnot, Reubell et Revellière-Lépeaux avaient été"
-                    HPOS="802.0"
-                    VPOS="3573.0"
-                    WIDTH="1049.0"
-                    HEIGHT="44.0"></String>
-          </TextLine>
+                                        <TextLine ID="tl_2" TAGREFS="LT135"
+                                                BASELINE="812 918 854 917 1009 914 1066 915 1179 915 1312 915 1481 917 1569 918 1633 918 1886 916 1950 917 2261 927 2318 920 2444 926 2503 920 2631 920 2680 920 2736 919 2783 919 3001 913"
+                                                HPOS="812.0" VPOS="886.0" WIDTH="2189.0"
+                                                HEIGHT="41.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="812 886 3001 886 3001 927 812 927"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Le Comité de Salut public ordonne que les départements de Seine-et-Marne, de l’Oise, de l’Eure et de la Seine-Inté¬"
+                                                  HPOS="812.0" VPOS="886.0" WIDTH="2189.0"
+                                                  HEIGHT="41.0"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_22"
-                    TAGREFS="LT135"
-                    BASELINE="769 3642 915 3643 985 3643 1026 3643 1232 3645 1344 3647 1412 3648 1544 3649 1673 3650 1765 3650 1849 3644" 
-                    HPOS="769.0"
-                    VPOS="3616.0"
-                    WIDTH="1080.0"
-                    HEIGHT="43.0">
-            <Shape><Polygon POINTS="769 3616 1849 3616 1849 3659 769 3659"/></Shape>
-	    <String CONTENT="nommés le i novembre 1795 en même temps que Le-"
-                    HPOS="769.0"
-                    VPOS="3616.0"
-                    WIDTH="1080.0"
-                    HEIGHT="43.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_23"
-                    TAGREFS="LT135"
-                    BASELINE="768 3684 925 3684 971 3684 1117 3685 1260 3686 1334 3688 1497 3688 1614 3690 1670 3691 1734 3691 1851 3684" 
-                    HPOS="768.0"
-                    VPOS="3657.0"
-                    WIDTH="1083.0"
-                    HEIGHT="41.0">
-            <Shape><Polygon POINTS="768 3657 1851 3657 1851 3698 768 3698"/></Shape>
-	    <String CONTENT="tourneur et Barras. Carnot fut proscrit après le 18 fruc¬"
-                    HPOS="768.0"
-                    VPOS="3657.0"
-                    WIDTH="1083.0"
-                    HEIGHT="41.0"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_24"
-                    TAGREFS="LT135"
-                    BASELINE="767 3727 868 3733 1026 3726 1102 3726 1287 3726 1364 3728 1498 3729 1545 3730 1604 3733 1692 3731 1800 3733 1852 3731" 
-                    HPOS="767.0"
-                    VPOS="3696.0"
-                    WIDTH="1085.0"
-                    HEIGHT="45.0">
-            <Shape><Polygon POINTS="767 3696 1852 3696 1852 3741 767 3741"/></Shape>
-	    <String CONTENT="tidor; Reubell fut remplacé par Sieyès le 16 mai 1798 et"
-                    HPOS="767.0"
-                    VPOS="3696.0"
-                    WIDTH="1085.0"
-                    HEIGHT="45.0"></String>
-          </TextLine>
+                                        <TextLine ID="tl_3" TAGREFS="LT135"
+                                                BASELINE="775 960 880 958 1083 957 1178 957 1270 957 1460 959 1621 961 1724 960 1874 958 1943 959 2101 961 2164 961 2346 962 2403 961 2549 962 2621 962 2743 961"
+                                                HPOS="775.0" VPOS="928.0" WIDTH="1968.0"
+                                                HEIGHT="42.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="775 928 2743 928 2743 970 775 970"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="rieure fourniront sept cent cinquante voitures pour assurer les moyens de transport de l’armée du Nord."
+                                                  HPOS="775.0" VPOS="928.0" WIDTH="1968.0"
+                                                  HEIGHT="42.0"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_25"
-                    TAGREFS="LT135"
-                    BASELINE="770 3769 1175 3768 1231 3769 1315 3768 1424 3778 1499 3771 1774 3780" 
-                    HPOS="766.0"
-                    VPOS="3726.0"
-                    WIDTH="1007.0"
-                    HEIGHT="89.0">
-            <Shape><Polygon POINTS="766 3765 770 3730 1291 3726 1762 3738 1773 3777 1762 3800 1727 3788 1692 3815 1555 3815 1520 3788 1485 3788 1450 3815 1369 3812 1330 3784 1256 3788 1221 3812 1139 3808 1085 3784 1046 3812 933 3780 816 3780 770 3800"/></Shape>
-	    <String CONTENT="Revellière-Lépeaux, le 18 juin 1799, par Roger-Ducos.)"
-                    HPOS="766.0"
-                    VPOS="3726.0"
-                    WIDTH="1007.0"
-                    HEIGHT="89.0"></String>
-          </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="726"
-                   VPOS="857"
-                   WIDTH="2332"
-                   HEIGHT="2025"
-                   ID="eSc_textblock_2d55b21c"
-                   TAGREFS="BT422">
-          <Shape><Polygon POINTS="726 870 735 2882 3058 2875 3058 857"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="739.0"
-                   VPOS="2908.0"
-                   WIDTH="2303.0"
-                   HEIGHT="1000.0"
-                   ID="eSc_textblock_6e607b48"
-                   TAGREFS="BT375">
-          <Shape><Polygon POINTS="739 2914 749 3905 3042 3908 3042 2908"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-      </PrintSpace>
-    </Page>
-  </Layout>
+                                        <TextLine ID="tl_4" TAGREFS="LT135"
+                                                BASELINE="816 2601 930 2602 994 2601 1041 2613 1389 2611 1584 2600 1654 2600 1819 2606 1929 2601 2057 2600 2128 2600 2326 2599 2509 2598 2656 2610 2803 2602 2875 2598 3003 2587"
+                                                HPOS="812.0" VPOS="2529.0" WIDTH="2190.0"
+                                                HEIGHT="90.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="812 2599 832 2549 890 2549 914 2568 972 2549 999 2568 1050 2549 1147 2560 1166 2545 1213 2560 1330 2545 1384 2564 1423 2545 1474 2560 1520 2541 1552 2556 1579 2541 1622 2556 1688 2541 1711 2560 1820 2560 1882 2541 1902 2556 2158 2556 2182 2537 2240 2556 2403 2537 2427 2552 2512 2552 2606 2529 2629 2549 2676 2529 2796 2529 2816 2549 2991 2545 3002 2584 2967 2611 2808 2599 2617 2615 2392 2615 2341 2599 2310 2615 2259 2599 2240 2619 2081 2599 1894 2615 1587 2603 1470 2619 816 2607"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="2° L. S. par Cambacérès, Merlin de Douai, Daunou et Gamon, au citoyen Pille; Paris, 16 fruc¬"
+                                                  HPOS="812.0" VPOS="2529.0" WIDTH="2190.0"
+                                                  HEIGHT="90.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_5" TAGREFS="LT135"
+                                                BASELINE="766 2653 874 2655 944 2654 1023 2655 1083 2654 1331 2654 1524 2653 1589 2655 1775 2665 1976 2653 2036 2654 2136 2654 2382 2653"
+                                                HPOS="762.0" VPOS="2603.0" WIDTH="1618.0"
+                                                HEIGHT="70.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="762 2650 766 2603 2337 2603 2368 2611 2380 2650 2368 2673 766 2661"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="tidor an III (2 septembre 1795), 1 p. in-fol., vignette et tête imprimée."
+                                                  HPOS="762.0" VPOS="2603.0" WIDTH="1618.0"
+                                                  HEIGHT="70.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_6" TAGREFS="LT135"
+                                                BASELINE="804 2723 848 2724 904 2724 1142 2724 1222 2724 1270 2724 1416 2724 1611 2732 1693 2724 1911 2724 1960 2723 2126 2731 2308 2724 2413 2724 2504 2724 2600 2724 2685 2723 2852 2722 3006 2720"
+                                                HPOS="804.0" VPOS="2693.0" WIDTH="2202.0"
+                                                HEIGHT="40.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="804 2693 3006 2693 3006 2733 804 2733"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Ils le préviennent que le général Bonnaud, qui commande à Angers, demande qu’il soit pris des mesures sévères"
+                                                  HPOS="804.0" VPOS="2693.0" WIDTH="2202.0"
+                                                  HEIGHT="40.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_7" TAGREFS="LT135"
+                                                BASELINE="768 2773 849 2765 1035 2765 1085 2766 1273 2765 1324 2767 1374 2766 1496 2767 1588 2767 1626 2776 1662 2767 1761 2767 1824 2766 1977 2765 2162 2766 2353 2766 2401 2766 2570 2765 2642 2765 2697 2765 2794 2764 2872 2763 3005 2761"
+                                                HPOS="768.0" VPOS="2737.0" WIDTH="2237.0"
+                                                HEIGHT="39.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="768 2737 3005 2737 3005 2776 768 2776"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="pour maintenir la discipline et se plaint qu’il y a dans les prisons plusieurs militaires et chouans qui ne sont pas encore"
+                                                  HPOS="768.0" VPOS="2737.0" WIDTH="2237.0"
+                                                  HEIGHT="39.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_8" TAGREFS="LT135"
+                                                BASELINE="768 2814 918 2800 992 2806 1138 2807 1334 2815 1394 2807 1470 2808 1580 2808 1635 2808 1786 2807 1841 2807 2194 2816 2307 2815 2447 2807 2622 2814 2680 2805 2792 2809 2952 2803 3005 2802"
+                                                HPOS="768.0" VPOS="2775.0" WIDTH="2237.0"
+                                                HEIGHT="41.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="768 2775 3005 2775 3005 2816 768 2816"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="jugés.— (Le général Bonnaud,, un des héros de l’armée de Sambre-et-Meuse, périt, l’année suivante, en 1796, pendant la"
+                                                  HPOS="768.0" VPOS="2775.0" WIDTH="2237.0"
+                                                  HEIGHT="41.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_9" TAGREFS="LT135"
+                                                BASELINE="767 2848 890 2848 1042 2847 1101 2847 1282 2854"
+                                                HPOS="767.0" VPOS="2819.0" WIDTH="515.0"
+                                                HEIGHT="35.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="767 2819 1282 2819 1282 2854 767 2854"/>
+                                                </Shape>
+                                                <String CONTENT="célèbre retraite de Jourdan.)"
+                                                  HPOS="767.0" VPOS="2819.0" WIDTH="515.0"
+                                                  HEIGHT="35.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_10" TAGREFS="LT135"
+                                                BASELINE="768 2972 1391 2972 1755 2973 1818 2973 2113 2975 2254 2976 2341 2975 2678 2971 2859 2983"
+                                                HPOS="766.0" VPOS="2902.0" WIDTH="2089.0"
+                                                HEIGHT="97.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="766 2968 770 2922 851 2906 867 2922 953 2922 988 2902 1454 2902 1540 2918 1773 2906 1797 2926 2007 2926 2030 2906 2061 2926 2209 2926 2228 2906 2287 2926 2419 2926 2613 2906 2645 2926 2816 2926 2839 2910 2855 2980 2824 2999 2699 2980 2676 2995 2648 2980 2555 2995 2392 2980 2361 2999 2267 2980 2221 2980 2197 2999 1874 2980 1843 2999 1466 2999 1268 2976 1236 2992 1217 2976 1163 2992 1085 2976 1061 2995 898 2976 859 2995 770 2995"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="★27★ DIRECTOIRE EXÉCUTIF (1 novembre 1795 au 9 novembre 1799.)"
+                                                  HPOS="766.0" VPOS="2902.0" WIDTH="2089.0"
+                                                  HEIGHT="97.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_11" TAGREFS="LT135"
+                                                BASELINE="820 3063 931 3062 1008 3062 1079 3074 1338 3074 1492 3063 1630 3063 1852 3054"
+                                                HPOS="816.0" VPOS="2995.0" WIDTH="1035.0"
+                                                HEIGHT="82.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="816 3062 820 3015 847 3007 898 3007 921 3030 964 3007 1135 3027 1155 3007 1190 3023 1260 3007 1287 3023 1310 2999 1384 2995 1450 2999 1470 3019 1742 3015 1785 2995 1839 3011 1851 3050 1839 3065 1384 3077 820 3069"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="1° L. S. par Carnot, Reubell et Revel¬"
+                                                  HPOS="816.0" VPOS="2995.0" WIDTH="1035.0"
+                                                  HEIGHT="82.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_12" TAGREFS="LT135"
+                                                BASELINE="768 3118 789 3118 1235 3116 1562 3118 1647 3118 1853 3108"
+                                                HPOS="768.0" VPOS="3080.0" WIDTH="1085.0"
+                                                HEIGHT="50.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="768 3080 1853 3080 1853 3130 768 3130"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="lière-Lépeaux, aux commissaires du gouver¬"
+                                                  HPOS="768.0" VPOS="3080.0" WIDTH="1085.0"
+                                                  HEIGHT="50.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_13" TAGREFS="LT135"
+                                                BASELINE="766 3173 933 3173 1143 3172 1236 3171 1482 3172 1585 3173 1759 3173 1851 3173"
+                                                HPOS="766.0" VPOS="3134.0" WIDTH="1085.0"
+                                                HEIGHT="51.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="766 3134 1851 3134 1851 3185 766 3185"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="nement chargés de recueillir les objets de"
+                                                  HPOS="766.0" VPOS="3134.0" WIDTH="1085.0"
+                                                  HEIGHT="51.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_14" TAGREFS="LT135"
+                                                BASELINE="765 3229 941 3229 1013 3229 1166 3228 1249 3227 1464 3228 1690 3240 1850 3240"
+                                                HPOS="762.0" VPOS="3174.0" WIDTH="1085.0"
+                                                HEIGHT="62.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="762 3225 766 3186 805 3178 1260 3190 1287 3174 1404 3194 1520 3174 1618 3178 1637 3194 1804 3178 1836 3186 1847 3236 766 3236"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="sciences et d’arts en Italie, à Modène; Paris,"
+                                                  HPOS="762.0" VPOS="3174.0" WIDTH="1085.0"
+                                                  HEIGHT="62.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_15" TAGREFS="LT135"
+                                                BASELINE="766 3282 785 3282 1040 3284 1110 3283 1168 3283 1254 3282 1497 3283 1656 3292 1696 3283 1762 3284 1853 3293"
+                                                HPOS="762.0" VPOS="3229.0" WIDTH="1089.0"
+                                                HEIGHT="77.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="762 3279 770 3236 1159 3229 1174 3244 1828 3240 1843 3244 1851 3291 1839 3306 1622 3306 1610 3291 1404 3302 1345 3287 1182 3299 1159 3283 766 3291"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="25 brumaire an V (i 5 novembre 1796), 1 p. 1/4"
+                                                  HPOS="762.0" VPOS="3229.0" WIDTH="1089.0"
+                                                  HEIGHT="77.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_16" TAGREFS="LT135"
+                                                BASELINE="766 3335 967 3340 1213 3340" HPOS="762.0"
+                                                VPOS="3287.0" WIDTH="447.0" HEIGHT="70.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="762 3334 766 3291 1170 3287 1198 3299 1209 3337 1198 3357 766 3349"
+                                                  />
+                                                </Shape>
+                                                <String CONTENT="in-4, tête imprimée." HPOS="762.0"
+                                                  VPOS="3287.0" WIDTH="447.0" HEIGHT="70.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_17" TAGREFS="LT135"
+                                                BASELINE="800 3406 845 3406 1052 3410 1145 3410 1365 3410 1425 3410 1489 3410 1577 3409 1635 3409 1793 3409 1850 3409"
+                                                HPOS="800.0" VPOS="3378.0" WIDTH="1050.0"
+                                                HEIGHT="40.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="800 3378 1850 3378 1850 3418 800 3418"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Ils expriment leur satisfaction de ce que le général de"
+                                                  HPOS="800.0" VPOS="3378.0" WIDTH="1050.0"
+                                                  HEIGHT="40.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_18" TAGREFS="LT135"
+                                                BASELINE="765 3446 894 3448 1044 3451 1340 3453 1491 3453 1803 3452 1850 3451"
+                                                HPOS="762.0" VPOS="3407.0" WIDTH="1085.0"
+                                                HEIGHT="43.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="762 3442 766 3407 1836 3411 1847 3450 766 3450"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="l’armée d’Italie (Bonaparte) ait pourvu convenablement à"
+                                                  HPOS="762.0" VPOS="3407.0" WIDTH="1085.0"
+                                                  HEIGHT="43.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_19" TAGREFS="LT135"
+                                                BASELINE="766 3488 842 3488 908 3490 1062 3492 1290 3494 1376 3494 1448 3495 1705 3494 1782 3495 1850 3494"
+                                                HPOS="766.0" VPOS="3462.0" WIDTH="1084.0"
+                                                HEIGHT="41.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="766 3462 1850 3462 1850 3503 766 3503"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="tous les besoins particuliers que les commissaires ont pu"
+                                                  HPOS="766.0" VPOS="3462.0" WIDTH="1084.0"
+                                                  HEIGHT="41.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_20" TAGREFS="LT135"
+                                                BASELINE="767 3529 928 3531 1071 3533 1126 3533 1248 3535 1308 3535 1400 3537 1562 3536"
+                                                HPOS="767.0" VPOS="3502.0" WIDTH="795.0"
+                                                HEIGHT="36.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="767 3502 1562 3502 1562 3538 767 3538"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="éprouver durant le cours de leur mission."
+                                                  HPOS="767.0" VPOS="3502.0" WIDTH="795.0"
+                                                  HEIGHT="36.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_21" TAGREFS="LT135"
+                                                BASELINE="802 3608 961 3608 1132 3604 1208 3605 1588 3609 1762 3608 1851 3608"
+                                                HPOS="802.0" VPOS="3573.0" WIDTH="1049.0"
+                                                HEIGHT="44.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="802 3573 1851 3573 1851 3617 802 3617"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="(Carnot, Reubell et Revellière-Lépeaux avaient été"
+                                                  HPOS="802.0" VPOS="3573.0" WIDTH="1049.0"
+                                                  HEIGHT="44.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_22" TAGREFS="LT135"
+                                                BASELINE="769 3642 915 3643 985 3643 1026 3643 1232 3645 1344 3647 1412 3648 1544 3649 1673 3650 1765 3650 1849 3644"
+                                                HPOS="769.0" VPOS="3616.0" WIDTH="1080.0"
+                                                HEIGHT="43.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="769 3616 1849 3616 1849 3659 769 3659"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="nommés le i novembre 1795 en même temps que Le-"
+                                                  HPOS="769.0" VPOS="3616.0" WIDTH="1080.0"
+                                                  HEIGHT="43.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_23" TAGREFS="LT135"
+                                                BASELINE="768 3684 925 3684 971 3684 1117 3685 1260 3686 1334 3688 1497 3688 1614 3690 1670 3691 1734 3691 1851 3684"
+                                                HPOS="768.0" VPOS="3657.0" WIDTH="1083.0"
+                                                HEIGHT="41.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="768 3657 1851 3657 1851 3698 768 3698"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="tourneur et Barras. Carnot fut proscrit après le 18 fruc¬"
+                                                  HPOS="768.0" VPOS="3657.0" WIDTH="1083.0"
+                                                  HEIGHT="41.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_24" TAGREFS="LT135"
+                                                BASELINE="767 3727 868 3733 1026 3726 1102 3726 1287 3726 1364 3728 1498 3729 1545 3730 1604 3733 1692 3731 1800 3733 1852 3731"
+                                                HPOS="767.0" VPOS="3696.0" WIDTH="1085.0"
+                                                HEIGHT="45.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="767 3696 1852 3696 1852 3741 767 3741"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="tidor; Reubell fut remplacé par Sieyès le 16 mai 1798 et"
+                                                  HPOS="767.0" VPOS="3696.0" WIDTH="1085.0"
+                                                  HEIGHT="45.0"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_25" TAGREFS="LT135"
+                                                BASELINE="770 3769 1175 3768 1231 3769 1315 3768 1424 3778 1499 3771 1774 3780"
+                                                HPOS="766.0" VPOS="3726.0" WIDTH="1007.0"
+                                                HEIGHT="89.0">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="766 3765 770 3730 1291 3726 1762 3738 1773 3777 1762 3800 1727 3788 1692 3815 1555 3815 1520 3788 1485 3788 1450 3815 1369 3812 1330 3784 1256 3788 1221 3812 1139 3808 1085 3784 1046 3812 933 3780 816 3780 770 3800"
+                                                  />
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Revellière-Lépeaux, le 18 juin 1799, par Roger-Ducos.)"
+                                                  HPOS="766.0" VPOS="3726.0" WIDTH="1007.0"
+                                                  HEIGHT="89.0"/>
+                                        </TextLine>
+
+
+                                </TextBlock>
+
+                                <TextBlock HPOS="726" VPOS="857" WIDTH="2332" HEIGHT="2025"
+                                        ID="eSc_textblock_2d55b21c" TAGREFS="BT422">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="726 870 735 2882 3058 2875 3058 857"/>
+                                        </Shape>
+
+                                </TextBlock>
+
+                                <TextBlock HPOS="739.0" VPOS="2908.0" WIDTH="2303.0" HEIGHT="1000.0"
+                                        ID="eSc_textblock_6e607b48" TAGREFS="BT375">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="739 2914 749 3905 3042 3908 3042 2908"/>
+                                        </Shape>
+
+                                </TextBlock>
+
+
+
+                        </PrintSpace>
+                </Page>
+        </Layout>
 </alto>

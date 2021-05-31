@@ -1,589 +1,488 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-  <Description>
-    <MeasurementUnit>pixel</MeasurementUnit>
-    <sourceImageInformation>
-      <fileName>Flaubert_Salammbô_1863_btv1b8626108m_f28.jpg</fileName>
-    </sourceImageInformation>
-  </Description>
-  
-  <Tags>
-    <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT388" LABEL="Margin" DESCRIPTION="block type Margin"/>
-    <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
-  </Tags>
-  
-  <Layout>
-    <Page WIDTH="2264"
-          HEIGHT="3348"
-          PHYSICAL_IMG_NR="152"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="2264"
-                  HEIGHT="3348">
-        
-        <TextBlock HPOS="1063"
-                   VPOS="473"
-                   WIDTH="284"
-                   HEIGHT="46"
-                   ID="r_1_1"
-                   TAGREFS="BT233">
-          <Shape><Polygon POINTS="1063 473 1347 473 1347 519 1063 519"/></Shape>
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT96"
-                    BASELINE="1065 517 1346 514" 
-                    HPOS="1064"
-                    VPOS="474"
-                    WIDTH="282"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="1064 474 1346 474 1346 518 1064 518"/></Shape>
-	    <String CONTENT="SALAMMBÔ."
-                    HPOS="1064"
-                    VPOS="474"
-                    WIDTH="282"
-                    HEIGHT="44"></String>
-          </TextLine>
+        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description>
+                <MeasurementUnit>pixel</MeasurementUnit>
+                <sourceImageInformation>
+                        <fileName>Flaubert_Salammbô_1863_btv1b8626108m_f28.jpg</fileName>
+                </sourceImageInformation>
+        </Description>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="574"
-                   VPOS="498"
-                   WIDTH="44"
-                   HEIGHT="27"
-                   ID="r_2_1"
-                   TAGREFS="BT232">
-          <Shape><Polygon POINTS="574 498 618 498 618 525 574 525"/></Shape>
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT96"
-                    BASELINE="575 524 591 524 617 523" 
-                    HPOS="575"
-                    VPOS="499"
-                    WIDTH="42"
-                    HEIGHT="25">
-            <Shape><Polygon POINTS="575 499 617 499 617 524 575 524"/></Shape>
-	    <String CONTENT="20"
-                    HPOS="575"
-                    VPOS="499"
-                    WIDTH="42"
-                    HEIGHT="25"></String>
-          </TextLine>
+        <Tags>
+                <OtherTag ID="BT230" LABEL="Figure" DESCRIPTION="block type Figure"/>
+                <OtherTag ID="BT231" LABEL="Main" DESCRIPTION="block type Main"/>
+                <OtherTag ID="BT232" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+                <OtherTag ID="BT233" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
+                <OtherTag ID="BT234" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+                <OtherTag ID="BT235" LABEL="Title" DESCRIPTION="block type Title"/>
+                <OtherTag ID="BT388" LABEL="Margin" DESCRIPTION="block type Margin"/>
+                <OtherTag ID="LT96" LABEL="Default" DESCRIPTION="line type Default"/>
+        </Tags>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="552"
-                   VPOS="561"
-                   WIDTH="1334"
-                   HEIGHT="2210"
-                   ID="eSc_textblock_297a1128"
-                   TAGREFS="BT231">
-          <Shape><Polygon POINTS="552 586 552 2771 1886 2771 1865 561"/></Shape>
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT96"
-                    BASELINE="574 629 803 633 948 625 1135 623 1230 621 1372 620 1485 619 1785 617 1846 630" 
-                    HPOS="574"
-                    VPOS="573"
-                    WIDTH="1272"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="574 573 1846 573 1846 644 574 644"/></Shape>
-	    <String CONTENT="alliances; mais depuis six mois que Narr’Havas y"
-                    HPOS="574"
-                    VPOS="573"
-                    WIDTH="1272"
-                    HEIGHT="71"></String>
-          </TextLine>
+        <Layout>
+                <Page WIDTH="2264" HEIGHT="3348" PHYSICAL_IMG_NR="152" ID="eSc_dummypage_">
+                        <PrintSpace HPOS="0" VPOS="0" WIDTH="2264" HEIGHT="3348">
 
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT96"
-                    BASELINE="571 705 745 709 800 701 980 698 1119 698 1292 697 1477 695 1762 700 1844 704" 
-                    HPOS="571"
-                    VPOS="649"
-                    WIDTH="1273"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="571 649 1844 649 1844 719 571 719"/></Shape>
-	    <String CONTENT="logeait, il n’avait point encore aperçu Salammbô, et,"
-                    HPOS="571"
-                    VPOS="649"
-                    WIDTH="1273"
-                    HEIGHT="70"></String>
-          </TextLine>
+                                <TextBlock HPOS="1063" VPOS="473" WIDTH="284" HEIGHT="46" ID="r_1_1"
+                                        TAGREFS="BT233">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="1063 473 1347 473 1347 519 1063 519"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_5"
-                    TAGREFS="LT96"
-                    BASELINE="571 781 679 779 775 777 850 777 1023 782 1089 773 1243 771 1438 770 1553 769 1643 769 1847 767" 
-                    HPOS="570"
-                    VPOS="723"
-                    WIDTH="1277"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="570 723 1847 723 1847 795 570 795"/></Shape>
-	    <String CONTENT="assis sur les talons, la barbe baissée vers les hampes"
-                    HPOS="570"
-                    VPOS="723"
-                    WIDTH="1277"
-                    HEIGHT="72"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_6"
-                    TAGREFS="LT96"
-                    BASELINE="572 857 625 856 718 854 940 859 998 848 1062 849 1347 845 1426 844 1648 843 1740 843 1847 831" 
-                    HPOS="572"
-                    VPOS="798"
-                    WIDTH="1276"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="572 798 1848 798 1848 869 572 869"/></Shape>
-	    <String CONTENT="de ses javelots, il la considérait en écartant les na¬"
-                    HPOS="572"
-                    VPOS="798"
-                    WIDTH="1276"
-                    HEIGHT="71"></String>
-          </TextLine>
+                                        <TextLine ID="tl_1" TAGREFS="LT96"
+                                                BASELINE="1065 517 1346 514" HPOS="1064" VPOS="474"
+                                                WIDTH="282" HEIGHT="44">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="1064 474 1346 474 1346 518 1064 518"/>
+                                                </Shape>
+                                                <String CONTENT="SALAMMBÔ." HPOS="1064" VPOS="474"
+                                                  WIDTH="282" HEIGHT="44"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_7"
-                    TAGREFS="LT96"
-                    BASELINE="571 932 684 931 883 928 970 926 1178 923 1284 921 1382 921 1617 918 1759 919 1849 918" 
-                    HPOS="571"
-                    VPOS="873"
-                    WIDTH="1279"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="571 873 1850 873 1850 945 571 945"/></Shape>
-	    <String CONTENT="rines comme un léopard qui est accroupi dans les"
-                    HPOS="571"
-                    VPOS="873"
-                    WIDTH="1279"
-                    HEIGHT="72"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_8"
-                    TAGREFS="LT96"
-                    BASELINE="570 1008 797 1004" 
-                    HPOS="570"
-                    VPOS="963"
-                    WIDTH="227"
-                    HEIGHT="45">
-            <Shape><Polygon POINTS="570 963 797 963 797 1008 570 1008"/></Shape>
-	    <String CONTENT="bambous."
-                    HPOS="570"
-                    VPOS="963"
-                    WIDTH="227"
-                    HEIGHT="45"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_9"
-                    TAGREFS="LT96"
-                    BASELINE="628 1081 685 1081 870 1078 991 1076 1092 1074 1261 1072 1328 1071 1494 1070 1574 1069 1759 1068 1845 1069" 
-                    HPOS="628"
-                    VPOS="1024"
-                    WIDTH="1217"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="628 1024 1845 1024 1845 1095 628 1095"/></Shape>
-	    <String CONTENT="De l’autre côté des tables se tenait un Libyen de"
-                    HPOS="628"
-                    VPOS="1024"
-                    WIDTH="1217"
-                    HEIGHT="71"></String>
-          </TextLine>
+                                <TextBlock HPOS="574" VPOS="498" WIDTH="44" HEIGHT="27" ID="r_2_1"
+                                        TAGREFS="BT232">
+                                        <Shape>
+                                                <Polygon POINTS="574 498 618 498 618 525 574 525"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_10"
-                    TAGREFS="LT96"
-                    BASELINE="569 1157 687 1156 920 1152 994 1149 1051 1150 1224 1148 1448 1145 1603 1145 1776 1143 1847 1142" 
-                    HPOS="569"
-                    VPOS="1099"
-                    WIDTH="1278"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="569 1099 1847 1099 1847 1166 569 1166"/></Shape>
-	    <String CONTENT="taille colossale et à courts cheveux noirs frisés. Il"
-                    HPOS="569"
-                    VPOS="1099"
-                    WIDTH="1278"
-                    HEIGHT="67"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_11"
-                    TAGREFS="LT96"
-                    BASELINE="571 1231 729 1228 898 1228 1014 1226 1104 1224 1336 1222 1600 1227 1748 1220 1850 1219" 
-                    HPOS="570"
-                    VPOS="1175"
-                    WIDTH="1280"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="570 1175 1850 1175 1850 1244 570 1244"/></Shape>
-	    <String CONTENT="n’avait gardé que sa jaquette militaire, dont les"
-                    HPOS="570"
-                    VPOS="1175"
-                    WIDTH="1280"
-                    HEIGHT="69"></String>
-          </TextLine>
+                                        <TextLine ID="tl_2" TAGREFS="LT96"
+                                                BASELINE="575 524 591 524 617 523" HPOS="575"
+                                                VPOS="499" WIDTH="42" HEIGHT="25">
+                                                <Shape>
+                                                  <Polygon POINTS="575 499 617 499 617 524 575 524"
+                                                  />
+                                                </Shape>
+                                                <String CONTENT="20" HPOS="575" VPOS="499"
+                                                  WIDTH="42" HEIGHT="25"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_12"
-                    TAGREFS="LT96"
-                    BASELINE="568 1307 704 1307 911 1302 1202 1298 1263 1297 1475 1296 1558 1296 1643 1294 1734 1294 1851 1283" 
-                    HPOS="568"
-                    VPOS="1249"
-                    WIDTH="1283"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="568 1249 1851 1249 1851 1320 568 1320"/></Shape>
-	    <String CONTENT="lames d’airain déchiraient la pourpre du lit. Un col¬"
-                    HPOS="568"
-                    VPOS="1249"
-                    WIDTH="1283"
-                    HEIGHT="71"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_13"
-                    TAGREFS="LT96"
-                    BASELINE="566 1383 647 1381 705 1381 864 1379 1097 1375 1478 1371 1622 1371 1711 1370 1852 1371" 
-                    HPOS="566"
-                    VPOS="1325"
-                    WIDTH="1286"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="566 1325 1852 1325 1852 1397 566 1397"/></Shape>
-	    <String CONTENT="lier à lunes d’argent s’embarrassait dans les poils"
-                    HPOS="566"
-                    VPOS="1325"
-                    WIDTH="1286"
-                    HEIGHT="72"></String>
-          </TextLine>
+                                </TextBlock>
 
-          
-          
-          <TextLine ID="tl_14"
-                    TAGREFS="LT96"
-                    BASELINE="568 1461 621 1460 690 1457 909 1453 1016 1452 1369 1448 1458 1447 1602 1459 1683 1444 1852 1435" 
-                    HPOS="568"
-                    VPOS="1400"
-                    WIDTH="1285"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="568 1400 1853 1400 1853 1472 568 1472"/></Shape>
-	    <String CONTENT="de sa poitrine. Des éclaboussures de sang lui tache¬"
-                    HPOS="568"
-                    VPOS="1400"
-                    WIDTH="1285"
-                    HEIGHT="72"></String>
-          </TextLine>
+                                <TextBlock HPOS="552" VPOS="561" WIDTH="1334" HEIGHT="2210"
+                                        ID="eSc_textblock_297a1128" TAGREFS="BT231">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="552 586 552 2771 1886 2771 1865 561"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_15"
-                    TAGREFS="LT96"
-                    BASELINE="568 1536 704 1533 773 1532 917 1536 979 1527 1255 1524 1350 1522 1409 1524 1568 1522 1769 1528 1848 1527" 
-                    HPOS="568"
-                    VPOS="1475"
-                    WIDTH="1280"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="568 1475 1848 1475 1848 1547 568 1547"/></Shape>
-	    <String CONTENT="taient la face; il s’appuyait sur le coude gauche, et,"
-                    HPOS="568"
-                    VPOS="1475"
-                    WIDTH="1280"
-                    HEIGHT="72"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_16"
-                    TAGREFS="LT96"
-                    BASELINE="568 1610 610 1611 802 1606 988 1603 1213 1607 1273 1598 1492 1597" 
-                    HPOS="568"
-                    VPOS="1555"
-                    WIDTH="924"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="568 1555 1492 1555 1492 1621 568 1621"/></Shape>
-	    <String CONTENT="la bouche grande ouverte, il souriait."
-                    HPOS="568"
-                    VPOS="1555"
-                    WIDTH="924"
-                    HEIGHT="66"></String>
-          </TextLine>
+                                        <TextLine ID="tl_3" TAGREFS="LT96"
+                                                BASELINE="574 629 803 633 948 625 1135 623 1230 621 1372 620 1485 619 1785 617 1846 630"
+                                                HPOS="574" VPOS="573" WIDTH="1272" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="574 573 1846 573 1846 644 574 644"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="alliances; mais depuis six mois que Narr’Havas y"
+                                                  HPOS="574" VPOS="573" WIDTH="1272" HEIGHT="71"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_17"
-                    TAGREFS="LT96"
-                    BASELINE="632 1685 876 1681 999 1677 1126 1676 1252 1674 1335 1674 1568 1672 1729 1670 1853 1671" 
-                    HPOS="632"
-                    VPOS="1625"
-                    WIDTH="1221"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="632 1625 1853 1625 1853 1695 632 1695"/></Shape>
-	    <String CONTENT="Salammbô n’en était plus au rhythme sacré. Elle"
-                    HPOS="632"
-                    VPOS="1625"
-                    WIDTH="1221"
-                    HEIGHT="70"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_18"
-                    TAGREFS="LT96"
-                    BASELINE="573 1762 809 1755 1188 1749 1315 1749 1409 1748 1623 1747 1723 1746 1854 1735" 
-                    HPOS="572"
-                    VPOS="1701"
-                    WIDTH="1282"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="572 1701 1854 1701 1854 1775 572 1775"/></Shape>
-	    <String CONTENT="employait simultanément tous les idiomes des Bar¬"
-                    HPOS="572"
-                    VPOS="1701"
-                    WIDTH="1282"
-                    HEIGHT="74"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_19"
-                    TAGREFS="LT96"
-                    BASELINE="574 1837 699 1835 727 1840 1027 1828 1118 1827 1314 1825 1464 1822 1723 1821 1855 1820" 
-                    HPOS="574"
-                    VPOS="1775"
-                    WIDTH="1281"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="574 1775 1855 1775 1855 1846 574 1846"/></Shape>
-	    <String CONTENT="bares, délicatesse de femme pour attendrir leur"
-                    HPOS="574"
-                    VPOS="1775"
-                    WIDTH="1281"
-                    HEIGHT="71"></String>
-          </TextLine>
+                                        <TextLine ID="tl_4" TAGREFS="LT96"
+                                                BASELINE="571 705 745 709 800 701 980 698 1119 698 1292 697 1477 695 1762 700 1844 704"
+                                                HPOS="571" VPOS="649" WIDTH="1273" HEIGHT="70">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="571 649 1844 649 1844 719 571 719"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="logeait, il n’avait point encore aperçu Salammbô, et,"
+                                                  HPOS="571" VPOS="649" WIDTH="1273" HEIGHT="70"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_20"
-                    TAGREFS="LT96"
-                    BASELINE="573 1913 729 1908 847 1907 994 1904 1097 1903 1272 1900 1410 1906 1527 1898 1637 1898 1705 1897 1853 1886" 
-                    HPOS="573"
-                    VPOS="1852"
-                    WIDTH="1281"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="573 1852 1854 1852 1854 1922 573 1922"/></Shape>
-	    <String CONTENT="colère. Aux Grecs elle parlait grec, puis elle se tour¬"
-                    HPOS="573"
-                    VPOS="1852"
-                    WIDTH="1281"
-                    HEIGHT="70"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_21"
-                    TAGREFS="LT96"
-                    BASELINE="577 1987 666 1986 799 1984 894 1981 1136 1985 1271 1976 1368 1975 1721 1979 1856 1973" 
-                    HPOS="577"
-                    VPOS="1928"
-                    WIDTH="1280"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="577 1928 1857 1928 1857 1998 577 1998"/></Shape>
-	    <String CONTENT="nait vers les Ligures, vers les Campanéens, vers"
-                    HPOS="577"
-                    VPOS="1928"
-                    WIDTH="1280"
-                    HEIGHT="70"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_22"
-                    TAGREFS="LT96"
-                    BASELINE="576 2065 638 2064 835 2067 908 2058 1095 2053 1178 2052 1450 2049 1719 2048 1855 2049" 
-                    HPOS="576"
-                    VPOS="2003"
-                    WIDTH="1279"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="576 2003 1855 2003 1855 2077 576 2077"/></Shape>
-	    <String CONTENT="les Nègres, et chacun en l’écoutant retrouvait dans"
-                    HPOS="576"
-                    VPOS="2003"
-                    WIDTH="1279"
-                    HEIGHT="74"></String>
-          </TextLine>
+                                        <TextLine ID="tl_5" TAGREFS="LT96"
+                                                BASELINE="571 781 679 779 775 777 850 777 1023 782 1089 773 1243 771 1438 770 1553 769 1643 769 1847 767"
+                                                HPOS="570" VPOS="723" WIDTH="1277" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="570 723 1847 723 1847 795 570 795"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="assis sur les talons, la barbe baissée vers les hampes"
+                                                  HPOS="570" VPOS="723" WIDTH="1277" HEIGHT="72"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_23"
-                    TAGREFS="LT96"
-                    BASELINE="578 2141 688 2139 808 2135 874 2134 1094 2129 1171 2129 1238 2128 1413 2125 1666 2126 1767 2124 1856 2125" 
-                    HPOS="578"
-                    VPOS="2080"
-                    WIDTH="1278"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="578 2080 1856 2080 1856 2152 578 2152"/></Shape>
-	    <String CONTENT="cette voix la douceur de sa patrie. Emportée par les"
-                    HPOS="578"
-                    VPOS="2080"
-                    WIDTH="1278"
-                    HEIGHT="72"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_24"
-                    TAGREFS="LT96"
-                    BASELINE="576 2218 801 2212 876 2211 1137 2213 1255 2204 1473 2202 1766 2201 1856 2201" 
-                    HPOS="576"
-                    VPOS="2155"
-                    WIDTH="1280"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="576 2155 1856 2155 1856 2225 576 2225"/></Shape>
-	    <String CONTENT="souvenirs de Carthage, elle chantait maintenant les"
-                    HPOS="576"
-                    VPOS="2155"
-                    WIDTH="1280"
-                    HEIGHT="70"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_25"
-                    TAGREFS="LT96"
-                    BASELINE="578 2293 808 2288 1027 2284 1192 2281 1341 2280 1365 2286 1444 2279 1851 2274" 
-                    HPOS="577"
-                    VPOS="2232"
-                    WIDTH="1274"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="577 2232 1851 2232 1851 2303 577 2303"/></Shape>
-	    <String CONTENT="anciennes batailles contre Rome; ils applaudissaient."
-                    HPOS="577"
-                    VPOS="2232"
-                    WIDTH="1274"
-                    HEIGHT="71"></String>
-          </TextLine>
+                                        <TextLine ID="tl_6" TAGREFS="LT96"
+                                                BASELINE="572 857 625 856 718 854 940 859 998 848 1062 849 1347 845 1426 844 1648 843 1740 843 1847 831"
+                                                HPOS="572" VPOS="798" WIDTH="1276" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="572 798 1848 798 1848 869 572 869"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="de ses javelots, il la considérait en écartant les na¬"
+                                                  HPOS="572" VPOS="798" WIDTH="1276" HEIGHT="71"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_26"
-                    TAGREFS="LT96"
-                    BASELINE="577 2368 667 2367 986 2360 1027 2360 1086 2358 1231 2356 1319 2356 1466 2354 1592 2354 1616 2359 1718 2352 1859 2349" 
-                    HPOS="577"
-                    VPOS="2308"
-                    WIDTH="1282"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="577 2308 1859 2308 1859 2377 577 2377"/></Shape>
-	    <String CONTENT="Elle s’enflammait à la lueur des épées nues; elle criait"
-                    HPOS="577"
-                    VPOS="2308"
-                    WIDTH="1282"
-                    HEIGHT="69"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_27"
-                    TAGREFS="LT96"
-                    BASELINE="576 2444 639 2443 761 2441 971 2435 1060 2434 1188 2432 1385 2437 1498 2429 1564 2428 1681 2433 1757 2415 1855 2431" 
-                    HPOS="576"
-                    VPOS="2382"
-                    WIDTH="1279"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="576 2382 1855 2382 1855 2453 576 2453"/></Shape>
-	    <String CONTENT="les bras ouverts. Sa lyre tomba, elle se tut; — et,"
-                    HPOS="576"
-                    VPOS="2382"
-                    WIDTH="1279"
-                    HEIGHT="71"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_28"
-                    TAGREFS="LT96"
-                    BASELINE="577 2533 778 2516 876 2513 1017 2511 1066 2509 1197 2507 1374 2513 1482 2506 1623 2503 1859 2501" 
-                    HPOS="577"
-                    VPOS="2458"
-                    WIDTH="1283"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="577 2458 1860 2458 1860 2533 577 2533"/></Shape>
-	    <String CONTENT="pressant son cœur à deux mains, elle resta quelques"
-                    HPOS="577"
-                    VPOS="2458"
-                    WIDTH="1283"
-                    HEIGHT="75"></String>
-          </TextLine>
+                                        <TextLine ID="tl_7" TAGREFS="LT96"
+                                                BASELINE="571 932 684 931 883 928 970 926 1178 923 1284 921 1382 921 1617 918 1759 919 1849 918"
+                                                HPOS="571" VPOS="873" WIDTH="1279" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="571 873 1850 873 1850 945 571 945"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="rines comme un léopard qui est accroupi dans les"
+                                                  HPOS="571" VPOS="873" WIDTH="1279" HEIGHT="72"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_29"
-                    TAGREFS="LT96"
-                    BASELINE="576 2594 764 2592 855 2590 1115 2585 1289 2581 1344 2581 1585 2578 1854 2575" 
-                    HPOS="576"
-                    VPOS="2534"
-                    WIDTH="1278"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="576 2534 1854 2534 1854 2606 576 2606"/></Shape>
-	    <String CONTENT="minutes les paupières closes à savourer l’agitation"
-                    HPOS="576"
-                    VPOS="2534"
-                    WIDTH="1278"
-                    HEIGHT="72"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_30"
-                    TAGREFS="LT96"
-                    BASELINE="576 2669 629 2669 747 2667 846 2665 1079 2661" 
-                    HPOS="576"
-                    VPOS="2621"
-                    WIDTH="503"
-                    HEIGHT="49">
-            <Shape><Polygon POINTS="576 2621 1079 2621 1079 2670 576 2670"/></Shape>
-	    <String CONTENT="de tous ces hommes."
-                    HPOS="576"
-                    VPOS="2621"
-                    WIDTH="503"
-                    HEIGHT="49"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_31"
-                    TAGREFS="LT96"
-                    BASELINE="635 2744 804 2749 889 2741 1121 2744 1206 2735 1435 2730 1567 2730 1696 2727 1855 2716" 
-                    HPOS="635"
-                    VPOS="2684"
-                    WIDTH="1220"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="635 2684 1855 2684 1855 2756 635 2756"/></Shape>
-	    <String CONTENT="Mâtho, le Libyen, se penchait vers elle. Invo¬"
-                    HPOS="635"
-                    VPOS="2684"
-                    WIDTH="1220"
-                    HEIGHT="72"></String>
-          </TextLine>
+                                        <TextLine ID="tl_8" TAGREFS="LT96"
+                                                BASELINE="570 1008 797 1004" HPOS="570" VPOS="963"
+                                                WIDTH="227" HEIGHT="45">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="570 963 797 963 797 1008 570 1008"/>
+                                                </Shape>
+                                                <String CONTENT="bambous." HPOS="570" VPOS="963"
+                                                  WIDTH="227" HEIGHT="45"/>
+                                        </TextLine>
 
-          
-        </TextBlock>
-        
 
-        
-      </PrintSpace>
-    </Page>
-  </Layout>
+
+                                        <TextLine ID="tl_9" TAGREFS="LT96"
+                                                BASELINE="628 1081 685 1081 870 1078 991 1076 1092 1074 1261 1072 1328 1071 1494 1070 1574 1069 1759 1068 1845 1069"
+                                                HPOS="628" VPOS="1024" WIDTH="1217" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="628 1024 1845 1024 1845 1095 628 1095"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="De l’autre côté des tables se tenait un Libyen de"
+                                                  HPOS="628" VPOS="1024" WIDTH="1217" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_10" TAGREFS="LT96"
+                                                BASELINE="569 1157 687 1156 920 1152 994 1149 1051 1150 1224 1148 1448 1145 1603 1145 1776 1143 1847 1142"
+                                                HPOS="569" VPOS="1099" WIDTH="1278" HEIGHT="67">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="569 1099 1847 1099 1847 1166 569 1166"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="taille colossale et à courts cheveux noirs frisés. Il"
+                                                  HPOS="569" VPOS="1099" WIDTH="1278" HEIGHT="67"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_11" TAGREFS="LT96"
+                                                BASELINE="571 1231 729 1228 898 1228 1014 1226 1104 1224 1336 1222 1600 1227 1748 1220 1850 1219"
+                                                HPOS="570" VPOS="1175" WIDTH="1280" HEIGHT="69">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="570 1175 1850 1175 1850 1244 570 1244"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="n’avait gardé que sa jaquette militaire, dont les"
+                                                  HPOS="570" VPOS="1175" WIDTH="1280" HEIGHT="69"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_12" TAGREFS="LT96"
+                                                BASELINE="568 1307 704 1307 911 1302 1202 1298 1263 1297 1475 1296 1558 1296 1643 1294 1734 1294 1851 1283"
+                                                HPOS="568" VPOS="1249" WIDTH="1283" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="568 1249 1851 1249 1851 1320 568 1320"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="lames d’airain déchiraient la pourpre du lit. Un col¬"
+                                                  HPOS="568" VPOS="1249" WIDTH="1283" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_13" TAGREFS="LT96"
+                                                BASELINE="566 1383 647 1381 705 1381 864 1379 1097 1375 1478 1371 1622 1371 1711 1370 1852 1371"
+                                                HPOS="566" VPOS="1325" WIDTH="1286" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="566 1325 1852 1325 1852 1397 566 1397"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="lier à lunes d’argent s’embarrassait dans les poils"
+                                                  HPOS="566" VPOS="1325" WIDTH="1286" HEIGHT="72"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_14" TAGREFS="LT96"
+                                                BASELINE="568 1461 621 1460 690 1457 909 1453 1016 1452 1369 1448 1458 1447 1602 1459 1683 1444 1852 1435"
+                                                HPOS="568" VPOS="1400" WIDTH="1285" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="568 1400 1853 1400 1853 1472 568 1472"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="de sa poitrine. Des éclaboussures de sang lui tache¬"
+                                                  HPOS="568" VPOS="1400" WIDTH="1285" HEIGHT="72"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_15" TAGREFS="LT96"
+                                                BASELINE="568 1536 704 1533 773 1532 917 1536 979 1527 1255 1524 1350 1522 1409 1524 1568 1522 1769 1528 1848 1527"
+                                                HPOS="568" VPOS="1475" WIDTH="1280" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="568 1475 1848 1475 1848 1547 568 1547"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="taient la face; il s’appuyait sur le coude gauche, et,"
+                                                  HPOS="568" VPOS="1475" WIDTH="1280" HEIGHT="72"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_16" TAGREFS="LT96"
+                                                BASELINE="568 1610 610 1611 802 1606 988 1603 1213 1607 1273 1598 1492 1597"
+                                                HPOS="568" VPOS="1555" WIDTH="924" HEIGHT="66">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="568 1555 1492 1555 1492 1621 568 1621"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="la bouche grande ouverte, il souriait."
+                                                  HPOS="568" VPOS="1555" WIDTH="924" HEIGHT="66"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_17" TAGREFS="LT96"
+                                                BASELINE="632 1685 876 1681 999 1677 1126 1676 1252 1674 1335 1674 1568 1672 1729 1670 1853 1671"
+                                                HPOS="632" VPOS="1625" WIDTH="1221" HEIGHT="70">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="632 1625 1853 1625 1853 1695 632 1695"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Salammbô n’en était plus au rhythme sacré. Elle"
+                                                  HPOS="632" VPOS="1625" WIDTH="1221" HEIGHT="70"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_18" TAGREFS="LT96"
+                                                BASELINE="573 1762 809 1755 1188 1749 1315 1749 1409 1748 1623 1747 1723 1746 1854 1735"
+                                                HPOS="572" VPOS="1701" WIDTH="1282" HEIGHT="74">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="572 1701 1854 1701 1854 1775 572 1775"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="employait simultanément tous les idiomes des Bar¬"
+                                                  HPOS="572" VPOS="1701" WIDTH="1282" HEIGHT="74"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_19" TAGREFS="LT96"
+                                                BASELINE="574 1837 699 1835 727 1840 1027 1828 1118 1827 1314 1825 1464 1822 1723 1821 1855 1820"
+                                                HPOS="574" VPOS="1775" WIDTH="1281" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="574 1775 1855 1775 1855 1846 574 1846"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="bares, délicatesse de femme pour attendrir leur"
+                                                  HPOS="574" VPOS="1775" WIDTH="1281" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_20" TAGREFS="LT96"
+                                                BASELINE="573 1913 729 1908 847 1907 994 1904 1097 1903 1272 1900 1410 1906 1527 1898 1637 1898 1705 1897 1853 1886"
+                                                HPOS="573" VPOS="1852" WIDTH="1281" HEIGHT="70">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="573 1852 1854 1852 1854 1922 573 1922"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="colère. Aux Grecs elle parlait grec, puis elle se tour¬"
+                                                  HPOS="573" VPOS="1852" WIDTH="1281" HEIGHT="70"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_21" TAGREFS="LT96"
+                                                BASELINE="577 1987 666 1986 799 1984 894 1981 1136 1985 1271 1976 1368 1975 1721 1979 1856 1973"
+                                                HPOS="577" VPOS="1928" WIDTH="1280" HEIGHT="70">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="577 1928 1857 1928 1857 1998 577 1998"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="nait vers les Ligures, vers les Campanéens, vers"
+                                                  HPOS="577" VPOS="1928" WIDTH="1280" HEIGHT="70"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_22" TAGREFS="LT96"
+                                                BASELINE="576 2065 638 2064 835 2067 908 2058 1095 2053 1178 2052 1450 2049 1719 2048 1855 2049"
+                                                HPOS="576" VPOS="2003" WIDTH="1279" HEIGHT="74">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="576 2003 1855 2003 1855 2077 576 2077"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="les Nègres, et chacun en l’écoutant retrouvait dans"
+                                                  HPOS="576" VPOS="2003" WIDTH="1279" HEIGHT="74"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_23" TAGREFS="LT96"
+                                                BASELINE="578 2141 688 2139 808 2135 874 2134 1094 2129 1171 2129 1238 2128 1413 2125 1666 2126 1767 2124 1856 2125"
+                                                HPOS="578" VPOS="2080" WIDTH="1278" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="578 2080 1856 2080 1856 2152 578 2152"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="cette voix la douceur de sa patrie. Emportée par les"
+                                                  HPOS="578" VPOS="2080" WIDTH="1278" HEIGHT="72"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_24" TAGREFS="LT96"
+                                                BASELINE="576 2218 801 2212 876 2211 1137 2213 1255 2204 1473 2202 1766 2201 1856 2201"
+                                                HPOS="576" VPOS="2155" WIDTH="1280" HEIGHT="70">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="576 2155 1856 2155 1856 2225 576 2225"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="souvenirs de Carthage, elle chantait maintenant les"
+                                                  HPOS="576" VPOS="2155" WIDTH="1280" HEIGHT="70"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_25" TAGREFS="LT96"
+                                                BASELINE="578 2293 808 2288 1027 2284 1192 2281 1341 2280 1365 2286 1444 2279 1851 2274"
+                                                HPOS="577" VPOS="2232" WIDTH="1274" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="577 2232 1851 2232 1851 2303 577 2303"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="anciennes batailles contre Rome; ils applaudissaient."
+                                                  HPOS="577" VPOS="2232" WIDTH="1274" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_26" TAGREFS="LT96"
+                                                BASELINE="577 2368 667 2367 986 2360 1027 2360 1086 2358 1231 2356 1319 2356 1466 2354 1592 2354 1616 2359 1718 2352 1859 2349"
+                                                HPOS="577" VPOS="2308" WIDTH="1282" HEIGHT="69">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="577 2308 1859 2308 1859 2377 577 2377"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Elle s’enflammait à la lueur des épées nues; elle criait"
+                                                  HPOS="577" VPOS="2308" WIDTH="1282" HEIGHT="69"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_27" TAGREFS="LT96"
+                                                BASELINE="576 2444 639 2443 761 2441 971 2435 1060 2434 1188 2432 1385 2437 1498 2429 1564 2428 1681 2433 1757 2415 1855 2431"
+                                                HPOS="576" VPOS="2382" WIDTH="1279" HEIGHT="71">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="576 2382 1855 2382 1855 2453 576 2453"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="les bras ouverts. Sa lyre tomba, elle se tut; — et,"
+                                                  HPOS="576" VPOS="2382" WIDTH="1279" HEIGHT="71"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_28" TAGREFS="LT96"
+                                                BASELINE="577 2533 778 2516 876 2513 1017 2511 1066 2509 1197 2507 1374 2513 1482 2506 1623 2503 1859 2501"
+                                                HPOS="577" VPOS="2458" WIDTH="1283" HEIGHT="75">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="577 2458 1860 2458 1860 2533 577 2533"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="pressant son cœur à deux mains, elle resta quelques"
+                                                  HPOS="577" VPOS="2458" WIDTH="1283" HEIGHT="75"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_29" TAGREFS="LT96"
+                                                BASELINE="576 2594 764 2592 855 2590 1115 2585 1289 2581 1344 2581 1585 2578 1854 2575"
+                                                HPOS="576" VPOS="2534" WIDTH="1278" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="576 2534 1854 2534 1854 2606 576 2606"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="minutes les paupières closes à savourer l’agitation"
+                                                  HPOS="576" VPOS="2534" WIDTH="1278" HEIGHT="72"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_30" TAGREFS="LT96"
+                                                BASELINE="576 2669 629 2669 747 2667 846 2665 1079 2661"
+                                                HPOS="576" VPOS="2621" WIDTH="503" HEIGHT="49">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="576 2621 1079 2621 1079 2670 576 2670"/>
+                                                </Shape>
+                                                <String CONTENT="de tous ces hommes." HPOS="576"
+                                                  VPOS="2621" WIDTH="503" HEIGHT="49"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_31" TAGREFS="LT96"
+                                                BASELINE="635 2744 804 2749 889 2741 1121 2744 1206 2735 1435 2730 1567 2730 1696 2727 1855 2716"
+                                                HPOS="635" VPOS="2684" WIDTH="1220" HEIGHT="72">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="635 2684 1855 2684 1855 2756 635 2756"/>
+                                                </Shape>
+                                                <String
+                                                  CONTENT="Mâtho, le Libyen, se penchait vers elle. Invo¬"
+                                                  HPOS="635" VPOS="2684" WIDTH="1220" HEIGHT="72"/>
+                                        </TextLine>
+
+
+                                </TextBlock>
+
+
+
+                        </PrintSpace>
+                </Page>
+        </Layout>
 </alto>
