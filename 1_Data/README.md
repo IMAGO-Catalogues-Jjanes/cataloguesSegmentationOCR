@@ -1,5 +1,7 @@
 # Segmentation of the dataset
 
+The segmented data presented here is an application of the naming zones ontology [SegmOnto](https://github.com/SegmOnto/) associated with the zone Entry, created for the catalogs. If you need a segmented data using only zones established by the SegmOnto initiative, you can use the ALTO data with the XSL Transformation Sheets available here. 
+
 ## Naming zones and lines with SegmOnto
 
 The idea was to train a segmentation model which could automatically tag the differents zones and lines of an image, so that the TEI transformation would be easier. Due to this, the dataset has been prepared in eScriptorium using a system of tagging lines and regions of an image. Do to that, we rely on the work done by SegmOnto initiative, which is a group aiming to create a TEI-based ontology for HTR. 
