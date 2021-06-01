@@ -12,6 +12,17 @@ The dataset is composed of 150 pages, with 50 pages of each type of data. Its pr
   <img src="images/pipelineSegmentation.png" width="600"/>
 </p>
 
+## How to build the dataset
+In your terminal:
+1. Go to the directory ```3_Scripts_training_construction```
+2. Chose the dataset you want:</br>
+         - All the dataset</br>
+         - Only one of the catalogs types (Annuaires, exhibition catalogs or manuscripts' fair catalogs)
+3. Use the corresponding script with the command ```bash [SCRIPT]```
+4. You will get a ```TrainingData``` directory containing the dataset 
+
+The primary dataset has the catalogs entries described and segmented. If you do not need them, you can use the [Transformation Sheet](https://github.com/Juliettejns/cataloguesSegmentationOCR/blob/main/1_Data/Transformation_entries.xsl) on the dataset.
+
 ## Repository 
 ```
 ├── 1_Data
