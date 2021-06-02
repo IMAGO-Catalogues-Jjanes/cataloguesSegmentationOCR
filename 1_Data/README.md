@@ -12,7 +12,7 @@ If the lines in this dataset are all defined by _default_, there are various typ
   - _numbering_ : caracterises a zone containing the page number
   - _running title_ : caracterises a zone containing a running title
   - _figure_ : caracterises a zone containing a figure
-  - _stamp_ :  caracterises a zone containing a figure
+  - _stamp_ :  caracterises a zone containing a stamp
 
 ### Application and choices 
 Here are typical exemples of zones' tagging. </br>
