@@ -12,11 +12,11 @@ if __name__ == '__main__':
             if i in f.read():
                 pass
             else:
-            monRand = random.random()
-            if monRand <= 0.1:
-                val.write(i+"\n")
-            else:
-                train.write(i+"\n")
+                monRand = random.random()
+                if monRand <= 0.1:
+                    val.write(i+"\n")
+                else:
+                    train.write(i+"\n")
 
     train.close()
     val.close()
