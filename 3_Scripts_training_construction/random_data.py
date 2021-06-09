@@ -4,7 +4,7 @@ import random
 if __name__ == '__main__':
 
     train = open("train.txt", "w")
-    val = open("test.txt", "w")
+    val = open("val.txt", "w")
     random.seed('1214')
 
     for i in sys.argv[1:]:
