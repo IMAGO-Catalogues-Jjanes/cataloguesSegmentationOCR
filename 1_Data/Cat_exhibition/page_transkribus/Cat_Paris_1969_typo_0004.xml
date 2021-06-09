@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-12T14:10:27.977+02:00</Created>
+        <LastChange>2020-06-12T14:37:17.377+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="407982" pageId="16134691" pageNr="4" tsid="31473517" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=USRCINMLSWKFOQZIGKLDBOAB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YVUPWMFOKKRBUTCIRACVJDEG" imageId="11941129"/>
+    </Metadata>
+    <Page imageFilename="Cat_Paris_1969_typo_0004.jpg" imageWidth="1062" imageHeight="2361">
+        <PrintSpace>
+            <Coords points="0,0 1062,0 1062,2361 0,2361"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604240037531" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_3_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_2"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_4_2"/>
+                <RegionRefIndexed index="5" regionRef="r_4_3"/>
+                <RegionRefIndexed index="6" regionRef="r_4_4"/>
+                <RegionRefIndexed index="7" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="45,81 327,81 327,123 45,123"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="46,82 326,82 326,122 46,122"/>
+                <Baseline points="46,118 326,121"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="46,82 326,82 326,121 46,121"/>
+                    <TextEquiv>
+                        <Unicode>SENEGAL</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="11.5" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>&lt;b&gt;SENEGAL&lt;/b&gt;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.5" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;b&gt;SENEGAL&lt;/b&gt;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:1;}">
+            <Coords points="216,464 912,464 912,513 216,513"/>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="217,465 911,465 911,512 217,512"/>
+                <Baseline points="217,498 446,499 605,501 626,501 740,503 832,505 911,508"/>
+                <Word id="w_w2aab1b5b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="217,466 446,466 446,499 217,499"/>
+                    <TextEquiv>
+                        <Unicode>Commissaire</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="9.5"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac25" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="475,469 605,469 605,507 475,507"/>
+                    <TextEquiv>
+                        <Unicode>général</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="9.5"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac41" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="620,472 626,472 626,501 620,501"/>
+                    <TextEquiv>
+                        <Unicode>:</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="9.5"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1b1b1" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="659,472 740,472 740,510 659,510"/>
+                    <TextEquiv>
+                        <Unicode>Papa</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="10.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1b1c11" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="772,475 832,475 832,505 772,505"/>
+                    <TextEquiv>
+                        <Unicode>Ibra</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="10.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1b1c21" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="858,477 911,477 911,508 858,508"/>
+                    <TextEquiv>
+                        <Unicode>Tall</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="10.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Commissaire général : &lt;b&gt;Papa Ibra Tall&lt;/b&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Commissaire général : &lt;b&gt;Papa Ibra Tall&lt;/b&gt;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:2;}">
+            <Coords points="216,515 976,515 976,587 216,587"/>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="217,516 975,516 975,561 217,561"/>
+                <Baseline points="217,542 355,543 409,544 452,545 661,548 818,552 866,552 975,550"/>
+                <Word id="w_w2aab1b5b2b3b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="217,517 355,517 355,544 217,544"/>
+                    <TextEquiv>
+                        <Unicode>Directeur</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="372,519 409,519 409,544 372,544"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="430,520 452,520 452,545 430,545"/>
+                    <TextEquiv>
+                        <Unicode>la</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="475,520 661,520 661,548 475,548"/>
+                    <TextEquiv>
+                        <Unicode>Manufacture</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac57" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="684,523 818,523 818,552 684,552"/>
+                    <TextEquiv>
+                        <Unicode>Nationale</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac77" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="837,526 866,526 866,552 837,552"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac83" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="882,528 975,528 975,560 882,560"/>
+                    <TextEquiv>
+                        <Unicode>Tapisse¬</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Directeur de la Manufacture Nationale de Tapisse¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="217,549 594,549 594,586 217,586"/>
+                <Baseline points="217,576 253,577 310,576 448,578 485,578 594,580"/>
+                <Word id="w_w2aab1b5b2b3b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="217,550 253,550 253,577 217,577"/>
+                    <TextEquiv>
+                        <Unicode>rie</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b3ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="274,551 310,551 310,576 274,576"/>
+                    <TextEquiv>
+                        <Unicode>du</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b3ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="332,551 448,551 448,584 332,584"/>
+                    <TextEquiv>
+                        <Unicode>Sénégal</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b3ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="471,552 485,552 485,578 471,578"/>
+                    <TextEquiv>
+                        <Unicode>à</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b3ac35" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="506,553 594,553 594,580 506,580"/>
+                    <TextEquiv>
+                        <Unicode>Thiès.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>rie du Sénégal à Thiès.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Directeur de la Manufacture Nationale de Tapisse¬
+rie du Sénégal à Thiès.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="158,682 954,682 954,727 158,727"/>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="159,683 953,683 953,726 159,726"/>
+                <Baseline points="159,709 230,710 309,711 350,711 474,713 527,713 611,714 647,714 812,718 952,721"/>
+                <Word id="w_w2aab1b7b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="159,684 230,684 230,715 159,715"/>
+                    <TextEquiv>
+                        <Unicode>Papa</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ac11" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="254,685 309,685 309,711 254,711"/>
+                    <TextEquiv>
+                        <Unicode>Ibra</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="330,686 416,686 416,719 330,719"/>
+                    <TextEquiv>
+                        <Unicode>TALL,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1b1b1" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="438,687 474,687 474,713 438,713"/>
+                    <TextEquiv>
+                        <Unicode>né</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1b1b7" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="493,695 527,695 527,713 493,713"/>
+                    <TextEquiv>
+                        <Unicode>en</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1b1c13" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="551,688 611,688 611,714 551,714"/>
+                    <TextEquiv>
+                        <Unicode>1935</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1b1c23" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="632,688 647,688 647,714 632,714"/>
+                    <TextEquiv>
+                        <Unicode>à</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1b1c27" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="667,690 812,690 812,718 667,718"/>
+                    <TextEquiv>
+                        <Unicode>Tivaouane</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1b1c47" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="833,692 952,692 952,725 833,725"/>
+                    <TextEquiv>
+                        <Unicode>(Sénégal).</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>&lt;b&gt;Papa Ibra TALL&lt;/b&gt;, né en 1935 à Tivaouane (Sénégal).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;b&gt;Papa Ibra TALL&lt;/b&gt;, né en 1935 à Tivaouane (Sénégal).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_2" custom="readingOrder {index:4;}">
+            <Coords points="128,732 843,732 843,803 128,803"/>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="129,733 842,733 842,772 129,772"/>
+                <Baseline points="129,760 138,760 238,761 294,761 369,762 483,763 519,764 611,765 764,772 842,768"/>
+                <Word id="w_w2aab1b7b2b3b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="129,734 138,734 138,760 129,760"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="8.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1b3" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="161,734 238,734 238,761 161,761"/>
+                    <TextEquiv>
+                        <Unicode>Point</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1c15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="259,736 294,736 294,761 259,761"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1c21" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="318,744 369,744 369,763 318,763"/>
+                    <TextEquiv>
+                        <Unicode>non</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1c29" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="394,739 483,739 483,763 394,763"/>
+                    <TextEquiv>
+                        <Unicode>retour</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1c43" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="505,738 519,738 519,764 505,764"/>
+                    <TextEquiv>
+                        <Unicode>à</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1c47" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="543,739 611,739 611,765 543,765"/>
+                    <TextEquiv>
+                        <Unicode>John</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1c57" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="636,741 764,741 764,772 636,772"/>
+                    <TextEquiv>
+                        <Unicode>Coltrane,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b1b1c77" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="787,743 842,743 842,768 787,768"/>
+                    <TextEquiv>
+                        <Unicode>1968</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>&lt;b&gt;1&lt;/b&gt; Point de non retour à John Coltrane, 1968</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="160,768 431,768 431,802 160,802"/>
+                <Baseline points="160,796 251,800 319,796 354,794 430,796"/>
+                <Word id="w_w2aab1b7b2b3b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="160,768 251,768 251,800 160,800"/>
+                    <TextEquiv>
+                        <Unicode>(huile,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b3ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="274,770 319,770 319,796 274,796"/>
+                    <TextEquiv>
+                        <Unicode>195</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b3ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="332,773 354,773 354,794 332,794"/>
+                    <TextEquiv>
+                        <Unicode>X</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b3b3ac29" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="369,771 430,771 430,800 369,800"/>
+                    <TextEquiv>
+                        <Unicode>195).</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>(huile, 195 x 195).</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;b&gt;1&lt;/b&gt; Point de non retour à John Coltrane, 1968
+(huile, 195 x 195).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_3" custom="readingOrder {index:5;}">
+            <Coords points="126,808 867,808 867,878 126,878"/>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="127,809 866,809 866,851 127,851"/>
+                <Baseline points="127,835 140,835 226,837 285,837 391,838 450,839 500,840 650,842 787,849 866,845"/>
+                <Word id="w_w2aab1b7b2b5b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="127,810 140,810 140,835 127,835"/>
+                    <TextEquiv>
+                        <Unicode>2</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ab5" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="160,810 226,810 226,837 160,837"/>
+                    <TextEquiv>
+                        <Unicode>Pour</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="251,819 285,819 285,837 251,837"/>
+                    <TextEquiv>
+                        <Unicode>un</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ac21" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="312,812 391,812 391,838 312,838"/>
+                    <TextEquiv>
+                        <Unicode>héros</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ac33" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="416,814 450,814 450,839 416,839"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ac39" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="478,815 500,815 500,840 478,840"/>
+                    <TextEquiv>
+                        <Unicode>la</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ac45" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="527,817 650,817 650,842 527,842"/>
+                    <TextEquiv>
+                        <Unicode>nouvelle</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ac63" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="675,817 787,817 787,849 675,849"/>
+                    <TextEquiv>
+                        <Unicode>Afrique,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b1ac81" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="812,819 866,819 866,845 812,845"/>
+                    <TextEquiv>
+                        <Unicode>1969</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>&lt;b&gt;2&lt;/b&gt; Pour un héros de la nouvelle Afrique, 1969</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="159,843 427,843 427,877 159,877"/>
+                <Baseline points="159,872 251,875 316,871 350,870 427,872"/>
+                <Word id="w_w2aab1b7b2b5b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="159,843 251,843 251,875 159,875"/>
+                    <TextEquiv>
+                        <Unicode>(huile,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b3ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="270,845 316,845 316,871 270,871"/>
+                    <TextEquiv>
+                        <Unicode>195</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b3ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="328,848 350,848 350,870 328,870"/>
+                    <TextEquiv>
+                        <Unicode>X</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b5b3ac29" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="364,846 427,846 427,876 364,876"/>
+                    <TextEquiv>
+                        <Unicode>195).</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>(huile, 195 x 195).</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;b&gt;2&lt;/b&gt; Pour un héros de la nouvelle Afrique, 1969
+(huile, 195 x 195).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_4" custom="readingOrder {index:6;}">
+            <Coords points="124,884 875,884 875,926 124,926"/>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="125,885 874,885 874,925 125,925"/>
+                <Baseline points="125,910 139,910 190,911 287,913 358,914 514,921 597,917 708,923 773,919 806,919 874,921"/>
+                <Word id="w_w2aab1b7b2b7b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="125,885 139,885 139,910 125,910"/>
+                    <TextEquiv>
+                        <Unicode>3</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="8.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1b3" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="159,886 190,886 190,911 159,911"/>
+                    <TextEquiv>
+                        <Unicode>La</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1b9" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="212,889 287,889 287,913 212,913"/>
+                    <TextEquiv>
+                        <Unicode>route</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1c21" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="308,888 358,888 358,914 308,914"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1c29" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="379,889 514,889 514,921 379,921"/>
+                    <TextEquiv>
+                        <Unicode>Caraïbes,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1c49" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="536,891 597,891 597,917 536,917"/>
+                    <TextEquiv>
+                        <Unicode>1969</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1c59" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="618,892 708,892 708,923 618,923"/>
+                    <TextEquiv>
+                        <Unicode>(huile,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1c75" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="731,893 773,893 773,919 731,919"/>
+                    <TextEquiv>
+                        <Unicode>130</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1c83" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="786,897 806,897 806,919 786,919"/>
+                    <TextEquiv>
+                        <Unicode>X</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b7b1b1c87" language="English" custom="readingOrder {index:9;}">
+                    <Coords points="819,895 874,895 874,924 819,924"/>
+                    <TextEquiv>
+                        <Unicode>195).</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>&lt;b&gt;3&lt;/b&gt; La route des Caraïbes, 1969 (huile, 130 x 195).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;b&gt;3&lt;/b&gt; La route des Caraïbes, 1969 (huile, 130 x 195).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:7;}">
+            <Coords points="90,2283 138,2283 138,2312 90,2312"/>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="91,2284 137,2284 137,2311 91,2311"/>
+                <Baseline points="91,2309 137,2311"/>
+                <Word id="w_w2aab1b9b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="91,2284 137,2284 137,2311 91,2311"/>
+                    <TextEquiv>
+                        <Unicode>114</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="8.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>114</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>114</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
