@@ -22,7 +22,7 @@ In your terminal:
 4. You will get a ```TrainingData``` directory containing all the data 
 
 The primary dataset has the catalogs entries described and segmented. If you do not need them, you can use the [Transformation Sheet](https://github.com/Juliettejns/cataloguesSegmentationOCR/blob/main/1_Data/Transformation_entries.xsl) on the dataset.</br>
-The split dataset we used can be found in the `3_Scripts_training_construction` along to the python script which created it.
+The test dataset used for our training can be found in the directory `3_Scripts_training_construction` along with a python script which split the data in train, test and eval datasets.
 ## Repository 
 ```
 ├── 1_Data
