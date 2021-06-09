@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T14:56:01.763+02:00</Created>
+        <LastChange>2020-06-12T13:44:25.007+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="405976" pageId="15878767" pageNr="1" tsid="31471783" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=RQTGJYIVKVSZWLAUMDPRNZRN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RBWPGOSMLQNBZZNGGNMZJXUX" imageId="11695627"/>
+    </Metadata>
+  <Page imageFilename="Cat_Courbet_1882-3_typo_0001.jpg" imageWidth="1749" imageHeight="2481">
+    <PrintSpace>
+            <Coords points="429,430 1356,440 1356,861 429,851"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604240538682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_2_4"/>
+                <RegionRefIndexed index="5" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="833,445 962,445 962,473 833,473"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="834,446 961,446 961,472 834,472"/>
+        <Baseline points="834,465 864,465 915,471 961,465"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="834,446 961,446 961,472 834,472"/>
+          <TextEquiv>
+            <Unicode>— 80 —</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+      <Coords points="455,530 904,529 904,578 455,579"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="450,528 903,530 903,577 450,575"/>
+        <Baseline points="626,567 903,566"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="450,528 903,530 903,577 450,575"/>
+          <TextEquiv>
+            <Unicode>129. — Champignons.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+      <Coords points="649,614 1188,614 1188,653 649,653"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="650,615 1187,615 1187,652 650,652"/>
+        <Baseline points="650,642 730,641 760,641 790,649 924,642 1040,644 1187,643"/>
+        <Word id="w_w2aab1b3b2b3b1ab1">
+          <Coords points="650,615 1187,615 1187,652 650,652"/>
+          <TextEquiv>
+            <Unicode>Signé à gauche : ..72. G. Courbet.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+      <Coords points="618,653 1354,653 1354,728 618,728"/>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="649,654 1353,654 1353,694 649,694"/>
+        <Baseline points="650,683 673,683 780,689 830,683 869,684 959,684 1013,686 1142,692 1194,685 1242,685 1288,684 1353,681"/>
+        <Word id="w_w2aab1b3b2b5b1ab1">
+          <Coords points="649,654 1353,654 1353,694 649,694"/>
+          <TextEquiv>
+            <Unicode>A droite, de la main du peintre, on lit la dé¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="619,697 1054,697 1054,727 619,727"/>
+        <Baseline points="619,724 706,723 730,724 758,722 799,723 852,723 1022,725 1054,725"/>
+        <Word id="w_w2aab1b3b2b5b3ab1">
+          <Coords points="619,697 1054,697 1054,727 619,727"/>
+          <TextEquiv>
+            <Unicode>dicace : « A M. Ordinaire. »</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:4;}">
+      <Coords points="937,750 1291,750 1291,781 937,781"/>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="938,751 1290,751 1290,780 938,780"/>
+        <Baseline points="938,778 972,779 1011,773 1056,778 1148,779 1195,779 1290,779"/>
+        <Word id="w_w2aab1b3b2b7b1ab1">
+          <Coords points="938,751 1290,751 1290,780 938,780"/>
+          <TextEquiv>
+            <Unicode>T. — H. 0.61. L. 0.65.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:5;}">
+      <Coords points="648,818 1074,818 1074,855 648,855"/>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="649,819 1073,819 1073,854 649,854"/>
+        <Baseline points="649,845 808,846 857,845 895,846 906,836 1073,847"/>
+        <Word id="w_w2aab1b5b2b1b1ab1">
+          <Coords points="649,819 1073,819 1073,854 649,854"/>
+          <TextEquiv>
+            <Unicode>Appartient au Dr Ordinaire.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
