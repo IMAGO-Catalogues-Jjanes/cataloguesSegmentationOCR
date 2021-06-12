@@ -1,5 +1,6 @@
 import sys
 import random
+import os
 
 if __name__ == '__main__':
 
@@ -12,6 +13,7 @@ if __name__ == '__main__':
             if i in f.read():
                 pass
             else:
+                i = os.path.abspath(i)
                 monRand = random.random()
                 if monRand <= 0.1:
                     val.write(i+"\n")
