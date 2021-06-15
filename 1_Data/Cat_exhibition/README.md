@@ -6,8 +6,8 @@ Here can be found all the exhibition catalogs prepared and segmented.
 The goal was to recreate a small dataset of 127 images which could represent the diversity of catalogs processed by Basart. Therefore, the catalogs presented here go from the beginning of the 19th century to the end of the 20th century, and are from various part of the world. The dataset is also constructed in order to show the variety of typology such as having one or two columns per pages, pagination on the top or the bottom of the page and running titles.
 
 <p class="float">
-<img src="/images/nbre_pages_expo.png" height="350"/>
-<img src="/images/repartition_expositions.png" height="370"/>
+<img src="/images/Catexp_time.png" height="350"/>
+<img src="/images/Catexp_prov.png" height="350"/>
 </p>
 
 ## Directory
