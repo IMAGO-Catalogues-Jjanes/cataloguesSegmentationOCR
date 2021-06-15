@@ -33,7 +33,7 @@ Title are also a less recurent type of elements in the dataset. As it can be see
 ### Distribution of zones in the dataset
 
 <p align="center">
-  <img src="../images/repartition_types_zones.png" height="400"/>
+  <img src="../images/Repartition_zones.png" height="400"/>
   </p>
     
   
