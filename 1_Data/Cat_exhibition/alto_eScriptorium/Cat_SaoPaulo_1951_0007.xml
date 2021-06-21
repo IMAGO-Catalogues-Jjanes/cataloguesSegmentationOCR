@@ -1,496 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>Cat_SaoPaulo_1951_0007.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT503" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT504" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT505" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT506" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT507" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT508" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT509" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="BT510" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="LT177" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="1641" HEIGHT="2087" PHYSICAL_IMG_NR="25" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1641" HEIGHT="2087">
-
-                                <TextBlock HPOS="782" VPOS="1807" WIDTH="88" HEIGHT="60"
-                                        ID="eSc_textblock_cff826a6" TAGREFS="BT507">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="782 1807 782 1867 870 1867 866 1807"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT177"
-                                                BASELINE="804 1836 841 1836" HPOS="804" VPOS="1807"
-                                                WIDTH="37" HEIGHT="29">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="804 1807 841 1807 841 1836 804 1836"/>
-                                                </Shape>
-                                                <String CONTENT="80" HPOS="804" VPOS="1807"
-                                                  WIDTH="37" HEIGHT="29"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="297" VPOS="234" WIDTH="1031" HEIGHT="1537"
-                                        ID="eSc_textblock_2f5b1d6a" TAGREFS="BT504">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="297 234 297 1771 1328 1771 1328 234"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT177"
-                                                BASELINE="332 282 462 281 670 280 778 280 872 279 967 280 1044 284"
-                                                HPOS="332" VPOS="251" WIDTH="712" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="332 251 1044 251 1044 288 332 288"/>
-                                                </Shape>
-                                                <String CONTENT="Georgia O’KEEFE (EE. UU. 1887 —)"
-                                                  HPOS="332" VPOS="251" WIDTH="712" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT177"
-                                                BASELINE="390 352 405 352 631 351 674 351 792 351 940 350 1027 343 1146 349 1159 349 1294 348"
-                                                HPOS="390" VPOS="320" WIDTH="904" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="390 320 1294 320 1294 357 390 357"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="50. Penhascos além do Abiquiu — 1943 . 76x61."
-                                                  HPOS="390" VPOS="320" WIDTH="904" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT177"
-                                                BASELINE="475 389 581 390 647 389 699 388 863 388 965 386"
-                                                HPOS="475" VPOS="361" WIDTH="490" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon POINTS="475 361 965 361 965 396 475 396"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Walter H. Lurie, New York"
-                                                  HPOS="475" VPOS="361" WIDTH="490" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT177"
-                                                BASELINE="389 429 403 429 498 427 664 420 759 427 882 425 968 427 1154 424 1298 428"
-                                                HPOS="389" VPOS="397" WIDTH="909" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="389 397 1298 397 1298 434 389 434"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="51. Papoulas — 1950. 91x76. The Downtown Gallery,"
-                                                  HPOS="389" VPOS="397" WIDTH="909" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT177"
-                                                BASELINE="474 465 545 466 647 464" HPOS="474"
-                                                VPOS="437" WIDTH="173" HEIGHT="29">
-                                                <Shape>
-                                                  <Polygon POINTS="474 437 647 437 647 466 474 466"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="New York" HPOS="474" VPOS="437"
-                                                  WIDTH="173" HEIGHT="29"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT177"
-                                                BASELINE="335 558 423 557 518 556 657 556 761 554 851 554 943 554 1015 562"
-                                                HPOS="335" VPOS="527" WIDTH="680" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="335 527 1015 527 1015 565 335 565"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Irene Rice Pereira (EE. UU. 1907 —)"
-                                                  HPOS="335" VPOS="527" WIDTH="680" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT177"
-                                                BASELINE="392 620 437 619 571 620 664 620 705 611 805 619 948 617 1132 618 1300 620"
-                                                HPOS="392" VPOS="588" WIDTH="908" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="392 588 1300 588 1300 625 392 625"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="52. “Two up&quot; — 1946. 86x107. Durlacher Brothers,"
-                                                  HPOS="392" VPOS="588" WIDTH="908" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="line_1592216391711_501" TAGREFS="LT177"
-                                                BASELINE="483 656 639 657" HPOS="483" VPOS="611"
-                                                WIDTH="156" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon POINTS="483 611 639 612 639 662 483 661"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="New York" HPOS="483" VPOS="611"
-                                                  WIDTH="156" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT177"
-                                                BASELINE="393 696 438 696 494 700 813 694 953 694 1075 677 1186 693 1301 692"
-                                                HPOS="393" VPOS="663" WIDTH="908" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="393 663 1301 663 1301 701 393 701"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="53. “ Transflux&quot; — 1948 “Mixed media’ s/dois pianos"
-                                                  HPOS="393" VPOS="663" WIDTH="908" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT177"
-                                                BASELINE="475 735 509 734 547 734 742 732 923 730 967 731 1181 730 1296 727"
-                                                HPOS="475" VPOS="701" WIDTH="821" HEIGHT="34">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="475 701 1296 701 1296 735 475 735"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="de vidro. 27x57. Durlacher Brothers, New York."
-                                                  HPOS="475" VPOS="701" WIDTH="821" HEIGHT="34"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT177"
-                                                BASELINE="393 772 408 772 662 769 729 769 769 768 949 761 1050 768 1195 768 1301 759"
-                                                HPOS="393" VPOS="738" WIDTH="908" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="393 738 1301 738 1301 776 393 776"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="54. Progressões em vermelho — 1950. 91x107. Dur¬"
-                                                  HPOS="393" VPOS="738" WIDTH="908" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT177"
-                                                BASELINE="479 809 569 809 615 807 833 807 934 805"
-                                                HPOS="479" VPOS="778" WIDTH="455" HEIGHT="36">
-                                                <Shape>
-                                                  <Polygon POINTS="479 778 934 778 934 814 479 814"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="lacher Brothers, New York"
-                                                  HPOS="479" VPOS="778" WIDTH="455" HEIGHT="36"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT177"
-                                                BASELINE="341 901 432 899 637 898 743 899 838 897 931 897 1006 905"
-                                                HPOS="341" VPOS="870" WIDTH="665" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="341 870 1006 870 1006 908 341 908"/>
-                                                </Shape>
-                                                <String CONTENT="Alton PICKENS (EE. UU. 1917 —)"
-                                                  HPOS="341" VPOS="870" WIDTH="665" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT177"
-                                                BASELINE="395 964 410 964 506 963 627 962 663 961 763 955 861 960 1004 961 1160 959 1214 960 1302 952"
-                                                HPOS="395" VPOS="932" WIDTH="907" HEIGHT="32">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="395 932 1302 932 1302 964 395 964"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="55. A boneca azul — 1942. 109x89. Museum of Mo¬"
-                                                  HPOS="395" VPOS="932" WIDTH="907" HEIGHT="32"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT177"
-                                                BASELINE="482 1001 546 1001 592 1001 724 999 822 999"
-                                                HPOS="482" VPOS="972" WIDTH="340" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="482 972 822 972 822 1007 482 1007"/>
-                                                </Shape>
-                                                <String CONTENT="dern Art, New York" HPOS="482"
-                                                  VPOS="972" WIDTH="340" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT177"
-                                                BASELINE="396 1040 410 1040 507 1039 593 1040 632 1037 708 1037 854 1037 1026 1036 1117 1035 1303 1033"
-                                                HPOS="396" VPOS="1006" WIDTH="907" HEIGHT="34">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="396 1006 1303 1006 1303 1040 396 1040"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="56. O ator e sua familia. 109x89. The Burchholz"
-                                                  HPOS="396" VPOS="1006" WIDTH="907" HEIGHT="34"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT177"
-                                                BASELINE="483 1077 506 1077 697 1075 796 1074"
-                                                HPOS="483" VPOS="1048" WIDTH="313" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="483 1048 796 1048 796 1083 483 1083"/>
-                                                </Shape>
-                                                <String CONTENT="Gallery, New York" HPOS="483"
-                                                  VPOS="1048" WIDTH="313" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT177"
-                                                BASELINE="397 1116 411 1116 504 1116 701 1105 830 1112 995 1114 1141 1110 1304 1113"
-                                                HPOS="397" VPOS="1081" WIDTH="907" HEIGHT="36">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="397 1081 1304 1081 1304 1117 397 1117"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="57. Carnaval — 1949. 137x101. Lincoln Kirstein,"
-                                                  HPOS="397" VPOS="1081" WIDTH="907" HEIGHT="36"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT177"
-                                                BASELINE="484 1153 555 1153 658 1149" HPOS="484"
-                                                VPOS="1123" WIDTH="174" HEIGHT="30">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="484 1123 658 1123 658 1153 484 1153"/>
-                                                </Shape>
-                                                <String CONTENT="New York" HPOS="484" VPOS="1123"
-                                                  WIDTH="174" HEIGHT="30"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT177"
-                                                BASELINE="341 1261 473 1252 697 1249 804 1250 898 1248 994 1247 1067 1252"
-                                                HPOS="341" VPOS="1219" WIDTH="726" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="341 1219 1067 1219 1067 1261 341 1261"/>
-                                                </Shape>
-                                                <String CONTENT="Jackson POLLOCK (EE. UU. 1912 —)"
-                                                  HPOS="341" VPOS="1219" WIDTH="726" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT177"
-                                                BASELINE="399 1317 444 1317 596 1315 654 1307 755 1314 917 1311 1032 1317 1165 1311 1306 1314"
-                                                HPOS="399" VPOS="1282" WIDTH="907" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="399 1282 1306 1282 1306 1319 399 1319"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="58. Lucifer — 1947. 102x267. Betty Parson Gallery"
-                                                  HPOS="399" VPOS="1282" WIDTH="907" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT177"
-                                                BASELINE="483 1352 554 1353 655 1351" HPOS="483"
-                                                VPOS="1325" WIDTH="172" HEIGHT="28">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="483 1325 655 1325 655 1353 483 1353"/>
-                                                </Shape>
-                                                <String CONTENT="New York" HPOS="483" VPOS="1325"
-                                                  WIDTH="172" HEIGHT="28"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT177"
-                                                BASELINE="344 1447 434 1446 637 1445 796 1449 888 1441 961 1450"
-                                                HPOS="344" VPOS="1414" WIDTH="617" HEIGHT="39">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="344 1414 961 1414 961 1453 344 1453"/>
-                                                </Shape>
-                                                <String CONTENT="Mark ROTHKO (Russia, 1903 —)"
-                                                  HPOS="344" VPOS="1414" WIDTH="617" HEIGHT="39"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT177"
-                                                BASELINE="402 1512 416 1512 513 1511 650 1509 707 1502 810 1508 961 1508 1067 1513 1214 1507 1306 1497"
-                                                HPOS="402" VPOS="1478" WIDTH="905" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="402 1478 1307 1478 1307 1515 402 1515"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="59. Número 6 — 1951. 239x137 Betty Parsons Gal¬"
-                                                  HPOS="402" VPOS="1478" WIDTH="905" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT177"
-                                                BASELINE="487 1548 494 1548 650 1547 753 1545"
-                                                HPOS="487" VPOS="1520" WIDTH="266" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="487 1520 753 1520 753 1555 487 1555"/>
-                                                </Shape>
-                                                <String CONTENT="lery, New York" HPOS="487"
-                                                  VPOS="1520" WIDTH="266" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT177"
-                                                BASELINE="345 1641 410 1639 582 1639 744 1643 838 1637 912 1639"
-                                                HPOS="345" VPOS="1608" WIDTH="567" HEIGHT="39">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="345 1608 912 1608 912 1647 345 1647"/>
-                                                </Shape>
-                                                <String CONTENT="Ben SHAHN (Russia, 1898 —)"
-                                                  HPOS="345" VPOS="1608" WIDTH="567" HEIGHT="39"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT177"
-                                                BASELINE="402 1711 419 1711 514 1709 606 1712 746 1708 807 1709 850 1707 1030 1700 1069 1705 1305 1704"
-                                                HPOS="402" VPOS="1678" WIDTH="903" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="402 1678 1305 1678 1305 1716 402 1716"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="60. O cego tocador de acórdeão — 1945. têmpera."
-                                                  HPOS="402" VPOS="1678" WIDTH="903" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT177"
-                                                BASELINE="487 1749 584 1748 656 1747 694 1747 780 1747 865 1749 923 1744 992 1745 1211 1744 1310 1741"
-                                                HPOS="487" VPOS="1715" WIDTH="823" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="487 1715 1310 1715 1310 1752 487 1752"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="65x97. Sr. e Sra. Roy R. Neuberger, New York"
-                                                  HPOS="487" VPOS="1715" WIDTH="823" HEIGHT="37"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="322" VPOS="247" WIDTH="987" HEIGHT="228"
-                                        ID="eSc_textblock_482d47ac" TAGREFS="BT508">
-                                        <Shape>
-                                                <Polygon POINTS="327 247 322 475 1309 461 1304 247"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="327" VPOS="521" WIDTH="977" HEIGHT="301"
-                                        ID="eSc_textblock_5ae8d5d2" TAGREFS="BT508">
-                                        <Shape>
-                                                <Polygon POINTS="327 521 327 822 1304 818 1304 526"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="330" VPOS="865" WIDTH="981" HEIGHT="304"
-                                        ID="eSc_textblock_e8f79869" TAGREFS="BT508">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="330 865 347 1169 1311 1159 1311 865"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="328" VPOS="1217" WIDTH="988" HEIGHT="148"
-                                        ID="eSc_textblock_6736bc28" TAGREFS="BT508">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="328 1218 338 1361 1316 1365 1316 1217"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="336" VPOS="1416" WIDTH="972" HEIGHT="142"
-                                        ID="eSc_textblock_a4ed6484" TAGREFS="BT508">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="336 1416 343 1558 1308 1557 1308 1416"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="332" VPOS="1607" WIDTH="984" HEIGHT="153"
-                                        ID="eSc_textblock_5efe5d7f" TAGREFS="BT508">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="336 1607 332 1757 1316 1760 1316 1609"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_SaoPaulo_1951_0007.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="1641" HEIGHT="2087" PHYSICAL_IMG_NR="25" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1641" HEIGHT="2087"><TextBlock HPOS="782" VPOS="1807" WIDTH="88" HEIGHT="60" ID="eSc_textblock_cff826a6" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="782 1807 782 1867 870 1867 866 1807"/>
+                                        </Shape><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="804 1836 841 1836" HPOS="804" VPOS="1807" WIDTH="37" HEIGHT="29"><Shape>
+                                                  <Polygon POINTS="804 1807 841 1807 841 1836 804 1836"/>
+                                                </Shape><String CONTENT="80" HPOS="804" VPOS="1807" WIDTH="37" HEIGHT="29"/></TextLine></TextBlock><TextBlock HPOS="297" VPOS="234" WIDTH="1031" HEIGHT="1537" ID="eSc_textblock_2f5b1d6a" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="297 234 297 1771 1328 1771 1328 234"/>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="332 282 462 281 670 280 778 280 872 279 967 280 1044 284" HPOS="332" VPOS="251" WIDTH="712" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="332 251 1044 251 1044 288 332 288"/>
+                                                </Shape><String CONTENT="Georgia O’KEEFE (EE. UU. 1887 —)" HPOS="332" VPOS="251" WIDTH="712" HEIGHT="37"/></TextLine><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="390 352 405 352 631 351 674 351 792 351 940 350 1027 343 1146 349 1159 349 1294 348" HPOS="390" VPOS="320" WIDTH="904" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="390 320 1294 320 1294 357 390 357"/>
+                                                </Shape><String CONTENT="50. Penhascos além do Abiquiu — 1943 . 76x61." HPOS="390" VPOS="320" WIDTH="904" HEIGHT="37"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="475 389 581 390 647 389 699 388 863 388 965 386" HPOS="475" VPOS="361" WIDTH="490" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="475 361 965 361 965 396 475 396"/>
+                                                </Shape><String CONTENT="Walter H. Lurie, New York" HPOS="475" VPOS="361" WIDTH="490" HEIGHT="35"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="389 429 403 429 498 427 664 420 759 427 882 425 968 427 1154 424 1298 428" HPOS="389" VPOS="397" WIDTH="909" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="389 397 1298 397 1298 434 389 434"/>
+                                                </Shape><String CONTENT="51. Papoulas — 1950. 91x76. The Downtown Gallery," HPOS="389" VPOS="397" WIDTH="909" HEIGHT="37"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="474 465 545 466 647 464" HPOS="474" VPOS="437" WIDTH="173" HEIGHT="29"><Shape>
+                                                  <Polygon POINTS="474 437 647 437 647 466 474 466"/>
+                                                </Shape><String CONTENT="New York" HPOS="474" VPOS="437" WIDTH="173" HEIGHT="29"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="335 558 423 557 518 556 657 556 761 554 851 554 943 554 1015 562" HPOS="335" VPOS="527" WIDTH="680" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="335 527 1015 527 1015 565 335 565"/>
+                                                </Shape><String CONTENT="Irene Rice Pereira (EE. UU. 1907 —)" HPOS="335" VPOS="527" WIDTH="680" HEIGHT="38"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="392 620 437 619 571 620 664 620 705 611 805 619 948 617 1132 618 1300 620" HPOS="392" VPOS="588" WIDTH="908" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="392 588 1300 588 1300 625 392 625"/>
+                                                </Shape><String CONTENT="52. “Two up&quot; — 1946. 86x107. Durlacher Brothers," HPOS="392" VPOS="588" WIDTH="908" HEIGHT="37"/></TextLine><TextLine ID="line_1592216391711_501" TAGREFS="LT1" BASELINE="483 656 639 657" HPOS="483" VPOS="611" WIDTH="156" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="483 611 639 612 639 662 483 661"/>
+                                                </Shape><String CONTENT="New York" HPOS="483" VPOS="611" WIDTH="156" HEIGHT="51"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="393 696 438 696 494 700 813 694 953 694 1075 677 1186 693 1301 692" HPOS="393" VPOS="663" WIDTH="908" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="393 663 1301 663 1301 701 393 701"/>
+                                                </Shape><String CONTENT="53. “ Transflux&quot; — 1948 “Mixed media’ s/dois pianos" HPOS="393" VPOS="663" WIDTH="908" HEIGHT="38"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="475 735 509 734 547 734 742 732 923 730 967 731 1181 730 1296 727" HPOS="475" VPOS="701" WIDTH="821" HEIGHT="34"><Shape>
+                                                  <Polygon POINTS="475 701 1296 701 1296 735 475 735"/>
+                                                </Shape><String CONTENT="de vidro. 27x57. Durlacher Brothers, New York." HPOS="475" VPOS="701" WIDTH="821" HEIGHT="34"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="393 772 408 772 662 769 729 769 769 768 949 761 1050 768 1195 768 1301 759" HPOS="393" VPOS="738" WIDTH="908" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="393 738 1301 738 1301 776 393 776"/>
+                                                </Shape><String CONTENT="54. Progressões em vermelho — 1950. 91x107. Dur¬" HPOS="393" VPOS="738" WIDTH="908" HEIGHT="38"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="479 809 569 809 615 807 833 807 934 805" HPOS="479" VPOS="778" WIDTH="455" HEIGHT="36"><Shape>
+                                                  <Polygon POINTS="479 778 934 778 934 814 479 814"/>
+                                                </Shape><String CONTENT="lacher Brothers, New York" HPOS="479" VPOS="778" WIDTH="455" HEIGHT="36"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="341 901 432 899 637 898 743 899 838 897 931 897 1006 905" HPOS="341" VPOS="870" WIDTH="665" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="341 870 1006 870 1006 908 341 908"/>
+                                                </Shape><String CONTENT="Alton PICKENS (EE. UU. 1917 —)" HPOS="341" VPOS="870" WIDTH="665" HEIGHT="38"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="395 964 410 964 506 963 627 962 663 961 763 955 861 960 1004 961 1160 959 1214 960 1302 952" HPOS="395" VPOS="932" WIDTH="907" HEIGHT="32"><Shape>
+                                                  <Polygon POINTS="395 932 1302 932 1302 964 395 964"/>
+                                                </Shape><String CONTENT="55. A boneca azul — 1942. 109x89. Museum of Mo¬" HPOS="395" VPOS="932" WIDTH="907" HEIGHT="32"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="482 1001 546 1001 592 1001 724 999 822 999" HPOS="482" VPOS="972" WIDTH="340" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="482 972 822 972 822 1007 482 1007"/>
+                                                </Shape><String CONTENT="dern Art, New York" HPOS="482" VPOS="972" WIDTH="340" HEIGHT="35"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="396 1040 410 1040 507 1039 593 1040 632 1037 708 1037 854 1037 1026 1036 1117 1035 1303 1033" HPOS="396" VPOS="1006" WIDTH="907" HEIGHT="34"><Shape>
+                                                  <Polygon POINTS="396 1006 1303 1006 1303 1040 396 1040"/>
+                                                </Shape><String CONTENT="56. O ator e sua familia. 109x89. The Burchholz" HPOS="396" VPOS="1006" WIDTH="907" HEIGHT="34"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="483 1077 506 1077 697 1075 796 1074" HPOS="483" VPOS="1048" WIDTH="313" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="483 1048 796 1048 796 1083 483 1083"/>
+                                                </Shape><String CONTENT="Gallery, New York" HPOS="483" VPOS="1048" WIDTH="313" HEIGHT="35"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="397 1116 411 1116 504 1116 701 1105 830 1112 995 1114 1141 1110 1304 1113" HPOS="397" VPOS="1081" WIDTH="907" HEIGHT="36"><Shape>
+                                                  <Polygon POINTS="397 1081 1304 1081 1304 1117 397 1117"/>
+                                                </Shape><String CONTENT="57. Carnaval — 1949. 137x101. Lincoln Kirstein," HPOS="397" VPOS="1081" WIDTH="907" HEIGHT="36"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="484 1153 555 1153 658 1149" HPOS="484" VPOS="1123" WIDTH="174" HEIGHT="30"><Shape>
+                                                  <Polygon POINTS="484 1123 658 1123 658 1153 484 1153"/>
+                                                </Shape><String CONTENT="New York" HPOS="484" VPOS="1123" WIDTH="174" HEIGHT="30"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="341 1261 473 1252 697 1249 804 1250 898 1248 994 1247 1067 1252" HPOS="341" VPOS="1219" WIDTH="726" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="341 1219 1067 1219 1067 1261 341 1261"/>
+                                                </Shape><String CONTENT="Jackson POLLOCK (EE. UU. 1912 —)" HPOS="341" VPOS="1219" WIDTH="726" HEIGHT="42"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="399 1317 444 1317 596 1315 654 1307 755 1314 917 1311 1032 1317 1165 1311 1306 1314" HPOS="399" VPOS="1282" WIDTH="907" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="399 1282 1306 1282 1306 1319 399 1319"/>
+                                                </Shape><String CONTENT="58. Lucifer — 1947. 102x267. Betty Parson Gallery" HPOS="399" VPOS="1282" WIDTH="907" HEIGHT="37"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="483 1352 554 1353 655 1351" HPOS="483" VPOS="1325" WIDTH="172" HEIGHT="28"><Shape>
+                                                  <Polygon POINTS="483 1325 655 1325 655 1353 483 1353"/>
+                                                </Shape><String CONTENT="New York" HPOS="483" VPOS="1325" WIDTH="172" HEIGHT="28"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="344 1447 434 1446 637 1445 796 1449 888 1441 961 1450" HPOS="344" VPOS="1414" WIDTH="617" HEIGHT="39"><Shape>
+                                                  <Polygon POINTS="344 1414 961 1414 961 1453 344 1453"/>
+                                                </Shape><String CONTENT="Mark ROTHKO (Russia, 1903 —)" HPOS="344" VPOS="1414" WIDTH="617" HEIGHT="39"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="402 1512 416 1512 513 1511 650 1509 707 1502 810 1508 961 1508 1067 1513 1214 1507 1306 1497" HPOS="402" VPOS="1478" WIDTH="905" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="402 1478 1307 1478 1307 1515 402 1515"/>
+                                                </Shape><String CONTENT="59. Número 6 — 1951. 239x137 Betty Parsons Gal¬" HPOS="402" VPOS="1478" WIDTH="905" HEIGHT="37"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="487 1548 494 1548 650 1547 753 1545" HPOS="487" VPOS="1520" WIDTH="266" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="487 1520 753 1520 753 1555 487 1555"/>
+                                                </Shape><String CONTENT="lery, New York" HPOS="487" VPOS="1520" WIDTH="266" HEIGHT="35"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="345 1641 410 1639 582 1639 744 1643 838 1637 912 1639" HPOS="345" VPOS="1608" WIDTH="567" HEIGHT="39"><Shape>
+                                                  <Polygon POINTS="345 1608 912 1608 912 1647 345 1647"/>
+                                                </Shape><String CONTENT="Ben SHAHN (Russia, 1898 —)" HPOS="345" VPOS="1608" WIDTH="567" HEIGHT="39"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="402 1711 419 1711 514 1709 606 1712 746 1708 807 1709 850 1707 1030 1700 1069 1705 1305 1704" HPOS="402" VPOS="1678" WIDTH="903" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="402 1678 1305 1678 1305 1716 402 1716"/>
+                                                </Shape><String CONTENT="60. O cego tocador de acórdeão — 1945. têmpera." HPOS="402" VPOS="1678" WIDTH="903" HEIGHT="38"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="487 1749 584 1748 656 1747 694 1747 780 1747 865 1749 923 1744 992 1745 1211 1744 1310 1741" HPOS="487" VPOS="1715" WIDTH="823" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="487 1715 1310 1715 1310 1752 487 1752"/>
+                                                </Shape><String CONTENT="65x97. Sr. e Sra. Roy R. Neuberger, New York" HPOS="487" VPOS="1715" WIDTH="823" HEIGHT="37"/></TextLine></TextBlock><TextBlock HPOS="322" VPOS="247" WIDTH="987" HEIGHT="228" ID="eSc_textblock_482d47ac" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="327 247 322 475 1309 461 1304 247"/>
+                                        </Shape></TextBlock><TextBlock HPOS="327" VPOS="521" WIDTH="977" HEIGHT="301" ID="eSc_textblock_5ae8d5d2" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="327 521 327 822 1304 818 1304 526"/>
+                                        </Shape></TextBlock><TextBlock HPOS="330" VPOS="865" WIDTH="981" HEIGHT="304" ID="eSc_textblock_e8f79869" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="330 865 347 1169 1311 1159 1311 865"/>
+                                        </Shape></TextBlock><TextBlock HPOS="328" VPOS="1217" WIDTH="988" HEIGHT="148" ID="eSc_textblock_6736bc28" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="328 1218 338 1361 1316 1365 1316 1217"/>
+                                        </Shape></TextBlock><TextBlock HPOS="336" VPOS="1416" WIDTH="972" HEIGHT="142" ID="eSc_textblock_a4ed6484" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="336 1416 343 1558 1308 1557 1308 1416"/>
+                                        </Shape></TextBlock><TextBlock HPOS="332" VPOS="1607" WIDTH="984" HEIGHT="153" ID="eSc_textblock_5efe5d7f" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="336 1607 332 1757 1316 1760 1316 1609"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

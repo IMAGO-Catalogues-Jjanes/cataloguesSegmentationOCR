@@ -1,409 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>Cat_Courbet_1882-2_typo_0002.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT486" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT487" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT489" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT490" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT491" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT492" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT493" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT494" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="LT175" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="1749" HEIGHT="2481" PHYSICAL_IMG_NR="1" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1749" HEIGHT="2481">
-
-                                <TextBlock HPOS="405" VPOS="458" WIDTH="923" HEIGHT="1578"
-                                        ID="eSc_textblock_2fd98a04" TAGREFS="BT487">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="405 458 411 2036 1328 2036 1328 469"/>
-                                        </Shape>
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_2"
-                                                BASELINE="438 504 494 503 570 507 638 504 841 505 1024 505"
-                                                HPOS="436" VPOS="461" WIDTH="586" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="436 502 438 461 486 475 558 475 573 461 608 461 639 477 654 463 687 463 697 473 734 463 757 475 842 477 1010 471 1022 504 1016 514 964 514 956 506 945 514 869 514 861 506 819 514 438 506"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="57. — Le Ruisseau couvert."
-                                                  HPOS="436" VPOS="461" WIDTH="586" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_3"
-                                                BASELINE="615 594 696 593 724 595 828 595 852 594 903 594 1046 597"
-                                                HPOS="615" VPOS="567" WIDTH="431" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="615 567 1046 567 1046 604 615 604"/>
-                                                </Shape>
-                                                <String CONTENT="Signé à droite : G. Courbet."
-                                                  HPOS="615" VPOS="567" WIDTH="431" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_4"
-                                                BASELINE="896 654 927 654 973 654 1020 654 1112 656 1160 656 1253 656"
-                                                HPOS="894" VPOS="614" WIDTH="358" HEIGHT="49">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="894 653 900 614 925 626 968 626 983 614 1020 628 1111 628 1123 616 1157 628 1219 616 1246 628 1252 655 1212 663 1167 655 1092 663 995 661 972 653 896 657"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="T. — H. 0.91. L. 1.32." HPOS="894"
-                                                  VPOS="614" WIDTH="358" HEIGHT="49"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_5"
-                                                BASELINE="624 725 783 726 814 726 863 726 1004 725 1177 728"
-                                                HPOS="623" VPOS="688" WIDTH="552" HEIGHT="48">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="623 723 629 688 730 688 740 696 848 688 856 696 885 688 898 696 914 688 923 696 945 688 979 698 1012 690 1157 694 1171 698 1175 727 1140 736 625 729"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Appartient à M. Adolphe Reitlinger."
-                                                  HPOS="623" VPOS="688" WIDTH="552" HEIGHT="48"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_6"
-                                                BASELINE="435 857 490 857 563 856 633 857 807 858 1004 858 1178 860"
-                                                HPOS="434" VPOS="812" WIDTH="743" HEIGHT="56">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="434 855 438 814 469 812 482 824 529 827 569 827 579 816 635 827 647 814 755 827 819 827 832 814 885 814 898 824 1008 824 1026 814 1068 824 1119 814 1138 824 1161 814 1173 827 1177 858 1169 868 827 868 819 860 801 868 651 868 643 860 579 868 571 860 525 858 490 858 482 866 451 858 436 866"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="58. — Le Château d’Ornans (Doubs)."
-                                                  HPOS="434" VPOS="812" WIDTH="743" HEIGHT="56"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_7"
-                                                BASELINE="610 929 691 928 718 929 844 929 937 928 985 931 1128 931"
-                                                HPOS="608" VPOS="893" WIDTH="517" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="608 928 614 893 656 903 687 893 720 905 734 895 753 903 834 897 842 905 881 905 892 895 939 905 962 895 979 905 997 895 1051 905 1076 895 1092 905 1109 895 1125 930 610 934"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Signé à droite : ..55. G. Courbet."
-                                                  HPOS="608" VPOS="893" WIDTH="517" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_8"
-                                                BASELINE="614 970 773 971 956 972 1003 972 1095 973"
-                                                HPOS="612" VPOS="934" WIDTH="482" HEIGHT="45">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="612 969 614 934 637 942 691 942 705 934 736 944 819 944 829 936 842 944 904 944 914 936 966 944 974 936 1022 944 1030 936 1080 936 1094 971 898 979 614 975"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Exposition universelle de 1855."
-                                                  HPOS="612" VPOS="934" WIDTH="482" HEIGHT="45"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_9"
-                                                BASELINE="612 1010 775 1011 965 1011 1014 1012 1108 1012"
-                                                HPOS="610" VPOS="977" WIDTH="497" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="610 1008 612 977 732 977 767 986 825 986 836 977 970 986 979 977 1034 986 1043 977 1076 977 1101 986 1107 1011 1097 1019 612 1017"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Exposition particulière de 1867."
-                                                  HPOS="610" VPOS="977" WIDTH="497" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_10"
-                                                BASELINE="890 1070 922 1069 967 1069 1011 1070 1104 1071 1159 1071 1254 1073"
-                                                HPOS="887" VPOS="1031" WIDTH="365" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="887 1068 890 1031 912 1031 929 1048 954 1048 974 1031 993 1033 1010 1050 1059 1033 1074 1033 1090 1050 1113 1050 1125 1037 1148 1050 1169 1050 1179 1039 1200 1050 1235 1033 1252 1070 890 1073"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="T. — H. 0.80. L. 1.15." HPOS="887"
-                                                  VPOS="1031" WIDTH="365" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_11"
-                                                BASELINE="614 1135 772 1138 802 1138 853 1136 944 1137"
-                                                HPOS="612" VPOS="1099" WIDTH="331" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="612 1132 616 1101 631 1099 670 1108 794 1101 805 1110 916 1104 939 1110 943 1135 937 1145 834 1149 614 1139"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Appartient à M. Lutz." HPOS="612"
-                                                  VPOS="1099" WIDTH="331" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_12"
-                                                BASELINE="437 1296 493 1296 567 1300 636 1297 763 1297 940 1297 991 1297 1124 1298 1203 1298 1316 1299"
-                                                HPOS="436" VPOS="1252" WIDTH="878" HEIGHT="58">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="436 1294 440 1257 467 1267 560 1267 575 1252 631 1267 645 1252 687 1252 697 1263 730 1254 740 1265 765 1267 840 1267 858 1257 887 1267 941 1267 964 1257 999 1269 1045 1254 1084 1265 1159 1254 1171 1265 1206 1267 1219 1254 1241 1263 1266 1254 1275 1263 1310 1263 1314 1298 1308 1306 1241 1308 1134 1300 1043 1308 1003 1308 995 1300 985 1308 956 1308 947 1300 937 1308 914 1300 906 1308 858 1308 842 1300 798 1310 759 1302 654 1306 645 1298 633 1306 579 1306 571 1298 492 1298 480 1308 438 1302"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="59. — La Sieste pendant la saison des foins"
-                                                  HPOS="436" VPOS="1252" WIDTH="878" HEIGHT="58"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_13"
-                                                BASELINE="635 1359 854 1355 918 1356 1080 1356"
-                                                HPOS="633" VPOS="1312" WIDTH="445" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="633 1358 635 1316 759 1325 865 1323 873 1314 921 1323 954 1314 985 1323 1012 1312 1034 1321 1057 1312 1072 1321 1078 1354 1068 1362 637 1366"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="(montagnes du Doubs)." HPOS="633"
-                                                  VPOS="1312" WIDTH="445" HEIGHT="54"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_14"
-                                                BASELINE="612 1426 711 1427 760 1428 909 1429 995 1428"
-                                                HPOS="610" VPOS="1391" WIDTH="383" HEIGHT="43">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="610 1424 612 1393 668 1399 685 1391 697 1399 736 1393 753 1401 792 1393 803 1401 987 1393 993 1426 954 1434 612 1432"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Signé : G. Courbet, ..68."
-                                                  HPOS="610" VPOS="1391" WIDTH="383" HEIGHT="43"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_15"
-                                                BASELINE="612 1467 769 1468 959 1469 1004 1468 1096 1470"
-                                                HPOS="610" VPOS="1432" WIDTH="484" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="610 1465 614 1434 685 1441 693 1432 730 1432 738 1441 809 1443 844 1434 858 1443 910 1434 929 1443 962 1443 970 1434 1018 1443 1026 1434 1068 1434 1090 1443 1094 1469 612 1474"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Exposition particulière de 1867."
-                                                  HPOS="610" VPOS="1432" WIDTH="484" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_16"
-                                                BASELINE="611 1508 693 1508 741 1508 836 1510"
-                                                HPOS="610" VPOS="1472" WIDTH="224" HEIGHT="45">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="610 1507 612 1474 625 1472 656 1484 699 1484 707 1476 753 1484 769 1474 805 1474 827 1484 834 1509 821 1517 612 1513"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Salon de 1869." HPOS="610"
-                                                  VPOS="1472" WIDTH="224" HEIGHT="45"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_17"
-                                                BASELINE="897 1542 1015 1542 1103 1543 1150 1543 1245 1543"
-                                                HPOS="896" VPOS="1505" WIDTH="347" HEIGHT="45">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="896 1540 900 1505 927 1505 941 1515 970 1515 981 1505 1001 1505 1012 1515 1107 1515 1117 1505 1142 1515 1194 1515 1210 1505 1237 1505 1243 1542 1214 1550 1130 1550 1111 1542 898 1546"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="T. — H. 2.12. L. 2.73." HPOS="896"
-                                                  VPOS="1505" WIDTH="347" HEIGHT="45"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_18"
-                                                BASELINE="613 1603 772 1604 801 1605 842 1604 930 1604 979 1604 1079 1606"
-                                                HPOS="612" VPOS="1569" WIDTH="466" HEIGHT="43">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="612 1602 614 1571 772 1577 792 1569 803 1577 819 1569 842 1577 850 1569 906 1569 939 1577 956 1569 979 1577 1010 1569 1026 1577 1051 1569 1072 1577 1078 1604 614 1612"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Appartient à la Ville de Paris."
-                                                  HPOS="612" VPOS="1569" WIDTH="466" HEIGHT="43"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_19"
-                                                BASELINE="432 1762 490 1761 562 1765 633 1760 832 1762 950 1762 1010 1763 1137 1764 1312 1765"
-                                                HPOS="430" VPOS="1718" WIDTH="880" HEIGHT="55">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="430 1761 432 1718 451 1718 473 1732 569 1732 581 1720 608 1732 633 1732 645 1720 685 1720 693 1728 755 1720 769 1728 854 1732 879 1720 890 1730 952 1734 970 1722 1005 1734 1065 1730 1074 1722 1130 1726 1138 1734 1152 1722 1287 1722 1303 1734 1310 1763 1289 1771 1175 1773 1057 1773 1020 1765 1008 1773 966 1765 885 1773 850 1763 823 1771 643 1771 635 1763 612 1771 579 1771 571 1763 432 1767"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="60. — Le Naufrage dans la neige (monta¬"
-                                                  HPOS="430" VPOS="1718" WIDTH="880" HEIGHT="55"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_20"
-                                                BASELINE="630 1818 715 1820 782 1820 914 1821"
-                                                HPOS="629" VPOS="1778" WIDTH="283" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="629 1817 631 1786 730 1788 740 1778 780 1788 801 1778 873 1786 898 1778 912 1819 906 1831 790 1821 631 1831"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="gnes du Jura)." HPOS="629"
-                                                  VPOS="1778" WIDTH="283" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_21"
-                                                BASELINE="612 1896 693 1897 721 1898 845 1898 865 1897 892 1898 957 1898 1012 1898 1157 1899"
-                                                HPOS="610" VPOS="1862" WIDTH="544" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="610 1895 612 1862 647 1871 678 1862 712 1862 720 1871 792 1871 801 1862 819 1871 1105 1862 1123 1871 1136 1862 1148 1871 1154 1897 751 1906 612 1900"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Signé à gauche : ..60. G. Courbet."
-                                                  HPOS="610" VPOS="1862" WIDTH="544" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_22"
-                                                BASELINE="612 1938 772 1938 960 1939 1004 1939 1094 1939"
-                                                HPOS="610" VPOS="1906" WIDTH="482" HEIGHT="45">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="610 1937 614 1906 664 1914 695 1906 728 1906 736 1914 823 1914 842 1906 861 1914 892 1906 1022 1914 1061 1906 1088 1914 1092 1937 1082 1951 614 1949"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Exposition particulière de 1867."
-                                                  HPOS="610" VPOS="1906" WIDTH="482" HEIGHT="45"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_23"
-                                                BASELINE="885 2006 918 2006 964 2005 1002 2007 1043 2008 1056 2007 1077 2009 1107 2007 1152 2007 1250 2007"
-                                                HPOS="883" VPOS="1968" WIDTH="365" HEIGHT="47">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="883 2005 885 1968 906 1968 921 1982 958 1982 972 1968 1001 1968 1016 1982 1030 1974 1049 1978 1059 1968 1088 1968 1103 1982 1117 1968 1142 1982 1219 1976 1241 1982 1248 2005 1212 2013 1159 2007 1150 2015 885 2011"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="T. — H. 1.38. L. 2.00." HPOS="883"
-                                                  VPOS="1968" WIDTH="365" HEIGHT="47"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="792" VPOS="376" WIDTH="139" HEIGHT="51"
-                                        ID="eSc_textblock_ea7b9ba4" TAGREFS="BT491">
-                                        <Shape>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Courbet_1882-2_typo_0002.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="1749" HEIGHT="2481" PHYSICAL_IMG_NR="1" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1749" HEIGHT="2481"><TextBlock HPOS="405" VPOS="458" WIDTH="923" HEIGHT="1578" ID="eSc_textblock_2fd98a04" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="405 458 411 2036 1328 2036 1328 469"/>
+                                        </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="438 504 494 503 570 507 638 504 841 505 1024 505" HPOS="436" VPOS="461" WIDTH="586" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="436 502 438 461 486 475 558 475 573 461 608 461 639 477 654 463 687 463 697 473 734 463 757 475 842 477 1010 471 1022 504 1016 514 964 514 956 506 945 514 869 514 861 506 819 514 438 506"/>
+                                                </Shape><String CONTENT="57. — Le Ruisseau couvert." HPOS="436" VPOS="461" WIDTH="586" HEIGHT="53"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="615 594 696 593 724 595 828 595 852 594 903 594 1046 597" HPOS="615" VPOS="567" WIDTH="431" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="615 567 1046 567 1046 604 615 604"/>
+                                                </Shape><String CONTENT="Signé à droite : G. Courbet." HPOS="615" VPOS="567" WIDTH="431" HEIGHT="37"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="896 654 927 654 973 654 1020 654 1112 656 1160 656 1253 656" HPOS="894" VPOS="614" WIDTH="358" HEIGHT="49"><Shape>
+                                                  <Polygon POINTS="894 653 900 614 925 626 968 626 983 614 1020 628 1111 628 1123 616 1157 628 1219 616 1246 628 1252 655 1212 663 1167 655 1092 663 995 661 972 653 896 657"/>
+                                                </Shape><String CONTENT="T. — H. 0.91. L. 1.32." HPOS="894" VPOS="614" WIDTH="358" HEIGHT="49"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="624 725 783 726 814 726 863 726 1004 725 1177 728" HPOS="623" VPOS="688" WIDTH="552" HEIGHT="48"><Shape>
+                                                  <Polygon POINTS="623 723 629 688 730 688 740 696 848 688 856 696 885 688 898 696 914 688 923 696 945 688 979 698 1012 690 1157 694 1171 698 1175 727 1140 736 625 729"/>
+                                                </Shape><String CONTENT="Appartient à M. Adolphe Reitlinger." HPOS="623" VPOS="688" WIDTH="552" HEIGHT="48"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="435 857 490 857 563 856 633 857 807 858 1004 858 1178 860" HPOS="434" VPOS="812" WIDTH="743" HEIGHT="56"><Shape>
+                                                  <Polygon POINTS="434 855 438 814 469 812 482 824 529 827 569 827 579 816 635 827 647 814 755 827 819 827 832 814 885 814 898 824 1008 824 1026 814 1068 824 1119 814 1138 824 1161 814 1173 827 1177 858 1169 868 827 868 819 860 801 868 651 868 643 860 579 868 571 860 525 858 490 858 482 866 451 858 436 866"/>
+                                                </Shape><String CONTENT="58. — Le Château d’Ornans (Doubs)." HPOS="434" VPOS="812" WIDTH="743" HEIGHT="56"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="610 929 691 928 718 929 844 929 937 928 985 931 1128 931" HPOS="608" VPOS="893" WIDTH="517" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="608 928 614 893 656 903 687 893 720 905 734 895 753 903 834 897 842 905 881 905 892 895 939 905 962 895 979 905 997 895 1051 905 1076 895 1092 905 1109 895 1125 930 610 934"/>
+                                                </Shape><String CONTENT="Signé à droite : ..55. G. Courbet." HPOS="608" VPOS="893" WIDTH="517" HEIGHT="41"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="614 970 773 971 956 972 1003 972 1095 973" HPOS="612" VPOS="934" WIDTH="482" HEIGHT="45"><Shape>
+                                                  <Polygon POINTS="612 969 614 934 637 942 691 942 705 934 736 944 819 944 829 936 842 944 904 944 914 936 966 944 974 936 1022 944 1030 936 1080 936 1094 971 898 979 614 975"/>
+                                                </Shape><String CONTENT="Exposition universelle de 1855." HPOS="612" VPOS="934" WIDTH="482" HEIGHT="45"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="612 1010 775 1011 965 1011 1014 1012 1108 1012" HPOS="610" VPOS="977" WIDTH="497" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="610 1008 612 977 732 977 767 986 825 986 836 977 970 986 979 977 1034 986 1043 977 1076 977 1101 986 1107 1011 1097 1019 612 1017"/>
+                                                </Shape><String CONTENT="Exposition particulière de 1867." HPOS="610" VPOS="977" WIDTH="497" HEIGHT="42"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="890 1070 922 1069 967 1069 1011 1070 1104 1071 1159 1071 1254 1073" HPOS="887" VPOS="1031" WIDTH="365" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="887 1068 890 1031 912 1031 929 1048 954 1048 974 1031 993 1033 1010 1050 1059 1033 1074 1033 1090 1050 1113 1050 1125 1037 1148 1050 1169 1050 1179 1039 1200 1050 1235 1033 1252 1070 890 1073"/>
+                                                </Shape><String CONTENT="T. — H. 0.80. L. 1.15." HPOS="887" VPOS="1031" WIDTH="365" HEIGHT="42"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="614 1135 772 1138 802 1138 853 1136 944 1137" HPOS="612" VPOS="1099" WIDTH="331" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="612 1132 616 1101 631 1099 670 1108 794 1101 805 1110 916 1104 939 1110 943 1135 937 1145 834 1149 614 1139"/>
+                                                </Shape><String CONTENT="Appartient à M. Lutz." HPOS="612" VPOS="1099" WIDTH="331" HEIGHT="50"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="437 1296 493 1296 567 1300 636 1297 763 1297 940 1297 991 1297 1124 1298 1203 1298 1316 1299" HPOS="436" VPOS="1252" WIDTH="878" HEIGHT="58"><Shape>
+                                                  <Polygon POINTS="436 1294 440 1257 467 1267 560 1267 575 1252 631 1267 645 1252 687 1252 697 1263 730 1254 740 1265 765 1267 840 1267 858 1257 887 1267 941 1267 964 1257 999 1269 1045 1254 1084 1265 1159 1254 1171 1265 1206 1267 1219 1254 1241 1263 1266 1254 1275 1263 1310 1263 1314 1298 1308 1306 1241 1308 1134 1300 1043 1308 1003 1308 995 1300 985 1308 956 1308 947 1300 937 1308 914 1300 906 1308 858 1308 842 1300 798 1310 759 1302 654 1306 645 1298 633 1306 579 1306 571 1298 492 1298 480 1308 438 1302"/>
+                                                </Shape><String CONTENT="59. — La Sieste pendant la saison des foins" HPOS="436" VPOS="1252" WIDTH="878" HEIGHT="58"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="635 1359 854 1355 918 1356 1080 1356" HPOS="633" VPOS="1312" WIDTH="445" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="633 1358 635 1316 759 1325 865 1323 873 1314 921 1323 954 1314 985 1323 1012 1312 1034 1321 1057 1312 1072 1321 1078 1354 1068 1362 637 1366"/>
+                                                </Shape><String CONTENT="(montagnes du Doubs)." HPOS="633" VPOS="1312" WIDTH="445" HEIGHT="54"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="612 1426 711 1427 760 1428 909 1429 995 1428" HPOS="610" VPOS="1391" WIDTH="383" HEIGHT="43"><Shape>
+                                                  <Polygon POINTS="610 1424 612 1393 668 1399 685 1391 697 1399 736 1393 753 1401 792 1393 803 1401 987 1393 993 1426 954 1434 612 1432"/>
+                                                </Shape><String CONTENT="Signé : G. Courbet, ..68." HPOS="610" VPOS="1391" WIDTH="383" HEIGHT="43"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="612 1467 769 1468 959 1469 1004 1468 1096 1470" HPOS="610" VPOS="1432" WIDTH="484" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="610 1465 614 1434 685 1441 693 1432 730 1432 738 1441 809 1443 844 1434 858 1443 910 1434 929 1443 962 1443 970 1434 1018 1443 1026 1434 1068 1434 1090 1443 1094 1469 612 1474"/>
+                                                </Shape><String CONTENT="Exposition particulière de 1867." HPOS="610" VPOS="1432" WIDTH="484" HEIGHT="42"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="611 1508 693 1508 741 1508 836 1510" HPOS="610" VPOS="1472" WIDTH="224" HEIGHT="45"><Shape>
+                                                  <Polygon POINTS="610 1507 612 1474 625 1472 656 1484 699 1484 707 1476 753 1484 769 1474 805 1474 827 1484 834 1509 821 1517 612 1513"/>
+                                                </Shape><String CONTENT="Salon de 1869." HPOS="610" VPOS="1472" WIDTH="224" HEIGHT="45"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="897 1542 1015 1542 1103 1543 1150 1543 1245 1543" HPOS="896" VPOS="1505" WIDTH="347" HEIGHT="45"><Shape>
+                                                  <Polygon POINTS="896 1540 900 1505 927 1505 941 1515 970 1515 981 1505 1001 1505 1012 1515 1107 1515 1117 1505 1142 1515 1194 1515 1210 1505 1237 1505 1243 1542 1214 1550 1130 1550 1111 1542 898 1546"/>
+                                                </Shape><String CONTENT="T. — H. 2.12. L. 2.73." HPOS="896" VPOS="1505" WIDTH="347" HEIGHT="45"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="613 1603 772 1604 801 1605 842 1604 930 1604 979 1604 1079 1606" HPOS="612" VPOS="1569" WIDTH="466" HEIGHT="43"><Shape>
+                                                  <Polygon POINTS="612 1602 614 1571 772 1577 792 1569 803 1577 819 1569 842 1577 850 1569 906 1569 939 1577 956 1569 979 1577 1010 1569 1026 1577 1051 1569 1072 1577 1078 1604 614 1612"/>
+                                                </Shape><String CONTENT="Appartient à la Ville de Paris." HPOS="612" VPOS="1569" WIDTH="466" HEIGHT="43"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="432 1762 490 1761 562 1765 633 1760 832 1762 950 1762 1010 1763 1137 1764 1312 1765" HPOS="430" VPOS="1718" WIDTH="880" HEIGHT="55"><Shape>
+                                                  <Polygon POINTS="430 1761 432 1718 451 1718 473 1732 569 1732 581 1720 608 1732 633 1732 645 1720 685 1720 693 1728 755 1720 769 1728 854 1732 879 1720 890 1730 952 1734 970 1722 1005 1734 1065 1730 1074 1722 1130 1726 1138 1734 1152 1722 1287 1722 1303 1734 1310 1763 1289 1771 1175 1773 1057 1773 1020 1765 1008 1773 966 1765 885 1773 850 1763 823 1771 643 1771 635 1763 612 1771 579 1771 571 1763 432 1767"/>
+                                                </Shape><String CONTENT="60. — Le Naufrage dans la neige (monta¬" HPOS="430" VPOS="1718" WIDTH="880" HEIGHT="55"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="630 1818 715 1820 782 1820 914 1821" HPOS="629" VPOS="1778" WIDTH="283" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="629 1817 631 1786 730 1788 740 1778 780 1788 801 1778 873 1786 898 1778 912 1819 906 1831 790 1821 631 1831"/>
+                                                </Shape><String CONTENT="gnes du Jura)." HPOS="629" VPOS="1778" WIDTH="283" HEIGHT="53"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="612 1896 693 1897 721 1898 845 1898 865 1897 892 1898 957 1898 1012 1898 1157 1899" HPOS="610" VPOS="1862" WIDTH="544" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="610 1895 612 1862 647 1871 678 1862 712 1862 720 1871 792 1871 801 1862 819 1871 1105 1862 1123 1871 1136 1862 1148 1871 1154 1897 751 1906 612 1900"/>
+                                                </Shape><String CONTENT="Signé à gauche : ..60. G. Courbet." HPOS="610" VPOS="1862" WIDTH="544" HEIGHT="44"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="612 1938 772 1938 960 1939 1004 1939 1094 1939" HPOS="610" VPOS="1906" WIDTH="482" HEIGHT="45"><Shape>
+                                                  <Polygon POINTS="610 1937 614 1906 664 1914 695 1906 728 1906 736 1914 823 1914 842 1906 861 1914 892 1906 1022 1914 1061 1906 1088 1914 1092 1937 1082 1951 614 1949"/>
+                                                </Shape><String CONTENT="Exposition particulière de 1867." HPOS="610" VPOS="1906" WIDTH="482" HEIGHT="45"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="885 2006 918 2006 964 2005 1002 2007 1043 2008 1056 2007 1077 2009 1107 2007 1152 2007 1250 2007" HPOS="883" VPOS="1968" WIDTH="365" HEIGHT="47"><Shape>
+                                                  <Polygon POINTS="883 2005 885 1968 906 1968 921 1982 958 1982 972 1968 1001 1968 1016 1982 1030 1974 1049 1978 1059 1968 1088 1968 1103 1982 1117 1968 1142 1982 1219 1976 1241 1982 1248 2005 1212 2013 1159 2007 1150 2015 885 2011"/>
+                                                </Shape><String CONTENT="T. — H. 1.38. L. 2.00." HPOS="883" VPOS="1968" WIDTH="365" HEIGHT="47"/></TextLine></TextBlock><TextBlock HPOS="792" VPOS="376" WIDTH="139" HEIGHT="51" ID="eSc_textblock_ea7b9ba4" TAGREFS="BT8"><Shape>
                                                 <Polygon POINTS="792 376 792 427 931 427 931 376"/>
-                                        </Shape>
-
-
-                                        <TextLine TAGREFS="LT175"  ID="tl_1" BASELINE="801 404 833 404 933 411"
-                                                HPOS="798" VPOS="376" WIDTH="133" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="798 403 803 388 829 390 856 376 927 394 931 409 890 409 881 417 801 409"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="— 56 —" HPOS="798" VPOS="376"
-                                                  WIDTH="133" HEIGHT="41"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="417" VPOS="463" WIDTH="835" HEIGHT="276"
-                                        ID="eSc_textblock_d8ec7c1f" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="417 463 423 739 1252 739 1252 472"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="431" VPOS="815" WIDTH="832" HEIGHT="338"
-                                        ID="eSc_textblock_80e08065" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="431 818 434 1153 1263 1150 1260 815"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="423" VPOS="1255" WIDTH="897" HEIGHT="364"
-                                        ID="eSc_textblock_be34dc29" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="423 1256 426 1613 1320 1619 1320 1255"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="434" VPOS="1721" WIDTH="886" HEIGHT="298"
-                                        ID="eSc_textblock_c724d7fa" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="434 1721 437 2016 1320 2019 1320 1721"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="801 404 833 404 933 411" HPOS="798" VPOS="376" WIDTH="133" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="798 403 803 388 829 390 856 376 927 394 931 409 890 409 881 417 801 409"/>
+                                                </Shape><String CONTENT="— 56 —" HPOS="798" VPOS="376" WIDTH="133" HEIGHT="41"/></TextLine></TextBlock><TextBlock HPOS="417" VPOS="463" WIDTH="835" HEIGHT="276" ID="eSc_textblock_d8ec7c1f" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="417 463 423 739 1252 739 1252 472"/>
+                                        </Shape></TextBlock><TextBlock HPOS="431" VPOS="815" WIDTH="832" HEIGHT="338" ID="eSc_textblock_80e08065" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="431 818 434 1153 1263 1150 1260 815"/>
+                                        </Shape></TextBlock><TextBlock HPOS="423" VPOS="1255" WIDTH="897" HEIGHT="364" ID="eSc_textblock_be34dc29" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="423 1256 426 1613 1320 1619 1320 1255"/>
+                                        </Shape></TextBlock><TextBlock HPOS="434" VPOS="1721" WIDTH="886" HEIGHT="298" ID="eSc_textblock_c724d7fa" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="434 1721 437 2016 1320 2019 1320 1721"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

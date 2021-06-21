@@ -1,563 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>1887_bovet_bpt6k6325943w_gt_0089.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT495" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT496" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT497" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT498" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT499" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT500" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT501" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="BT502" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT533" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
-                <OtherTag ID="LT176" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="3735" HEIGHT="4647" PHYSICAL_IMG_NR="15" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="3735" HEIGHT="4647">
-
-                                <TextBlock HPOS="1773" VPOS="3032" WIDTH="1144" HEIGHT="724"
-                                        ID="eSc_textblock_9d6c4d9d" TAGREFS="BT496">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="2917 3756 2917 3032 1773 3032 1773 3756"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="535" VPOS="818" WIDTH="2424" HEIGHT="3011"
-                                        ID="eSc_textblock_9aec01b5" TAGREFS="BT495">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="535 860 629 3829 2959 3808 2916 818"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT176"
-                                                BASELINE="597 940 619 940 676 942 764 937 1122 928 1227 938 1306 924 1366 922 1690 937 1781 926 1913 924 2089 937 2197 927 2411 929 2510 929 2827 926"
-                                                HPOS="597" VPOS="866" WIDTH="2230" HEIGHT="97">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="597 866 2827 866 2827 963 597 963"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="★53★ PHILIPPE II, n. à Valladolid, 21 mai 1627, fils unique de l’empereur"
-                                                  HPOS="597" VPOS="866" WIDTH="2230" HEIGHT="97"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT176"
-                                                BASELINE="601 1008 994 1007 1084 992 1292 987 1428 998 1716 990 1761 990 1797 991 1901 1001 1989 988 2035 988 2073 989 2364 994 2406 994 2442 995 2478 1011 2509 995 2526 994"
-                                                HPOS="601" VPOS="935" WIDTH="1925" HEIGHT="93">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="601 935 2526 935 2526 1028 601 1028"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Charles-Quint, roi d’Espagne (25 octobre 1555), m. 13 septembre 1598."
-                                                  HPOS="601" VPOS="935" WIDTH="1925" HEIGHT="93"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT176"
-                                                BASELINE="651 1091 696 1090 765 1089 823 1087 861 1085 913 1084 1057 1083 1303 1075 1368 1073 1569 1087 1627 1076 1885 1088 1907 1088 2168 1080 2314 1091 2353 1082 2417 1083 2495 1082 2664 1092 2828 1081"
-                                                HPOS="651" VPOS="1024" WIDTH="2177" HEIGHT="86">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="651 1024 2828 1024 2828 1110 651 1110"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="L. A. S. à la Reine (Catherine de Médicis, sa belle-mère) ; (septembre 1570), 1 p. 1/2 in-fol., cachet."
-                                                  HPOS="651" VPOS="1024" WIDTH="2177" HEIGHT="86"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT176"
-                                                BASELINE="602 1136 649 1136 708 1141 774 1140 917 1137 1088 1134 1181 1132 1268 1130 1428 1127"
-                                                HPOS="602" VPOS="1089" WIDTH="827" HEIGHT="61">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="602 1089 1429 1089 1429 1150 602 1150"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="— P. de Gunst d’après van der Werff."
-                                                  HPOS="602" VPOS="1089" WIDTH="827" HEIGHT="61"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT176"
-                                                BASELINE="642 1217 835 1214 945 1213 1148 1209 1191 1207 1351 1202 1404 1201 1565 1203 1699 1205 1753 1206 1923 1206 2068 1206 2125 1208 2172 1209 2339 1211 2450 1212 2508 1211 2562 1212 2692 1218 2773 1213 2832 1212"
-                                                HPOS="642" VPOS="1160" WIDTH="2190" HEIGHT="80">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="642 1160 2832 1160 2832 1240 642 1240"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Importante lettre historique. Il pourrait se montrer offensé de quelques paroles de la dernière lettre de la Reine, que lui"
-                                                  HPOS="642" VPOS="1160" WIDTH="2190" HEIGHT="80"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT176"
-                                                BASELINE="606 1260 624 1260 759 1256 1030 1254 1283 1245 1467 1243 1527 1243 1696 1245 1752 1246 1883 1255 2008 1247 2068 1248 2340 1259 2393 1253 2431 1253 2454 1253 2510 1261 2574 1254 2698 1259 2798 1254 2836 1252"
-                                                HPOS="606" VPOS="1200" WIDTH="2230" HEIGHT="81">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="606 1200 2836 1200 2836 1281 606 1281"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="a remise l’ambassadeur Fourquevaux (Raimond de Beccarie de Ravie, baron de Fourquevaux, n. 1509, m. 1574), mais il"
-                                                  HPOS="606" VPOS="1200" WIDTH="2230" HEIGHT="81"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT176"
-                                                BASELINE="607 1300 787 1297 858 1296 935 1296 1046 1294 1144 1292 1193 1290 1406 1283 1443 1283 1589 1285 1776 1287 1821 1288 1946 1288 1997 1288 2156 1290 2213 1291 2398 1293 2457 1294 2630 1294 2727 1295 2837 1287"
-                                                HPOS="607" VPOS="1242" WIDTH="2230" HEIGHT="80">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="607 1242 2837 1242 2837 1322 607 1322"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="n’insistera pas par égard pour sa belle-mère. Il promet d’appuyer le projet de mariage de Sébastien de Portugal avec Mar¬"
-                                                  HPOS="607" VPOS="1242" WIDTH="2230" HEIGHT="80"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT176"
-                                                BASELINE="607 1350 728 1340 778 1338 892 1337 953 1336 1032 1336 1230 1330 1284 1326 1333 1325 1424 1324 1502 1324 1547 1325 1618 1324 1670 1325 1809 1328 1842 1329 1995 1329 2087 1330 2151 1331 2315 1340 2390 1334 2468 1335 2543 1343 2664 1343 2837 1334"
-                                                HPOS="607" VPOS="1284" WIDTH="2231" HEIGHT="78">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="607 1284 2838 1284 2838 1362 607 1362"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="guerite de Valois. Il est mécontent de la paix que le roi de France a conclue avec les rebelles, car elle est, dit-il, contraire"
-                                                  HPOS="607" VPOS="1284" WIDTH="2231" HEIGHT="78"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT176"
-                                                BASELINE="610 1384 673 1382 818 1380 876 1379 926 1379 1113 1382 1173 1379 1234 1370 1309 1366 1383 1366 1485 1366 1616 1373 1703 1366 1832 1368 1893 1370 1945 1370 2114 1371 2177 1366 2252 1374 2347 1374 2451 1376 2518 1376 2672 1376 2773 1377 2837 1375"
-                                                HPOS="609" VPOS="1324" WIDTH="2228" HEIGHT="74">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="609 1324 2837 1324 2837 1398 609 1398"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="aux intérêts de la couronne, et, ce qui est plus grave, aux choses de la religion. — (La paix avait été conclue avec les"
-                                                  HPOS="609" VPOS="1324" WIDTH="2228" HEIGHT="74"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT176"
-                                                BASELINE="611 1424 812 1429 854 1420 892 1421 988 1418 1018 1417 1095 1423 1130 1414 1577 1407 1637 1406 1761 1409 1815 1409 1969 1410 2030 1411 2241 1414 2292 1415 2419 1416 2508 1417 2553 1417 2618 1417 2670 1417 2839 1418"
-                                                HPOS="611" VPOS="1366" WIDTH="2228" HEIGHT="79">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="611 1366 2839 1366 2839 1445 611 1445"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Huguenots, le 8 août 1570, à Saint-Germain-en-Laye. Le projet de mariage de Marguerite de Valois avec le roi de Portugal"
-                                                  HPOS="611" VPOS="1366" WIDTH="2228" HEIGHT="79"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT176"
-                                                BASELINE="612 1464 697 1465 770 1464 823 1463 938 1460 963 1459 1177 1454 1320 1457 1363 1449 1419 1449 1514 1448 1548 1448 1703 1448 1836 1449 1884 1451 2008 1452 2064 1453 2241 1463 2372 1455 2488 1457 2580 1466"
-                                                HPOS="612" VPOS="1409" WIDTH="1968" HEIGHT="74">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="612 1409 2580 1409 2580 1483 612 1483"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="n&#39;eut pas de suites : Marguerite épousa, le 18 août 1572, son cousin le prince de Navarre, depuis Henri IV.)"
-                                                  HPOS="612" VPOS="1409" WIDTH="1968" HEIGHT="74"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT176"
-                                                BASELINE="647 2880 678 2872 763 2895 816 2867 1171 2875 1266 2886 1330 2874 1382 2875 1671 2891 1749 2895 2018 2881 2060 2881 2099 2883 2181 2894 2298 2882 2559 2895 2790 2883 2873 2884"
-                                                HPOS="647" VPOS="2814" WIDTH="2226" HEIGHT="102">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="647 2814 2873 2814 2873 2916 647 2916"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="★54★ PHILIPPE V, n. à Versailles, 19 décembre 1683, duc d’Anjou, petit-fils de"
-                                                  HPOS="647" VPOS="2814" WIDTH="2226" HEIGHT="102"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT176"
-                                                BASELINE="651 2950 795 2947 947 2957 1035 2944 1326 2939 1426 2953 1705 2945 1887 2959 1973 2947 2025 2947 2249 2957 2304 2964 2475 2950 2634 2950"
-                                                HPOS="651" VPOS="2883" WIDTH="1983" HEIGHT="99">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="651 2883 2634 2883 2634 2982 651 2982"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Louis XIV, roi d’Espagne (24 novembre 1700), m. à Madrid, 9 juillet 1746."
-                                                  HPOS="651" VPOS="2883" WIDTH="1983" HEIGHT="99"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT176"
-                                                BASELINE="702 3038 746 3037 825 3037 907 3036 964 3035 1191 3029 1259 3028 1460 3036 1559 3029 1725 3042"
-                                                HPOS="702" VPOS="2986" WIDTH="1023" HEIGHT="66">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="702 2986 1725 2986 1725 3052 702 3052"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="L. A. S. à l’électeur de Bavière, son oncle;"
-                                                  HPOS="702" VPOS="2986" WIDTH="1023" HEIGHT="66"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT176"
-                                                BASELINE="654 3091 824 3098 897 3088 1133 3086 1271 3091 1304 3081 1362 3082 1486 3090 1727 3084"
-                                                HPOS="654" VPOS="3040" WIDTH="1074" HEIGHT="64">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="654 3040 1728 3040 1728 3104 654 3104"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Madrid, 16 décembre 1706, 1 p. in-4, enveloppe"
-                                                  HPOS="654" VPOS="3040" WIDTH="1074" HEIGHT="64"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT176"
-                                                BASELINE="654 3145 691 3145 733 3145 1007 3143 1197 3138 1385 3126 1447 3134"
-                                                HPOS="654" VPOS="3098" WIDTH="793" HEIGHT="58">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="654 3098 1447 3098 1447 3156 654 3156"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="et cachet. (Coll. Dubrunfaut.) — P."
-                                                  HPOS="654" VPOS="3098" WIDTH="793" HEIGHT="58"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT176"
-                                                BASELINE="690 3222 716 3222 776 3220 948 3218 1053 3218 1211 3213 1348 3212 1447 3210 1579 3210 1630 3211 1731 3204"
-                                                HPOS="690" VPOS="3178" WIDTH="1041" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="690 3178 1731 3178 1731 3230 690 3230"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Il lui demande vingt hommes choisis pour rendre sa com¬"
-                                                  HPOS="690" VPOS="3178" WIDTH="1041" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT176"
-                                                BASELINE="659 3273 771 3263 843 3261 977 3259 1041 3260 1153 3260 1347 3254 1532 3252 1563 3251 1668 3253 1732 3253"
-                                                HPOS="659" VPOS="3221" WIDTH="1073" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="659 3221 1732 3221 1732 3274 659 3274"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="pagnie des gardes du corps wallonnes complète. « Vous me"
-                                                  HPOS="659" VPOS="3221" WIDTH="1073" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT176"
-                                                BASELINE="657 3307 740 3307 866 3303 918 3302 983 3302 1081 3301 1137 3302 1185 3300 1364 3296 1418 3295 1464 3294 1604 3296 1731 3295"
-                                                HPOS="657" VPOS="3264" WIDTH="1075" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="657 3264 1732 3264 1732 3316 657 3316"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="ferez plaisir de les tirer de la cavallerie de la mesme nation"
-                                                  HPOS="657" VPOS="3264" WIDTH="1075" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT176"
-                                                BASELINE="657 3358 712 3350 776 3349 873 3345 947 3344 1087 3342 1173 3352 1302 3338 1354 3338 1464 3337 1660 3345 1734 3337"
-                                                HPOS="657" VPOS="3305" WIDTH="1077" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="657 3305 1734 3305 1734 3358 657 3358"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="qui est sous vos ordres. J’ay chargé le sieur Duveland, qui"
-                                                  HPOS="657" VPOS="3305" WIDTH="1077" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT176"
-                                                BASELINE="658 3392 738 3393 872 3388 966 3385 1084 3392 1141 3385 1201 3384 1367 3379 1444 3386 1487 3379 1532 3379 1661 3379 1732 3373"
-                                                HPOS="658" VPOS="3347" WIDTH="1074" HEIGHT="49">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="658 3347 1732 3347 1732 3396 658 3396"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="vous rendra cette lettre, de les conduire icy, et je profite en¬"
-                                                  HPOS="658" VPOS="3347" WIDTH="1074" HEIGHT="49"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT176"
-                                                BASELINE="660 3436 734 3436 826 3433 952 3430 1006 3427 1105 3428 1267 3424 1362 3422 1459 3421 1674 3423 1736 3423"
-                                                HPOS="660" VPOS="3392" WIDTH="1076" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="660 3392 1736 3392 1736 3442 660 3442"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="core avec plaisir de cette occasion pour vous renouveller les"
-                                                  HPOS="660" VPOS="3392" WIDTH="1076" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT176"
-                                                BASELINE="661 3479 867 3474 929 3473 1083 3469 1131 3470 1186 3468 1330 3464 1407 3464 1489 3473 1591 3465 1698 3468 1734 3465"
-                                                HPOS="661" VPOS="3431" WIDTH="1073" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="661 3431 1734 3431 1734 3481 661 3481"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="asseurances de l’estime et de l’amitié que j’ay pour vous. »"
-                                                  HPOS="661" VPOS="3431" WIDTH="1073" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT176"
-                                                BASELINE="661 3515 695 3515 1144 3519 1192 3511 1306 3516 1466 3507 1523 3507 1671 3509 1736 3510"
-                                                HPOS="661" VPOS="3476" WIDTH="1075" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="661 3476 1736 3476 1736 3530 661 3530"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="— (Maximilien-Emmanuel, n. 1662, électeur de Bavière en"
-                                                  HPOS="661" VPOS="3476" WIDTH="1075" HEIGHT="54"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT176"
-                                                BASELINE="667 3565 755 3572 849 3563 961 3560 1022 3555 1139 3554 1245 3552 1381 3558 1478 3550 1536 3550 1676 3552 1739 3552"
-                                                HPOS="667" VPOS="3518" WIDTH="1072" HEIGHT="56">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="667 3518 1739 3518 1739 3574 667 3574"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="1679, était l’allié de Louis XIV. Ayant, dans la guerre de"
-                                                  HPOS="667" VPOS="3518" WIDTH="1072" HEIGHT="56"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT176"
-                                                BASELINE="664 3607 694 3608 902 3604 1107 3605 1194 3596 1295 3593 1400 3593 1444 3592 1522 3593 1693 3603 1737 3595"
-                                                HPOS="664" VPOS="3560" WIDTH="1073" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="664 3560 1737 3560 1737 3612 664 3612"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="la succession d’Espagne, pris parti pour le duc d’Anjou, il"
-                                                  HPOS="664" VPOS="3560" WIDTH="1073" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_30" TAGREFS="LT176"
-                                                BASELINE="664 3650 750 3650 817 3649 946 3646 1002 3644 1072 3642 1190 3640 1249 3638 1354 3644 1407 3636 1532 3637 1681 3638 1739 3638"
-                                                HPOS="664" VPOS="3604" WIDTH="1075" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="664 3604 1739 3604 1739 3655 664 3655"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="avait été chassé de ses Etats en 1704 et s’était réfugié en"
-                                                  HPOS="664" VPOS="3604" WIDTH="1075" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_31" TAGREFS="LT176"
-                                                BASELINE="664 3693 794 3691 835 3691 891 3690 1015 3687 1113 3684 1186 3684 1361 3681 1470 3679 1580 3688 1692 3681 1740 3681"
-                                                HPOS="664" VPOS="3647" WIDTH="1076" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="664 3647 1740 3647 1740 3698 664 3698"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="France. Il ne rentra dans son électorat qu’en 1714, après la"
-                                                  HPOS="664" VPOS="3647" WIDTH="1076" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_32" TAGREFS="LT176"
-                                                BASELINE="666 3742 739 3735 933 3739 982 3731 1129 3727 1187 3726 1309 3731"
-                                                HPOS="666" VPOS="3694" WIDTH="643" HEIGHT="48">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="666 3694 1309 3694 1309 3742 666 3742"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="paix d’Utrecht, et mourut en 1726.)"
-                                                  HPOS="666" VPOS="3694" WIDTH="643" HEIGHT="48"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="2822" VPOS="3987" WIDTH="126" HEIGHT="84"
-                                        ID="eSc_textblock_3d615929" TAGREFS="BT502">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="2822 3987 2822 4071 2948 4071 2948 3987"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="line_1582274865737_177" TAGREFS="LT176"
-                                                BASELINE="2863 4024 2915 4024" HPOS="2863"
-                                                VPOS="3979" WIDTH="52" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="2863 3979 2915 3979 2915 4029 2863 4029"/>
-                                                </Shape>
-                                                <String CONTENT="7" HPOS="2863" VPOS="3979"
-                                                  WIDTH="52" HEIGHT="50"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="2718" VPOS="565" WIDTH="115" HEIGHT="89"
-                                        ID="eSc_textblock_e63391eb" TAGREFS="BT502">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="2718 565 2718 654 2833 654 2833 565"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="eSc_line_48d08dda" TAGREFS="LT176"
-                                                BASELINE="2738 632 2823 631" HPOS="2735" VPOS="534"
-                                                WIDTH="85" HEIGHT="116">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="2735 631 2739 557 2805 534 2820 627 2793 650 2743 646"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="25" HPOS="2735" VPOS="534"
-                                                  WIDTH="85" HEIGHT="116"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="556" VPOS="536" WIDTH="1920" HEIGHT="188"
-                                        ID="eSc_textblock_3287f07d" TAGREFS="BT498">
-                                        <Shape>
-                                                <Polygon POINTS="566 567 556 724 2476 693 2476 536"
-                                                />
-                                        </Shape>
-
-
-                                        <TextLine ID="line_1582274648748_127" TAGREFS="LT176"
-                                                BASELINE="573 653 2458 636" HPOS="569" VPOS="549"
-                                                WIDTH="1887" HEIGHT="117">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="569 650 585 569 619 584 643 569 724 607 933 607 984 577 1026 600 1150 604 1204 569 1394 577 1421 557 1468 557 1604 584 1642 553 1751 553 1786 577 1859 553 1979 549 2119 549 2146 569 2169 549 2208 553 2293 596 2332 573 2359 592 2406 573 2444 596 2456 635 2444 654 2251 638 2208 654 2130 638 2041 654 2003 638 1871 658 1817 642 1693 642 1669 658 1642 642 1348 646 1297 662 1263 646 1088 646 1038 666 883 666 848 650 724 650 709 666 643 650 604 666 573 650"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="S. 1 CHEFS DE GOUVERNEMENT"
-                                                  HPOS="569" VPOS="549" WIDTH="1887" HEIGHT="117"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="567" VPOS="850" WIDTH="2287" HEIGHT="650"
-                                        ID="eSc_textblock_fed2df0d" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="589 1500 567 872 2854 850 2854 1500"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="619" VPOS="2801" WIDTH="2329" HEIGHT="1008"
-                                        ID="eSc_textblock_9a9ca3e5" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="629 3809 619 2801 2927 2812 2948 3798"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="619" VPOS="1521" WIDTH="2268" HEIGHT="1206"
-                                        ID="eSc_textblock_d31d3f91" TAGREFS="BT496">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="619 1553 661 2727 2887 2718 2875 2213 2864 1521"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="2414" VPOS="2214" WIDTH="493" HEIGHT="535"
-                                        ID="eSc_textblock_7b953053" TAGREFS="BT496">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="2907 2748 2854 2214 2424 2266 2414 2749"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1887_bovet_bpt6k6325943w_gt_0089.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="3735" HEIGHT="4647" PHYSICAL_IMG_NR="15" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="3735" HEIGHT="4647"><TextBlock HPOS="1773" VPOS="3032" WIDTH="1144" HEIGHT="724" ID="eSc_textblock_9d6c4d9d" TAGREFS="BT6"><Shape>
+                                                <Polygon POINTS="2917 3756 2917 3032 1773 3032 1773 3756"/>
+                                        </Shape></TextBlock><TextBlock HPOS="535" VPOS="818" WIDTH="2424" HEIGHT="3011" ID="eSc_textblock_9aec01b5" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="535 860 629 3829 2959 3808 2916 818"/>
+                                        </Shape><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="597 940 619 940 676 942 764 937 1122 928 1227 938 1306 924 1366 922 1690 937 1781 926 1913 924 2089 937 2197 927 2411 929 2510 929 2827 926" HPOS="597" VPOS="866" WIDTH="2230" HEIGHT="97"><Shape>
+                                                  <Polygon POINTS="597 866 2827 866 2827 963 597 963"/>
+                                                </Shape><String CONTENT="★53★ PHILIPPE II, n. à Valladolid, 21 mai 1627, fils unique de l’empereur" HPOS="597" VPOS="866" WIDTH="2230" HEIGHT="97"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="601 1008 994 1007 1084 992 1292 987 1428 998 1716 990 1761 990 1797 991 1901 1001 1989 988 2035 988 2073 989 2364 994 2406 994 2442 995 2478 1011 2509 995 2526 994" HPOS="601" VPOS="935" WIDTH="1925" HEIGHT="93"><Shape>
+                                                  <Polygon POINTS="601 935 2526 935 2526 1028 601 1028"/>
+                                                </Shape><String CONTENT="Charles-Quint, roi d’Espagne (25 octobre 1555), m. 13 septembre 1598." HPOS="601" VPOS="935" WIDTH="1925" HEIGHT="93"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="651 1091 696 1090 765 1089 823 1087 861 1085 913 1084 1057 1083 1303 1075 1368 1073 1569 1087 1627 1076 1885 1088 1907 1088 2168 1080 2314 1091 2353 1082 2417 1083 2495 1082 2664 1092 2828 1081" HPOS="651" VPOS="1024" WIDTH="2177" HEIGHT="86"><Shape>
+                                                  <Polygon POINTS="651 1024 2828 1024 2828 1110 651 1110"/>
+                                                </Shape><String CONTENT="L. A. S. à la Reine (Catherine de Médicis, sa belle-mère) ; (septembre 1570), 1 p. 1/2 in-fol., cachet." HPOS="651" VPOS="1024" WIDTH="2177" HEIGHT="86"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="602 1136 649 1136 708 1141 774 1140 917 1137 1088 1134 1181 1132 1268 1130 1428 1127" HPOS="602" VPOS="1089" WIDTH="827" HEIGHT="61"><Shape>
+                                                  <Polygon POINTS="602 1089 1429 1089 1429 1150 602 1150"/>
+                                                </Shape><String CONTENT="— P. de Gunst d’après van der Werff." HPOS="602" VPOS="1089" WIDTH="827" HEIGHT="61"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="642 1217 835 1214 945 1213 1148 1209 1191 1207 1351 1202 1404 1201 1565 1203 1699 1205 1753 1206 1923 1206 2068 1206 2125 1208 2172 1209 2339 1211 2450 1212 2508 1211 2562 1212 2692 1218 2773 1213 2832 1212" HPOS="642" VPOS="1160" WIDTH="2190" HEIGHT="80"><Shape>
+                                                  <Polygon POINTS="642 1160 2832 1160 2832 1240 642 1240"/>
+                                                </Shape><String CONTENT="Importante lettre historique. Il pourrait se montrer offensé de quelques paroles de la dernière lettre de la Reine, que lui" HPOS="642" VPOS="1160" WIDTH="2190" HEIGHT="80"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="606 1260 624 1260 759 1256 1030 1254 1283 1245 1467 1243 1527 1243 1696 1245 1752 1246 1883 1255 2008 1247 2068 1248 2340 1259 2393 1253 2431 1253 2454 1253 2510 1261 2574 1254 2698 1259 2798 1254 2836 1252" HPOS="606" VPOS="1200" WIDTH="2230" HEIGHT="81"><Shape>
+                                                  <Polygon POINTS="606 1200 2836 1200 2836 1281 606 1281"/>
+                                                </Shape><String CONTENT="a remise l’ambassadeur Fourquevaux (Raimond de Beccarie de Ravie, baron de Fourquevaux, n. 1509, m. 1574), mais il" HPOS="606" VPOS="1200" WIDTH="2230" HEIGHT="81"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="607 1300 787 1297 858 1296 935 1296 1046 1294 1144 1292 1193 1290 1406 1283 1443 1283 1589 1285 1776 1287 1821 1288 1946 1288 1997 1288 2156 1290 2213 1291 2398 1293 2457 1294 2630 1294 2727 1295 2837 1287" HPOS="607" VPOS="1242" WIDTH="2230" HEIGHT="80"><Shape>
+                                                  <Polygon POINTS="607 1242 2837 1242 2837 1322 607 1322"/>
+                                                </Shape><String CONTENT="n’insistera pas par égard pour sa belle-mère. Il promet d’appuyer le projet de mariage de Sébastien de Portugal avec Mar¬" HPOS="607" VPOS="1242" WIDTH="2230" HEIGHT="80"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="607 1350 728 1340 778 1338 892 1337 953 1336 1032 1336 1230 1330 1284 1326 1333 1325 1424 1324 1502 1324 1547 1325 1618 1324 1670 1325 1809 1328 1842 1329 1995 1329 2087 1330 2151 1331 2315 1340 2390 1334 2468 1335 2543 1343 2664 1343 2837 1334" HPOS="607" VPOS="1284" WIDTH="2231" HEIGHT="78"><Shape>
+                                                  <Polygon POINTS="607 1284 2838 1284 2838 1362 607 1362"/>
+                                                </Shape><String CONTENT="guerite de Valois. Il est mécontent de la paix que le roi de France a conclue avec les rebelles, car elle est, dit-il, contraire" HPOS="607" VPOS="1284" WIDTH="2231" HEIGHT="78"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="610 1384 673 1382 818 1380 876 1379 926 1379 1113 1382 1173 1379 1234 1370 1309 1366 1383 1366 1485 1366 1616 1373 1703 1366 1832 1368 1893 1370 1945 1370 2114 1371 2177 1366 2252 1374 2347 1374 2451 1376 2518 1376 2672 1376 2773 1377 2837 1375" HPOS="609" VPOS="1324" WIDTH="2228" HEIGHT="74"><Shape>
+                                                  <Polygon POINTS="609 1324 2837 1324 2837 1398 609 1398"/>
+                                                </Shape><String CONTENT="aux intérêts de la couronne, et, ce qui est plus grave, aux choses de la religion. — (La paix avait été conclue avec les" HPOS="609" VPOS="1324" WIDTH="2228" HEIGHT="74"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="611 1424 812 1429 854 1420 892 1421 988 1418 1018 1417 1095 1423 1130 1414 1577 1407 1637 1406 1761 1409 1815 1409 1969 1410 2030 1411 2241 1414 2292 1415 2419 1416 2508 1417 2553 1417 2618 1417 2670 1417 2839 1418" HPOS="611" VPOS="1366" WIDTH="2228" HEIGHT="79"><Shape>
+                                                  <Polygon POINTS="611 1366 2839 1366 2839 1445 611 1445"/>
+                                                </Shape><String CONTENT="Huguenots, le 8 août 1570, à Saint-Germain-en-Laye. Le projet de mariage de Marguerite de Valois avec le roi de Portugal" HPOS="611" VPOS="1366" WIDTH="2228" HEIGHT="79"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="612 1464 697 1465 770 1464 823 1463 938 1460 963 1459 1177 1454 1320 1457 1363 1449 1419 1449 1514 1448 1548 1448 1703 1448 1836 1449 1884 1451 2008 1452 2064 1453 2241 1463 2372 1455 2488 1457 2580 1466" HPOS="612" VPOS="1409" WIDTH="1968" HEIGHT="74"><Shape>
+                                                  <Polygon POINTS="612 1409 2580 1409 2580 1483 612 1483"/>
+                                                </Shape><String CONTENT="n'eut pas de suites : Marguerite épousa, le 18 août 1572, son cousin le prince de Navarre, depuis Henri IV.)" HPOS="612" VPOS="1409" WIDTH="1968" HEIGHT="74"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="647 2880 678 2872 763 2895 816 2867 1171 2875 1266 2886 1330 2874 1382 2875 1671 2891 1749 2895 2018 2881 2060 2881 2099 2883 2181 2894 2298 2882 2559 2895 2790 2883 2873 2884" HPOS="647" VPOS="2814" WIDTH="2226" HEIGHT="102"><Shape>
+                                                  <Polygon POINTS="647 2814 2873 2814 2873 2916 647 2916"/>
+                                                </Shape><String CONTENT="★54★ PHILIPPE V, n. à Versailles, 19 décembre 1683, duc d’Anjou, petit-fils de" HPOS="647" VPOS="2814" WIDTH="2226" HEIGHT="102"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="651 2950 795 2947 947 2957 1035 2944 1326 2939 1426 2953 1705 2945 1887 2959 1973 2947 2025 2947 2249 2957 2304 2964 2475 2950 2634 2950" HPOS="651" VPOS="2883" WIDTH="1983" HEIGHT="99"><Shape>
+                                                  <Polygon POINTS="651 2883 2634 2883 2634 2982 651 2982"/>
+                                                </Shape><String CONTENT="Louis XIV, roi d’Espagne (24 novembre 1700), m. à Madrid, 9 juillet 1746." HPOS="651" VPOS="2883" WIDTH="1983" HEIGHT="99"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="702 3038 746 3037 825 3037 907 3036 964 3035 1191 3029 1259 3028 1460 3036 1559 3029 1725 3042" HPOS="702" VPOS="2986" WIDTH="1023" HEIGHT="66"><Shape>
+                                                  <Polygon POINTS="702 2986 1725 2986 1725 3052 702 3052"/>
+                                                </Shape><String CONTENT="L. A. S. à l’électeur de Bavière, son oncle;" HPOS="702" VPOS="2986" WIDTH="1023" HEIGHT="66"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="654 3091 824 3098 897 3088 1133 3086 1271 3091 1304 3081 1362 3082 1486 3090 1727 3084" HPOS="654" VPOS="3040" WIDTH="1074" HEIGHT="64"><Shape>
+                                                  <Polygon POINTS="654 3040 1728 3040 1728 3104 654 3104"/>
+                                                </Shape><String CONTENT="Madrid, 16 décembre 1706, 1 p. in-4, enveloppe" HPOS="654" VPOS="3040" WIDTH="1074" HEIGHT="64"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="654 3145 691 3145 733 3145 1007 3143 1197 3138 1385 3126 1447 3134" HPOS="654" VPOS="3098" WIDTH="793" HEIGHT="58"><Shape>
+                                                  <Polygon POINTS="654 3098 1447 3098 1447 3156 654 3156"/>
+                                                </Shape><String CONTENT="et cachet. (Coll. Dubrunfaut.) — P." HPOS="654" VPOS="3098" WIDTH="793" HEIGHT="58"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="690 3222 716 3222 776 3220 948 3218 1053 3218 1211 3213 1348 3212 1447 3210 1579 3210 1630 3211 1731 3204" HPOS="690" VPOS="3178" WIDTH="1041" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="690 3178 1731 3178 1731 3230 690 3230"/>
+                                                </Shape><String CONTENT="Il lui demande vingt hommes choisis pour rendre sa com¬" HPOS="690" VPOS="3178" WIDTH="1041" HEIGHT="52"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="659 3273 771 3263 843 3261 977 3259 1041 3260 1153 3260 1347 3254 1532 3252 1563 3251 1668 3253 1732 3253" HPOS="659" VPOS="3221" WIDTH="1073" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="659 3221 1732 3221 1732 3274 659 3274"/>
+                                                </Shape><String CONTENT="pagnie des gardes du corps wallonnes complète. « Vous me" HPOS="659" VPOS="3221" WIDTH="1073" HEIGHT="53"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="657 3307 740 3307 866 3303 918 3302 983 3302 1081 3301 1137 3302 1185 3300 1364 3296 1418 3295 1464 3294 1604 3296 1731 3295" HPOS="657" VPOS="3264" WIDTH="1075" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="657 3264 1732 3264 1732 3316 657 3316"/>
+                                                </Shape><String CONTENT="ferez plaisir de les tirer de la cavallerie de la mesme nation" HPOS="657" VPOS="3264" WIDTH="1075" HEIGHT="52"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="657 3358 712 3350 776 3349 873 3345 947 3344 1087 3342 1173 3352 1302 3338 1354 3338 1464 3337 1660 3345 1734 3337" HPOS="657" VPOS="3305" WIDTH="1077" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="657 3305 1734 3305 1734 3358 657 3358"/>
+                                                </Shape><String CONTENT="qui est sous vos ordres. J’ay chargé le sieur Duveland, qui" HPOS="657" VPOS="3305" WIDTH="1077" HEIGHT="53"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="658 3392 738 3393 872 3388 966 3385 1084 3392 1141 3385 1201 3384 1367 3379 1444 3386 1487 3379 1532 3379 1661 3379 1732 3373" HPOS="658" VPOS="3347" WIDTH="1074" HEIGHT="49"><Shape>
+                                                  <Polygon POINTS="658 3347 1732 3347 1732 3396 658 3396"/>
+                                                </Shape><String CONTENT="vous rendra cette lettre, de les conduire icy, et je profite en¬" HPOS="658" VPOS="3347" WIDTH="1074" HEIGHT="49"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="660 3436 734 3436 826 3433 952 3430 1006 3427 1105 3428 1267 3424 1362 3422 1459 3421 1674 3423 1736 3423" HPOS="660" VPOS="3392" WIDTH="1076" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="660 3392 1736 3392 1736 3442 660 3442"/>
+                                                </Shape><String CONTENT="core avec plaisir de cette occasion pour vous renouveller les" HPOS="660" VPOS="3392" WIDTH="1076" HEIGHT="50"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="661 3479 867 3474 929 3473 1083 3469 1131 3470 1186 3468 1330 3464 1407 3464 1489 3473 1591 3465 1698 3468 1734 3465" HPOS="661" VPOS="3431" WIDTH="1073" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="661 3431 1734 3431 1734 3481 661 3481"/>
+                                                </Shape><String CONTENT="asseurances de l’estime et de l’amitié que j’ay pour vous. »" HPOS="661" VPOS="3431" WIDTH="1073" HEIGHT="50"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="661 3515 695 3515 1144 3519 1192 3511 1306 3516 1466 3507 1523 3507 1671 3509 1736 3510" HPOS="661" VPOS="3476" WIDTH="1075" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="661 3476 1736 3476 1736 3530 661 3530"/>
+                                                </Shape><String CONTENT="— (Maximilien-Emmanuel, n. 1662, électeur de Bavière en" HPOS="661" VPOS="3476" WIDTH="1075" HEIGHT="54"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="667 3565 755 3572 849 3563 961 3560 1022 3555 1139 3554 1245 3552 1381 3558 1478 3550 1536 3550 1676 3552 1739 3552" HPOS="667" VPOS="3518" WIDTH="1072" HEIGHT="56"><Shape>
+                                                  <Polygon POINTS="667 3518 1739 3518 1739 3574 667 3574"/>
+                                                </Shape><String CONTENT="1679, était l’allié de Louis XIV. Ayant, dans la guerre de" HPOS="667" VPOS="3518" WIDTH="1072" HEIGHT="56"/></TextLine><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="664 3607 694 3608 902 3604 1107 3605 1194 3596 1295 3593 1400 3593 1444 3592 1522 3593 1693 3603 1737 3595" HPOS="664" VPOS="3560" WIDTH="1073" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="664 3560 1737 3560 1737 3612 664 3612"/>
+                                                </Shape><String CONTENT="la succession d’Espagne, pris parti pour le duc d’Anjou, il" HPOS="664" VPOS="3560" WIDTH="1073" HEIGHT="52"/></TextLine><TextLine ID="tl_30" TAGREFS="LT1" BASELINE="664 3650 750 3650 817 3649 946 3646 1002 3644 1072 3642 1190 3640 1249 3638 1354 3644 1407 3636 1532 3637 1681 3638 1739 3638" HPOS="664" VPOS="3604" WIDTH="1075" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="664 3604 1739 3604 1739 3655 664 3655"/>
+                                                </Shape><String CONTENT="avait été chassé de ses Etats en 1704 et s’était réfugié en" HPOS="664" VPOS="3604" WIDTH="1075" HEIGHT="51"/></TextLine><TextLine ID="tl_31" TAGREFS="LT1" BASELINE="664 3693 794 3691 835 3691 891 3690 1015 3687 1113 3684 1186 3684 1361 3681 1470 3679 1580 3688 1692 3681 1740 3681" HPOS="664" VPOS="3647" WIDTH="1076" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="664 3647 1740 3647 1740 3698 664 3698"/>
+                                                </Shape><String CONTENT="France. Il ne rentra dans son électorat qu’en 1714, après la" HPOS="664" VPOS="3647" WIDTH="1076" HEIGHT="51"/></TextLine><TextLine ID="tl_32" TAGREFS="LT1" BASELINE="666 3742 739 3735 933 3739 982 3731 1129 3727 1187 3726 1309 3731" HPOS="666" VPOS="3694" WIDTH="643" HEIGHT="48"><Shape>
+                                                  <Polygon POINTS="666 3694 1309 3694 1309 3742 666 3742"/>
+                                                </Shape><String CONTENT="paix d’Utrecht, et mourut en 1726.)" HPOS="666" VPOS="3694" WIDTH="643" HEIGHT="48"/></TextLine></TextBlock><TextBlock HPOS="2822" VPOS="3987" WIDTH="126" HEIGHT="84" ID="eSc_textblock_3d615929" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="2822 3987 2822 4071 2948 4071 2948 3987"/>
+                                        </Shape><TextLine ID="line_1582274865737_177" TAGREFS="LT1" BASELINE="2863 4024 2915 4024" HPOS="2863" VPOS="3979" WIDTH="52" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="2863 3979 2915 3979 2915 4029 2863 4029"/>
+                                                </Shape><String CONTENT="7" HPOS="2863" VPOS="3979" WIDTH="52" HEIGHT="50"/></TextLine></TextBlock><TextBlock HPOS="2718" VPOS="565" WIDTH="115" HEIGHT="89" ID="eSc_textblock_e63391eb" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="2718 565 2718 654 2833 654 2833 565"/>
+                                        </Shape><TextLine ID="eSc_line_48d08dda" TAGREFS="LT1" BASELINE="2738 632 2823 631" HPOS="2735" VPOS="534" WIDTH="85" HEIGHT="116"><Shape>
+                                                  <Polygon POINTS="2735 631 2739 557 2805 534 2820 627 2793 650 2743 646"/>
+                                                </Shape><String CONTENT="25" HPOS="2735" VPOS="534" WIDTH="85" HEIGHT="116"/></TextLine></TextBlock><TextBlock HPOS="556" VPOS="536" WIDTH="1920" HEIGHT="188" ID="eSc_textblock_3287f07d" TAGREFS=""><Shape>
+                                                <Polygon POINTS="566 567 556 724 2476 693 2476 536"/>
+                                        </Shape><TextLine ID="line_1582274648748_127" TAGREFS="LT1" BASELINE="573 653 2458 636" HPOS="569" VPOS="549" WIDTH="1887" HEIGHT="117"><Shape>
+                                                  <Polygon POINTS="569 650 585 569 619 584 643 569 724 607 933 607 984 577 1026 600 1150 604 1204 569 1394 577 1421 557 1468 557 1604 584 1642 553 1751 553 1786 577 1859 553 1979 549 2119 549 2146 569 2169 549 2208 553 2293 596 2332 573 2359 592 2406 573 2444 596 2456 635 2444 654 2251 638 2208 654 2130 638 2041 654 2003 638 1871 658 1817 642 1693 642 1669 658 1642 642 1348 646 1297 662 1263 646 1088 646 1038 666 883 666 848 650 724 650 709 666 643 650 604 666 573 650"/>
+                                                </Shape><String CONTENT="S. 1 CHEFS DE GOUVERNEMENT" HPOS="569" VPOS="549" WIDTH="1887" HEIGHT="117"/></TextLine></TextBlock><TextBlock HPOS="567" VPOS="850" WIDTH="2287" HEIGHT="650" ID="eSc_textblock_fed2df0d" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="589 1500 567 872 2854 850 2854 1500"/>
+                                        </Shape></TextBlock><TextBlock HPOS="619" VPOS="2801" WIDTH="2329" HEIGHT="1008" ID="eSc_textblock_9a9ca3e5" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="629 3809 619 2801 2927 2812 2948 3798"/>
+                                        </Shape></TextBlock><TextBlock HPOS="619" VPOS="1521" WIDTH="2268" HEIGHT="1206" ID="eSc_textblock_d31d3f91" TAGREFS="BT6"><Shape>
+                                                <Polygon POINTS="619 1553 661 2727 2887 2718 2875 2213 2864 1521"/>
+                                        </Shape></TextBlock><TextBlock HPOS="2414" VPOS="2214" WIDTH="493" HEIGHT="535" ID="eSc_textblock_7b953053" TAGREFS="BT6"><Shape>
+                                                <Polygon POINTS="2907 2748 2854 2214 2424 2266 2414 2749"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

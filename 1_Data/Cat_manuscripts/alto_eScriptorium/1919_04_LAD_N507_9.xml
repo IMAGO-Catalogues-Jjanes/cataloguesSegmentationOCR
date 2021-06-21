@@ -1,712 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>1919_04_LAD_N507_9.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT495" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT496" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT497" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT498" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT499" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT500" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT501" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="BT502" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT533" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
-                <OtherTag ID="LT176" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="1931" HEIGHT="3064" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1931" HEIGHT="3064">
-
-                                <TextBlock HPOS="879" VPOS="305" WIDTH="197" HEIGHT="55"
-                                        ID="eSc_textblock_14b9deb8" TAGREFS="BT502">
-                                        <Shape>
-                                                <Polygon POINTS="1076 358 1076 305 879 305 879 360"
-                                                />
-                                        </Shape>
-
-
-                                        <TextLine ID="line_1558301997824_2965" TAGREFS="LT176"
-                                                BASELINE="886 344 1062 345" HPOS="886" VPOS="299"
-                                                WIDTH="176" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="886 299 1062 300 1062 350 886 349"/>
-                                                </Shape>
-                                                <String CONTENT="— 9  —" HPOS="886" VPOS="299"
-                                                  WIDTH="176" HEIGHT="51"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="227" VPOS="387" WIDTH="1524" HEIGHT="2424"
-                                        ID="eSc_textblock_57b890ec" TAGREFS="BT495">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="228 387 227 2809 1751 2811 1749 397"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT176"
-                                                BASELINE="249 457 273 457 539 457 908 468 1087 461 1344 469 1435 461 1642 464 1713 464"
-                                                HPOS="249" VPOS="414" WIDTH="1464" HEIGHT="60">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="249 414 1713 414 1713 474 249 474"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88094 EBLÉ (Jean-Baptiste), général d’artillerie, qui s’illustra au"
-                                                  HPOS="249" VPOS="414" WIDTH="1464" HEIGHT="60"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT176"
-                                                BASELINE="478 525 643 514 721 514 790 515 1018 524 1099 516 1153 517 1417 516 1496 517 1714 519"
-                                                HPOS="478" VPOS="478" WIDTH="1236" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="478 478 1714 478 1714 528 478 528"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="passage de la Bérésina, né à Saint-Jean de Rorbach"
-                                                  HPOS="478" VPOS="478" WIDTH="1236" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT176"
-                                                BASELINE="483 579 681 570 760 559 825 573 887 572 944 572 1025 571 1227 572 1300 572 1364 572 1542 581 1712 582"
-                                                HPOS="483" VPOS="532" WIDTH="1229" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="483 532 1712 532 1712 585 483 585"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="(Moselle). -— L. a. s. au ministre de la guerre; Douai,"
-                                                  HPOS="483" VPOS="532" WIDTH="1229" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT176"
-                                                BASELINE="480 623 502 623 737 625 806 625 864 626 916 638 944 638 999 628 1060 626 1121 615 1130 628 1659 625 1714 627"
-                                                HPOS="480" VPOS="588" WIDTH="1234" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="480 588 1714 588 1714 640 480 640"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="8 thermidor an X, 1/2 p. in-4°. 10. »"
-                                                  HPOS="480" VPOS="588" WIDTH="1234" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT176"
-                                                BASELINE="254 699 278 699 604 701 817 703 921 711 982 703 1157 704 1391 705 1637 707 1717 696"
-                                                HPOS="254" VPOS="663" WIDTH="1463" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="254 663 1717 663 1717 716 254 716"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88095 EDISON (Thomas A.), le célèbre inventeur américain. —"
-                                                  HPOS="254" VPOS="663" WIDTH="1463" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT176"
-                                                BASELINE="481 756 532 757 745 757 839 759 923 758 1012 758 1133 758 1195 759 1336 767 1373 760 1424 761 1560 763 1637 772 1716 759"
-                                                HPOS="481" VPOS="720" WIDTH="1235" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="481 720 1716 720 1716 773 481 773"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Sa signature aut. sur une carte de visite, 1 p. in-32. 5 »"
-                                                  HPOS="481" VPOS="720" WIDTH="1235" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT176"
-                                                BASELINE="255 833 278 833 601 834 845 843 1082 843 1380 837 1450 837 1511 839 1625 839 1717 839"
-                                                HPOS="255" VPOS="795" WIDTH="1462" HEIGHT="56">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="255 795 1717 795 1717 851 255 851"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88096 EIFFEL (Gustave), ingénieur, constructeur de la tour qui"
-                                                  HPOS="255" VPOS="795" WIDTH="1462" HEIGHT="56"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT176"
-                                                BASELINE="479 901 594 889 691 889 825 898 905 891 956 891 1104 891 1387 893 1466 882 1536 895 1601 895 1660 896 1717 895"
-                                                HPOS="479" VPOS="854" WIDTH="1238" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="479 854 1717 854 1717 905 479 905"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="porte son nom, né à Dijon (Côte-d’Or). -— L. a. s. à"
-                                                  HPOS="479" VPOS="854" WIDTH="1238" HEIGHT="51"/>
-                                        </TextLine>
-
-                                        <TextLine ID="tl_10" TAGREFS="LT176"
-                                                BASELINE="482 944 521 944 557 932 867 954 934 946 1050 947 1179 955 1224 958 1278 948 1420 949 1640 950 1717 947"
-                                                HPOS="482" VPOS="908" WIDTH="1235" HEIGHT="53">
-                                                <Shape>
-                                                        <Polygon
-                                                                POINTS="482 908 1717 908 1717 961 482 961"/>
-                                                </Shape>
-                                                <String
-                                                        CONTENT="Mme Desgenetais; 21 août 1887, 4 p. in-16. 10 »"
-                                                        HPOS="482" VPOS="908" WIDTH="1235" HEIGHT="53"/>
-                                        </TextLine>
-
-                                        <TextLine ID="tl_11" TAGREFS="LT176"
-                                                BASELINE="448 1000 475 1001 574 1002 626 1002 674 1002 778 1003 824 1002 893 1003 1044 1004 1095 1004 1138 1004 1234 1011 1302 1004 1477 1006 1511 1006 1558 1006 1715 999"
-                                                HPOS="448" VPOS="972" WIDTH="1267" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="448 972 1715 972 1715 1013 448 1013"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Il parle de sa santé et des travaux de la tour, qui marchent à sa satisfac¬"
-                                                  HPOS="448" VPOS="972" WIDTH="1267" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="line_1558301958138_2946" TAGREFS="LT176"
-                                                BASELINE="405 1044 484 1046" HPOS="405" VPOS="1013"
-                                                WIDTH="79" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="405 1013 484 1015 484 1051 405 1049"/>
-                                                </Shape>
-                                                <String CONTENT="tion." HPOS="405" VPOS="1013"
-                                                  WIDTH="79" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT176"
-                                                BASELINE="254 1115 277 1115 649 1115 867 1117 921 1119 1011 1117 1472 1120 1567 1121 1719 1110"
-                                                HPOS="254" VPOS="1072" WIDTH="1465" HEIGHT="60">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="254 1072 1719 1072 1719 1132 254 1132"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88097 EUGÉNIE (Eugénie de Montijo), impératrice des Fran¬"
-                                                  HPOS="254" VPOS="1072" WIDTH="1465" HEIGHT="60"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT176"
-                                                BASELINE="483 1182 573 1179 743 1172 815 1173 1045 1173 1144 1175 1223 1164 1286 1176 1348 1175 1402 1175 1497 1175 1720 1176"
-                                                HPOS="483" VPOS="1136" WIDTH="1237" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="483 1136 1720 1136 1720 1187 483 1187"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="çais, épouse de Napoléon III. — L. a. s. (au maréchal"
-                                                  HPOS="483" VPOS="1136" WIDTH="1237" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT176"
-                                                BASELINE="482 1226 668 1238 688 1234 736 1228 809 1235 851 1229 906 1229 1038 1236 1194 1229 1236 1229 1323 1229 1487 1231 1640 1241 1720 1228"
-                                                HPOS="482" VPOS="1191" WIDTH="1239" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="482 1191 1721 1191 1721 1243 482 1243"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Bazaine) ; s. d., 2 p. in-8°, papier à son chiffre. 75 »"
-                                                  HPOS="482" VPOS="1191" WIDTH="1239" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT176"
-                                                BASELINE="447 1283 515 1284 558 1284 640 1284 694 1284 860 1286 895 1285 940 1285 1132 1285 1191 1286 1300 1286 1377 1287 1420 1286 1572 1287 1631 1288 1717 1279"
-                                                HPOS="447" VPOS="1255" WIDTH="1270" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="447 1255 1717 1255 1717 1295 447 1295"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Elle le prie de remettre à la maréchale un écran que le courrier lui por¬"
-                                                  HPOS="447" VPOS="1255" WIDTH="1270" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT176"
-                                                BASELINE="377 1340 388 1319 477 1327 527 1327 584 1328 633 1328 733 1328 796 1319 835 1330 965 1330 1021 1330 1185 1329 1304 1331 1392 1331 1438 1331 1523 1333 1717 1333"
-                                                HPOS="377" VPOS="1296" WIDTH="1340" HEIGHT="48">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="377 1296 1717 1296 1717 1344 377 1344"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="tera et de la prier de le garder en souvenir d’elle. Elle le prie également"
-                                                  HPOS="377" VPOS="1296" WIDTH="1340" HEIGHT="48"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT176"
-                                                BASELINE="409 1371 548 1372 610 1372 827 1374 874 1374 1003 1374 1056 1374 1127 1374 1302 1376"
-                                                HPOS="409" VPOS="1343" WIDTH="893" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="409 1343 1302 1343 1302 1383 409 1383"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="d’agréer ses félicitations (à propos de son mariage)."
-                                                  HPOS="409" VPOS="1343" WIDTH="893" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT176"
-                                                BASELINE="257 1447 280 1447 678 1447 898 1456 1074 1448 1315 1449 1378 1450 1544 1451 1724 1441"
-                                                HPOS="257" VPOS="1410" WIDTH="1467" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="257 1410 1724 1410 1724 1462 257 1462"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88098 FEUILLET (Octave), célèbre romancier et auteur drama¬"
-                                                  HPOS="257" VPOS="1410" WIDTH="1467" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT176"
-                                                BASELINE="485 1501 607 1509 811 1502 886 1503 1151 1504 1381 1511 1459 1504 1508 1505 1724 1506"
-                                                HPOS="485" VPOS="1466" WIDTH="1239" HEIGHT="49">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="485 1466 1724 1466 1724 1515 485 1515"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="tique, membre de l’Académie française, né à Saint-Lô"
-                                                  HPOS="485" VPOS="1466" WIDTH="1239" HEIGHT="49"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT176"
-                                                BASELINE="489 1567 696 1556 784 1545 858 1558 929 1558 1016 1564 1076 1557 1160 1559 1485 1567 1722 1568"
-                                                HPOS="489" VPOS="1520" WIDTH="1234" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="489 1520 1723 1520 1723 1570 489 1570"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="(Manche). -— L. a. s.; à M. Blanchereau; Saint-Lô,"
-                                                  HPOS="489" VPOS="1520" WIDTH="1234" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT176"
-                                                BASELINE="486 1609 533 1610 635 1609 763 1617 805 1621 860 1612 991 1613 1648 1615 1724 1613"
-                                                HPOS="486" VPOS="1574" WIDTH="1238" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="486 1574 1724 1574 1724 1625 486 1625"/>
-                                                </Shape>
-                                                <String CONTENT="28 juin 1855, 3 p. in-8°. 20 »"
-                                                  HPOS="486" VPOS="1574" WIDTH="1238" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT176"
-                                                BASELINE="451 1666 535 1667 647 1667 745 1667 898 1669 938 1667 1001 1668 1143 1669 1226 1669 1423 1668 1519 1669 1683 1671 1723 1671"
-                                                HPOS="451" VPOS="1637" WIDTH="1272" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="451 1637 1723 1637 1723 1678 451 1678"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Belle lettre dans laquelle il lui déclare très nettement qu’il s’oppose à"
-                                                  HPOS="451" VPOS="1637" WIDTH="1272" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT176"
-                                                BASELINE="408 1709 438 1709 702 1711 736 1710 903 1713 956 1713 1006 1712 1040 1720 1206 1714 1257 1714 1302 1713 1463 1714"
-                                                HPOS="408" VPOS="1683" WIDTH="1055" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="408 1683 1463 1683 1463 1721 408 1721"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="la représentation à Saint-Lô de sa pièce Péril en la demeure."
-                                                  HPOS="408" VPOS="1683" WIDTH="1055" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT176"
-                                                BASELINE="256 1786 280 1786 767 1786 995 1794 1254 1796 1417 1788 1484 1789 1724 1790"
-                                                HPOS="256" VPOS="1748" WIDTH="1468" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="256 1748 1724 1748 1724 1800 256 1800"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88099 FLAMMARION (Camille), astronome, auteur de nombreux"
-                                                  HPOS="256" VPOS="1748" WIDTH="1468" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT176"
-                                                BASELINE="484 1840 600 1841 673 1841 992 1843 1071 1832 1134 1844 1194 1844 1250 1844 1271 1850 1419 1851 1494 1856 1724 1845"
-                                                HPOS="484" VPOS="1804" WIDTH="1240" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="484 1804 1724 1804 1724 1856 484 1856"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="livres de vulgarisation. —- L. a. s. ; Paris, 17 décembre"
-                                                  HPOS="484" VPOS="1804" WIDTH="1240" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT176"
-                                                BASELINE="487 1896 596 1904 648 1896 716 1897 789 1895 849 1885 858 1898 1644 1910 1723 1898"
-                                                HPOS="487" VPOS="1859" WIDTH="1237" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="487 1859 1724 1859 1724 1911 487 1911"/>
-                                                </Shape>
-                                                <String CONTENT="1868, 1 p. in-4°. 5 »" HPOS="487"
-                                                  VPOS="1859" WIDTH="1237" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT176"
-                                                BASELINE="451 1952 477 1953 598 1953 659 1954 853 1954 946 1954 1101 1954 1170 1955 1409 1956 1457 1954 1630 1958 1723 1950"
-                                                HPOS="451" VPOS="1924" WIDTH="1272" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="451 1924 1723 1924 1723 1964 451 1964"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Il réunit les matériaux d’un ouvrage sur l’atmosphère et demande l’au¬"
-                                                  HPOS="451" VPOS="1924" WIDTH="1272" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT176"
-                                                BASELINE="411 1996 577 1997 631 1998 783 1997 827 1998 1107 1998 1176 2000 1338 1999 1408 2000 1555 2001 1625 2002 1724 1995"
-                                                HPOS="411" VPOS="1969" WIDTH="1313" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="411 1969 1724 1969 1724 2009 411 2009"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="torisation de recevoir la communication des relations qui traitent des prin¬"
-                                                  HPOS="411" VPOS="1969" WIDTH="1313" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT176"
-                                                BASELINE="411 2041 525 2042 749 2042 1032 2043 1191 2043 1282 2044 1338 2044 1487 2046 1724 2048"
-                                                HPOS="411" VPOS="2013" WIDTH="1313" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="411 2013 1724 2013 1724 2054 411 2054"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="cipaux phénomènes atmosphériques observés dans les voyages scientifiques."
-                                                  HPOS="411" VPOS="2013" WIDTH="1313" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_30" TAGREFS="LT176"
-                                                BASELINE="259 2118 282 2118 699 2118 940 2126 996 2118 1165 2118 1370 2127 1440 2119 1483 2121 1654 2122 1729 2111"
-                                                HPOS="259" VPOS="2079" WIDTH="1470" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="259 2079 1729 2079 1729 2133 259 2133"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88100 FLAUBERT (Gustave), le célèbre écrivain, né à Rouen. —"
-                                                  HPOS="259" VPOS="2079" WIDTH="1470" HEIGHT="54"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_31" TAGREFS="LT176"
-                                                BASELINE="487 2173 606 2174 703 2174 790 2174 833 2174 925 2173 1069 2181 1109 2173 1162 2175 1302 2175 1651 2177 1727 2174"
-                                                HPOS="487" VPOS="2135" WIDTH="1240" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="487 2135 1727 2135 1727 2187 487 2187"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Billet aut. sig. à une dame, 1 p. in-16. 10 »"
-                                                  HPOS="487" VPOS="2135" WIDTH="1240" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_32" TAGREFS="LT176"
-                                                BASELINE="258 2249 281 2249 553 2248 593 2248 957 2256 1193 2249 1277 2249 1476 2258 1583 2251 1727 2241"
-                                                HPOS="258" VPOS="2204" WIDTH="1469" HEIGHT="59">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="258 2204 1727 2204 1727 2263 258 2263"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88101 FOREY (Élie-Frédéric), maréchal de France, qui com¬"
-                                                  HPOS="258" VPOS="2204" WIDTH="1469" HEIGHT="59"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_33" TAGREFS="LT176"
-                                                BASELINE="486 2304 633 2305 700 2304 868 2305 926 2305 993 2304 1140 2312 1261 2304 1400 2304 1544 2306 1612 2306 1728 2296"
-                                                HPOS="486" VPOS="2266" WIDTH="1242" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="486 2266 1728 2266 1728 2317 486 2317"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="manda en Crimée et en Italie, ainsi qu’au début de l’ex¬"
-                                                  HPOS="486" VPOS="2266" WIDTH="1242" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_34" TAGREFS="LT176"
-                                                BASELINE="484 2372 663 2360 733 2360 943 2367 1010 2359 1049 2359 1185 2361 1256 2349 1310 2360 1364 2360 1411 2361 1455 2360 1520 2362 1724 2369"
-                                                HPOS="484" VPOS="2321" WIDTH="1240" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="484 2321 1724 2321 1724 2375 484 2375"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="pédition du Mexique, né à Paris. — L. a. s. à M. Thierry;"
-                                                  HPOS="484" VPOS="2321" WIDTH="1240" HEIGHT="54"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_35" TAGREFS="LT176"
-                                                BASELINE="486 2416 634 2416 899 2423 966 2415 1128 2414 1256 2422 1302 2426 1356 2416 1489 2418 1646 2417 1724 2414"
-                                                HPOS="486" VPOS="2377" WIDTH="1238" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="486 2377 1724 2377 1724 2430 486 2430"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="devant Sébastopol, 11 février 1855, 4 p. in-8°. 20 »"
-                                                  HPOS="486" VPOS="2377" WIDTH="1238" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_36" TAGREFS="LT176"
-                                                BASELINE="454 2474 665 2474 774 2473 868 2473 1016 2472 1052 2471 1099 2472 1215 2471 1327 2471 1385 2471 1446 2472 1572 2473 1726 2466"
-                                                HPOS="454" VPOS="2441" WIDTH="1272" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="454 2441 1726 2441 1726 2482 454 2482"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Intéressante lettre dans laquelle il se plaint qu’on lui ait enlevé brutale¬"
-                                                  HPOS="454" VPOS="2441" WIDTH="1272" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_37" TAGREFS="LT176"
-                                                BASELINE="413 2517 500 2518 543 2518 833 2518 893 2517 998 2517 1052 2517 1148 2517 1242 2516 1283 2516 1418 2517 1473 2518 1613 2517 1726 2511"
-                                                HPOS="413" VPOS="2486" WIDTH="1313" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="413 2486 1726 2486 1726 2526 413 2526"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="ment le commandement du corps de siège pour le donner au général Pélis¬"
-                                                  HPOS="413" VPOS="2486" WIDTH="1313" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_38" TAGREFS="LT176"
-                                                BASELINE="412 2563 486 2570 519 2562 551 2562 688 2563 735 2562 916 2562 948 2562 1155 2560 1200 2560 1233 2560 1359 2560 1400 2560 1560 2562"
-                                                HPOS="412" VPOS="2530" WIDTH="1149" HEIGHT="43">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="412 2530 1561 2530 1561 2573 412 2573"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="sier; il a adressé sa démission à l’Empereur et il attend la décision."
-                                                  HPOS="412" VPOS="2530" WIDTH="1149" HEIGHT="43"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_39" TAGREFS="LT176"
-                                                BASELINE="257 2640 281 2640 593 2638 937 2638 1009 2627 1045 2646 1073 2636 1087 2637 1140 2638 1209 2643 1408 2644 1592 2644 1728 2627"
-                                                HPOS="257" VPOS="2595" WIDTH="1471" HEIGHT="58">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="257 2595 1728 2595 1728 2653 257 2653"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="88102 FOREY (Élie-Frédéric). —- 3 l. a. s.; Orizaba, Mexico, 1862-"
-                                                  HPOS="257" VPOS="2595" WIDTH="1471" HEIGHT="58"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_40" TAGREFS="LT176"
-                                                BASELINE="491 2695 600 2702 646 2694 704 2695 838 2694 1647 2703 1726 2690"
-                                                HPOS="491" VPOS="2657" WIDTH="1235" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="491 2657 1726 2657 1726 2709 491 2709"/>
-                                                </Shape>
-                                                <String CONTENT="1863, 8 p. in-8°. 25 »" HPOS="491"
-                                                  VPOS="2657" WIDTH="1235" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_41" TAGREFS="LT176"
-                                                BASELINE="458 2751 579 2752 648 2751 707 2752 860 2751 1105 2750 1140 2749 1309 2750 1363 2750 1508 2757 1579 2750 1642 2750 1727 2742"
-                                                HPOS="458" VPOS="2718" WIDTH="1269" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="458 2718 1727 2718 1727 2760 458 2760"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Détails sur les mesures préparatoires à l’attaque de Puebla, qui est l’af¬"
-                                                  HPOS="458" VPOS="2718" WIDTH="1269" HEIGHT="42"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="242" VPOS="405" WIDTH="1496" HEIGHT="242"
-                                        ID="eSc_textblock_ec805056" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon POINTS="244 405 242 639 1738 647 1735 417"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="248" VPOS="655" WIDTH="1484" HEIGHT="132"
-                                        ID="eSc_textblock_f7c83e49" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon POINTS="248 655 248 772 1732 787 1732 655"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="245" VPOS="785" WIDTH="1490" HEIGHT="274"
-                                        ID="eSc_textblock_1b0f98b5" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="1731 1059 1735 798 245 785 245 1055"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="249" VPOS="1067" WIDTH="1492" HEIGHT="322"
-                                        ID="eSc_textblock_8abb5c05" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="249 1067 255 1383 1733 1389 1741 1080"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="247" VPOS="1402" WIDTH="1486" HEIGHT="324"
-                                        ID="eSc_textblock_49e79bfb" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="247 1402 248 1726 1733 1722 1733 1402"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="252" VPOS="1743" WIDTH="1480" HEIGHT="312"
-                                        ID="eSc_textblock_d530c4fa" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="258 1743 252 2047 1732 2055 1732 1754"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="253" VPOS="2077" WIDTH="1482" HEIGHT="114"
-                                        ID="eSc_textblock_2b361ef5" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="253 2077 267 2191 1735 2186 1730 2082"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="249" VPOS="2211" WIDTH="1473" HEIGHT="366"
-                                        ID="eSc_textblock_b70bbfc0" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="249 2212 251 2577 1722 2566 1722 2211"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="243" VPOS="2597" WIDTH="1487" HEIGHT="162"
-                                        ID="eSc_textblock_f0fbb443" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="243 2597 249 2754 1730 2759 1730 2600"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-     
-                        </PrintSpace>
-                </Page>
-        </Layout>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1919_04_LAD_N507_9.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="1931" HEIGHT="3064" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1931" HEIGHT="3064"><TextBlock HPOS="879" VPOS="305" WIDTH="197" HEIGHT="55" ID="eSc_textblock_14b9deb8" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="1076 358 1076 305 879 305 879 360"/>
+                                        </Shape><TextLine ID="line_1558301997824_2965" TAGREFS="LT1" BASELINE="886 344 1062 345" HPOS="886" VPOS="299" WIDTH="176" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="886 299 1062 300 1062 350 886 349"/>
+                                                </Shape><String CONTENT="— 9  —" HPOS="886" VPOS="299" WIDTH="176" HEIGHT="51"/></TextLine></TextBlock><TextBlock HPOS="227" VPOS="387" WIDTH="1524" HEIGHT="2424" ID="eSc_textblock_57b890ec" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="228 387 227 2809 1751 2811 1749 397"/>
+                                        </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="249 457 273 457 539 457 908 468 1087 461 1344 469 1435 461 1642 464 1713 464" HPOS="249" VPOS="414" WIDTH="1464" HEIGHT="60"><Shape>
+                                                  <Polygon POINTS="249 414 1713 414 1713 474 249 474"/>
+                                                </Shape><String CONTENT="88094 EBLÉ (Jean-Baptiste), général d’artillerie, qui s’illustra au" HPOS="249" VPOS="414" WIDTH="1464" HEIGHT="60"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="478 525 643 514 721 514 790 515 1018 524 1099 516 1153 517 1417 516 1496 517 1714 519" HPOS="478" VPOS="478" WIDTH="1236" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="478 478 1714 478 1714 528 478 528"/>
+                                                </Shape><String CONTENT="passage de la Bérésina, né à Saint-Jean de Rorbach" HPOS="478" VPOS="478" WIDTH="1236" HEIGHT="50"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="483 579 681 570 760 559 825 573 887 572 944 572 1025 571 1227 572 1300 572 1364 572 1542 581 1712 582" HPOS="483" VPOS="532" WIDTH="1229" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="483 532 1712 532 1712 585 483 585"/>
+                                                </Shape><String CONTENT="(Moselle). -— L. a. s. au ministre de la guerre; Douai," HPOS="483" VPOS="532" WIDTH="1229" HEIGHT="53"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="480 623 502 623 737 625 806 625 864 626 916 638 944 638 999 628 1060 626 1121 615 1130 628 1659 625 1714 627" HPOS="480" VPOS="588" WIDTH="1234" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="480 588 1714 588 1714 640 480 640"/>
+                                                </Shape><String CONTENT="8 thermidor an X, 1/2 p. in-4°. 10. »" HPOS="480" VPOS="588" WIDTH="1234" HEIGHT="52"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="254 699 278 699 604 701 817 703 921 711 982 703 1157 704 1391 705 1637 707 1717 696" HPOS="254" VPOS="663" WIDTH="1463" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="254 663 1717 663 1717 716 254 716"/>
+                                                </Shape><String CONTENT="88095 EDISON (Thomas A.), le célèbre inventeur américain. —" HPOS="254" VPOS="663" WIDTH="1463" HEIGHT="53"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="481 756 532 757 745 757 839 759 923 758 1012 758 1133 758 1195 759 1336 767 1373 760 1424 761 1560 763 1637 772 1716 759" HPOS="481" VPOS="720" WIDTH="1235" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="481 720 1716 720 1716 773 481 773"/>
+                                                </Shape><String CONTENT="Sa signature aut. sur une carte de visite, 1 p. in-32. 5 »" HPOS="481" VPOS="720" WIDTH="1235" HEIGHT="53"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="255 833 278 833 601 834 845 843 1082 843 1380 837 1450 837 1511 839 1625 839 1717 839" HPOS="255" VPOS="795" WIDTH="1462" HEIGHT="56"><Shape>
+                                                  <Polygon POINTS="255 795 1717 795 1717 851 255 851"/>
+                                                </Shape><String CONTENT="88096 EIFFEL (Gustave), ingénieur, constructeur de la tour qui" HPOS="255" VPOS="795" WIDTH="1462" HEIGHT="56"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="479 901 594 889 691 889 825 898 905 891 956 891 1104 891 1387 893 1466 882 1536 895 1601 895 1660 896 1717 895" HPOS="479" VPOS="854" WIDTH="1238" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="479 854 1717 854 1717 905 479 905"/>
+                                                </Shape><String CONTENT="porte son nom, né à Dijon (Côte-d’Or). -— L. a. s. à" HPOS="479" VPOS="854" WIDTH="1238" HEIGHT="51"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="482 944 521 944 557 932 867 954 934 946 1050 947 1179 955 1224 958 1278 948 1420 949 1640 950 1717 947" HPOS="482" VPOS="908" WIDTH="1235" HEIGHT="53"><Shape>
+                                                        <Polygon POINTS="482 908 1717 908 1717 961 482 961"/>
+                                                </Shape><String CONTENT="Mme Desgenetais; 21 août 1887, 4 p. in-16. 10 »" HPOS="482" VPOS="908" WIDTH="1235" HEIGHT="53"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="448 1000 475 1001 574 1002 626 1002 674 1002 778 1003 824 1002 893 1003 1044 1004 1095 1004 1138 1004 1234 1011 1302 1004 1477 1006 1511 1006 1558 1006 1715 999" HPOS="448" VPOS="972" WIDTH="1267" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="448 972 1715 972 1715 1013 448 1013"/>
+                                                </Shape><String CONTENT="Il parle de sa santé et des travaux de la tour, qui marchent à sa satisfac¬" HPOS="448" VPOS="972" WIDTH="1267" HEIGHT="41"/></TextLine><TextLine ID="line_1558301958138_2946" TAGREFS="LT1" BASELINE="405 1044 484 1046" HPOS="405" VPOS="1013" WIDTH="79" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="405 1013 484 1015 484 1051 405 1049"/>
+                                                </Shape><String CONTENT="tion." HPOS="405" VPOS="1013" WIDTH="79" HEIGHT="38"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="254 1115 277 1115 649 1115 867 1117 921 1119 1011 1117 1472 1120 1567 1121 1719 1110" HPOS="254" VPOS="1072" WIDTH="1465" HEIGHT="60"><Shape>
+                                                  <Polygon POINTS="254 1072 1719 1072 1719 1132 254 1132"/>
+                                                </Shape><String CONTENT="88097 EUGÉNIE (Eugénie de Montijo), impératrice des Fran¬" HPOS="254" VPOS="1072" WIDTH="1465" HEIGHT="60"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="483 1182 573 1179 743 1172 815 1173 1045 1173 1144 1175 1223 1164 1286 1176 1348 1175 1402 1175 1497 1175 1720 1176" HPOS="483" VPOS="1136" WIDTH="1237" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="483 1136 1720 1136 1720 1187 483 1187"/>
+                                                </Shape><String CONTENT="çais, épouse de Napoléon III. — L. a. s. (au maréchal" HPOS="483" VPOS="1136" WIDTH="1237" HEIGHT="51"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="482 1226 668 1238 688 1234 736 1228 809 1235 851 1229 906 1229 1038 1236 1194 1229 1236 1229 1323 1229 1487 1231 1640 1241 1720 1228" HPOS="482" VPOS="1191" WIDTH="1239" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="482 1191 1721 1191 1721 1243 482 1243"/>
+                                                </Shape><String CONTENT="Bazaine) ; s. d., 2 p. in-8°, papier à son chiffre. 75 »" HPOS="482" VPOS="1191" WIDTH="1239" HEIGHT="52"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="447 1283 515 1284 558 1284 640 1284 694 1284 860 1286 895 1285 940 1285 1132 1285 1191 1286 1300 1286 1377 1287 1420 1286 1572 1287 1631 1288 1717 1279" HPOS="447" VPOS="1255" WIDTH="1270" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="447 1255 1717 1255 1717 1295 447 1295"/>
+                                                </Shape><String CONTENT="Elle le prie de remettre à la maréchale un écran que le courrier lui por¬" HPOS="447" VPOS="1255" WIDTH="1270" HEIGHT="40"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="377 1340 388 1319 477 1327 527 1327 584 1328 633 1328 733 1328 796 1319 835 1330 965 1330 1021 1330 1185 1329 1304 1331 1392 1331 1438 1331 1523 1333 1717 1333" HPOS="377" VPOS="1296" WIDTH="1340" HEIGHT="48"><Shape>
+                                                  <Polygon POINTS="377 1296 1717 1296 1717 1344 377 1344"/>
+                                                </Shape><String CONTENT="tera et de la prier de le garder en souvenir d’elle. Elle le prie également" HPOS="377" VPOS="1296" WIDTH="1340" HEIGHT="48"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="409 1371 548 1372 610 1372 827 1374 874 1374 1003 1374 1056 1374 1127 1374 1302 1376" HPOS="409" VPOS="1343" WIDTH="893" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="409 1343 1302 1343 1302 1383 409 1383"/>
+                                                </Shape><String CONTENT="d’agréer ses félicitations (à propos de son mariage)." HPOS="409" VPOS="1343" WIDTH="893" HEIGHT="40"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="257 1447 280 1447 678 1447 898 1456 1074 1448 1315 1449 1378 1450 1544 1451 1724 1441" HPOS="257" VPOS="1410" WIDTH="1467" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="257 1410 1724 1410 1724 1462 257 1462"/>
+                                                </Shape><String CONTENT="88098 FEUILLET (Octave), célèbre romancier et auteur drama¬" HPOS="257" VPOS="1410" WIDTH="1467" HEIGHT="52"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="485 1501 607 1509 811 1502 886 1503 1151 1504 1381 1511 1459 1504 1508 1505 1724 1506" HPOS="485" VPOS="1466" WIDTH="1239" HEIGHT="49"><Shape>
+                                                  <Polygon POINTS="485 1466 1724 1466 1724 1515 485 1515"/>
+                                                </Shape><String CONTENT="tique, membre de l’Académie française, né à Saint-Lô" HPOS="485" VPOS="1466" WIDTH="1239" HEIGHT="49"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="489 1567 696 1556 784 1545 858 1558 929 1558 1016 1564 1076 1557 1160 1559 1485 1567 1722 1568" HPOS="489" VPOS="1520" WIDTH="1234" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="489 1520 1723 1520 1723 1570 489 1570"/>
+                                                </Shape><String CONTENT="(Manche). -— L. a. s.; à M. Blanchereau; Saint-Lô," HPOS="489" VPOS="1520" WIDTH="1234" HEIGHT="50"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="486 1609 533 1610 635 1609 763 1617 805 1621 860 1612 991 1613 1648 1615 1724 1613" HPOS="486" VPOS="1574" WIDTH="1238" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="486 1574 1724 1574 1724 1625 486 1625"/>
+                                                </Shape><String CONTENT="28 juin 1855, 3 p. in-8°. 20 »" HPOS="486" VPOS="1574" WIDTH="1238" HEIGHT="51"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="451 1666 535 1667 647 1667 745 1667 898 1669 938 1667 1001 1668 1143 1669 1226 1669 1423 1668 1519 1669 1683 1671 1723 1671" HPOS="451" VPOS="1637" WIDTH="1272" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="451 1637 1723 1637 1723 1678 451 1678"/>
+                                                </Shape><String CONTENT="Belle lettre dans laquelle il lui déclare très nettement qu’il s’oppose à" HPOS="451" VPOS="1637" WIDTH="1272" HEIGHT="41"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="408 1709 438 1709 702 1711 736 1710 903 1713 956 1713 1006 1712 1040 1720 1206 1714 1257 1714 1302 1713 1463 1714" HPOS="408" VPOS="1683" WIDTH="1055" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="408 1683 1463 1683 1463 1721 408 1721"/>
+                                                </Shape><String CONTENT="la représentation à Saint-Lô de sa pièce Péril en la demeure." HPOS="408" VPOS="1683" WIDTH="1055" HEIGHT="38"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="256 1786 280 1786 767 1786 995 1794 1254 1796 1417 1788 1484 1789 1724 1790" HPOS="256" VPOS="1748" WIDTH="1468" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="256 1748 1724 1748 1724 1800 256 1800"/>
+                                                </Shape><String CONTENT="88099 FLAMMARION (Camille), astronome, auteur de nombreux" HPOS="256" VPOS="1748" WIDTH="1468" HEIGHT="52"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="484 1840 600 1841 673 1841 992 1843 1071 1832 1134 1844 1194 1844 1250 1844 1271 1850 1419 1851 1494 1856 1724 1845" HPOS="484" VPOS="1804" WIDTH="1240" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="484 1804 1724 1804 1724 1856 484 1856"/>
+                                                </Shape><String CONTENT="livres de vulgarisation. —- L. a. s. ; Paris, 17 décembre" HPOS="484" VPOS="1804" WIDTH="1240" HEIGHT="52"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="487 1896 596 1904 648 1896 716 1897 789 1895 849 1885 858 1898 1644 1910 1723 1898" HPOS="487" VPOS="1859" WIDTH="1237" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="487 1859 1724 1859 1724 1911 487 1911"/>
+                                                </Shape><String CONTENT="1868, 1 p. in-4°. 5 »" HPOS="487" VPOS="1859" WIDTH="1237" HEIGHT="52"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="451 1952 477 1953 598 1953 659 1954 853 1954 946 1954 1101 1954 1170 1955 1409 1956 1457 1954 1630 1958 1723 1950" HPOS="451" VPOS="1924" WIDTH="1272" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="451 1924 1723 1924 1723 1964 451 1964"/>
+                                                </Shape><String CONTENT="Il réunit les matériaux d’un ouvrage sur l’atmosphère et demande l’au¬" HPOS="451" VPOS="1924" WIDTH="1272" HEIGHT="40"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="411 1996 577 1997 631 1998 783 1997 827 1998 1107 1998 1176 2000 1338 1999 1408 2000 1555 2001 1625 2002 1724 1995" HPOS="411" VPOS="1969" WIDTH="1313" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="411 1969 1724 1969 1724 2009 411 2009"/>
+                                                </Shape><String CONTENT="torisation de recevoir la communication des relations qui traitent des prin¬" HPOS="411" VPOS="1969" WIDTH="1313" HEIGHT="40"/></TextLine><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="411 2041 525 2042 749 2042 1032 2043 1191 2043 1282 2044 1338 2044 1487 2046 1724 2048" HPOS="411" VPOS="2013" WIDTH="1313" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="411 2013 1724 2013 1724 2054 411 2054"/>
+                                                </Shape><String CONTENT="cipaux phénomènes atmosphériques observés dans les voyages scientifiques." HPOS="411" VPOS="2013" WIDTH="1313" HEIGHT="41"/></TextLine><TextLine ID="tl_30" TAGREFS="LT1" BASELINE="259 2118 282 2118 699 2118 940 2126 996 2118 1165 2118 1370 2127 1440 2119 1483 2121 1654 2122 1729 2111" HPOS="259" VPOS="2079" WIDTH="1470" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="259 2079 1729 2079 1729 2133 259 2133"/>
+                                                </Shape><String CONTENT="88100 FLAUBERT (Gustave), le célèbre écrivain, né à Rouen. —" HPOS="259" VPOS="2079" WIDTH="1470" HEIGHT="54"/></TextLine><TextLine ID="tl_31" TAGREFS="LT1" BASELINE="487 2173 606 2174 703 2174 790 2174 833 2174 925 2173 1069 2181 1109 2173 1162 2175 1302 2175 1651 2177 1727 2174" HPOS="487" VPOS="2135" WIDTH="1240" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="487 2135 1727 2135 1727 2187 487 2187"/>
+                                                </Shape><String CONTENT="Billet aut. sig. à une dame, 1 p. in-16. 10 »" HPOS="487" VPOS="2135" WIDTH="1240" HEIGHT="52"/></TextLine><TextLine ID="tl_32" TAGREFS="LT1" BASELINE="258 2249 281 2249 553 2248 593 2248 957 2256 1193 2249 1277 2249 1476 2258 1583 2251 1727 2241" HPOS="258" VPOS="2204" WIDTH="1469" HEIGHT="59"><Shape>
+                                                  <Polygon POINTS="258 2204 1727 2204 1727 2263 258 2263"/>
+                                                </Shape><String CONTENT="88101 FOREY (Élie-Frédéric), maréchal de France, qui com¬" HPOS="258" VPOS="2204" WIDTH="1469" HEIGHT="59"/></TextLine><TextLine ID="tl_33" TAGREFS="LT1" BASELINE="486 2304 633 2305 700 2304 868 2305 926 2305 993 2304 1140 2312 1261 2304 1400 2304 1544 2306 1612 2306 1728 2296" HPOS="486" VPOS="2266" WIDTH="1242" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="486 2266 1728 2266 1728 2317 486 2317"/>
+                                                </Shape><String CONTENT="manda en Crimée et en Italie, ainsi qu’au début de l’ex¬" HPOS="486" VPOS="2266" WIDTH="1242" HEIGHT="51"/></TextLine><TextLine ID="tl_34" TAGREFS="LT1" BASELINE="484 2372 663 2360 733 2360 943 2367 1010 2359 1049 2359 1185 2361 1256 2349 1310 2360 1364 2360 1411 2361 1455 2360 1520 2362 1724 2369" HPOS="484" VPOS="2321" WIDTH="1240" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="484 2321 1724 2321 1724 2375 484 2375"/>
+                                                </Shape><String CONTENT="pédition du Mexique, né à Paris. — L. a. s. à M. Thierry;" HPOS="484" VPOS="2321" WIDTH="1240" HEIGHT="54"/></TextLine><TextLine ID="tl_35" TAGREFS="LT1" BASELINE="486 2416 634 2416 899 2423 966 2415 1128 2414 1256 2422 1302 2426 1356 2416 1489 2418 1646 2417 1724 2414" HPOS="486" VPOS="2377" WIDTH="1238" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="486 2377 1724 2377 1724 2430 486 2430"/>
+                                                </Shape><String CONTENT="devant Sébastopol, 11 février 1855, 4 p. in-8°. 20 »" HPOS="486" VPOS="2377" WIDTH="1238" HEIGHT="53"/></TextLine><TextLine ID="tl_36" TAGREFS="LT1" BASELINE="454 2474 665 2474 774 2473 868 2473 1016 2472 1052 2471 1099 2472 1215 2471 1327 2471 1385 2471 1446 2472 1572 2473 1726 2466" HPOS="454" VPOS="2441" WIDTH="1272" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="454 2441 1726 2441 1726 2482 454 2482"/>
+                                                </Shape><String CONTENT="Intéressante lettre dans laquelle il se plaint qu’on lui ait enlevé brutale¬" HPOS="454" VPOS="2441" WIDTH="1272" HEIGHT="41"/></TextLine><TextLine ID="tl_37" TAGREFS="LT1" BASELINE="413 2517 500 2518 543 2518 833 2518 893 2517 998 2517 1052 2517 1148 2517 1242 2516 1283 2516 1418 2517 1473 2518 1613 2517 1726 2511" HPOS="413" VPOS="2486" WIDTH="1313" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="413 2486 1726 2486 1726 2526 413 2526"/>
+                                                </Shape><String CONTENT="ment le commandement du corps de siège pour le donner au général Pélis¬" HPOS="413" VPOS="2486" WIDTH="1313" HEIGHT="40"/></TextLine><TextLine ID="tl_38" TAGREFS="LT1" BASELINE="412 2563 486 2570 519 2562 551 2562 688 2563 735 2562 916 2562 948 2562 1155 2560 1200 2560 1233 2560 1359 2560 1400 2560 1560 2562" HPOS="412" VPOS="2530" WIDTH="1149" HEIGHT="43"><Shape>
+                                                  <Polygon POINTS="412 2530 1561 2530 1561 2573 412 2573"/>
+                                                </Shape><String CONTENT="sier; il a adressé sa démission à l’Empereur et il attend la décision." HPOS="412" VPOS="2530" WIDTH="1149" HEIGHT="43"/></TextLine><TextLine ID="tl_39" TAGREFS="LT1" BASELINE="257 2640 281 2640 593 2638 937 2638 1009 2627 1045 2646 1073 2636 1087 2637 1140 2638 1209 2643 1408 2644 1592 2644 1728 2627" HPOS="257" VPOS="2595" WIDTH="1471" HEIGHT="58"><Shape>
+                                                  <Polygon POINTS="257 2595 1728 2595 1728 2653 257 2653"/>
+                                                </Shape><String CONTENT="88102 FOREY (Élie-Frédéric). —- 3 l. a. s.; Orizaba, Mexico, 1862-" HPOS="257" VPOS="2595" WIDTH="1471" HEIGHT="58"/></TextLine><TextLine ID="tl_40" TAGREFS="LT1" BASELINE="491 2695 600 2702 646 2694 704 2695 838 2694 1647 2703 1726 2690" HPOS="491" VPOS="2657" WIDTH="1235" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="491 2657 1726 2657 1726 2709 491 2709"/>
+                                                </Shape><String CONTENT="1863, 8 p. in-8°. 25 »" HPOS="491" VPOS="2657" WIDTH="1235" HEIGHT="52"/></TextLine><TextLine ID="tl_41" TAGREFS="LT1" BASELINE="458 2751 579 2752 648 2751 707 2752 860 2751 1105 2750 1140 2749 1309 2750 1363 2750 1508 2757 1579 2750 1642 2750 1727 2742" HPOS="458" VPOS="2718" WIDTH="1269" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="458 2718 1727 2718 1727 2760 458 2760"/>
+                                                </Shape><String CONTENT="Détails sur les mesures préparatoires à l’attaque de Puebla, qui est l’af¬" HPOS="458" VPOS="2718" WIDTH="1269" HEIGHT="42"/></TextLine></TextBlock><TextBlock HPOS="242" VPOS="405" WIDTH="1496" HEIGHT="242" ID="eSc_textblock_ec805056" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="244 405 242 639 1738 647 1735 417"/>
+                                        </Shape></TextBlock><TextBlock HPOS="248" VPOS="655" WIDTH="1484" HEIGHT="132" ID="eSc_textblock_f7c83e49" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="248 655 248 772 1732 787 1732 655"/>
+                                        </Shape></TextBlock><TextBlock HPOS="245" VPOS="785" WIDTH="1490" HEIGHT="274" ID="eSc_textblock_1b0f98b5" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="1731 1059 1735 798 245 785 245 1055"/>
+                                        </Shape></TextBlock><TextBlock HPOS="249" VPOS="1067" WIDTH="1492" HEIGHT="322" ID="eSc_textblock_8abb5c05" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="249 1067 255 1383 1733 1389 1741 1080"/>
+                                        </Shape></TextBlock><TextBlock HPOS="247" VPOS="1402" WIDTH="1486" HEIGHT="324" ID="eSc_textblock_49e79bfb" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="247 1402 248 1726 1733 1722 1733 1402"/>
+                                        </Shape></TextBlock><TextBlock HPOS="252" VPOS="1743" WIDTH="1480" HEIGHT="312" ID="eSc_textblock_d530c4fa" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="258 1743 252 2047 1732 2055 1732 1754"/>
+                                        </Shape></TextBlock><TextBlock HPOS="253" VPOS="2077" WIDTH="1482" HEIGHT="114" ID="eSc_textblock_2b361ef5" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="253 2077 267 2191 1735 2186 1730 2082"/>
+                                        </Shape></TextBlock><TextBlock HPOS="249" VPOS="2211" WIDTH="1473" HEIGHT="366" ID="eSc_textblock_b70bbfc0" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="249 2212 251 2577 1722 2566 1722 2211"/>
+                                        </Shape></TextBlock><TextBlock HPOS="243" VPOS="2597" WIDTH="1487" HEIGHT="162" ID="eSc_textblock_f0fbb443" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="243 2597 249 2754 1730 2759 1730 2600"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

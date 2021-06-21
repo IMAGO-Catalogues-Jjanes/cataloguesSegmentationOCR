@@ -1,478 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>Cat_SaoPaulo_1972_typo_0004.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT486" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT487" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT489" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT490" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT491" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT492" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT493" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT494" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="LT175" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="3548" HEIGHT="4609" PHYSICAL_IMG_NR="38" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="3548" HEIGHT="4609">
-
-                                <TextBlock HPOS="2840" VPOS="4109" WIDTH="80" HEIGHT="59" ID="r_9_1"
-                                        TAGREFS="BT491">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="2840 4109 2920 4109 2920 4168 2840 4168"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_31" TAGREFS="LT175"
-                                                BASELINE="2841 4167 2919 4165" HPOS="2841"
-                                                VPOS="4110" WIDTH="78" HEIGHT="57">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="2841 4110 2919 4110 2919 4167 2841 4167"/>
-                                                </Shape>
-                                                <String CONTENT="55" HPOS="2841" VPOS="4110"
-                                                  WIDTH="78" HEIGHT="57"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="575" VPOS="445" WIDTH="2407" HEIGHT="3588"
-                                        ID="eSc_textblock_e60be05e" TAGREFS="BT487">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="575 445 575 4033 2982 4033 2982 445"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT175"
-                                                BASELINE="609 512 997 516 1290 516 1532 519 1752 521 1870 511 2220 536 2339 514 2554 529"
-                                                HPOS="609" VPOS="459" WIDTH="1945" HEIGHT="81">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="609 459 2554 459 2554 540 609 540"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="RICCETTI, Habuba Farah (1931 — Getulina) — bp-72"
-                                                  HPOS="609" VPOS="459" WIDTH="1945" HEIGHT="81"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT175"
-                                                BASELINE="605 692 657 692 1219 697 1924 681 2086 715 2217 716 2523 706 2953 709"
-                                                HPOS="605" VPOS="641" WIDTH="2348" HEIGHT="78">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="605 641 2953 641 2953 719 605 719"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Abstracionismo Geométrico-Lírico, n.° 100, 72, 1,30x90. 15.000,00"
-                                                  HPOS="605" VPOS="641" WIDTH="2348" HEIGHT="78"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT175"
-                                                BASELINE="604 790 656 790 1211 795 1909 778 2070 812 2191 812 2354 804 2428 804 2532 805 2952 808"
-                                                HPOS="604" VPOS="738" WIDTH="2348" HEIGHT="78">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="604 738 2952 738 2952 816 604 816"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Abstracionismo Geométrico-Lírico, n.° 103, 72, 1,30x90 15.000,00"
-                                                  HPOS="604" VPOS="738" WIDTH="2348" HEIGHT="78"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT175"
-                                                BASELINE="599 885 652 885 1206 889 1903 871 2064 906 2188 906 2350 898 2421 898 2526 897 2946 902"
-                                                HPOS="599" VPOS="834" WIDTH="2347" HEIGHT="75">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="599 834 2946 834 2946 909 599 909"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Abstracionismo Geométrico-Lírico, n.° 104, 72, 1,30x90 15.000,00"
-                                                  HPOS="599" VPOS="834" WIDTH="2347" HEIGHT="75"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT175"
-                                                BASELINE="605 1127 886 1128 1110 1128 1229 1117 1323 1129 1579 1141 1700 1121 1916 1135"
-                                                HPOS="605" VPOS="1076" WIDTH="1311" HEIGHT="67">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="605 1076 1916 1076 1916 1143 605 1143"/>
-                                                </Shape>
-                                                <String CONTENT="RIMOLI (1941 — S. Paulo) — bp-72"
-                                                  HPOS="605" VPOS="1076" WIDTH="1311" HEIGHT="67"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT175"
-                                                BASELINE="601 1307 709 1285 796 1317 869 1308 1158 1307 2950 1314"
-                                                HPOS="601" VPOS="1254" WIDTH="2366" HEIGHT="72">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="601 1254 2967 1259 2967 1326 601 1321"/>
-                                                </Shape>
-                                                <String CONTENT="N.° 1, 72, papel. 2.000,00"
-                                                  HPOS="601" VPOS="1254" WIDTH="2366" HEIGHT="72"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT175"
-                                                BASELINE="600 1400 706 1379 791 1412 863 1403 1153 1401 2950 1408"
-                                                HPOS="600" VPOS="1348" WIDTH="2367" HEIGHT="67">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="600 1348 2967 1348 2967 1415 600 1415"/>
-                                                </Shape>
-                                                <String CONTENT="N.° 2, 72, papel. 2.000,00"
-                                                  HPOS="600" VPOS="1348" WIDTH="2367" HEIGHT="67"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT175"
-                                                BASELINE="598 1496 707 1473 810 1507 893 1498 1194 1496 2950 1500"
-                                                HPOS="598" VPOS="1439" WIDTH="2366" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="598 1443 2964 1439 2964 1504 598 1508"/>
-                                                </Shape>
-                                                <String CONTENT="N.° 3, 72, papel. 1.000,00"
-                                                  HPOS="598" VPOS="1439" WIDTH="2366" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT175"
-                                                BASELINE="605 1734 827 1733 1052 1736 1169 1724 1318 1735 1514 1725 1593 1739 1930 1750 2157 1742"
-                                                HPOS="605" VPOS="1682" WIDTH="1553" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="605 1682 2158 1682 2158 1751 605 1751"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="RUDY (1906 — Viena — São Paulo) bp-72"
-                                                  HPOS="605" VPOS="1682" WIDTH="1553" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT175"
-                                                BASELINE="598 1931 657 1931 1017 1932 1255 1919 1318 1933 1382 1933 1620 1933 1843 1935 2254 1935 2325 1943 2432 1938 2503 1938 2605 1940 2943 1937"
-                                                HPOS="598" VPOS="1879" WIDTH="2345" HEIGHT="70">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="598 1879 2943 1879 2943 1949 598 1949"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Mobile giratória — 4 cubos, 1972, montagem, 90x90x75 3.500,00"
-                                                  HPOS="598" VPOS="1879" WIDTH="2345" HEIGHT="70"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT175"
-                                                BASELINE="600 2029 912 2041 1109 2015 1278 2029 1426 2028 1520 2030 1846 2017 1921 2031 2462 2042"
-                                                HPOS="600" VPOS="1975" WIDTH="1862" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="600 1975 2462 1975 2462 2044 600 2044"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Composição — Cubos e Esferas — 1972, montagem,"
-                                                  HPOS="600" VPOS="1975" WIDTH="1862" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT175"
-                                                BASELINE="746 2123 814 2124 889 2124 993 2124 2944 2125"
-                                                HPOS="746" VPOS="2068" WIDTH="2198" HEIGHT="68">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="746 2068 2944 2068 2944 2136 746 2136"/>
-                                                </Shape>
-                                                <String CONTENT="75x75 6.000,00" HPOS="746"
-                                                  VPOS="2068" WIDTH="2198" HEIGHT="68"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT175"
-                                                BASELINE="599 2229 837 2216 1011 2218 1421 2218 1517 2230 1724 2229 1840 2218 1923 2219 2035 2219 2945 2216"
-                                                HPOS="599" VPOS="2161" WIDTH="2346" HEIGHT="72">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="599 2161 2945 2161 2945 2233 599 2233"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Quadro com Movimento 1, 1972, 78x90 2.000,00"
-                                                  HPOS="599" VPOS="2161" WIDTH="2346" HEIGHT="72"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT175"
-                                                BASELINE="599 2323 836 2312 1006 2313 1417 2313 1508 2324 1716 2323 1827 2313 1907 2313 2058 2310 2943 2310"
-                                                HPOS="599" VPOS="2254" WIDTH="2344" HEIGHT="73">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="599 2254 2943 2254 2943 2327 599 2327"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Quadro com Movimento 2, 1972, 80x100 2.000,00"
-                                                  HPOS="599" VPOS="2254" WIDTH="2344" HEIGHT="73"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT175"
-                                                BASELINE="599 2417 836 2406 1006 2407 1414 2406 1505 2417 1707 2416 1858 2405 1937 2405 2046 2407 2943 2403"
-                                                HPOS="599" VPOS="2347" WIDTH="2344" HEIGHT="74">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="599 2347 2943 2347 2943 2421 599 2421"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Quadro com Movimento 3, 1972, 128x75 2.000,00"
-                                                  HPOS="599" VPOS="2347" WIDTH="2344" HEIGHT="74"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT175"
-                                                BASELINE="598 2510 836 2497 1001 2499 1405 2498 1491 2510 1692 2510 1836 2499 1910 2499 2015 2499 2944 2490"
-                                                HPOS="598" VPOS="2437" WIDTH="2346" HEIGHT="77">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="598 2437 2944 2437 2944 2514 598 2514"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Quadro com Movimento 4, 1972, 128x75 2.500,00"
-                                                  HPOS="598" VPOS="2437" WIDTH="2346" HEIGHT="77"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT175"
-                                                BASELINE="601 2730 926 2740 1230 2730 1412 2730 1555 2729 1824 2741 1947 2720 2163 2732 2280 2720"
-                                                HPOS="601" VPOS="2674" WIDTH="1679" HEIGHT="68">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="601 2674 2280 2674 2280 2742 601 2742"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="SANTOS, Geraldo José dos (GÉU) — (1945 —"
-                                                  HPOS="601" VPOS="2674" WIDTH="1679" HEIGHT="68"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT175"
-                                                BASELINE="744 2821 1096 2821 1471 2833 1595 2813 1812 2825"
-                                                HPOS="744" VPOS="2769" WIDTH="1068" HEIGHT="64">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="744 2769 1812 2769 1812 2833 744 2833"/>
-                                                </Shape>
-                                                <String CONTENT="Presidente Prudente) — bp-72"
-                                                  HPOS="744" VPOS="2769" WIDTH="1068" HEIGHT="64"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT175"
-                                                BASELINE="584 3006 645 3006 937 3007 1265 3019 1402 3021 1556 3009 1642 3008 1776 3018 2048 3007 2930 3012"
-                                                HPOS="584" VPOS="2953" WIDTH="2346" HEIGHT="71">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="584 2953 2930 2953 2930 3024 584 3024"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Megalo Mercouri I, 72, 102x73, cartão. 2.000,00"
-                                                  HPOS="584" VPOS="2953" WIDTH="2346" HEIGHT="71"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT175"
-                                                BASELINE="586 3100 647 3100 935 3101 1294 3112 1427 3114 1578 3102 1661 3102 1792 3112 2062 3101 2932 3106"
-                                                HPOS="586" VPOS="3046" WIDTH="2346" HEIGHT="71">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="586 3046 2932 3046 2932 3117 586 3117"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Megalo Mercouri II, 72, 102x73, cartão. 2.000,00"
-                                                  HPOS="586" VPOS="3046" WIDTH="2346" HEIGHT="71"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT175"
-                                                BASELINE="591 3194 653 3194 1176 3194 1243 3195 1454 3207 1603 3195 1683 3195 1811 3205 2078 3193 2936 3199"
-                                                HPOS="591" VPOS="3138" WIDTH="2345" HEIGHT="72">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="591 3138 2936 3138 2936 3210 591 3210"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Megalo Mercouri III, 72, 102x73, cartão. 2.000,00"
-                                                  HPOS="591" VPOS="3138" WIDTH="2345" HEIGHT="72"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT175"
-                                                BASELINE="593 3287 654 3287 940 3288 1318 3299 1450 3300 1599 3288 1680 3287 1808 3298 2076 3286 2937 3292"
-                                                HPOS="593" VPOS="3231" WIDTH="2344" HEIGHT="72">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="593 3231 2937 3231 2937 3303 593 3303"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Megalo Mercouri IV, 72, 102x73, cartão. 2.000,00"
-                                                  HPOS="593" VPOS="3231" WIDTH="2344" HEIGHT="72"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT175"
-                                                BASELINE="592 3381 654 3381 942 3382 1292 3393 1427 3394 1579 3381 1663 3381 1794 3392 2064 3380 2937 3385"
-                                                HPOS="592" VPOS="3324" WIDTH="2345" HEIGHT="73">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="592 3324 2937 3324 2937 3397 592 3397"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Megalo Mercouri V, 72, 102x73, cartão. 2.000,00"
-                                                  HPOS="592" VPOS="3324" WIDTH="2345" HEIGHT="73"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT175"
-                                                BASELINE="593 3623 632 3623 1245 3624 1539 3622 1761 3621 1877 3610 1971 3621 2228 3632 2348 3611 2561 3623"
-                                                HPOS="593" VPOS="3566" WIDTH="1968" HEIGHT="66">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="593 3566 2561 3566 2561 3632 593 3632"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="SCHMIDT, Marcos Rodolfo (1943 — S. Paulo) — bp-72"
-                                                  HPOS="593" VPOS="3566" WIDTH="1968" HEIGHT="66"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT175"
-                                                BASELINE="592 3796 847 3798 940 3807 1073 3807 1189 3798 1271 3797 1403 3795 2933 3797"
-                                                HPOS="592" VPOS="3741" WIDTH="2341" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="592 3741 2933 3741 2933 3810 592 3810"/>
-                                                </Shape>
-                                                <String CONTENT="Rítimos 1, 72, 70x50. 680,00"
-                                                  HPOS="592" VPOS="3741" WIDTH="2341" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT175"
-                                                BASELINE="591 3889 845 3892 940 3902 1072 3900 1187 3891 1270 3890 1402 3888 2932 3889"
-                                                HPOS="591" VPOS="3832" WIDTH="2341" HEIGHT="73">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="591 3832 2932 3832 2932 3905 591 3905"/>
-                                                </Shape>
-                                                <String CONTENT="Rítimos 2, 72, 70x50. 680,00"
-                                                  HPOS="591" VPOS="3832" WIDTH="2341" HEIGHT="73"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_30" TAGREFS="LT175"
-                                                BASELINE="590 3983 845 3985 938 3994 1071 3994 1186 3984 1268 3983 1401 3982 2929 3981"
-                                                HPOS="590" VPOS="3925" WIDTH="2339" HEIGHT="72">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="590 3925 2929 3925 2929 3997 590 3997"/>
-                                                </Shape>
-                                                <String CONTENT="Rítimos 5, 72, 70x50. 680,00"
-                                                  HPOS="590" VPOS="3925" WIDTH="2339" HEIGHT="72"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="588" VPOS="459" WIDTH="2376" HEIGHT="467"
-                                        ID="eSc_textblock_138c87ac" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="588 459 597 926 2964 926 2964 459"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="596" VPOS="1061" WIDTH="2362" HEIGHT="461"
-                                        ID="eSc_textblock_02d77488" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="596 1061 599 1522 2958 1522 2958 1061"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="585" VPOS="1670" WIDTH="2376" HEIGHT="865"
-                                        ID="eSc_textblock_4baae258" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="585 1670 585 2535 2961 2524 2958 1678"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="583" VPOS="2671" WIDTH="2364" HEIGHT="755"
-                                        ID="eSc_textblock_0a84c21e" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="591 2671 583 3426 2947 3412 2947 2671"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="582" VPOS="3548" WIDTH="2379" HEIGHT="452"
-                                        ID="eSc_textblock_e0127012" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="588 3562 582 4000 2961 4000 2961 3548"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_SaoPaulo_1972_typo_0004.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="3548" HEIGHT="4609" PHYSICAL_IMG_NR="38" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="3548" HEIGHT="4609"><TextBlock HPOS="2840" VPOS="4109" WIDTH="80" HEIGHT="59" ID="r_9_1" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="2840 4109 2920 4109 2920 4168 2840 4168"/>
+                                        </Shape><TextLine ID="tl_31" TAGREFS="LT1" BASELINE="2841 4167 2919 4165" HPOS="2841" VPOS="4110" WIDTH="78" HEIGHT="57"><Shape>
+                                                  <Polygon POINTS="2841 4110 2919 4110 2919 4167 2841 4167"/>
+                                                </Shape><String CONTENT="55" HPOS="2841" VPOS="4110" WIDTH="78" HEIGHT="57"/></TextLine></TextBlock><TextBlock HPOS="575" VPOS="445" WIDTH="2407" HEIGHT="3588" ID="eSc_textblock_e60be05e" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="575 445 575 4033 2982 4033 2982 445"/>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="609 512 997 516 1290 516 1532 519 1752 521 1870 511 2220 536 2339 514 2554 529" HPOS="609" VPOS="459" WIDTH="1945" HEIGHT="81"><Shape>
+                                                  <Polygon POINTS="609 459 2554 459 2554 540 609 540"/>
+                                                </Shape><String CONTENT="RICCETTI, Habuba Farah (1931 — Getulina) — bp-72" HPOS="609" VPOS="459" WIDTH="1945" HEIGHT="81"/></TextLine><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="605 692 657 692 1219 697 1924 681 2086 715 2217 716 2523 706 2953 709" HPOS="605" VPOS="641" WIDTH="2348" HEIGHT="78"><Shape>
+                                                  <Polygon POINTS="605 641 2953 641 2953 719 605 719"/>
+                                                </Shape><String CONTENT="Abstracionismo Geométrico-Lírico, n.° 100, 72, 1,30x90. 15.000,00" HPOS="605" VPOS="641" WIDTH="2348" HEIGHT="78"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="604 790 656 790 1211 795 1909 778 2070 812 2191 812 2354 804 2428 804 2532 805 2952 808" HPOS="604" VPOS="738" WIDTH="2348" HEIGHT="78"><Shape>
+                                                  <Polygon POINTS="604 738 2952 738 2952 816 604 816"/>
+                                                </Shape><String CONTENT="Abstracionismo Geométrico-Lírico, n.° 103, 72, 1,30x90 15.000,00" HPOS="604" VPOS="738" WIDTH="2348" HEIGHT="78"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="599 885 652 885 1206 889 1903 871 2064 906 2188 906 2350 898 2421 898 2526 897 2946 902" HPOS="599" VPOS="834" WIDTH="2347" HEIGHT="75"><Shape>
+                                                  <Polygon POINTS="599 834 2946 834 2946 909 599 909"/>
+                                                </Shape><String CONTENT="Abstracionismo Geométrico-Lírico, n.° 104, 72, 1,30x90 15.000,00" HPOS="599" VPOS="834" WIDTH="2347" HEIGHT="75"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="605 1127 886 1128 1110 1128 1229 1117 1323 1129 1579 1141 1700 1121 1916 1135" HPOS="605" VPOS="1076" WIDTH="1311" HEIGHT="67"><Shape>
+                                                  <Polygon POINTS="605 1076 1916 1076 1916 1143 605 1143"/>
+                                                </Shape><String CONTENT="RIMOLI (1941 — S. Paulo) — bp-72" HPOS="605" VPOS="1076" WIDTH="1311" HEIGHT="67"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="601 1307 709 1285 796 1317 869 1308 1158 1307 2950 1314" HPOS="601" VPOS="1254" WIDTH="2366" HEIGHT="72"><Shape>
+                                                  <Polygon POINTS="601 1254 2967 1259 2967 1326 601 1321"/>
+                                                </Shape><String CONTENT="N.° 1, 72, papel. 2.000,00" HPOS="601" VPOS="1254" WIDTH="2366" HEIGHT="72"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="600 1400 706 1379 791 1412 863 1403 1153 1401 2950 1408" HPOS="600" VPOS="1348" WIDTH="2367" HEIGHT="67"><Shape>
+                                                  <Polygon POINTS="600 1348 2967 1348 2967 1415 600 1415"/>
+                                                </Shape><String CONTENT="N.° 2, 72, papel. 2.000,00" HPOS="600" VPOS="1348" WIDTH="2367" HEIGHT="67"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="598 1496 707 1473 810 1507 893 1498 1194 1496 2950 1500" HPOS="598" VPOS="1439" WIDTH="2366" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="598 1443 2964 1439 2964 1504 598 1508"/>
+                                                </Shape><String CONTENT="N.° 3, 72, papel. 1.000,00" HPOS="598" VPOS="1439" WIDTH="2366" HEIGHT="69"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="605 1734 827 1733 1052 1736 1169 1724 1318 1735 1514 1725 1593 1739 1930 1750 2157 1742" HPOS="605" VPOS="1682" WIDTH="1553" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="605 1682 2158 1682 2158 1751 605 1751"/>
+                                                </Shape><String CONTENT="RUDY (1906 — Viena — São Paulo) bp-72" HPOS="605" VPOS="1682" WIDTH="1553" HEIGHT="69"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="598 1931 657 1931 1017 1932 1255 1919 1318 1933 1382 1933 1620 1933 1843 1935 2254 1935 2325 1943 2432 1938 2503 1938 2605 1940 2943 1937" HPOS="598" VPOS="1879" WIDTH="2345" HEIGHT="70"><Shape>
+                                                  <Polygon POINTS="598 1879 2943 1879 2943 1949 598 1949"/>
+                                                </Shape><String CONTENT="Mobile giratória — 4 cubos, 1972, montagem, 90x90x75 3.500,00" HPOS="598" VPOS="1879" WIDTH="2345" HEIGHT="70"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="600 2029 912 2041 1109 2015 1278 2029 1426 2028 1520 2030 1846 2017 1921 2031 2462 2042" HPOS="600" VPOS="1975" WIDTH="1862" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="600 1975 2462 1975 2462 2044 600 2044"/>
+                                                </Shape><String CONTENT="Composição — Cubos e Esferas — 1972, montagem," HPOS="600" VPOS="1975" WIDTH="1862" HEIGHT="69"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="746 2123 814 2124 889 2124 993 2124 2944 2125" HPOS="746" VPOS="2068" WIDTH="2198" HEIGHT="68"><Shape>
+                                                  <Polygon POINTS="746 2068 2944 2068 2944 2136 746 2136"/>
+                                                </Shape><String CONTENT="75x75 6.000,00" HPOS="746" VPOS="2068" WIDTH="2198" HEIGHT="68"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="599 2229 837 2216 1011 2218 1421 2218 1517 2230 1724 2229 1840 2218 1923 2219 2035 2219 2945 2216" HPOS="599" VPOS="2161" WIDTH="2346" HEIGHT="72"><Shape>
+                                                  <Polygon POINTS="599 2161 2945 2161 2945 2233 599 2233"/>
+                                                </Shape><String CONTENT="Quadro com Movimento 1, 1972, 78x90 2.000,00" HPOS="599" VPOS="2161" WIDTH="2346" HEIGHT="72"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="599 2323 836 2312 1006 2313 1417 2313 1508 2324 1716 2323 1827 2313 1907 2313 2058 2310 2943 2310" HPOS="599" VPOS="2254" WIDTH="2344" HEIGHT="73"><Shape>
+                                                  <Polygon POINTS="599 2254 2943 2254 2943 2327 599 2327"/>
+                                                </Shape><String CONTENT="Quadro com Movimento 2, 1972, 80x100 2.000,00" HPOS="599" VPOS="2254" WIDTH="2344" HEIGHT="73"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="599 2417 836 2406 1006 2407 1414 2406 1505 2417 1707 2416 1858 2405 1937 2405 2046 2407 2943 2403" HPOS="599" VPOS="2347" WIDTH="2344" HEIGHT="74"><Shape>
+                                                  <Polygon POINTS="599 2347 2943 2347 2943 2421 599 2421"/>
+                                                </Shape><String CONTENT="Quadro com Movimento 3, 1972, 128x75 2.000,00" HPOS="599" VPOS="2347" WIDTH="2344" HEIGHT="74"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="598 2510 836 2497 1001 2499 1405 2498 1491 2510 1692 2510 1836 2499 1910 2499 2015 2499 2944 2490" HPOS="598" VPOS="2437" WIDTH="2346" HEIGHT="77"><Shape>
+                                                  <Polygon POINTS="598 2437 2944 2437 2944 2514 598 2514"/>
+                                                </Shape><String CONTENT="Quadro com Movimento 4, 1972, 128x75 2.500,00" HPOS="598" VPOS="2437" WIDTH="2346" HEIGHT="77"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="601 2730 926 2740 1230 2730 1412 2730 1555 2729 1824 2741 1947 2720 2163 2732 2280 2720" HPOS="601" VPOS="2674" WIDTH="1679" HEIGHT="68"><Shape>
+                                                  <Polygon POINTS="601 2674 2280 2674 2280 2742 601 2742"/>
+                                                </Shape><String CONTENT="SANTOS, Geraldo José dos (GÉU) — (1945 —" HPOS="601" VPOS="2674" WIDTH="1679" HEIGHT="68"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="744 2821 1096 2821 1471 2833 1595 2813 1812 2825" HPOS="744" VPOS="2769" WIDTH="1068" HEIGHT="64"><Shape>
+                                                  <Polygon POINTS="744 2769 1812 2769 1812 2833 744 2833"/>
+                                                </Shape><String CONTENT="Presidente Prudente) — bp-72" HPOS="744" VPOS="2769" WIDTH="1068" HEIGHT="64"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="584 3006 645 3006 937 3007 1265 3019 1402 3021 1556 3009 1642 3008 1776 3018 2048 3007 2930 3012" HPOS="584" VPOS="2953" WIDTH="2346" HEIGHT="71"><Shape>
+                                                  <Polygon POINTS="584 2953 2930 2953 2930 3024 584 3024"/>
+                                                </Shape><String CONTENT="Megalo Mercouri I, 72, 102x73, cartão. 2.000,00" HPOS="584" VPOS="2953" WIDTH="2346" HEIGHT="71"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="586 3100 647 3100 935 3101 1294 3112 1427 3114 1578 3102 1661 3102 1792 3112 2062 3101 2932 3106" HPOS="586" VPOS="3046" WIDTH="2346" HEIGHT="71"><Shape>
+                                                  <Polygon POINTS="586 3046 2932 3046 2932 3117 586 3117"/>
+                                                </Shape><String CONTENT="Megalo Mercouri II, 72, 102x73, cartão. 2.000,00" HPOS="586" VPOS="3046" WIDTH="2346" HEIGHT="71"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="591 3194 653 3194 1176 3194 1243 3195 1454 3207 1603 3195 1683 3195 1811 3205 2078 3193 2936 3199" HPOS="591" VPOS="3138" WIDTH="2345" HEIGHT="72"><Shape>
+                                                  <Polygon POINTS="591 3138 2936 3138 2936 3210 591 3210"/>
+                                                </Shape><String CONTENT="Megalo Mercouri III, 72, 102x73, cartão. 2.000,00" HPOS="591" VPOS="3138" WIDTH="2345" HEIGHT="72"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="593 3287 654 3287 940 3288 1318 3299 1450 3300 1599 3288 1680 3287 1808 3298 2076 3286 2937 3292" HPOS="593" VPOS="3231" WIDTH="2344" HEIGHT="72"><Shape>
+                                                  <Polygon POINTS="593 3231 2937 3231 2937 3303 593 3303"/>
+                                                </Shape><String CONTENT="Megalo Mercouri IV, 72, 102x73, cartão. 2.000,00" HPOS="593" VPOS="3231" WIDTH="2344" HEIGHT="72"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="592 3381 654 3381 942 3382 1292 3393 1427 3394 1579 3381 1663 3381 1794 3392 2064 3380 2937 3385" HPOS="592" VPOS="3324" WIDTH="2345" HEIGHT="73"><Shape>
+                                                  <Polygon POINTS="592 3324 2937 3324 2937 3397 592 3397"/>
+                                                </Shape><String CONTENT="Megalo Mercouri V, 72, 102x73, cartão. 2.000,00" HPOS="592" VPOS="3324" WIDTH="2345" HEIGHT="73"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="593 3623 632 3623 1245 3624 1539 3622 1761 3621 1877 3610 1971 3621 2228 3632 2348 3611 2561 3623" HPOS="593" VPOS="3566" WIDTH="1968" HEIGHT="66"><Shape>
+                                                  <Polygon POINTS="593 3566 2561 3566 2561 3632 593 3632"/>
+                                                </Shape><String CONTENT="SCHMIDT, Marcos Rodolfo (1943 — S. Paulo) — bp-72" HPOS="593" VPOS="3566" WIDTH="1968" HEIGHT="66"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="592 3796 847 3798 940 3807 1073 3807 1189 3798 1271 3797 1403 3795 2933 3797" HPOS="592" VPOS="3741" WIDTH="2341" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="592 3741 2933 3741 2933 3810 592 3810"/>
+                                                </Shape><String CONTENT="Rítimos 1, 72, 70x50. 680,00" HPOS="592" VPOS="3741" WIDTH="2341" HEIGHT="69"/></TextLine><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="591 3889 845 3892 940 3902 1072 3900 1187 3891 1270 3890 1402 3888 2932 3889" HPOS="591" VPOS="3832" WIDTH="2341" HEIGHT="73"><Shape>
+                                                  <Polygon POINTS="591 3832 2932 3832 2932 3905 591 3905"/>
+                                                </Shape><String CONTENT="Rítimos 2, 72, 70x50. 680,00" HPOS="591" VPOS="3832" WIDTH="2341" HEIGHT="73"/></TextLine><TextLine ID="tl_30" TAGREFS="LT1" BASELINE="590 3983 845 3985 938 3994 1071 3994 1186 3984 1268 3983 1401 3982 2929 3981" HPOS="590" VPOS="3925" WIDTH="2339" HEIGHT="72"><Shape>
+                                                  <Polygon POINTS="590 3925 2929 3925 2929 3997 590 3997"/>
+                                                </Shape><String CONTENT="Rítimos 5, 72, 70x50. 680,00" HPOS="590" VPOS="3925" WIDTH="2339" HEIGHT="72"/></TextLine></TextBlock><TextBlock HPOS="588" VPOS="459" WIDTH="2376" HEIGHT="467" ID="eSc_textblock_138c87ac" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="588 459 597 926 2964 926 2964 459"/>
+                                        </Shape></TextBlock><TextBlock HPOS="596" VPOS="1061" WIDTH="2362" HEIGHT="461" ID="eSc_textblock_02d77488" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="596 1061 599 1522 2958 1522 2958 1061"/>
+                                        </Shape></TextBlock><TextBlock HPOS="585" VPOS="1670" WIDTH="2376" HEIGHT="865" ID="eSc_textblock_4baae258" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="585 1670 585 2535 2961 2524 2958 1678"/>
+                                        </Shape></TextBlock><TextBlock HPOS="583" VPOS="2671" WIDTH="2364" HEIGHT="755" ID="eSc_textblock_0a84c21e" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="591 2671 583 3426 2947 3412 2947 2671"/>
+                                        </Shape></TextBlock><TextBlock HPOS="582" VPOS="3548" WIDTH="2379" HEIGHT="452" ID="eSc_textblock_e0127012" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="588 3562 582 4000 2961 4000 2961 3548"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

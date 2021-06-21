@@ -1,117 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-  xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-  <Description>
-    <MeasurementUnit>pixel</MeasurementUnit>
-    <sourceImageInformation>
-      <fileName>Cat_Courbet_1882-3_typo_0002.jpg</fileName>
-    </sourceImageInformation>
-  </Description>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Courbet_1882-3_typo_0002.jpg</fileName></sourceImageInformation></Description>
 
-  <Tags>
-    <OtherTag ID="BT503" LABEL="Figure" DESCRIPTION="block type Figure"/>
-    <OtherTag ID="BT504" LABEL="Main" DESCRIPTION="block type Main"/>
-    <OtherTag ID="BT505" LABEL="Title" DESCRIPTION="block type Title"/>
-    <OtherTag ID="BT506" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-    <OtherTag ID="BT507" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-    <OtherTag ID="BT508" LABEL="Entry" DESCRIPTION="block type Entry"/>
-    <OtherTag ID="BT509" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-    <OtherTag ID="BT510" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-    <OtherTag ID="LT177" LABEL="Default" DESCRIPTION="line type Default"/>
-  </Tags>
+  <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
-  <Layout>
-    <Page WIDTH="1749" HEIGHT="2481" PHYSICAL_IMG_NR="3" ID="eSc_dummypage_">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="1749" HEIGHT="2481">
-
-        <TextBlock HPOS="392" VPOS="635" WIDTH="977" HEIGHT="684" ID="eSc_textblock_fc4d2430"
-          TAGREFS="BT504">
-          <Shape>
+  <Layout><Page WIDTH="1749" HEIGHT="2481" PHYSICAL_IMG_NR="3" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1749" HEIGHT="2481"><TextBlock HPOS="392" VPOS="635" WIDTH="977" HEIGHT="684" ID="eSc_textblock_fc4d2430" TAGREFS="BT2"><Shape>
             <Polygon POINTS="392 635 392 1319 1369 1319 1369 635"/>
-          </Shape>
-
-
-          <TextLine ID="tl_1" TAGREFS="LT177"
-            BASELINE="414 687 678 689 778 687 984 688 1045 688 1313 686" HPOS="414" VPOS="650"
-            WIDTH="899" HEIGHT="39">
-            <Shape>
+          </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="414 687 678 689 778 687 984 688 1045 688 1313 686" HPOS="414" VPOS="650" WIDTH="899" HEIGHT="39"><Shape>
               <Polygon POINTS="414 650 1313 650 1313 689 414 689"/>
-            </Shape>
-            <String CONTENT="PANNEAU DE SALLE A MANGER" HPOS="414" VPOS="650" WIDTH="899"
-              HEIGHT="39"/>
-          </TextLine>
-
-
-
-          <TextLine ID="tl_2" TAGREFS="LT177" BASELINE="423 1016 496 1016 566 1007 726 1015"
-            HPOS="423" VPOS="981" WIDTH="303" HEIGHT="35">
-            <Shape>
+            </Shape><String CONTENT="PANNEAU DE SALLE A MANGER" HPOS="414" VPOS="650" WIDTH="899" HEIGHT="39"/></TextLine><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="423 1016 496 1016 566 1007 726 1015" HPOS="423" VPOS="981" WIDTH="303" HEIGHT="35"><Shape>
               <Polygon POINTS="423 981 726 981 726 1016 423 1016"/>
-            </Shape>
-            <String CONTENT="130. — Truite." HPOS="423" VPOS="981" WIDTH="303" HEIGHT="35"/>
-          </TextLine>
-
-
-
-          <TextLine ID="tl_3" TAGREFS="LT177"
-            BASELINE="616 1099 697 1100 726 1100 858 1100 951 1100 999 1099 1030 1099 1188 1099 1318 1099"
-            HPOS="616" VPOS="1072" WIDTH="702" HEIGHT="36">
-            <Shape>
+            </Shape><String CONTENT="130. — Truite." HPOS="423" VPOS="981" WIDTH="303" HEIGHT="35"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="616 1099 697 1100 726 1100 858 1100 951 1100 999 1099 1030 1099 1188 1099 1318 1099" HPOS="616" VPOS="1072" WIDTH="702" HEIGHT="36"><Shape>
               <Polygon POINTS="616 1072 1318 1072 1318 1108 616 1108"/>
-            </Shape>
-            <String CONTENT="Signé à gauche : ..71. G. Courbet, In vinculis" HPOS="616" VPOS="1072"
-              WIDTH="702" HEIGHT="36"/>
-          </TextLine>
-
-
-
-          <TextLine ID="tl_4" TAGREFS="LT177" BASELINE="583 1139 707 1140" HPOS="583" VPOS="1114"
-            WIDTH="124" HEIGHT="27">
-            <Shape>
+            </Shape><String CONTENT="Signé à gauche : ..71. G. Courbet, In vinculis" HPOS="616" VPOS="1072" WIDTH="702" HEIGHT="36"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="583 1139 707 1140" HPOS="583" VPOS="1114" WIDTH="124" HEIGHT="27"><Shape>
               <Polygon POINTS="583 1114 707 1114 707 1141 583 1141"/>
-            </Shape>
-            <String CONTENT="faciebat." HPOS="583" VPOS="1114" WIDTH="124" HEIGHT="27"/>
-          </TextLine>
-
-
-
-          <TextLine ID="tl_5" TAGREFS="LT177"
-            BASELINE="888 1204 922 1204 965 1197 1013 1205 1106 1204 1157 1205 1252 1203" HPOS="888"
-            VPOS="1177" WIDTH="364" HEIGHT="28">
-            <Shape>
+            </Shape><String CONTENT="faciebat." HPOS="583" VPOS="1114" WIDTH="124" HEIGHT="27"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="888 1204 922 1204 965 1197 1013 1205 1106 1204 1157 1205 1252 1203" HPOS="888" VPOS="1177" WIDTH="364" HEIGHT="28"><Shape>
               <Polygon POINTS="888 1177 1252 1177 1252 1205 888 1205"/>
-            </Shape>
-            <String CONTENT="T. — H. 0.52. L. 0.85." HPOS="888" VPOS="1177" WIDTH="364" HEIGHT="28"
-            />
-          </TextLine>
-
-
-
-          <TextLine ID="tl_6" TAGREFS="LT177"
-            BASELINE="610 1295 771 1294 798 1294 849 1295 982 1295" HPOS="610" VPOS="1268"
-            WIDTH="371" HEIGHT="35">
-            <Shape>
+            </Shape><String CONTENT="T. — H. 0.52. L. 0.85." HPOS="888" VPOS="1177" WIDTH="364" HEIGHT="28"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="610 1295 771 1294 798 1294 849 1295 982 1295" HPOS="610" VPOS="1268" WIDTH="371" HEIGHT="35"><Shape>
               <Polygon POINTS="610 1268 981 1268 981 1303 610 1303"/>
-            </Shape>
-            <String CONTENT="Appartient à M. Pasteur." HPOS="610" VPOS="1268" WIDTH="371"
-              HEIGHT="35"/>
-          </TextLine>
-
-
-        </TextBlock>
-
-        <TextBlock HPOS="404" VPOS="965" WIDTH="936" HEIGHT="343" ID="eSc_textblock_07dea19d"
-          TAGREFS="BT508">
-          <Shape>
+            </Shape><String CONTENT="Appartient à M. Pasteur." HPOS="610" VPOS="1268" WIDTH="371" HEIGHT="35"/></TextLine></TextBlock><TextBlock HPOS="404" VPOS="965" WIDTH="936" HEIGHT="343" ID="eSc_textblock_07dea19d" TAGREFS="BT15"><Shape>
             <Polygon POINTS="404 968 413 1308 1340 1300 1340 965"/>
-          </Shape>
-
-        </TextBlock>
-
-
-
-      </PrintSpace>
-    </Page>
-  </Layout>
+          </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

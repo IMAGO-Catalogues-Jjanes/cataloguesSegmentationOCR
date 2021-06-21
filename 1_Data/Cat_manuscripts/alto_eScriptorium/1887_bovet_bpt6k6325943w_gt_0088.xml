@@ -1,448 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>1887_bovet_bpt6k6325943w_gt_0088.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT495" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT496" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT497" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT498" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT499" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT500" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT501" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="BT502" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT533" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
-                <OtherTag ID="LT176" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="3610" HEIGHT="4663" PHYSICAL_IMG_NR="16" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="3610" HEIGHT="4663">
-
-                                <TextBlock HPOS="801" VPOS="1805" WIDTH="943" HEIGHT="953"
-                                        ID="eSc_textblock_528efb06" TAGREFS="BT496">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="832 1825 801 2758 1744 2748 1734 1805"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="1734" VPOS="1642" WIDTH="1369" HEIGHT="792"
-                                        ID="eSc_textblock_fbdbd8bc" TAGREFS="BT496">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="1745 1673 1734 2424 3103 2434 3103 1642"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="1410" VPOS="2474" WIDTH="1673" HEIGHT="558"
-                                        ID="eSc_textblock_cae178e0" TAGREFS="BT496">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="1410 3032 1410 2495 3083 2474 3073 3032"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="2008" VPOS="3326" WIDTH="1044" HEIGHT="436"
-                                        ID="eSc_textblock_dc935840" TAGREFS="BT496">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="2008 3762 2008 3326 3052 3326 3052 3762"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="730" VPOS="821" WIDTH="2414" HEIGHT="3032"
-                                        ID="eSc_textblock_cec14deb" TAGREFS="BT495">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="730 821 730 3853 3144 3853 3144 832"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT176"
-                                                BASELINE="1629 933 1681 948 2255 950" HPOS="1630"
-                                                VPOS="891" WIDTH="628" HEIGHT="59">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="1630 891 2258 891 2258 950 1630 950"/>
-                                                </Shape>
-                                                <String CONTENT="ESPAGNE" HPOS="1630" VPOS="891"
-                                                  WIDTH="628" HEIGHT="59"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT176"
-                                                BASELINE="830 1066 847 1076 908 1077 935 1076 996 1063 1433 1075 1535 1084 1624 1073 1732 1072 1893 1071 2066 1083 2174 1073 2264 1073 2361 1072 2634 1073 2777 1073 2871 1085 2966 1071 3058 1072"
-                                                HPOS="830" VPOS="1027" WIDTH="2228" HEIGHT="62">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="830 1027 3058 1027 3058 1089 830 1089"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="★51★ FERDINAND V, n. 10 mars 1452, fils du roi d’Aragon Jean II, roi de"
-                                                  HPOS="830" VPOS="1027" WIDTH="2228" HEIGHT="62"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT176"
-                                                BASELINE="827 1145 1022 1141 1194 1154 1255 1142 1517 1140 1714 1148 1757 1136 1851 1136 1905 1137 2245 1140 2289 1139 2576 1152 2671 1139 2899 1137 2934 1137 2971 1137 3055 1137"
-                                                HPOS="827" VPOS="1091" WIDTH="2228" HEIGHT="66">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="827 1091 3055 1091 3055 1157 827 1157"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Castille (1474) et d’Aragon (1479), dit le Catholique, m. à Madrigalejo, 23 janvier 1516."
-                                                  HPOS="827" VPOS="1091" WIDTH="2228" HEIGHT="66"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT176"
-                                                BASELINE="831 1209 867 1209 962 1208 1227 1209 1438 1207 1500 1207 1752 1203 2027 1204 2105 1205 2174 1204 2476 1202 2769 1205"
-                                                HPOS="831" VPOS="1157" WIDTH="1938" HEIGHT="62">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="831 1157 2769 1157 2769 1219 831 1219"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Il est considéré comme le véritable fondateur de la monarchie espagnole."
-                                                  HPOS="831" VPOS="1157" WIDTH="1938" HEIGHT="62"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT176"
-                                                BASELINE="878 1291 909 1291 1003 1301 1097 1291 1224 1292 1315 1290 1375 1290 1414 1290 1757 1283 1827 1284 1880 1285 2122 1286 2261 1294 2433 1283 2502 1282 2754 1285 2823 1286 2963 1295 3062 1274"
-                                                HPOS="878" VPOS="1247" WIDTH="2184" HEIGHT="57">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="878 1247 3062 1247 3062 1304 878 1304"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="L. S., sig. aussi par sa femme Isabelle de Castille (n. 1451, épouse de Ferdinand en 1469, l’il¬"
-                                                  HPOS="878" VPOS="1247" WIDTH="2184" HEIGHT="57"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT176"
-                                                BASELINE="824 1344 948 1345 1203 1346 1271 1346 1535 1342 1745 1349 1823 1338 1981 1348 2021 1339 2121 1339 2246 1340 2312 1339 2489 1343 2738 1337 2799 1339 2849 1339 3061 1338"
-                                                HPOS="824" VPOS="1301" WIDTH="2237" HEIGHT="56">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="824 1301 3061 1301 3061 1357 824 1357"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="lustre protectrice de Christophe Colomb, m. 1504), à don Juan de Ribera, corregidor de la province"
-                                                  HPOS="824" VPOS="1301" WIDTH="2237" HEIGHT="56"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT176"
-                                                BASELINE="825 1399 873 1398 1127 1400 1189 1400 1413 1398 1595 1395 1663 1394 1723 1393 1936 1393 2005 1393 2226 1404 2488 1400 2531 1402 2767 1391 2910 1401 2996 1393 3059 1394"
-                                                HPOS="825" VPOS="1354" WIDTH="2234" HEIGHT="58">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="825 1354 3059 1354 3059 1412 825 1412"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="de Guipuzcoa et capitaine général de la frontière de Navarre; Barcelone, 7 décembre 1493, 1/2 p."
-                                                  HPOS="825" VPOS="1354" WIDTH="2234" HEIGHT="58"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT176"
-                                                BASELINE="827 1451 958 1455 1142 1467 1318 1454 1523 1450 1670 1459 1790 1446 1867 1446 2137 1448 2237 1448 2303 1448 2618 1443"
-                                                HPOS="827" VPOS="1407" WIDTH="1791" HEIGHT="60">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="827 1407 2618 1407 2618 1467 827 1467"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="in-fol. oblong, cachet. Superbe pièce, dans un magnifique état de conservation."
-                                                  HPOS="827" VPOS="1407" WIDTH="1791" HEIGHT="60"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT176"
-                                                BASELINE="862 1527 923 1526 1016 1525 1245 1533 1419 1522 1499 1521 1553 1519 1635 1518 1695 1517 1840 1517 1916 1518 2038 1518 2122 1518 2309 1517 2344 1516 2530 1522 2615 1513 2672 1513 2740 1513 2941 1521 3061 1517"
-                                                HPOS="862" VPOS="1484" WIDTH="2199" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="862 1484 3061 1484 3061 1534 862 1534"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Les rois catholiques, informés que le duc de Nagera fait élever une forteresse à Cenicero, lieu de ses domaines, voisin"
-                                                  HPOS="862" VPOS="1484" WIDTH="2199" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT176"
-                                                BASELINE="824 1570 862 1570 910 1570 1003 1569 1062 1568 1240 1574 1437 1564 1473 1563 1564 1562 1738 1560 1880 1560 2105 1560 2209 1559 2452 1559 2506 1559 2561 1556 2699 1556 2754 1555 2849 1555 3007 1557 3062 1558"
-                                                HPOS="824" VPOS="1526" WIDTH="2238" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="824 1526 3062 1526 3062 1577 824 1577"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="de la ville de Logrono, enjoignent à leur capitaine général d’empêcher cette construction et au besoin de faire détruire la"
-                                                  HPOS="824" VPOS="1526" WIDTH="2238" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT176"
-                                                BASELINE="825 1622 925 1613 1010 1612 1145 1616 1205 1611 1277 1609 1336 1609 1379 1608 1453 1607 1509 1606 1672 1603 1853 1602 1969 1602 2078 1602 2184 1602 2408 1601 2440 1601 2611 1599 2645 1599 2761 1598 3007 1600"
-                                                HPOS="825" VPOS="1570" WIDTH="2182" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="825 1570 3007 1570 3007 1622 825 1622"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="partie déjà édifiée, au cas où le duc ne pourrait présenter aucun ordre royal l’autorisant à procéder à ladite construction."
-                                                  HPOS="825" VPOS="1570" WIDTH="2182" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT176"
-                                                BASELINE="814 3198 822 3198 892 3210 982 3208 1342 3207 1418 3219 1498 3208 1561 3207 1792 3217 1880 3205 2066 3203 2241 3214 2341 3203 2426 3201 2751 3200 2814 3214 3053 3201"
-                                                HPOS="814" VPOS="3153" WIDTH="2239" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="814 3153 3053 3153 3053 3222 814 3222"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="★52★ PHILIPPE I, n. à Bruges, 22 juillet 1478, fils de Maximilien I, petit-fils"
-                                                  HPOS="814" VPOS="3153" WIDTH="2239" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT176"
-                                                BASELINE="812 3276 869 3276 1099 3275 1164 3275 1482 3285 1658 3273 1750 3272 1956 3271 2028 3270 2207 3281 2306 3270 2393 3269 2621 3266 2756 3267 2950 3279 3053 3265"
-                                                HPOS="812" VPOS="3221" WIDTH="2241" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="812 3221 3053 3221 3053 3290 812 3290"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="de Charles le Téméraire, époux de Jeanne la Folle, roi de Castille (juin 1504), dit"
-                                                  HPOS="812" VPOS="3221" WIDTH="2241" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT176"
-                                                BASELINE="814 3340 855 3340 917 3341 1111 3344 1168 3342 1364 3342 1456 3342 1790 3339 1844 3338 1880 3338 1916 3338 1949 3338 1965 3338"
-                                                HPOS="814" VPOS="3293" WIDTH="1151" HEIGHT="64">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="814 3293 1965 3293 1965 3357 814 3357"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="le Beau, m. à Burgos, 25 septembre 1506."
-                                                  HPOS="814" VPOS="3293" WIDTH="1151" HEIGHT="64"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT176"
-                                                BASELINE="865 3421 910 3422 999 3434 1310 3425 1362 3436 1580 3423 1722 3421 1865 3420 1968 3410"
-                                                HPOS="865" VPOS="3384" WIDTH="1103" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="865 3384 1968 3384 1968 3437 865 3437"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="L. S., contresignée par Pedro XIMENEZ, à Ro¬"
-                                                  HPOS="865" VPOS="3384" WIDTH="1103" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT176"
-                                                BASELINE="815 3471 927 3474 994 3475 1276 3486 1432 3479 1499 3478 1690 3487 1750 3475 1964 3483"
-                                                HPOS="815" VPOS="3437" WIDTH="1149" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="815 3437 1964 3437 1964 3489 815 3489"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="drigo de Villalpando, alcade de Vezilla; la Corogne,"
-                                                  HPOS="815" VPOS="3437" WIDTH="1149" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT176"
-                                                BASELINE="817 3525 862 3537 965 3527 1000 3527 1029 3528 1058 3530 1084 3529 1100 3541 1180 3531 1240 3532 1275 3532 1526 3533 1650 3532"
-                                                HPOS="817" VPOS="3492" WIDTH="833" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="817 3492 1650 3492 1650 3543 817 3543"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="27 mai 1506, 1/2 p. in-fol. Très rare."
-                                                  HPOS="817" VPOS="3492" WIDTH="833" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT176"
-                                                BASELINE="849 3595 994 3595 1104 3597 1158 3599 1197 3599 1259 3600 1418 3601 1469 3602 1627 3602 1832 3600 1889 3600 1968 3599"
-                                                HPOS="849" VPOS="3566" WIDTH="1119" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="849 3566 1968 3566 1968 3610 849 3610"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Superbe lettre où il lui ordonne de prendre possession en son"
-                                                  HPOS="849" VPOS="3566" WIDTH="1119" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT176"
-                                                BASELINE="814 3636 888 3637 945 3636 996 3637 1185 3639 1243 3640 1289 3641 1383 3642 1440 3642 1599 3648 1769 3643 1968 3641"
-                                                HPOS="814" VPOS="3608" WIDTH="1154" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="814 3608 1968 3608 1968 3652 814 3652"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="nom de la forteresse de la ville de Vezilla, jusqu’au règlement"
-                                                  HPOS="814" VPOS="3608" WIDTH="1154" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT176"
-                                                BASELINE="813 3679 869 3679 997 3680 1072 3680 1131 3681 1225 3683 1347 3683 1524 3685 1576 3685 1781 3684 1837 3683 1882 3683 1969 3682"
-                                                HPOS="813" VPOS="3652" WIDTH="1156" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="813 3652 1969 3652 1969 3693 813 3693"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="des débats qui se sont élevés touchant la possession de la dite"
-                                                  HPOS="813" VPOS="3652" WIDTH="1156" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT176"
-                                                BASELINE="812 3721 984 3722 1084 3721 1145 3722 1302 3723 1357 3723 1516 3724 1703 3725 1751 3725 1795 3724 1969 3722"
-                                                HPOS="812" VPOS="3693" WIDTH="1157" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="812 3693 1969 3693 1969 3733 812 3733"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="forteresse entre les héritiers du marquis d’Astorga et la comtesse"
-                                                  HPOS="812" VPOS="3693" WIDTH="1157" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT176"
-                                                BASELINE="816 3764 988 3763 1205 3764 1335 3765 1559 3766"
-                                                HPOS="816" VPOS="3735" WIDTH="743" HEIGHT="39">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="816 3735 1559 3735 1559 3774 816 3774"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="d’Osorno. Importants détails historiques."
-                                                  HPOS="816" VPOS="3735" WIDTH="743" HEIGHT="39"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="803" VPOS="577" WIDTH="94" HEIGHT="102"
-                                        ID="eSc_textblock_810b68da" TAGREFS="BT502">
-                                        <Shape>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1887_bovet_bpt6k6325943w_gt_0088.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="3610" HEIGHT="4663" PHYSICAL_IMG_NR="16" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="3610" HEIGHT="4663"><TextBlock HPOS="801" VPOS="1805" WIDTH="943" HEIGHT="953" ID="eSc_textblock_528efb06" TAGREFS="BT6"><Shape>
+                                                <Polygon POINTS="832 1825 801 2758 1744 2748 1734 1805"/>
+                                        </Shape></TextBlock><TextBlock HPOS="1734" VPOS="1642" WIDTH="1369" HEIGHT="792" ID="eSc_textblock_fbdbd8bc" TAGREFS="BT6"><Shape>
+                                                <Polygon POINTS="1745 1673 1734 2424 3103 2434 3103 1642"/>
+                                        </Shape></TextBlock><TextBlock HPOS="1410" VPOS="2474" WIDTH="1673" HEIGHT="558" ID="eSc_textblock_cae178e0" TAGREFS="BT6"><Shape>
+                                                <Polygon POINTS="1410 3032 1410 2495 3083 2474 3073 3032"/>
+                                        </Shape></TextBlock><TextBlock HPOS="2008" VPOS="3326" WIDTH="1044" HEIGHT="436" ID="eSc_textblock_dc935840" TAGREFS="BT6"><Shape>
+                                                <Polygon POINTS="2008 3762 2008 3326 3052 3326 3052 3762"/>
+                                        </Shape></TextBlock><TextBlock HPOS="730" VPOS="821" WIDTH="2414" HEIGHT="3032" ID="eSc_textblock_cec14deb" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="730 821 730 3853 3144 3853 3144 832"/>
+                                        </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="1629 933 1681 948 2255 950" HPOS="1630" VPOS="891" WIDTH="628" HEIGHT="59"><Shape>
+                                                  <Polygon POINTS="1630 891 2258 891 2258 950 1630 950"/>
+                                                </Shape><String CONTENT="ESPAGNE" HPOS="1630" VPOS="891" WIDTH="628" HEIGHT="59"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="830 1066 847 1076 908 1077 935 1076 996 1063 1433 1075 1535 1084 1624 1073 1732 1072 1893 1071 2066 1083 2174 1073 2264 1073 2361 1072 2634 1073 2777 1073 2871 1085 2966 1071 3058 1072" HPOS="830" VPOS="1027" WIDTH="2228" HEIGHT="62"><Shape>
+                                                  <Polygon POINTS="830 1027 3058 1027 3058 1089 830 1089"/>
+                                                </Shape><String CONTENT="★51★ FERDINAND V, n. 10 mars 1452, fils du roi d’Aragon Jean II, roi de" HPOS="830" VPOS="1027" WIDTH="2228" HEIGHT="62"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="827 1145 1022 1141 1194 1154 1255 1142 1517 1140 1714 1148 1757 1136 1851 1136 1905 1137 2245 1140 2289 1139 2576 1152 2671 1139 2899 1137 2934 1137 2971 1137 3055 1137" HPOS="827" VPOS="1091" WIDTH="2228" HEIGHT="66"><Shape>
+                                                  <Polygon POINTS="827 1091 3055 1091 3055 1157 827 1157"/>
+                                                </Shape><String CONTENT="Castille (1474) et d’Aragon (1479), dit le Catholique, m. à Madrigalejo, 23 janvier 1516." HPOS="827" VPOS="1091" WIDTH="2228" HEIGHT="66"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="831 1209 867 1209 962 1208 1227 1209 1438 1207 1500 1207 1752 1203 2027 1204 2105 1205 2174 1204 2476 1202 2769 1205" HPOS="831" VPOS="1157" WIDTH="1938" HEIGHT="62"><Shape>
+                                                  <Polygon POINTS="831 1157 2769 1157 2769 1219 831 1219"/>
+                                                </Shape><String CONTENT="Il est considéré comme le véritable fondateur de la monarchie espagnole." HPOS="831" VPOS="1157" WIDTH="1938" HEIGHT="62"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="878 1291 909 1291 1003 1301 1097 1291 1224 1292 1315 1290 1375 1290 1414 1290 1757 1283 1827 1284 1880 1285 2122 1286 2261 1294 2433 1283 2502 1282 2754 1285 2823 1286 2963 1295 3062 1274" HPOS="878" VPOS="1247" WIDTH="2184" HEIGHT="57"><Shape>
+                                                  <Polygon POINTS="878 1247 3062 1247 3062 1304 878 1304"/>
+                                                </Shape><String CONTENT="L. S., sig. aussi par sa femme Isabelle de Castille (n. 1451, épouse de Ferdinand en 1469, l’il¬" HPOS="878" VPOS="1247" WIDTH="2184" HEIGHT="57"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="824 1344 948 1345 1203 1346 1271 1346 1535 1342 1745 1349 1823 1338 1981 1348 2021 1339 2121 1339 2246 1340 2312 1339 2489 1343 2738 1337 2799 1339 2849 1339 3061 1338" HPOS="824" VPOS="1301" WIDTH="2237" HEIGHT="56"><Shape>
+                                                  <Polygon POINTS="824 1301 3061 1301 3061 1357 824 1357"/>
+                                                </Shape><String CONTENT="lustre protectrice de Christophe Colomb, m. 1504), à don Juan de Ribera, corregidor de la province" HPOS="824" VPOS="1301" WIDTH="2237" HEIGHT="56"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="825 1399 873 1398 1127 1400 1189 1400 1413 1398 1595 1395 1663 1394 1723 1393 1936 1393 2005 1393 2226 1404 2488 1400 2531 1402 2767 1391 2910 1401 2996 1393 3059 1394" HPOS="825" VPOS="1354" WIDTH="2234" HEIGHT="58"><Shape>
+                                                  <Polygon POINTS="825 1354 3059 1354 3059 1412 825 1412"/>
+                                                </Shape><String CONTENT="de Guipuzcoa et capitaine général de la frontière de Navarre; Barcelone, 7 décembre 1493, 1/2 p." HPOS="825" VPOS="1354" WIDTH="2234" HEIGHT="58"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="827 1451 958 1455 1142 1467 1318 1454 1523 1450 1670 1459 1790 1446 1867 1446 2137 1448 2237 1448 2303 1448 2618 1443" HPOS="827" VPOS="1407" WIDTH="1791" HEIGHT="60"><Shape>
+                                                  <Polygon POINTS="827 1407 2618 1407 2618 1467 827 1467"/>
+                                                </Shape><String CONTENT="in-fol. oblong, cachet. Superbe pièce, dans un magnifique état de conservation." HPOS="827" VPOS="1407" WIDTH="1791" HEIGHT="60"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="862 1527 923 1526 1016 1525 1245 1533 1419 1522 1499 1521 1553 1519 1635 1518 1695 1517 1840 1517 1916 1518 2038 1518 2122 1518 2309 1517 2344 1516 2530 1522 2615 1513 2672 1513 2740 1513 2941 1521 3061 1517" HPOS="862" VPOS="1484" WIDTH="2199" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="862 1484 3061 1484 3061 1534 862 1534"/>
+                                                </Shape><String CONTENT="Les rois catholiques, informés que le duc de Nagera fait élever une forteresse à Cenicero, lieu de ses domaines, voisin" HPOS="862" VPOS="1484" WIDTH="2199" HEIGHT="50"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="824 1570 862 1570 910 1570 1003 1569 1062 1568 1240 1574 1437 1564 1473 1563 1564 1562 1738 1560 1880 1560 2105 1560 2209 1559 2452 1559 2506 1559 2561 1556 2699 1556 2754 1555 2849 1555 3007 1557 3062 1558" HPOS="824" VPOS="1526" WIDTH="2238" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="824 1526 3062 1526 3062 1577 824 1577"/>
+                                                </Shape><String CONTENT="de la ville de Logrono, enjoignent à leur capitaine général d’empêcher cette construction et au besoin de faire détruire la" HPOS="824" VPOS="1526" WIDTH="2238" HEIGHT="51"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="825 1622 925 1613 1010 1612 1145 1616 1205 1611 1277 1609 1336 1609 1379 1608 1453 1607 1509 1606 1672 1603 1853 1602 1969 1602 2078 1602 2184 1602 2408 1601 2440 1601 2611 1599 2645 1599 2761 1598 3007 1600" HPOS="825" VPOS="1570" WIDTH="2182" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="825 1570 3007 1570 3007 1622 825 1622"/>
+                                                </Shape><String CONTENT="partie déjà édifiée, au cas où le duc ne pourrait présenter aucun ordre royal l’autorisant à procéder à ladite construction." HPOS="825" VPOS="1570" WIDTH="2182" HEIGHT="52"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="814 3198 822 3198 892 3210 982 3208 1342 3207 1418 3219 1498 3208 1561 3207 1792 3217 1880 3205 2066 3203 2241 3214 2341 3203 2426 3201 2751 3200 2814 3214 3053 3201" HPOS="814" VPOS="3153" WIDTH="2239" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="814 3153 3053 3153 3053 3222 814 3222"/>
+                                                </Shape><String CONTENT="★52★ PHILIPPE I, n. à Bruges, 22 juillet 1478, fils de Maximilien I, petit-fils" HPOS="814" VPOS="3153" WIDTH="2239" HEIGHT="69"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="812 3276 869 3276 1099 3275 1164 3275 1482 3285 1658 3273 1750 3272 1956 3271 2028 3270 2207 3281 2306 3270 2393 3269 2621 3266 2756 3267 2950 3279 3053 3265" HPOS="812" VPOS="3221" WIDTH="2241" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="812 3221 3053 3221 3053 3290 812 3290"/>
+                                                </Shape><String CONTENT="de Charles le Téméraire, époux de Jeanne la Folle, roi de Castille (juin 1504), dit" HPOS="812" VPOS="3221" WIDTH="2241" HEIGHT="69"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="814 3340 855 3340 917 3341 1111 3344 1168 3342 1364 3342 1456 3342 1790 3339 1844 3338 1880 3338 1916 3338 1949 3338 1965 3338" HPOS="814" VPOS="3293" WIDTH="1151" HEIGHT="64"><Shape>
+                                                  <Polygon POINTS="814 3293 1965 3293 1965 3357 814 3357"/>
+                                                </Shape><String CONTENT="le Beau, m. à Burgos, 25 septembre 1506." HPOS="814" VPOS="3293" WIDTH="1151" HEIGHT="64"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="865 3421 910 3422 999 3434 1310 3425 1362 3436 1580 3423 1722 3421 1865 3420 1968 3410" HPOS="865" VPOS="3384" WIDTH="1103" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="865 3384 1968 3384 1968 3437 865 3437"/>
+                                                </Shape><String CONTENT="L. S., contresignée par Pedro XIMENEZ, à Ro¬" HPOS="865" VPOS="3384" WIDTH="1103" HEIGHT="53"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="815 3471 927 3474 994 3475 1276 3486 1432 3479 1499 3478 1690 3487 1750 3475 1964 3483" HPOS="815" VPOS="3437" WIDTH="1149" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="815 3437 1964 3437 1964 3489 815 3489"/>
+                                                </Shape><String CONTENT="drigo de Villalpando, alcade de Vezilla; la Corogne," HPOS="815" VPOS="3437" WIDTH="1149" HEIGHT="52"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="817 3525 862 3537 965 3527 1000 3527 1029 3528 1058 3530 1084 3529 1100 3541 1180 3531 1240 3532 1275 3532 1526 3533 1650 3532" HPOS="817" VPOS="3492" WIDTH="833" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="817 3492 1650 3492 1650 3543 817 3543"/>
+                                                </Shape><String CONTENT="27 mai 1506, 1/2 p. in-fol. Très rare." HPOS="817" VPOS="3492" WIDTH="833" HEIGHT="51"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="849 3595 994 3595 1104 3597 1158 3599 1197 3599 1259 3600 1418 3601 1469 3602 1627 3602 1832 3600 1889 3600 1968 3599" HPOS="849" VPOS="3566" WIDTH="1119" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="849 3566 1968 3566 1968 3610 849 3610"/>
+                                                </Shape><String CONTENT="Superbe lettre où il lui ordonne de prendre possession en son" HPOS="849" VPOS="3566" WIDTH="1119" HEIGHT="44"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="814 3636 888 3637 945 3636 996 3637 1185 3639 1243 3640 1289 3641 1383 3642 1440 3642 1599 3648 1769 3643 1968 3641" HPOS="814" VPOS="3608" WIDTH="1154" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="814 3608 1968 3608 1968 3652 814 3652"/>
+                                                </Shape><String CONTENT="nom de la forteresse de la ville de Vezilla, jusqu’au règlement" HPOS="814" VPOS="3608" WIDTH="1154" HEIGHT="44"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="813 3679 869 3679 997 3680 1072 3680 1131 3681 1225 3683 1347 3683 1524 3685 1576 3685 1781 3684 1837 3683 1882 3683 1969 3682" HPOS="813" VPOS="3652" WIDTH="1156" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="813 3652 1969 3652 1969 3693 813 3693"/>
+                                                </Shape><String CONTENT="des débats qui se sont élevés touchant la possession de la dite" HPOS="813" VPOS="3652" WIDTH="1156" HEIGHT="41"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="812 3721 984 3722 1084 3721 1145 3722 1302 3723 1357 3723 1516 3724 1703 3725 1751 3725 1795 3724 1969 3722" HPOS="812" VPOS="3693" WIDTH="1157" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="812 3693 1969 3693 1969 3733 812 3733"/>
+                                                </Shape><String CONTENT="forteresse entre les héritiers du marquis d’Astorga et la comtesse" HPOS="812" VPOS="3693" WIDTH="1157" HEIGHT="40"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="816 3764 988 3763 1205 3764 1335 3765 1559 3766" HPOS="816" VPOS="3735" WIDTH="743" HEIGHT="39"><Shape>
+                                                  <Polygon POINTS="816 3735 1559 3735 1559 3774 816 3774"/>
+                                                </Shape><String CONTENT="d’Osorno. Importants détails historiques." HPOS="816" VPOS="3735" WIDTH="743" HEIGHT="39"/></TextLine></TextBlock><TextBlock HPOS="803" VPOS="577" WIDTH="94" HEIGHT="102" ID="eSc_textblock_810b68da" TAGREFS="BT8"><Shape>
                                                 <Polygon POINTS="803 577 803 679 897 679 897 577"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT176"
-                                                BASELINE="832 643 893 656 908 656" HPOS="831"
-                                                VPOS="582" WIDTH="74" HEIGHT="109">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="831 641 847 582 905 610 889 691 835 664"/>
-                                                </Shape>
-                                                <String CONTENT="24" HPOS="831" VPOS="582"
-                                                  WIDTH="74" HEIGHT="109"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="1201" VPOS="562" WIDTH="1911" HEIGHT="117"
-                                        ID="eSc_textblock_d3c66753" TAGREFS="BT498">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="1201 562 1201 679 3112 679 3112 562"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="eSc_line_ce084cb7" TAGREFS="LT176"
-                                                BASELINE="1198 649 1327 646 1649 644 1797 642 2457 641 2654 643 3077 642"
-                                                HPOS="1196" VPOS="555" WIDTH="1877" HEIGHT="109">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="1196 648 1200 598 1247 575 1301 578 1332 602 1375 575 1484 582 1531 559 1694 559 1717 575 1783 563 1814 586 1845 559 1981 559 2055 586 2075 567 2102 582 2152 563 2218 582 2249 555 2420 582 2448 571 2490 602 2588 598 2615 575 2673 602 2918 602 2999 559 3027 586 3062 571 3073 641 3065 656 2700 645 2681 660 2160 660 2129 645 2059 664 1958 648 1830 648 1806 664 1686 664 1667 648 1527 648 1507 664 1433 664 1414 648 1204 656"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="CHEFS DE GOUVERNEMENT S.1"
-                                                  HPOS="1196" VPOS="555" WIDTH="1877" HEIGHT="109"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="780" VPOS="994" WIDTH="2333" HEIGHT="638"
-                                        ID="eSc_textblock_6e8b00bc" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="780 1632 791 994 3113 1014 3113 1632"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="771" VPOS="3123" WIDTH="2322" HEIGHT="700"
-                                        ID="eSc_textblock_b23a9810" TAGREFS="BT500">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="771 3823 781 3164 3093 3123 3093 3803"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="832 643 893 656 908 656" HPOS="831" VPOS="582" WIDTH="74" HEIGHT="109"><Shape>
+                                                  <Polygon POINTS="831 641 847 582 905 610 889 691 835 664"/>
+                                                </Shape><String CONTENT="24" HPOS="831" VPOS="582" WIDTH="74" HEIGHT="109"/></TextLine></TextBlock><TextBlock HPOS="1201" VPOS="562" WIDTH="1911" HEIGHT="117" ID="eSc_textblock_d3c66753" TAGREFS=""><Shape>
+                                                <Polygon POINTS="1201 562 1201 679 3112 679 3112 562"/>
+                                        </Shape><TextLine ID="eSc_line_ce084cb7" TAGREFS="LT1" BASELINE="1198 649 1327 646 1649 644 1797 642 2457 641 2654 643 3077 642" HPOS="1196" VPOS="555" WIDTH="1877" HEIGHT="109"><Shape>
+                                                  <Polygon POINTS="1196 648 1200 598 1247 575 1301 578 1332 602 1375 575 1484 582 1531 559 1694 559 1717 575 1783 563 1814 586 1845 559 1981 559 2055 586 2075 567 2102 582 2152 563 2218 582 2249 555 2420 582 2448 571 2490 602 2588 598 2615 575 2673 602 2918 602 2999 559 3027 586 3062 571 3073 641 3065 656 2700 645 2681 660 2160 660 2129 645 2059 664 1958 648 1830 648 1806 664 1686 664 1667 648 1527 648 1507 664 1433 664 1414 648 1204 656"/>
+                                                </Shape><String CONTENT="CHEFS DE GOUVERNEMENT S.1" HPOS="1196" VPOS="555" WIDTH="1877" HEIGHT="109"/></TextLine></TextBlock><TextBlock HPOS="780" VPOS="994" WIDTH="2333" HEIGHT="638" ID="eSc_textblock_6e8b00bc" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="780 1632 791 994 3113 1014 3113 1632"/>
+                                        </Shape></TextBlock><TextBlock HPOS="771" VPOS="3123" WIDTH="2322" HEIGHT="700" ID="eSc_textblock_b23a9810" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="771 3823 781 3164 3093 3123 3093 3803"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

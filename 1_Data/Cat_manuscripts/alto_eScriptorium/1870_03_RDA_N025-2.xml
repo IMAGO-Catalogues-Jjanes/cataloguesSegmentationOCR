@@ -1,721 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>1870_03_RDA_N025-2.png</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT495" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT496" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT497" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT498" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT499" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT500" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT501" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="BT502" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT533" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
-                <OtherTag ID="LT176" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="1884" HEIGHT="2836" PHYSICAL_IMG_NR="37" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1884" HEIGHT="2836">
-
-                                <TextBlock HPOS="953" VPOS="230" WIDTH="170" HEIGHT="39" ID="r_1_1"
-                                        TAGREFS="BT502">
-                                        <Shape>
-                                                <Polygon POINTS="953 230 1123 230 1123 269 953 269"
-                                                />
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT176"
-                                                BASELINE="954 268 1122 268" HPOS="954" VPOS="231"
-                                                WIDTH="168" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="954 231 1122 231 1122 268 954 268"/>
-                                                </Shape>
-                                                <String CONTENT="— 2  —" HPOS="954" VPOS="231"
-                                                  WIDTH="168" HEIGHT="37"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="275" VPOS="307" WIDTH="1517" HEIGHT="2408"
-                                        ID="eSc_textblock_e45ea0ab" TAGREFS="BT495">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="275 307 275 2715 1792 2710 1787 307"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT176"
-                                                BASELINE="315 368 1760 368" HPOS="315" VPOS="329"
-                                                WIDTH="1445" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="315 329 1760 329 1760 381 315 381"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="brillante qui n’a pas duré moins de deux heures. Le ministère public"
-                                                  HPOS="315" VPOS="329" WIDTH="1445" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT176"
-                                                BASELINE="312 418 1761 418" HPOS="312" VPOS="378"
-                                                WIDTH="1449" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="312 378 1761 378 1761 431 312 431"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="a répliqué. M. Chasles a été rappelé pour quelques explications. Comme"
-                                                  HPOS="312" VPOS="378" WIDTH="1449" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT176"
-                                                BASELINE="314 467 1759 467" HPOS="314" VPOS="428"
-                                                WIDTH="1445" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="314 428 1759 428 1759 480 314 480"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="il parlait des trois cents premières lettres de Galilée que Lucas lui"
-                                                  HPOS="314" VPOS="428" WIDTH="1445" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT176"
-                                                BASELINE="312 517 1761 517" HPOS="312" VPOS="477"
-                                                WIDTH="1449" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="312 477 1761 477 1761 530 312 530"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="avait livrées d’abord, le président a dit en passant : «C&#39;était déjà"
-                                                  HPOS="312" VPOS="477" WIDTH="1449" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT176"
-                                                BASELINE="313 566 1755 566" HPOS="313" VPOS="527"
-                                                WIDTH="1442" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="313 527 1755 527 1755 578 313 578"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="beaucoup trop », ce qui a excité une hilarité générale dans la salle."
-                                                  HPOS="313" VPOS="527" WIDTH="1442" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT176"
-                                                BASELINE="313 616 1760 616" HPOS="313" VPOS="576"
-                                                WIDTH="1447" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="313 576 1760 576 1760 627 313 627"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Après une courte réplique du défenseur, le Tribunal s’est retiré dans"
-                                                  HPOS="313" VPOS="576" WIDTH="1447" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT176"
-                                                BASELINE="314 665 1759 665" HPOS="314" VPOS="626"
-                                                WIDTH="1445" HEIGHT="55">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="314 626 1759 626 1759 681 314 681"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="la chambre des délibérations, d’où il a rapporté un verdict condam¬"
-                                                  HPOS="314" VPOS="626" WIDTH="1445" HEIGHT="55"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT176"
-                                                BASELINE="313 715 1760 715" HPOS="313" VPOS="676"
-                                                WIDTH="1447" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="313 676 1760 676 1760 726 313 726"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="nant Vrain-Lucas à deux ans d’emprisonnement, 500 fr. d&#39;amende et"
-                                                  HPOS="313" VPOS="676" WIDTH="1447" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT176"
-                                                BASELINE="311 764 550 764" HPOS="311" VPOS="725"
-                                                WIDTH="239" HEIGHT="49">
-                                                <Shape>
-                                                  <Polygon POINTS="311 725 550 725 550 774 311 774"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="aux dépens." HPOS="311" VPOS="725"
-                                                  WIDTH="239" HEIGHT="49"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT176"
-                                                BASELINE="360 814 1759 814" HPOS="360" VPOS="775"
-                                                WIDTH="1399" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="360 775 1759 775 1759 825 360 825"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Voilà l&#39;affaire dans toute sa sécheresse. Il n’entre pas dans notre"
-                                                  HPOS="360" VPOS="775" WIDTH="1399" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT176"
-                                                BASELINE="310 864 1759 864" HPOS="310" VPOS="824"
-                                                WIDTH="1449" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="310 824 1759 824 1759 874 310 874"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="cadre d’en rendre un compte régulier, complet, donnant les faits dans"
-                                                  HPOS="310" VPOS="824" WIDTH="1449" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT176"
-                                                BASELINE="311 913 1759 913" HPOS="311" VPOS="874"
-                                                WIDTH="1448" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="311 874 1759 874 1759 926 311 926"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="l’ordre où ils se sont déroulés devant le Tribunal. Il nous semble plus"
-                                                  HPOS="311" VPOS="874" WIDTH="1448" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT176"
-                                                BASELINE="311 963 1759 963" HPOS="311" VPOS="924"
-                                                WIDTH="1448" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="311 924 1759 924 1759 975 311 975"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="instructif de rappeler les choses les plus intéressantes, en groupant les"
-                                                  HPOS="311" VPOS="924" WIDTH="1448" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT176"
-                                                BASELINE="306 1013 1757 1013" HPOS="306" VPOS="973"
-                                                WIDTH="1451" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="306 973 1757 973 1757 1025 306 1025"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="détails éparpillés dans le rapport des experts, l’interrogatoire, le ré¬"
-                                                  HPOS="306" VPOS="973" WIDTH="1451" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT176"
-                                                BASELINE="307 1062 832 1062" HPOS="307" VPOS="1023"
-                                                WIDTH="525" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="307 1023 832 1023 832 1073 307 1073"/>
-                                                </Shape>
-                                                <String CONTENT="quisitoire et la plaidoirie."
-                                                  HPOS="307" VPOS="1023" WIDTH="525" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT176"
-                                                BASELINE="358 1122 1757 1122" HPOS="358" VPOS="1080"
-                                                WIDTH="1399" HEIGHT="61">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="358 1080 1757 1080 1757 1141 358 1141"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Notice sur Lucas. — Il est âgé de 52 ans. Fils d’un journalier de"
-                                                  HPOS="358" VPOS="1080" WIDTH="1399" HEIGHT="61"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT176"
-                                                BASELINE="307 1172 1751 1172" HPOS="307" VPOS="1133"
-                                                WIDTH="1444" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="307 1133 1751 1133 1751 1184 307 1184"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Lanneray, près de Châteaudun, il ne reçut qu’une instruction primaire,"
-                                                  HPOS="307" VPOS="1133" WIDTH="1444" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT176"
-                                                BASELINE="305 1221 1753 1221" HPOS="305" VPOS="1181"
-                                                WIDTH="1448" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="305 1181 1753 1181 1753 1233 305 1233"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="travailla chez un avoué et au greffe des hypothèques de cette ville. Il"
-                                                  HPOS="305" VPOS="1181" WIDTH="1448" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT176"
-                                                BASELINE="304 1270 1755 1270" HPOS="304" VPOS="1232"
-                                                WIDTH="1451" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="304 1232 1755 1232 1755 1283 304 1283"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="montrait beaucoup de goût pour l’étude, et fréquentait assidûment"
-                                                  HPOS="304" VPOS="1232" WIDTH="1451" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT176"
-                                                BASELINE="303 1320 1753 1320" HPOS="303" VPOS="1281"
-                                                WIDTH="1450" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="303 1281 1753 1281 1753 1333 303 1333"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="la bibliothèque publique. Venu à Paris en 1852, il brigua un emploi"
-                                                  HPOS="303" VPOS="1281" WIDTH="1450" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT176"
-                                                BASELINE="302 1370 1756 1370" HPOS="302" VPOS="1331"
-                                                WIDTH="1454" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="302 1331 1756 1331 1756 1383 302 1383"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="à la Bibliothèque impériale ; mais il fut repoussé, faute d’un diplôme"
-                                                  HPOS="302" VPOS="1331" WIDTH="1454" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT176"
-                                                BASELINE="302 1419 1752 1419" HPOS="302" VPOS="1380"
-                                                WIDTH="1450" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="302 1380 1752 1380 1752 1432 302 1432"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="de bachelier. Son ignorance du latin lui fit également refuser un emploi"
-                                                  HPOS="302" VPOS="1380" WIDTH="1450" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT176"
-                                                BASELINE="300 1468 1757 1468" HPOS="300" VPOS="1430"
-                                                WIDTH="1457" HEIGHT="49">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="300 1430 1757 1430 1757 1479 300 1479"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="dans une librairie ancienne importante. « A ce moment, lit-on dans le"
-                                                  HPOS="300" VPOS="1430" WIDTH="1457" HEIGHT="49"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT176"
-                                                BASELINE="300 1518 1755 1518" HPOS="300" VPOS="1478"
-                                                WIDTH="1455" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="300 1478 1755 1478 1755 1531 300 1531"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="réquisitoire, un malheureux hasard l’a mis en rapport avec le directeur"
-                                                  HPOS="300" VPOS="1478" WIDTH="1455" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT176"
-                                                BASELINE="300 1567 1753 1567" HPOS="300" VPOS="1528"
-                                                WIDTH="1453" HEIGHT="57">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="300 1528 1753 1528 1753 1585 300 1585"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="d’un cabinet généalogique d&#39;un triste renom, le cabinet Letellier,"
-                                                  HPOS="300" VPOS="1528" WIDTH="1453" HEIGHT="57"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT176"
-                                                BASELINE="300 1616 1756 1616" HPOS="300" VPOS="1577"
-                                                WIDTH="1456" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="300 1577 1756 1577 1756 1628 300 1628"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="ancien cabinet Courtois. C’est là, évidemment, que Lucas s’est perdu"
-                                                  HPOS="300" VPOS="1577" WIDTH="1456" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT176"
-                                                BASELINE="301 1666 1755 1666" HPOS="301" VPOS="1627"
-                                                WIDTH="1454" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="301 1627 1755 1627 1755 1678 301 1678"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="et qu’il est devenu ce qu’il est actuellement ^ C’est là en effet qu’il"
-                                                  HPOS="301" VPOS="1627" WIDTH="1454" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT176"
-                                                BASELINE="301 1715 1752 1715" HPOS="301" VPOS="1676"
-                                                WIDTH="1451" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="301 1676 1752 1676 1752 1728 301 1728"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="fabriqua les deux lettres de Montaigne dont il sera parlé plus loin."
-                                                  HPOS="301" VPOS="1676" WIDTH="1451" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_30" TAGREFS="LT176"
-                                                BASELINE="303 1764 1755 1764" HPOS="303" VPOS="1725"
-                                                WIDTH="1452" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="303 1725 1755 1725 1755 1777 303 1777"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Lucas fréquentait les cours de MM. Damiron, Lenormand et Géruzez,"
-                                                  HPOS="303" VPOS="1725" WIDTH="1452" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_31" TAGREFS="LT176"
-                                                BASELINE="300 1814 1756 1814" HPOS="300" VPOS="1774"
-                                                WIDTH="1456" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="300 1774 1756 1774 1756 1827 300 1827"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="et employait le reste de ses loisirs dans les bibliothèques. Lors de son"
-                                                  HPOS="300" VPOS="1774" WIDTH="1456" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_32" TAGREFS="LT176"
-                                                BASELINE="298 1863 1757 1863" HPOS="298" VPOS="1824"
-                                                WIDTH="1459" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="298 1824 1757 1824 1757 1875 298 1875"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="arrestation, Lucas était surveillé depuis un mois par la police. Il occu¬"
-                                                  HPOS="298" VPOS="1824" WIDTH="1459" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_33" TAGREFS="LT176"
-                                                BASELINE="301 1914 1759 1914" HPOS="301" VPOS="1873"
-                                                WIDTH="1458" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="301 1873 1759 1873 1759 1926 301 1926"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="pait un petit appartement, rue Saint-Georges, avec sa maîtresse (il était"
-                                                  HPOS="301" VPOS="1873" WIDTH="1458" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_34" TAGREFS="LT176"
-                                                BASELINE="299 1963 1756 1963" HPOS="299" VPOS="1925"
-                                                WIDTH="1457" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="299 1925 1756 1925 1756 1976 299 1976"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="veuf et père de famille). On avait remarqué qu’il ne sortait de chez lui"
-                                                  HPOS="299" VPOS="1925" WIDTH="1457" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_35" TAGREFS="LT176"
-                                                BASELINE="300 2013 1755 2013" HPOS="300" VPOS="1973"
-                                                WIDTH="1455" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="300 1973 1755 1973 1755 2025 300 2025"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="qu’à onze heures, déjeunait au café Riche ou dans une crémerie,"
-                                                  HPOS="300" VPOS="1973" WIDTH="1455" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_36" TAGREFS="LT176"
-                                                BASELINE="301 2062 1759 2062" HPOS="301" VPOS="2023"
-                                                WIDTH="1458" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="301 2023 1759 2023 1759 2075 301 2075"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="allait travailler à la Bibliothèque impériale, rentrait chez lui après"
-                                                  HPOS="301" VPOS="2023" WIDTH="1458" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_37" TAGREFS="LT176"
-                                                BASELINE="302 2112 1760 2112" HPOS="302" VPOS="2072"
-                                                WIDTH="1458" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="302 2072 1760 2072 1760 2125 302 2125"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="dîner, ne parlait à personne et n’allait que chez M. Chasles. M. le Pré¬"
-                                                  HPOS="302" VPOS="2072" WIDTH="1458" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_38" TAGREFS="LT176"
-                                                BASELINE="303 2162 1760 2162" HPOS="303" VPOS="2121"
-                                                WIDTH="1457" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="303 2121 1760 2121 1760 2174 303 2174"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="sident lui ayant demandé ce qu’il avait fait des 140,000 fr. et plus"
-                                                  HPOS="303" VPOS="2121" WIDTH="1457" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_39" TAGREFS="LT176"
-                                                BASELINE="308 2211 1761 2211" HPOS="308" VPOS="2166"
-                                                WIDTH="1453" HEIGHT="57">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="308 2166 1761 2166 1761 2223 308 2223"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="que lui avait comptés M. Chasles, il a d’abord avoué qu’il avait mis en"
-                                                  HPOS="308" VPOS="2166" WIDTH="1453" HEIGHT="57"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_40" TAGREFS="LT176"
-                                                BASELINE="305 2261 1449 2261" HPOS="305" VPOS="2222"
-                                                WIDTH="1144" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="305 2222 1449 2222 1449 2272 305 2272"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="réserve 4 à 5,000 fr., puis il est revenu sur ses aveux."
-                                                  HPOS="305" VPOS="2222" WIDTH="1144" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_41" TAGREFS="LT176"
-                                                BASELINE="357 2325 1760 2325" HPOS="357" VPOS="2285"
-                                                WIDTH="1403" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="357 2285 1760 2285 1760 2338 357 2338"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="PREMIERS ACHATS DE M. CHASLES. — Voici ce que dit à ce sujet"
-                                                  HPOS="357" VPOS="2285" WIDTH="1403" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_42" TAGREFS="LT176"
-                                                BASELINE="307 2375 1760 2375" HPOS="307" VPOS="2336"
-                                                WIDTH="1453" HEIGHT="56">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="307 2336 1760 2336 1760 2392 307 2392"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="M Chasles, dans sa déposition ; « Il y a longtemps déjà, plus de huit"
-                                                  HPOS="307" VPOS="2336" WIDTH="1453" HEIGHT="56"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_43" TAGREFS="LT176"
-                                                BASELINE="306 2425 1758 2425" HPOS="306" VPOS="2385"
-                                                WIDTH="1452" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="306 2385 1758 2385 1758 2436 306 2436"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="ans, M. Lucas s’est présenté chez moi; il se disait de Châteaudun;"
-                                                  HPOS="306" VPOS="2385" WIDTH="1452" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_44" TAGREFS="LT176"
-                                                BASELINE="307 2474 1763 2474" HPOS="307" VPOS="2435"
-                                                WIDTH="1456" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="307 2435 1763 2435 1763 2487 307 2487"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="comme je suis de Chartres, nous étions presque du même pays, je le"
-                                                  HPOS="307" VPOS="2435" WIDTH="1456" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_45" TAGREFS="LT176"
-                                                BASELINE="308 2523 1753 2523" HPOS="308" VPOS="2485"
-                                                WIDTH="1445" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="308 2485 1753 2485 1753 2536 308 2536"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="reçus. 11 médit qu’il était chargé de placer, de la part d’un collection¬"
-                                                  HPOS="308" VPOS="2485" WIDTH="1445" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_46" TAGREFS="LT176"
-                                                BASELINE="309 2574 1762 2574" HPOS="309" VPOS="2534"
-                                                WIDTH="1453" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="309 2534 1762 2534 1762 2586 309 2586"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="neur, une grande quantité de manuscrits et de livres d’une grande"
-                                                  HPOS="309" VPOS="2534" WIDTH="1453" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_47" TAGREFS="LT176"
-                                                BASELINE="311 2623 1762 2623" HPOS="311" VPOS="2584"
-                                                WIDTH="1451" HEIGHT="58">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="311 2584 1762 2584 1762 2642 311 2642"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="valeur, et, tout particulièrement des lettres autographes. La première"
-                                                  HPOS="311" VPOS="2584" WIDTH="1451" HEIGHT="58"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_48" TAGREFS="LT176"
-                                                BASELINE="312 2672 1760 2672" HPOS="312" VPOS="2632"
-                                                WIDTH="1448" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="312 2632 1760 2632 1760 2686 312 2686"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="pièce qu’il m’apporta fut une lettre de Molière, qu’il me fit payer"
-                                                  HPOS="312" VPOS="2632" WIDTH="1448" HEIGHT="54"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1870_03_RDA_N025-2.png</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="1884" HEIGHT="2836" PHYSICAL_IMG_NR="37" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1884" HEIGHT="2836"><TextBlock HPOS="953" VPOS="230" WIDTH="170" HEIGHT="39" ID="r_1_1" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="953 230 1123 230 1123 269 953 269"/>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="954 268 1122 268" HPOS="954" VPOS="231" WIDTH="168" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="954 231 1122 231 1122 268 954 268"/>
+                                                </Shape><String CONTENT="— 2  —" HPOS="954" VPOS="231" WIDTH="168" HEIGHT="37"/></TextLine></TextBlock><TextBlock HPOS="275" VPOS="307" WIDTH="1517" HEIGHT="2408" ID="eSc_textblock_e45ea0ab" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="275 307 275 2715 1792 2710 1787 307"/>
+                                        </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="315 368 1760 368" HPOS="315" VPOS="329" WIDTH="1445" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="315 329 1760 329 1760 381 315 381"/>
+                                                </Shape><String CONTENT="brillante qui n’a pas duré moins de deux heures. Le ministère public" HPOS="315" VPOS="329" WIDTH="1445" HEIGHT="52"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="312 418 1761 418" HPOS="312" VPOS="378" WIDTH="1449" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="312 378 1761 378 1761 431 312 431"/>
+                                                </Shape><String CONTENT="a répliqué. M. Chasles a été rappelé pour quelques explications. Comme" HPOS="312" VPOS="378" WIDTH="1449" HEIGHT="53"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="314 467 1759 467" HPOS="314" VPOS="428" WIDTH="1445" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="314 428 1759 428 1759 480 314 480"/>
+                                                </Shape><String CONTENT="il parlait des trois cents premières lettres de Galilée que Lucas lui" HPOS="314" VPOS="428" WIDTH="1445" HEIGHT="52"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="312 517 1761 517" HPOS="312" VPOS="477" WIDTH="1449" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="312 477 1761 477 1761 530 312 530"/>
+                                                </Shape><String CONTENT="avait livrées d’abord, le président a dit en passant : «C'était déjà" HPOS="312" VPOS="477" WIDTH="1449" HEIGHT="53"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="313 566 1755 566" HPOS="313" VPOS="527" WIDTH="1442" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="313 527 1755 527 1755 578 313 578"/>
+                                                </Shape><String CONTENT="beaucoup trop », ce qui a excité une hilarité générale dans la salle." HPOS="313" VPOS="527" WIDTH="1442" HEIGHT="51"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="313 616 1760 616" HPOS="313" VPOS="576" WIDTH="1447" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="313 576 1760 576 1760 627 313 627"/>
+                                                </Shape><String CONTENT="Après une courte réplique du défenseur, le Tribunal s’est retiré dans" HPOS="313" VPOS="576" WIDTH="1447" HEIGHT="51"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="314 665 1759 665" HPOS="314" VPOS="626" WIDTH="1445" HEIGHT="55"><Shape>
+                                                  <Polygon POINTS="314 626 1759 626 1759 681 314 681"/>
+                                                </Shape><String CONTENT="la chambre des délibérations, d’où il a rapporté un verdict condam¬" HPOS="314" VPOS="626" WIDTH="1445" HEIGHT="55"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="313 715 1760 715" HPOS="313" VPOS="676" WIDTH="1447" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="313 676 1760 676 1760 726 313 726"/>
+                                                </Shape><String CONTENT="nant Vrain-Lucas à deux ans d’emprisonnement, 500 fr. d'amende et" HPOS="313" VPOS="676" WIDTH="1447" HEIGHT="50"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="311 764 550 764" HPOS="311" VPOS="725" WIDTH="239" HEIGHT="49"><Shape>
+                                                  <Polygon POINTS="311 725 550 725 550 774 311 774"/>
+                                                </Shape><String CONTENT="aux dépens." HPOS="311" VPOS="725" WIDTH="239" HEIGHT="49"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="360 814 1759 814" HPOS="360" VPOS="775" WIDTH="1399" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="360 775 1759 775 1759 825 360 825"/>
+                                                </Shape><String CONTENT="Voilà l'affaire dans toute sa sécheresse. Il n’entre pas dans notre" HPOS="360" VPOS="775" WIDTH="1399" HEIGHT="50"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="310 864 1759 864" HPOS="310" VPOS="824" WIDTH="1449" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="310 824 1759 824 1759 874 310 874"/>
+                                                </Shape><String CONTENT="cadre d’en rendre un compte régulier, complet, donnant les faits dans" HPOS="310" VPOS="824" WIDTH="1449" HEIGHT="50"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="311 913 1759 913" HPOS="311" VPOS="874" WIDTH="1448" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="311 874 1759 874 1759 926 311 926"/>
+                                                </Shape><String CONTENT="l’ordre où ils se sont déroulés devant le Tribunal. Il nous semble plus" HPOS="311" VPOS="874" WIDTH="1448" HEIGHT="52"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="311 963 1759 963" HPOS="311" VPOS="924" WIDTH="1448" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="311 924 1759 924 1759 975 311 975"/>
+                                                </Shape><String CONTENT="instructif de rappeler les choses les plus intéressantes, en groupant les" HPOS="311" VPOS="924" WIDTH="1448" HEIGHT="51"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="306 1013 1757 1013" HPOS="306" VPOS="973" WIDTH="1451" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="306 973 1757 973 1757 1025 306 1025"/>
+                                                </Shape><String CONTENT="détails éparpillés dans le rapport des experts, l’interrogatoire, le ré¬" HPOS="306" VPOS="973" WIDTH="1451" HEIGHT="52"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="307 1062 832 1062" HPOS="307" VPOS="1023" WIDTH="525" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="307 1023 832 1023 832 1073 307 1073"/>
+                                                </Shape><String CONTENT="quisitoire et la plaidoirie." HPOS="307" VPOS="1023" WIDTH="525" HEIGHT="50"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="358 1122 1757 1122" HPOS="358" VPOS="1080" WIDTH="1399" HEIGHT="61"><Shape>
+                                                  <Polygon POINTS="358 1080 1757 1080 1757 1141 358 1141"/>
+                                                </Shape><String CONTENT="Notice sur Lucas. — Il est âgé de 52 ans. Fils d’un journalier de" HPOS="358" VPOS="1080" WIDTH="1399" HEIGHT="61"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="307 1172 1751 1172" HPOS="307" VPOS="1133" WIDTH="1444" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="307 1133 1751 1133 1751 1184 307 1184"/>
+                                                </Shape><String CONTENT="Lanneray, près de Châteaudun, il ne reçut qu’une instruction primaire," HPOS="307" VPOS="1133" WIDTH="1444" HEIGHT="51"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="305 1221 1753 1221" HPOS="305" VPOS="1181" WIDTH="1448" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="305 1181 1753 1181 1753 1233 305 1233"/>
+                                                </Shape><String CONTENT="travailla chez un avoué et au greffe des hypothèques de cette ville. Il" HPOS="305" VPOS="1181" WIDTH="1448" HEIGHT="52"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="304 1270 1755 1270" HPOS="304" VPOS="1232" WIDTH="1451" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="304 1232 1755 1232 1755 1283 304 1283"/>
+                                                </Shape><String CONTENT="montrait beaucoup de goût pour l’étude, et fréquentait assidûment" HPOS="304" VPOS="1232" WIDTH="1451" HEIGHT="51"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="303 1320 1753 1320" HPOS="303" VPOS="1281" WIDTH="1450" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="303 1281 1753 1281 1753 1333 303 1333"/>
+                                                </Shape><String CONTENT="la bibliothèque publique. Venu à Paris en 1852, il brigua un emploi" HPOS="303" VPOS="1281" WIDTH="1450" HEIGHT="52"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="302 1370 1756 1370" HPOS="302" VPOS="1331" WIDTH="1454" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="302 1331 1756 1331 1756 1383 302 1383"/>
+                                                </Shape><String CONTENT="à la Bibliothèque impériale ; mais il fut repoussé, faute d’un diplôme" HPOS="302" VPOS="1331" WIDTH="1454" HEIGHT="52"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="302 1419 1752 1419" HPOS="302" VPOS="1380" WIDTH="1450" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="302 1380 1752 1380 1752 1432 302 1432"/>
+                                                </Shape><String CONTENT="de bachelier. Son ignorance du latin lui fit également refuser un emploi" HPOS="302" VPOS="1380" WIDTH="1450" HEIGHT="52"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="300 1468 1757 1468" HPOS="300" VPOS="1430" WIDTH="1457" HEIGHT="49"><Shape>
+                                                  <Polygon POINTS="300 1430 1757 1430 1757 1479 300 1479"/>
+                                                </Shape><String CONTENT="dans une librairie ancienne importante. « A ce moment, lit-on dans le" HPOS="300" VPOS="1430" WIDTH="1457" HEIGHT="49"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="300 1518 1755 1518" HPOS="300" VPOS="1478" WIDTH="1455" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="300 1478 1755 1478 1755 1531 300 1531"/>
+                                                </Shape><String CONTENT="réquisitoire, un malheureux hasard l’a mis en rapport avec le directeur" HPOS="300" VPOS="1478" WIDTH="1455" HEIGHT="53"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="300 1567 1753 1567" HPOS="300" VPOS="1528" WIDTH="1453" HEIGHT="57"><Shape>
+                                                  <Polygon POINTS="300 1528 1753 1528 1753 1585 300 1585"/>
+                                                </Shape><String CONTENT="d’un cabinet généalogique d'un triste renom, le cabinet Letellier," HPOS="300" VPOS="1528" WIDTH="1453" HEIGHT="57"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="300 1616 1756 1616" HPOS="300" VPOS="1577" WIDTH="1456" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="300 1577 1756 1577 1756 1628 300 1628"/>
+                                                </Shape><String CONTENT="ancien cabinet Courtois. C’est là, évidemment, que Lucas s’est perdu" HPOS="300" VPOS="1577" WIDTH="1456" HEIGHT="51"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="301 1666 1755 1666" HPOS="301" VPOS="1627" WIDTH="1454" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="301 1627 1755 1627 1755 1678 301 1678"/>
+                                                </Shape><String CONTENT="et qu’il est devenu ce qu’il est actuellement ^ C’est là en effet qu’il" HPOS="301" VPOS="1627" WIDTH="1454" HEIGHT="51"/></TextLine><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="301 1715 1752 1715" HPOS="301" VPOS="1676" WIDTH="1451" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="301 1676 1752 1676 1752 1728 301 1728"/>
+                                                </Shape><String CONTENT="fabriqua les deux lettres de Montaigne dont il sera parlé plus loin." HPOS="301" VPOS="1676" WIDTH="1451" HEIGHT="52"/></TextLine><TextLine ID="tl_30" TAGREFS="LT1" BASELINE="303 1764 1755 1764" HPOS="303" VPOS="1725" WIDTH="1452" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="303 1725 1755 1725 1755 1777 303 1777"/>
+                                                </Shape><String CONTENT="Lucas fréquentait les cours de MM. Damiron, Lenormand et Géruzez," HPOS="303" VPOS="1725" WIDTH="1452" HEIGHT="52"/></TextLine><TextLine ID="tl_31" TAGREFS="LT1" BASELINE="300 1814 1756 1814" HPOS="300" VPOS="1774" WIDTH="1456" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="300 1774 1756 1774 1756 1827 300 1827"/>
+                                                </Shape><String CONTENT="et employait le reste de ses loisirs dans les bibliothèques. Lors de son" HPOS="300" VPOS="1774" WIDTH="1456" HEIGHT="53"/></TextLine><TextLine ID="tl_32" TAGREFS="LT1" BASELINE="298 1863 1757 1863" HPOS="298" VPOS="1824" WIDTH="1459" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="298 1824 1757 1824 1757 1875 298 1875"/>
+                                                </Shape><String CONTENT="arrestation, Lucas était surveillé depuis un mois par la police. Il occu¬" HPOS="298" VPOS="1824" WIDTH="1459" HEIGHT="51"/></TextLine><TextLine ID="tl_33" TAGREFS="LT1" BASELINE="301 1914 1759 1914" HPOS="301" VPOS="1873" WIDTH="1458" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="301 1873 1759 1873 1759 1926 301 1926"/>
+                                                </Shape><String CONTENT="pait un petit appartement, rue Saint-Georges, avec sa maîtresse (il était" HPOS="301" VPOS="1873" WIDTH="1458" HEIGHT="53"/></TextLine><TextLine ID="tl_34" TAGREFS="LT1" BASELINE="299 1963 1756 1963" HPOS="299" VPOS="1925" WIDTH="1457" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="299 1925 1756 1925 1756 1976 299 1976"/>
+                                                </Shape><String CONTENT="veuf et père de famille). On avait remarqué qu’il ne sortait de chez lui" HPOS="299" VPOS="1925" WIDTH="1457" HEIGHT="51"/></TextLine><TextLine ID="tl_35" TAGREFS="LT1" BASELINE="300 2013 1755 2013" HPOS="300" VPOS="1973" WIDTH="1455" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="300 1973 1755 1973 1755 2025 300 2025"/>
+                                                </Shape><String CONTENT="qu’à onze heures, déjeunait au café Riche ou dans une crémerie," HPOS="300" VPOS="1973" WIDTH="1455" HEIGHT="52"/></TextLine><TextLine ID="tl_36" TAGREFS="LT1" BASELINE="301 2062 1759 2062" HPOS="301" VPOS="2023" WIDTH="1458" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="301 2023 1759 2023 1759 2075 301 2075"/>
+                                                </Shape><String CONTENT="allait travailler à la Bibliothèque impériale, rentrait chez lui après" HPOS="301" VPOS="2023" WIDTH="1458" HEIGHT="52"/></TextLine><TextLine ID="tl_37" TAGREFS="LT1" BASELINE="302 2112 1760 2112" HPOS="302" VPOS="2072" WIDTH="1458" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="302 2072 1760 2072 1760 2125 302 2125"/>
+                                                </Shape><String CONTENT="dîner, ne parlait à personne et n’allait que chez M. Chasles. M. le Pré¬" HPOS="302" VPOS="2072" WIDTH="1458" HEIGHT="53"/></TextLine><TextLine ID="tl_38" TAGREFS="LT1" BASELINE="303 2162 1760 2162" HPOS="303" VPOS="2121" WIDTH="1457" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="303 2121 1760 2121 1760 2174 303 2174"/>
+                                                </Shape><String CONTENT="sident lui ayant demandé ce qu’il avait fait des 140,000 fr. et plus" HPOS="303" VPOS="2121" WIDTH="1457" HEIGHT="53"/></TextLine><TextLine ID="tl_39" TAGREFS="LT1" BASELINE="308 2211 1761 2211" HPOS="308" VPOS="2166" WIDTH="1453" HEIGHT="57"><Shape>
+                                                  <Polygon POINTS="308 2166 1761 2166 1761 2223 308 2223"/>
+                                                </Shape><String CONTENT="que lui avait comptés M. Chasles, il a d’abord avoué qu’il avait mis en" HPOS="308" VPOS="2166" WIDTH="1453" HEIGHT="57"/></TextLine><TextLine ID="tl_40" TAGREFS="LT1" BASELINE="305 2261 1449 2261" HPOS="305" VPOS="2222" WIDTH="1144" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="305 2222 1449 2222 1449 2272 305 2272"/>
+                                                </Shape><String CONTENT="réserve 4 à 5,000 fr., puis il est revenu sur ses aveux." HPOS="305" VPOS="2222" WIDTH="1144" HEIGHT="50"/></TextLine><TextLine ID="tl_41" TAGREFS="LT1" BASELINE="357 2325 1760 2325" HPOS="357" VPOS="2285" WIDTH="1403" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="357 2285 1760 2285 1760 2338 357 2338"/>
+                                                </Shape><String CONTENT="PREMIERS ACHATS DE M. CHASLES. — Voici ce que dit à ce sujet" HPOS="357" VPOS="2285" WIDTH="1403" HEIGHT="53"/></TextLine><TextLine ID="tl_42" TAGREFS="LT1" BASELINE="307 2375 1760 2375" HPOS="307" VPOS="2336" WIDTH="1453" HEIGHT="56"><Shape>
+                                                  <Polygon POINTS="307 2336 1760 2336 1760 2392 307 2392"/>
+                                                </Shape><String CONTENT="M Chasles, dans sa déposition ; « Il y a longtemps déjà, plus de huit" HPOS="307" VPOS="2336" WIDTH="1453" HEIGHT="56"/></TextLine><TextLine ID="tl_43" TAGREFS="LT1" BASELINE="306 2425 1758 2425" HPOS="306" VPOS="2385" WIDTH="1452" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="306 2385 1758 2385 1758 2436 306 2436"/>
+                                                </Shape><String CONTENT="ans, M. Lucas s’est présenté chez moi; il se disait de Châteaudun;" HPOS="306" VPOS="2385" WIDTH="1452" HEIGHT="51"/></TextLine><TextLine ID="tl_44" TAGREFS="LT1" BASELINE="307 2474 1763 2474" HPOS="307" VPOS="2435" WIDTH="1456" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="307 2435 1763 2435 1763 2487 307 2487"/>
+                                                </Shape><String CONTENT="comme je suis de Chartres, nous étions presque du même pays, je le" HPOS="307" VPOS="2435" WIDTH="1456" HEIGHT="52"/></TextLine><TextLine ID="tl_45" TAGREFS="LT1" BASELINE="308 2523 1753 2523" HPOS="308" VPOS="2485" WIDTH="1445" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="308 2485 1753 2485 1753 2536 308 2536"/>
+                                                </Shape><String CONTENT="reçus. 11 médit qu’il était chargé de placer, de la part d’un collection¬" HPOS="308" VPOS="2485" WIDTH="1445" HEIGHT="51"/></TextLine><TextLine ID="tl_46" TAGREFS="LT1" BASELINE="309 2574 1762 2574" HPOS="309" VPOS="2534" WIDTH="1453" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="309 2534 1762 2534 1762 2586 309 2586"/>
+                                                </Shape><String CONTENT="neur, une grande quantité de manuscrits et de livres d’une grande" HPOS="309" VPOS="2534" WIDTH="1453" HEIGHT="52"/></TextLine><TextLine ID="tl_47" TAGREFS="LT1" BASELINE="311 2623 1762 2623" HPOS="311" VPOS="2584" WIDTH="1451" HEIGHT="58"><Shape>
+                                                  <Polygon POINTS="311 2584 1762 2584 1762 2642 311 2642"/>
+                                                </Shape><String CONTENT="valeur, et, tout particulièrement des lettres autographes. La première" HPOS="311" VPOS="2584" WIDTH="1451" HEIGHT="58"/></TextLine><TextLine ID="tl_48" TAGREFS="LT1" BASELINE="312 2672 1760 2672" HPOS="312" VPOS="2632" WIDTH="1448" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="312 2632 1760 2632 1760 2686 312 2686"/>
+                                                </Shape><String CONTENT="pièce qu’il m’apporta fut une lettre de Molière, qu’il me fit payer" HPOS="312" VPOS="2632" WIDTH="1448" HEIGHT="54"/></TextLine></TextBlock></PrintSpace></Page></Layout>
 </alto>

@@ -1,421 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>Cat_Rouen_1853_typo_0002.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT486" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT487" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT489" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT490" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT491" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT492" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT493" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT494" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="LT175" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="1939" HEIGHT="3117" PHYSICAL_IMG_NR="25" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1939" HEIGHT="3117">
-
-                                <TextBlock HPOS="496" VPOS="615" WIDTH="1143" HEIGHT="1907"
-                                        ID="eSc_textblock_73d424a6" TAGREFS="BT487">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="496 615 496 2522 1639 2522 1639 615"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT175"
-                                                BASELINE="705 677 782 678 1422 693" HPOS="705"
-                                                VPOS="628" WIDTH="718" HEIGHT="74">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="705 628 1423 628 1423 702 705 702"/>
-                                                </Shape>
-                                                <String CONTENT="CHARPENTIER (EUGÈNE)," HPOS="705"
-                                                  VPOS="628" WIDTH="718" HEIGHT="74"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT175"
-                                                BASELINE="834 739 862 742 925 739 972 740 1126 747 1291 745"
-                                                HPOS="833" VPOS="712" WIDTH="458" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="833 712 1291 712 1291 749 833 749"/>
-                                                </Shape>
-                                                <String CONTENT="1, rue de Provence, Versailles."
-                                                  HPOS="833" VPOS="712" WIDTH="458" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT175"
-                                                BASELINE="550 801 622 805 702 804 834 806 1026 818 1274 812 1364 813 1510 814 1573 814"
-                                                HPOS="550" VPOS="759" WIDTH="1023" HEIGHT="70">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="550 759 1573 759 1573 829 550 829"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="72. Le Poëte Sedaine, composant son Opéra de"
-                                                  HPOS="550" VPOS="759" WIDTH="1023" HEIGHT="70"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT175"
-                                                BASELINE="720 873 817 874 877 875 1034 879"
-                                                HPOS="720" VPOS="834" WIDTH="314" HEIGHT="45">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="720 834 1034 834 1034 879 720 879"/>
-                                                </Shape>
-                                                <String CONTENT="Rose et Colas." HPOS="720"
-                                                  VPOS="834" WIDTH="314" HEIGHT="45"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="line_1591806453163_820" TAGREFS="LT175"
-                                                BASELINE="1033 959 1099 961" HPOS="1033" VPOS="914"
-                                                WIDTH="67" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="1034 914 1100 916 1099 966 1033 964"/>
-                                                </Shape>
-                                                <String CONTENT="—" HPOS="1033" VPOS="914"
-                                                  WIDTH="67" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT175"
-                                                BASELINE="983 1091 1132 1102" HPOS="983" VPOS="1043"
-                                                WIDTH="149" HEIGHT="59">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="983 1043 1132 1043 1132 1102 983 1102"/>
-                                                </Shape>
-                                                <String CONTENT="COIC," HPOS="983" VPOS="1043"
-                                                  WIDTH="149" HEIGHT="59"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT175"
-                                                BASELINE="750 1168 794 1171 861 1168 1024 1170 1260 1178 1369 1176"
-                                                HPOS="749" VPOS="1140" WIDTH="620" HEIGHT="43">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="749 1140 1369 1140 1369 1183 749 1183"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="95, rue Neuve-des Petits-Champs, Paris."
-                                                  HPOS="749" VPOS="1140" WIDTH="620" HEIGHT="43"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT175"
-                                                BASELINE="554 1246 619 1248 747 1250 969 1251"
-                                                HPOS="554" VPOS="1207" WIDTH="415" HEIGHT="46">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="554 1207 969 1207 969 1253 554 1253"/>
-                                                </Shape>
-                                                <String CONTENT="73. Fête bretonne." HPOS="554"
-                                                  VPOS="1207" WIDTH="415" HEIGHT="46"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="line_1591806457857_828" TAGREFS="LT175"
-                                                BASELINE="1029 1301 1093 1303" HPOS="1029"
-                                                VPOS="1256" WIDTH="65" HEIGHT="52">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="1030 1256 1094 1258 1093 1308 1029 1306"/>
-                                                </Shape>
-                                                <String CONTENT="—" HPOS="1029" VPOS="1256"
-                                                  WIDTH="65" HEIGHT="52"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT175"
-                                                BASELINE="888 1413 1064 1416 1210 1425" HPOS="887"
-                                                VPOS="1364" WIDTH="323" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="887 1364 1210 1364 1210 1433 887 1433"/>
-                                                </Shape>
-                                                <String CONTENT="COLIN (A.)," HPOS="887" VPOS="1364"
-                                                  WIDTH="323" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT175"
-                                                BASELINE="824 1487 866 1495 943 1491 1006 1490 1163 1497 1281 1494"
-                                                HPOS="824" VPOS="1462" WIDTH="457" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="824 1462 1281 1462 1281 1500 824 1500"/>
-                                                </Shape>
-                                                <String CONTENT="13, rue du Jardinet, Paris."
-                                                  HPOS="824" VPOS="1462" WIDTH="457" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT175"
-                                                BASELINE="546 1570 612 1571 887 1576" HPOS="546"
-                                                VPOS="1530" WIDTH="341" HEIGHT="46">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="546 1530 887 1530 887 1576 546 1576"/>
-                                                </Shape>
-                                                <String CONTENT="74. Masaniello." HPOS="546"
-                                                  VPOS="1530" WIDTH="341" HEIGHT="46"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT175"
-                                                BASELINE="546 1641 611 1645 727 1645 860 1648 1081 1652"
-                                                HPOS="546" VPOS="1601" WIDTH="535" HEIGHT="60">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="546 1601 1081 1601 1081 1661 546 1661"/>
-                                                </Shape>
-                                                <String CONTENT="75. Une jeune Orientale" HPOS="546"
-                                                  VPOS="1601" WIDTH="535" HEIGHT="60"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="line_1591806462392_836" TAGREFS="LT175"
-                                                BASELINE="1021 1736 1080 1740" HPOS="1021"
-                                                VPOS="1691" WIDTH="62" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="1024 1691 1083 1695 1080 1745 1021 1741"/>
-                                                </Shape>
-                                                <String CONTENT="—" HPOS="1021" VPOS="1691"
-                                                  WIDTH="62" HEIGHT="54"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT175"
-                                                BASELINE="683 1843 897 1845 964 1864 1413 1862"
-                                                HPOS="682" VPOS="1795" WIDTH="731" HEIGHT="75">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="682 1795 1413 1795 1413 1870 682 1870"/>
-                                                </Shape>
-                                                <String CONTENT="COURT (JOSEPH-DÉSIRÉ)," HPOS="682"
-                                                  VPOS="1795" WIDTH="731" HEIGHT="75"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT175"
-                                                BASELINE="728 1905 919 1907 966 1908 1074 1916 1106 1911 1356 1919"
-                                                HPOS="728" VPOS="1878" WIDTH="628" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="728 1878 1356 1878 1356 1920 728 1920"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Conservateur du Musée, à l’Hôtel-de-Ville,"
-                                                  HPOS="728" VPOS="1878" WIDTH="628" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT175"
-                                                BASELINE="810 1958 837 1958 894 1965 959 1962 1177 1970 1297 1967"
-                                                HPOS="810" VPOS="1933" WIDTH="488" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="810 1933 1298 1933 1298 1973 810 1973"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="et 11, rue Bourg-l&#39;Abbé, Rouen."
-                                                  HPOS="810" VPOS="1933" WIDTH="488" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT175"
-                                                BASELINE="534 2034 605 2037 807 2043 875 2045 937 2046 996 2047 1052 2049 1173 2051 1260 2052 1347 2052"
-                                                HPOS="534" VPOS="1996" WIDTH="814" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="534 1996 1348 1996 1348 2065 534 2065"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="76. Portrait de sa S. le Pape Pie IX."
-                                                  HPOS="534" VPOS="1996" WIDTH="814" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT175"
-                                                BASELINE="539 2106 563 2106 681 2109 871 2117 930 2118 958 2103 1033 2119 1253 2123 1297 2124 1476 2128"
-                                                HPOS="538" VPOS="2068" WIDTH="938" HEIGHT="60">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="538 2068 1476 2068 1476 2128 538 2128"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="77. idem de Mme la Comtesse de B...."
-                                                  HPOS="538" VPOS="2068" WIDTH="938" HEIGHT="60"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT175"
-                                                BASELINE="537 2178 602 2181 803 2184 871 2186 944 2186 1104 2205 1275 2202 1444 2197 1556 2199"
-                                                HPOS="537" VPOS="2139" WIDTH="1019" HEIGHT="71">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="537 2139 1556 2139 1556 2210 537 2210"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="78. Portrait de M. Henry Barbet, ancien Pair"
-                                                  HPOS="537" VPOS="2139" WIDTH="1019" HEIGHT="71"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT175"
-                                                BASELINE="696 2251 745 2253 915 2263 1132 2261 1197 2263 1554 2268"
-                                                HPOS="696" VPOS="2211" WIDTH="858" HEIGHT="60">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="696 2211 1554 2211 1554 2271 696 2271"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="de France, Président du Conseil-Général"
-                                                  HPOS="696" VPOS="2211" WIDTH="858" HEIGHT="60"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT175"
-                                                BASELINE="693 2323 796 2324 1187 2334" HPOS="693"
-                                                VPOS="2281" WIDTH="495" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="693 2281 1188 2281 1188 2335 693 2335"/>
-                                                </Shape>
-                                                <String CONTENT="de la Seine-Inférieure." HPOS="693"
-                                                  VPOS="2281" WIDTH="495" HEIGHT="54"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT175"
-                                                BASELINE="535 2390 603 2392 806 2395 886 2397 971 2398 1219 2408 1415 2408 1554 2400"
-                                                HPOS="535" VPOS="2350" WIDTH="1020" HEIGHT="74">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="535 2350 1555 2350 1555 2424 535 2424"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="79. Portrait de M. Thévenin, ancien pré¬"
-                                                  HPOS="535" VPOS="2350" WIDTH="1020" HEIGHT="74"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT175"
-                                                BASELINE="719 2463 850 2467 921 2468 1111 2472 1178 2474 1420 2479"
-                                                HPOS="719" VPOS="2423" WIDTH="702" HEIGHT="56">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="719 2423 1421 2423 1421 2479 719 2479"/>
-                                                </Shape>
-                                                <String CONTENT="sident du tribunal de commerce."
-                                                  HPOS="719" VPOS="2423" WIDTH="702" HEIGHT="56"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="926" VPOS="490" WIDTH="272" HEIGHT="76"
-                                        ID="eSc_textblock_2f3c2074" TAGREFS="BT491">
-                                        <Shape>
-                                                <Polygon POINTS="926 490 926 566 1198 566 1198 490"
-                                                />
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT175"
-                                                BASELINE="956 537 1014 537 1056 547 1167 540"
-                                                HPOS="956" VPOS="509" WIDTH="211" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="956 509 1167 509 1167 551 956 551"/>
-                                                </Shape>
-                                                <String CONTENT="— 12 —" HPOS="956" VPOS="509"
-                                                  WIDTH="211" HEIGHT="42"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="512" VPOS="1776" WIDTH="1078" HEIGHT="724"
-                                        ID="eSc_textblock_580078b9" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="512 2478 533 1776 1585 1786 1590 2500"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="512" VPOS="1345" WIDTH="822" HEIGHT="338"
-                                        ID="eSc_textblock_e5fe6b6e" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="512 1683 517 1362 1334 1345 1334 1661"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="523" VPOS="1013" WIDTH="860" HEIGHT="256"
-                                        ID="eSc_textblock_5f9f59ff" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="523 1269 528 1013 1383 1029 1383 1269"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="522" VPOS="621" WIDTH="1063" HEIGHT="310"
-                                        ID="eSc_textblock_71cb7d3d" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="539 926 522 621 1585 632 1585 931"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Rouen_1853_typo_0002.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="1939" HEIGHT="3117" PHYSICAL_IMG_NR="25" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1939" HEIGHT="3117"><TextBlock HPOS="496" VPOS="615" WIDTH="1143" HEIGHT="1907" ID="eSc_textblock_73d424a6" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="496 615 496 2522 1639 2522 1639 615"/>
+                                        </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="705 677 782 678 1422 693" HPOS="705" VPOS="628" WIDTH="718" HEIGHT="74"><Shape>
+                                                  <Polygon POINTS="705 628 1423 628 1423 702 705 702"/>
+                                                </Shape><String CONTENT="CHARPENTIER (EUGÈNE)," HPOS="705" VPOS="628" WIDTH="718" HEIGHT="74"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="834 739 862 742 925 739 972 740 1126 747 1291 745" HPOS="833" VPOS="712" WIDTH="458" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="833 712 1291 712 1291 749 833 749"/>
+                                                </Shape><String CONTENT="1, rue de Provence, Versailles." HPOS="833" VPOS="712" WIDTH="458" HEIGHT="37"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="550 801 622 805 702 804 834 806 1026 818 1274 812 1364 813 1510 814 1573 814" HPOS="550" VPOS="759" WIDTH="1023" HEIGHT="70"><Shape>
+                                                  <Polygon POINTS="550 759 1573 759 1573 829 550 829"/>
+                                                </Shape><String CONTENT="72. Le Poëte Sedaine, composant son Opéra de" HPOS="550" VPOS="759" WIDTH="1023" HEIGHT="70"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="720 873 817 874 877 875 1034 879" HPOS="720" VPOS="834" WIDTH="314" HEIGHT="45"><Shape>
+                                                  <Polygon POINTS="720 834 1034 834 1034 879 720 879"/>
+                                                </Shape><String CONTENT="Rose et Colas." HPOS="720" VPOS="834" WIDTH="314" HEIGHT="45"/></TextLine><TextLine ID="line_1591806453163_820" TAGREFS="LT1" BASELINE="1033 959 1099 961" HPOS="1033" VPOS="914" WIDTH="67" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="1034 914 1100 916 1099 966 1033 964"/>
+                                                </Shape><String CONTENT="—" HPOS="1033" VPOS="914" WIDTH="67" HEIGHT="52"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="983 1091 1132 1102" HPOS="983" VPOS="1043" WIDTH="149" HEIGHT="59"><Shape>
+                                                  <Polygon POINTS="983 1043 1132 1043 1132 1102 983 1102"/>
+                                                </Shape><String CONTENT="COIC," HPOS="983" VPOS="1043" WIDTH="149" HEIGHT="59"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="750 1168 794 1171 861 1168 1024 1170 1260 1178 1369 1176" HPOS="749" VPOS="1140" WIDTH="620" HEIGHT="43"><Shape>
+                                                  <Polygon POINTS="749 1140 1369 1140 1369 1183 749 1183"/>
+                                                </Shape><String CONTENT="95, rue Neuve-des Petits-Champs, Paris." HPOS="749" VPOS="1140" WIDTH="620" HEIGHT="43"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="554 1246 619 1248 747 1250 969 1251" HPOS="554" VPOS="1207" WIDTH="415" HEIGHT="46"><Shape>
+                                                  <Polygon POINTS="554 1207 969 1207 969 1253 554 1253"/>
+                                                </Shape><String CONTENT="73. Fête bretonne." HPOS="554" VPOS="1207" WIDTH="415" HEIGHT="46"/></TextLine><TextLine ID="line_1591806457857_828" TAGREFS="LT1" BASELINE="1029 1301 1093 1303" HPOS="1029" VPOS="1256" WIDTH="65" HEIGHT="52"><Shape>
+                                                  <Polygon POINTS="1030 1256 1094 1258 1093 1308 1029 1306"/>
+                                                </Shape><String CONTENT="—" HPOS="1029" VPOS="1256" WIDTH="65" HEIGHT="52"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="888 1413 1064 1416 1210 1425" HPOS="887" VPOS="1364" WIDTH="323" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="887 1364 1210 1364 1210 1433 887 1433"/>
+                                                </Shape><String CONTENT="COLIN (A.)," HPOS="887" VPOS="1364" WIDTH="323" HEIGHT="69"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="824 1487 866 1495 943 1491 1006 1490 1163 1497 1281 1494" HPOS="824" VPOS="1462" WIDTH="457" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="824 1462 1281 1462 1281 1500 824 1500"/>
+                                                </Shape><String CONTENT="13, rue du Jardinet, Paris." HPOS="824" VPOS="1462" WIDTH="457" HEIGHT="38"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="546 1570 612 1571 887 1576" HPOS="546" VPOS="1530" WIDTH="341" HEIGHT="46"><Shape>
+                                                  <Polygon POINTS="546 1530 887 1530 887 1576 546 1576"/>
+                                                </Shape><String CONTENT="74. Masaniello." HPOS="546" VPOS="1530" WIDTH="341" HEIGHT="46"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="546 1641 611 1645 727 1645 860 1648 1081 1652" HPOS="546" VPOS="1601" WIDTH="535" HEIGHT="60"><Shape>
+                                                  <Polygon POINTS="546 1601 1081 1601 1081 1661 546 1661"/>
+                                                </Shape><String CONTENT="75. Une jeune Orientale" HPOS="546" VPOS="1601" WIDTH="535" HEIGHT="60"/></TextLine><TextLine ID="line_1591806462392_836" TAGREFS="LT1" BASELINE="1021 1736 1080 1740" HPOS="1021" VPOS="1691" WIDTH="62" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="1024 1691 1083 1695 1080 1745 1021 1741"/>
+                                                </Shape><String CONTENT="—" HPOS="1021" VPOS="1691" WIDTH="62" HEIGHT="54"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="683 1843 897 1845 964 1864 1413 1862" HPOS="682" VPOS="1795" WIDTH="731" HEIGHT="75"><Shape>
+                                                  <Polygon POINTS="682 1795 1413 1795 1413 1870 682 1870"/>
+                                                </Shape><String CONTENT="COURT (JOSEPH-DÉSIRÉ)," HPOS="682" VPOS="1795" WIDTH="731" HEIGHT="75"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="728 1905 919 1907 966 1908 1074 1916 1106 1911 1356 1919" HPOS="728" VPOS="1878" WIDTH="628" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="728 1878 1356 1878 1356 1920 728 1920"/>
+                                                </Shape><String CONTENT="Conservateur du Musée, à l’Hôtel-de-Ville," HPOS="728" VPOS="1878" WIDTH="628" HEIGHT="42"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="810 1958 837 1958 894 1965 959 1962 1177 1970 1297 1967" HPOS="810" VPOS="1933" WIDTH="488" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="810 1933 1298 1933 1298 1973 810 1973"/>
+                                                </Shape><String CONTENT="et 11, rue Bourg-l'Abbé, Rouen." HPOS="810" VPOS="1933" WIDTH="488" HEIGHT="40"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="534 2034 605 2037 807 2043 875 2045 937 2046 996 2047 1052 2049 1173 2051 1260 2052 1347 2052" HPOS="534" VPOS="1996" WIDTH="814" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="534 1996 1348 1996 1348 2065 534 2065"/>
+                                                </Shape><String CONTENT="76. Portrait de sa S. le Pape Pie IX." HPOS="534" VPOS="1996" WIDTH="814" HEIGHT="69"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="539 2106 563 2106 681 2109 871 2117 930 2118 958 2103 1033 2119 1253 2123 1297 2124 1476 2128" HPOS="538" VPOS="2068" WIDTH="938" HEIGHT="60"><Shape>
+                                                  <Polygon POINTS="538 2068 1476 2068 1476 2128 538 2128"/>
+                                                </Shape><String CONTENT="77. idem de Mme la Comtesse de B...." HPOS="538" VPOS="2068" WIDTH="938" HEIGHT="60"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="537 2178 602 2181 803 2184 871 2186 944 2186 1104 2205 1275 2202 1444 2197 1556 2199" HPOS="537" VPOS="2139" WIDTH="1019" HEIGHT="71"><Shape>
+                                                  <Polygon POINTS="537 2139 1556 2139 1556 2210 537 2210"/>
+                                                </Shape><String CONTENT="78. Portrait de M. Henry Barbet, ancien Pair" HPOS="537" VPOS="2139" WIDTH="1019" HEIGHT="71"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="696 2251 745 2253 915 2263 1132 2261 1197 2263 1554 2268" HPOS="696" VPOS="2211" WIDTH="858" HEIGHT="60"><Shape>
+                                                  <Polygon POINTS="696 2211 1554 2211 1554 2271 696 2271"/>
+                                                </Shape><String CONTENT="de France, Président du Conseil-Général" HPOS="696" VPOS="2211" WIDTH="858" HEIGHT="60"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="693 2323 796 2324 1187 2334" HPOS="693" VPOS="2281" WIDTH="495" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="693 2281 1188 2281 1188 2335 693 2335"/>
+                                                </Shape><String CONTENT="de la Seine-Inférieure." HPOS="693" VPOS="2281" WIDTH="495" HEIGHT="54"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="535 2390 603 2392 806 2395 886 2397 971 2398 1219 2408 1415 2408 1554 2400" HPOS="535" VPOS="2350" WIDTH="1020" HEIGHT="74"><Shape>
+                                                  <Polygon POINTS="535 2350 1555 2350 1555 2424 535 2424"/>
+                                                </Shape><String CONTENT="79. Portrait de M. Thévenin, ancien pré¬" HPOS="535" VPOS="2350" WIDTH="1020" HEIGHT="74"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="719 2463 850 2467 921 2468 1111 2472 1178 2474 1420 2479" HPOS="719" VPOS="2423" WIDTH="702" HEIGHT="56"><Shape>
+                                                  <Polygon POINTS="719 2423 1421 2423 1421 2479 719 2479"/>
+                                                </Shape><String CONTENT="sident du tribunal de commerce." HPOS="719" VPOS="2423" WIDTH="702" HEIGHT="56"/></TextLine></TextBlock><TextBlock HPOS="926" VPOS="490" WIDTH="272" HEIGHT="76" ID="eSc_textblock_2f3c2074" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="926 490 926 566 1198 566 1198 490"/>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="956 537 1014 537 1056 547 1167 540" HPOS="956" VPOS="509" WIDTH="211" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="956 509 1167 509 1167 551 956 551"/>
+                                                </Shape><String CONTENT="— 12 —" HPOS="956" VPOS="509" WIDTH="211" HEIGHT="42"/></TextLine></TextBlock><TextBlock HPOS="512" VPOS="1776" WIDTH="1078" HEIGHT="724" ID="eSc_textblock_580078b9" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="512 2478 533 1776 1585 1786 1590 2500"/>
+                                        </Shape></TextBlock><TextBlock HPOS="512" VPOS="1345" WIDTH="822" HEIGHT="338" ID="eSc_textblock_e5fe6b6e" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="512 1683 517 1362 1334 1345 1334 1661"/>
+                                        </Shape></TextBlock><TextBlock HPOS="523" VPOS="1013" WIDTH="860" HEIGHT="256" ID="eSc_textblock_5f9f59ff" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="523 1269 528 1013 1383 1029 1383 1269"/>
+                                        </Shape></TextBlock><TextBlock HPOS="522" VPOS="621" WIDTH="1063" HEIGHT="310" ID="eSc_textblock_71cb7d3d" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="539 926 522 621 1585 632 1585 931"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

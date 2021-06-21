@@ -1,930 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>Cat_Paris_1965_typo_0003.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Paris_1965_typo_0003.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags>
-                <OtherTag ID="BT486" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT487" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT489" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT490" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT491" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT492" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT493" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT494" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="LT175" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
-        <Layout>
-                <Page WIDTH="1132" HEIGHT="2373" PHYSICAL_IMG_NR="23" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1132" HEIGHT="2373">
-
-                                <TextBlock HPOS="488" VPOS="32" WIDTH="579" HEIGHT="109"
-                                        ID="eSc_textblock_b85beace" TAGREFS="BT489">
-                                        <Shape>
+        <Layout><Page WIDTH="1132" HEIGHT="2373" PHYSICAL_IMG_NR="23" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1132" HEIGHT="2373"><TextBlock HPOS="488" VPOS="32" WIDTH="579" HEIGHT="109" ID="eSc_textblock_b85beace" TAGREFS=""><Shape>
                                                 <Polygon POINTS="488 67 499 141 1063 89 1067 32"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT175"
-                                                BASELINE="509 118 685 108 825 96 1045 83" HPOS="509"
-                                                VPOS="54" WIDTH="548" HEIGHT="65">
-                                                <Shape>
-                                                  <Polygon POINTS="509 54 1057 55 1057 119 509 118"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="FILMS SUR L&#39;ART" HPOS="509"
-                                                  VPOS="54" WIDTH="548" HEIGHT="65"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="134" VPOS="100" WIDTH="986" HEIGHT="2187"
-                                        ID="eSc_textblock_a3f7b077" TAGREFS="BT487">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="134 209 174 1790 187 2287 1120 2191 1067 100"
-                                                />
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT175"
-                                                BASELINE="156 254 174 253 246 246 363 229 516 216 540 214 577 210 636 208 661 204 763 198 938 185"
-                                                HPOS="154" VPOS="161" WIDTH="785" HEIGHT="82">
-                                                <Shape>
-                                                  <Polygon POINTS="161 203 939 161 939 243 154 243"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Pedro OLEA RETOLAZA, né en 1938 à Bilbao (Espagne)."
-                                                  HPOS="154" VPOS="161" WIDTH="785" HEIGHT="82"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT175"
-                                                BASELINE="155 286 170 286 305 268 383 261 510 251 554 247 679 240 803 229"
-                                                HPOS="153" VPOS="205" WIDTH="656" HEIGHT="81">
-                                                <Shape>
-                                                  <Polygon POINTS="158 205 809 205 804 286 153 286"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Anabel 1963. Ecole Officielle de Cinéma, Madrid."
-                                                  HPOS="153" VPOS="205" WIDTH="656" HEIGHT="81"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT175"
-                                                BASELINE="157 330 168 330 367 309 396 307 482 299 524 295 603 290 628 287 798 277 971 265"
-                                                HPOS="155" VPOS="240" WIDTH="817" HEIGHT="90">
-                                                <Shape>
-                                                  <Polygon POINTS="155 240 972 240 972 302 155 330"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Luis PELLEGERO BEL, né en 1938 à Pampelune (Espagne)."
-                                                  HPOS="155" VPOS="240" WIDTH="817" HEIGHT="90"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT175"
-                                                BASELINE="158 362 256 355 333 344" HPOS="158"
-                                                VPOS="321" WIDTH="175" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon POINTS="158 321 333 321 333 363 158 363"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Plastique, 1962." HPOS="158"
-                                                  VPOS="321" WIDTH="175" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT175"
-                                                BASELINE="158 396 301 384 380 374" HPOS="157"
-                                                VPOS="350" WIDTH="224" HEIGHT="46">
-                                                <Shape>
-                                                  <Polygon POINTS="157 350 381 350 381 396 157 396"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Chromatique, 1962." HPOS="157"
-                                                  VPOS="350" WIDTH="224" HEIGHT="46"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT175"
-                                                BASELINE="160 429 268 420 345 411" HPOS="159"
-                                                VPOS="386" WIDTH="187" HEIGHT="46">
-                                                <Shape>
-                                                  <Polygon POINTS="159 386 346 386 346 432 159 432"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Eurythmie, 1962." HPOS="159"
-                                                  VPOS="386" WIDTH="187" HEIGHT="46"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT175"
-                                                BASELINE="178 539 286 530" HPOS="178" VPOS="503"
-                                                WIDTH="108" HEIGHT="36">
-                                                <Shape>
-                                                  <Polygon POINTS="178 503 286 503 286 539 178 539"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="FRANCE" HPOS="178" VPOS="503"
-                                                  WIDTH="108" HEIGHT="36"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT175"
-                                                BASELINE="162 623 172 623 288 611 452 600 500 597 592 592 621 589 704 584 854 574"
-                                                HPOS="161" VPOS="550" WIDTH="694" HEIGHT="75">
-                                                <Shape>
-                                                  <Polygon POINTS="161 550 855 550 855 625 161 625"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Jacques BRISSOT, né en 1929, à Paris (France)."
-                                                  HPOS="161" VPOS="550" WIDTH="694" HEIGHT="75"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT175"
-                                                BASELINE="165 656 175 656 297 645 418 636 460 633 547 630 631 622 736 615"
-                                                HPOS="164" VPOS="591" WIDTH="572" HEIGHT="65">
-                                                <Shape>
-                                                  <Polygon POINTS="164 591 736 591 736 656 164 656"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="La troisième Biennale de Paris, 1963 (noir)."
-                                                  HPOS="164" VPOS="591" WIDTH="572" HEIGHT="65"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT175"
-                                                BASELINE="166 701 181 701 334 687 540 674 587 672 669 666 704 665 791 659 947 650"
-                                                HPOS="165" VPOS="625" WIDTH="782" HEIGHT="78">
-                                                <Shape>
-                                                  <Polygon POINTS="165 625 947 625 947 682 165 703"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Dominique DELOUCHE, né en 1931 à Paris (France)."
-                                                  HPOS="165" VPOS="625" WIDTH="782" HEIGHT="78"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT175"
-                                                BASELINE="167 734 178 734 329 721 422 715"
-                                                HPOS="166" VPOS="691" WIDTH="257" HEIGHT="46">
-                                                <Shape>
-                                                  <Polygon POINTS="166 691 423 691 423 737 166 737"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="L&#39;Adage, 1964 (noir)."
-                                                  HPOS="166" VPOS="691" WIDTH="257" HEIGHT="46"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT175"
-                                                BASELINE="167 767 236 762 387 751 546 741"
-                                                HPOS="167" VPOS="716" WIDTH="379" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon POINTS="167 716 546 716 546 767 167 767"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Parade 1964,1965 (couleurs)."
-                                                  HPOS="167" VPOS="716" WIDTH="379" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT175"
-                                                BASELINE="166 812 178 812 248 806 436 794 477 792 553 787 585 786 665 782 815 772"
-                                                HPOS="166" VPOS="748" WIDTH="650" HEIGHT="64">
-                                                <Shape>
-                                                  <Polygon POINTS="166 748 816 748 816 812 166 812"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Jean DESVILLES, né en 1931 à Paris (France)."
-                                                  HPOS="166" VPOS="748" WIDTH="650" HEIGHT="64"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT175"
-                                                BASELINE="167 846 313 836 352 833 516 827 597 819 700 814"
-                                                HPOS="167" VPOS="788" WIDTH="534" HEIGHT="61">
-                                                <Shape>
-                                                  <Polygon POINTS="167 788 701 788 701 849 167 849"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Auto-portrait de Rembrandt, 1965 (noir)."
-                                                  HPOS="167" VPOS="788" WIDTH="534" HEIGHT="61"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT175"
-                                                BASELINE="170 891 184 891 280 884 491 871 533 868 615 865 641 863 729 858 884 850"
-                                                HPOS="170" VPOS="824" WIDTH="715" HEIGHT="67">
-                                                <Shape>
-                                                  <Polygon POINTS="170 824 885 824 885 891 170 891"
-                                                  />
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Claude GUILLEMOT, né en 1935 à Alger (Algérie)."
-                                                  HPOS="170" VPOS="824" WIDTH="715" HEIGHT="67"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_30" TAGREFS="LT175"
-                                                BASELINE="171 924 192 923 256 918 365 915 443 908 606 898"
-                                                HPOS="171" VPOS="874" WIDTH="436" HEIGHT="53">
-                                                <Shape>
-                                                  <Polygon POINTS="171 874 607 874 607 927 171 927"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="La Belle Epoque, 1964 (couleurs)."
-                                                  HPOS="171" VPOS="874" WIDTH="436" HEIGHT="53"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_31" TAGREFS="LT175"
-                                                BASELINE="170 957 239 954 364 948 440 941 541 937"
-                                                HPOS="169" VPOS="911" WIDTH="372" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon POINTS="169 911 541 911 541 961 169 961"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Adrien s&#39;éloigne, 1964 (noir)."
-                                                  HPOS="169" VPOS="911" WIDTH="372" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_32" TAGREFS="LT175"
-                                                BASELINE="173 1003 186 1003 258 998 415 989 455 986 536 983 562 981 694 975 870 965"
-                                                HPOS="173" VPOS="939" WIDTH="697" HEIGHT="67">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="173 939 870 939 870 1006 173 1006"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Piotr KAMLER, né en 1936 à Varsovie (Pologne)."
-                                                  HPOS="173" VPOS="939" WIDTH="697" HEIGHT="67"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_33" TAGREFS="LT175"
-                                                BASELINE="174 1035 263 1033 335 1026 493 1019"
-                                                HPOS="174" VPOS="994" WIDTH="319" HEIGHT="46">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="174 994 493 994 493 1040 174 1040"/>
-                                                </Shape>
-                                                <String CONTENT="Meurtre, 1964 (couleurs)."
-                                                  HPOS="174" VPOS="994" WIDTH="319" HEIGHT="46"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_34" TAGREFS="LT175"
-                                                BASELINE="175 1081 191 1081 267 1076 440 1067 486 1065 574 1061 605 1059 818 1049 1021 1036"
-                                                HPOS="174" VPOS="1012" WIDTH="847" HEIGHT="74">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="174 1012 1021 1012 1021 1086 174 1086"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Nelly KAPLAN, née en 1932 à Buenos-Aires (Argentine)."
-                                                  HPOS="174" VPOS="1012" WIDTH="847" HEIGHT="74"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_35" TAGREFS="LT175"
-                                                BASELINE="174 1113 221 1112 312 1109 374 1103 407 1103 529 1100 611 1093 693 1088 729 1087 884 1078"
-                                                HPOS="174" VPOS="1054" WIDTH="710" HEIGHT="66">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="174 1054 884 1054 884 1120 174 1120"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Abel Gance, Hier et Demain, 1963 (noir et couleurs)."
-                                                  HPOS="174" VPOS="1054" WIDTH="710" HEIGHT="66"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_36" TAGREFS="LT175"
-                                                BASELINE="177 1159 191 1159 269 1155 475 1146 518 1143 601 1140 627 1138 777 1131 946 1121"
-                                                HPOS="176" VPOS="1097" WIDTH="770" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="176 1097 946 1097 946 1166 176 1166"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Peter KASSOVITZ, né en 1938 à Budapest (Hongrie)."
-                                                  HPOS="176" VPOS="1097" WIDTH="770" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_37" TAGREFS="LT175"
-                                                BASELINE="176 1193 289 1190 363 1184 462 1180"
-                                                HPOS="176" VPOS="1155" WIDTH="286" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="176 1155 462 1155 462 1199 176 1199"/>
-                                                </Shape>
-                                                <String CONTENT="Steinberg, 1963 (noir)." HPOS="176"
-                                                  VPOS="1155" WIDTH="286" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_38" TAGREFS="LT175"
-                                                BASELINE="179 1226 243 1223 394 1219 474 1213 577 1208"
-                                                HPOS="179" VPOS="1182" WIDTH="398" HEIGHT="51">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="179 1182 577 1182 577 1233 179 1233"/>
-                                                </Shape>
-                                                <String CONTENT="Réveil musculaire, 1965 (noir)."
-                                                  HPOS="179" VPOS="1182" WIDTH="398" HEIGHT="51"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_39" TAGREFS="LT175"
-                                                BASELINE="177 1271 189 1271 430 1261 475 1260 665 1250 723 1248 821 1243 862 1241 1031 1230"
-                                                HPOS="177" VPOS="1206" WIDTH="854" HEIGHT="72">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="177 1206 1031 1206 1031 1278 177 1278"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Jean-François LA GUIONIE, né en 1939 à Besançon"
-                                                  HPOS="177" VPOS="1206" WIDTH="854" HEIGHT="72"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_40" TAGREFS="LT175"
-                                                BASELINE="182 1309 287 1301" HPOS="182" VPOS="1275"
-                                                WIDTH="105" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="182 1275 287 1275 287 1310 182 1310"/>
-                                                </Shape>
-                                                <String CONTENT="(France)." HPOS="182" VPOS="1275"
-                                                  WIDTH="105" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_41" TAGREFS="LT175"
-                                                BASELINE="180 1338 203 1337 340 1332 374 1331 406 1329 606 1324 691 1316 864 1307"
-                                                HPOS="180" VPOS="1281" WIDTH="684" HEIGHT="66">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="180 1281 864 1281 864 1347 180 1347"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="La demoiselle et le violoncelliste, 1964 (couleurs)."
-                                                  HPOS="180" VPOS="1281" WIDTH="684" HEIGHT="66"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_42" TAGREFS="LT175"
-                                                BASELINE="182 1383 195 1383 314 1379 452 1374 494 1372 571 1369 603 1368 648 1365 742 1361 895 1353"
-                                                HPOS="182" VPOS="1325" WIDTH="713" HEIGHT="69">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="182 1325 895 1325 895 1394 182 1394"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Edouard LUNTZ, né en 1931 à La Baule (France)."
-                                                  HPOS="182" VPOS="1325" WIDTH="713" HEIGHT="69"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_43" TAGREFS="LT175"
-                                                BASELINE="182 1416 293 1416 370 1410 469 1407"
-                                                HPOS="182" VPOS="1379" WIDTH="287" HEIGHT="47">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="182 1379 469 1379 469 1426 182 1426"/>
-                                                </Shape>
-                                                <String CONTENT="L&#39;escalier, 1964 (noir)."
-                                                  HPOS="182" VPOS="1379" WIDTH="287" HEIGHT="47"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_44" TAGREFS="LT175"
-                                                BASELINE="184 1462 207 1462 313 1459 450 1453 493 1452 576 1449 602 1448 752 1440 929 1430"
-                                                HPOS="184" VPOS="1401" WIDTH="745" HEIGHT="72">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="184 1401 929 1401 929 1473 184 1473"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Manuel OTERO, né en 1938 à Esponella (Espagne)."
-                                                  HPOS="184" VPOS="1401" WIDTH="745" HEIGHT="72"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_45" TAGREFS="LT175"
-                                                BASELINE="185 1495 280 1492 379 1492 460 1487 687 1477"
-                                                HPOS="185" VPOS="1447" WIDTH="502" HEIGHT="61">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="185 1447 687 1447 687 1508 185 1508"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="L&#39;île aux cactus, 1963 (easmancolor)."
-                                                  HPOS="185" VPOS="1447" WIDTH="502" HEIGHT="61"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_46" TAGREFS="LT175"
-                                                BASELINE="184 1529 259 1527 310 1528 385 1524 605 1514 649 1513 845 1503 920 1498 1049 1491"
-                                                HPOS="184" VPOS="1462" WIDTH="865" HEIGHT="78">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="184 1462 1049 1462 1049 1540 184 1540"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Atome Tilt, 1964 (easmancolor). En collaboration avec Jacques"
-                                                  HPOS="184" VPOS="1462" WIDTH="865" HEIGHT="78"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_47" TAGREFS="LT175"
-                                                BASELINE="186 1562 269 1560" HPOS="186" VPOS="1534"
-                                                WIDTH="83" HEIGHT="30">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="186 1534 269 1534 269 1564 186 1564"/>
-                                                </Shape>
-                                                <String CONTENT="Leroux." HPOS="186" VPOS="1534"
-                                                  WIDTH="83" HEIGHT="30"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_48" TAGREFS="LT175"
-                                                BASELINE="187 1608 276 1605 305 1605 453 1600 496 1599 574 1595 606 1595 750 1588 901 1579"
-                                                HPOS="187" VPOS="1549" WIDTH="714" HEIGHT="71">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="187 1549 901 1549 901 1620 187 1620"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Gérard PATRIS, né en 1931 à Bouresse (France)."
-                                                  HPOS="187" VPOS="1549" WIDTH="714" HEIGHT="71"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_49" TAGREFS="LT175"
-                                                BASELINE="188 1640 297 1640 484 1635 568 1630 739 1621"
-                                                HPOS="188" VPOS="1590" WIDTH="551" HEIGHT="64">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="188 1590 739 1590 739 1654 188 1654"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Dubuffet, auto-portrait, 1962 (couleurs)."
-                                                  HPOS="188" VPOS="1590" WIDTH="551" HEIGHT="64"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_50" TAGREFS="LT175"
-                                                BASELINE="191 1690 208 1690 356 1688 407 1686 429 1686 512 1682 566 1680 661 1676 697 1674 753 1672 1059 1652"
-                                                HPOS="191" VPOS="1624" WIDTH="868" HEIGHT="75">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="191 1624 1059 1624 1059 1699 191 1699"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Daniel PAUQUET, né en 1936 à La Garenne-Colombes"
-                                                  HPOS="191" VPOS="1624" WIDTH="868" HEIGHT="75"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_51" TAGREFS="LT175"
-                                                BASELINE="193 1728 303 1721" HPOS="193" VPOS="1694"
-                                                WIDTH="111" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="193 1694 304 1694 304 1731 193 1731"/>
-                                                </Shape>
-                                                <String CONTENT="(France)." HPOS="193" VPOS="1694"
-                                                  WIDTH="111" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_52" TAGREFS="LT175"
-                                                BASELINE="191 1756 264 1758 340 1754 439 1752"
-                                                HPOS="191" VPOS="1720" WIDTH="248" HEIGHT="49">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="191 1720 439 1720 439 1769 191 1769"/>
-                                                </Shape>
-                                                <String CONTENT="Catch, 1964 (noir)." HPOS="191"
-                                                  VPOS="1720" WIDTH="248" HEIGHT="49"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_53" TAGREFS="LT175"
-                                                BASELINE="190 1806 359 1804 390 1804 547 1799 591 1797 676 1794 703 1791 748 1789 912 1779 1066 1767"
-                                                HPOS="190" VPOS="1740" WIDTH="876" HEIGHT="79">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="190 1740 1066 1740 1066 1819 190 1819"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Jean-Daniel POLLET, né en 1936 à La Madeleine (France)."
-                                                  HPOS="190" VPOS="1740" WIDTH="876" HEIGHT="79"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_54" TAGREFS="LT175"
-                                                BASELINE="194 1839 281 1841 359 1837 524 1833"
-                                                HPOS="194" VPOS="1799" WIDTH="330" HEIGHT="54">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="194 1799 524 1799 524 1853 194 1853"/>
-                                                </Shape>
-                                                <String CONTENT="Bassae, 1964 (couleurs)."
-                                                  HPOS="194" VPOS="1799" WIDTH="330" HEIGHT="54"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_55" TAGREFS="LT175"
-                                                BASELINE="193 1889 359 1887 390 1887 585 1880 631 1878 718 1874 746 1872 847 1866 1000 1855"
-                                                HPOS="193" VPOS="1825" WIDTH="807" HEIGHT="79">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="193 1825 1000 1825 1000 1904 193 1904"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Jean-Pierre PREVOST, né en 1942 à Laigle (France)."
-                                                  HPOS="193" VPOS="1825" WIDTH="807" HEIGHT="79"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_56" TAGREFS="LT175"
-                                                BASELINE="195 1922 252 1922 338 1921 433 1920 477 1917 549 1917 632 1912 736 1905"
-                                                HPOS="195" VPOS="1872" WIDTH="541" HEIGHT="66">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="195 1872 736 1872 736 1938 195 1938"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Trois motifs contre un mur, 1965 (noir)."
-                                                  HPOS="195" VPOS="1872" WIDTH="541" HEIGHT="66"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_57" TAGREFS="LT175"
-                                                BASELINE="198 1972 290 1972 321 1971 536 1966 581 1964 667 1960 693 1959 807 1951 958 1940"
-                                                HPOS="198" VPOS="1911" WIDTH="760" HEIGHT="74">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="198 1911 958 1911 958 1985 198 1985"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Gérard RENATEAU, né en 1933 à Biarritz (France)."
-                                                  HPOS="198" VPOS="1911" WIDTH="760" HEIGHT="74"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_58" TAGREFS="LT175"
-                                                BASELINE="199 2004 237 2005 369 2007 450 2002 622 1995"
-                                                HPOS="199" VPOS="1961" WIDTH="424" HEIGHT="59">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="199 1961 623 1961 623 2020 199 2020"/>
-                                                </Shape>
-                                                <String CONTENT="Les tachistes, 1962 (couleurs)."
-                                                  HPOS="199" VPOS="1961" WIDTH="424" HEIGHT="59"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_59" TAGREFS="LT175"
-                                                BASELINE="198 2055 312 2055 352 2055 564 2048 618 2046 714 2041 749 2038 1078 2013"
-                                                HPOS="198" VPOS="1988" WIDTH="880" HEIGHT="80">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="198 1988 1078 1988 1078 2068 198 2068"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Jacques ROULAND, né en 1930 à Lourdoueix-St-Pierre"
-                                                  HPOS="198" VPOS="1988" WIDTH="880" HEIGHT="80"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_60" TAGREFS="LT175"
-                                                BASELINE="204 2092 320 2088" HPOS="204" VPOS="2059"
-                                                WIDTH="116" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="204 2059 320 2059 320 2097 204 2097"/>
-                                                </Shape>
-                                                <String CONTENT="(France)." HPOS="204" VPOS="2059"
-                                                  WIDTH="116" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_61" TAGREFS="LT175"
-                                                BASELINE="203 2121 353 2124 436 2120 540 2115"
-                                                HPOS="203" VPOS="2081" WIDTH="337" HEIGHT="56">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="203 2081 540 2081 540 2137 203 2137"/>
-                                                </Shape>
-                                                <String CONTENT="Romancero, 1962 (noir)." HPOS="203"
-                                                  VPOS="2081" WIDTH="337" HEIGHT="56"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_62" TAGREFS="LT175"
-                                                BASELINE="202 2167 272 2167 302 2167 451 2165 478 2164 519 2161 607 2157 638 2157 849 2142"
-                                                HPOS="202" VPOS="2111" WIDTH="647" HEIGHT="70">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="202 2111 849 2111 849 2181 202 2181"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Alain SAURY, né en 1932 à Soisy (France)."
-                                                  HPOS="202" VPOS="2111" WIDTH="647" HEIGHT="70"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_63" TAGREFS="LT175"
-                                                BASELINE="203 2200 237 2201 301 2200 344 2200 448 2201 533 2194 639 2189"
-                                                HPOS="203" VPOS="2155" WIDTH="436" HEIGHT="61">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="203 2155 639 2155 639 2216 203 2216"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="Au pied de l&#39;arbre, 1964 (noir)."
-                                                  HPOS="203" VPOS="2155" WIDTH="436" HEIGHT="61"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_64" TAGREFS="LT175"
-                                                BASELINE="207 2232 263 2233 362 2236 445 2231 550 2227"
-                                                HPOS="207" VPOS="2193" WIDTH="343" HEIGHT="55">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="207 2193 550 2193 550 2248 207 2248"/>
-                                                </Shape>
-                                                <String CONTENT="Ecce Homo, 1964 (noir)." HPOS="207"
-                                                  VPOS="2193" WIDTH="343" HEIGHT="55"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="1025" VPOS="2219" WIDTH="74" HEIGHT="42"
-                                        ID="eSc_textblock_d64223ec" TAGREFS="BT491">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="1036 2261 1025 2219 1099 2219 1095 2247"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_65" TAGREFS="LT175"
-                                                BASELINE="1049 2245 1088 2242" HPOS="1049"
-                                                VPOS="2221" WIDTH="39" HEIGHT="24">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="1049 2221 1088 2221 1088 2245 1049 2245"/>
-                                                </Shape>
-                                                <String CONTENT="175" HPOS="1049" VPOS="2221"
-                                                  WIDTH="39" HEIGHT="24"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="147" VPOS="218" WIDTH="875" HEIGHT="231"
-                                        ID="eSc_textblock_50df8dde" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="147 449 147 298 1022 218 1022 362"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="139" VPOS="139" WIDTH="827" HEIGHT="151"
-                                        ID="eSc_textblock_c0aeceab" TAGREFS="BT493">
-                                        <Shape>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="509 118 685 108 825 96 1045 83" HPOS="509" VPOS="54" WIDTH="548" HEIGHT="65"><Shape>
+                                                  <Polygon POINTS="509 54 1057 55 1057 119 509 118"/>
+                                                </Shape><String CONTENT="FILMS SUR L'ART" HPOS="509" VPOS="54" WIDTH="548" HEIGHT="65"/></TextLine></TextBlock><TextBlock HPOS="134" VPOS="100" WIDTH="986" HEIGHT="2187" ID="eSc_textblock_a3f7b077" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="134 209 174 1790 187 2287 1120 2191 1067 100"/>
+                                        </Shape><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="156 254 174 253 246 246 363 229 516 216 540 214 577 210 636 208 661 204 763 198 938 185" HPOS="154" VPOS="161" WIDTH="785" HEIGHT="82"><Shape>
+                                                  <Polygon POINTS="161 203 939 161 939 243 154 243"/>
+                                                </Shape><String CONTENT="Pedro OLEA RETOLAZA, né en 1938 à Bilbao (Espagne)." HPOS="154" VPOS="161" WIDTH="785" HEIGHT="82"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="155 286 170 286 305 268 383 261 510 251 554 247 679 240 803 229" HPOS="153" VPOS="205" WIDTH="656" HEIGHT="81"><Shape>
+                                                  <Polygon POINTS="158 205 809 205 804 286 153 286"/>
+                                                </Shape><String CONTENT="Anabel 1963. Ecole Officielle de Cinéma, Madrid." HPOS="153" VPOS="205" WIDTH="656" HEIGHT="81"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="157 330 168 330 367 309 396 307 482 299 524 295 603 290 628 287 798 277 971 265" HPOS="155" VPOS="240" WIDTH="817" HEIGHT="90"><Shape>
+                                                  <Polygon POINTS="155 240 972 240 972 302 155 330"/>
+                                                </Shape><String CONTENT="Luis PELLEGERO BEL, né en 1938 à Pampelune (Espagne)." HPOS="155" VPOS="240" WIDTH="817" HEIGHT="90"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="158 362 256 355 333 344" HPOS="158" VPOS="321" WIDTH="175" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="158 321 333 321 333 363 158 363"/>
+                                                </Shape><String CONTENT="Plastique, 1962." HPOS="158" VPOS="321" WIDTH="175" HEIGHT="42"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="158 396 301 384 380 374" HPOS="157" VPOS="350" WIDTH="224" HEIGHT="46"><Shape>
+                                                  <Polygon POINTS="157 350 381 350 381 396 157 396"/>
+                                                </Shape><String CONTENT="Chromatique, 1962." HPOS="157" VPOS="350" WIDTH="224" HEIGHT="46"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="160 429 268 420 345 411" HPOS="159" VPOS="386" WIDTH="187" HEIGHT="46"><Shape>
+                                                  <Polygon POINTS="159 386 346 386 346 432 159 432"/>
+                                                </Shape><String CONTENT="Eurythmie, 1962." HPOS="159" VPOS="386" WIDTH="187" HEIGHT="46"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="178 539 286 530" HPOS="178" VPOS="503" WIDTH="108" HEIGHT="36"><Shape>
+                                                  <Polygon POINTS="178 503 286 503 286 539 178 539"/>
+                                                </Shape><String CONTENT="FRANCE" HPOS="178" VPOS="503" WIDTH="108" HEIGHT="36"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="162 623 172 623 288 611 452 600 500 597 592 592 621 589 704 584 854 574" HPOS="161" VPOS="550" WIDTH="694" HEIGHT="75"><Shape>
+                                                  <Polygon POINTS="161 550 855 550 855 625 161 625"/>
+                                                </Shape><String CONTENT="Jacques BRISSOT, né en 1929, à Paris (France)." HPOS="161" VPOS="550" WIDTH="694" HEIGHT="75"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="165 656 175 656 297 645 418 636 460 633 547 630 631 622 736 615" HPOS="164" VPOS="591" WIDTH="572" HEIGHT="65"><Shape>
+                                                  <Polygon POINTS="164 591 736 591 736 656 164 656"/>
+                                                </Shape><String CONTENT="La troisième Biennale de Paris, 1963 (noir)." HPOS="164" VPOS="591" WIDTH="572" HEIGHT="65"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="166 701 181 701 334 687 540 674 587 672 669 666 704 665 791 659 947 650" HPOS="165" VPOS="625" WIDTH="782" HEIGHT="78"><Shape>
+                                                  <Polygon POINTS="165 625 947 625 947 682 165 703"/>
+                                                </Shape><String CONTENT="Dominique DELOUCHE, né en 1931 à Paris (France)." HPOS="165" VPOS="625" WIDTH="782" HEIGHT="78"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="167 734 178 734 329 721 422 715" HPOS="166" VPOS="691" WIDTH="257" HEIGHT="46"><Shape>
+                                                  <Polygon POINTS="166 691 423 691 423 737 166 737"/>
+                                                </Shape><String CONTENT="L'Adage, 1964 (noir)." HPOS="166" VPOS="691" WIDTH="257" HEIGHT="46"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="167 767 236 762 387 751 546 741" HPOS="167" VPOS="716" WIDTH="379" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="167 716 546 716 546 767 167 767"/>
+                                                </Shape><String CONTENT="Parade 1964,1965 (couleurs)." HPOS="167" VPOS="716" WIDTH="379" HEIGHT="51"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="166 812 178 812 248 806 436 794 477 792 553 787 585 786 665 782 815 772" HPOS="166" VPOS="748" WIDTH="650" HEIGHT="64"><Shape>
+                                                  <Polygon POINTS="166 748 816 748 816 812 166 812"/>
+                                                </Shape><String CONTENT="Jean DESVILLES, né en 1931 à Paris (France)." HPOS="166" VPOS="748" WIDTH="650" HEIGHT="64"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="167 846 313 836 352 833 516 827 597 819 700 814" HPOS="167" VPOS="788" WIDTH="534" HEIGHT="61"><Shape>
+                                                  <Polygon POINTS="167 788 701 788 701 849 167 849"/>
+                                                </Shape><String CONTENT="Auto-portrait de Rembrandt, 1965 (noir)." HPOS="167" VPOS="788" WIDTH="534" HEIGHT="61"/></TextLine><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="170 891 184 891 280 884 491 871 533 868 615 865 641 863 729 858 884 850" HPOS="170" VPOS="824" WIDTH="715" HEIGHT="67"><Shape>
+                                                  <Polygon POINTS="170 824 885 824 885 891 170 891"/>
+                                                </Shape><String CONTENT="Claude GUILLEMOT, né en 1935 à Alger (Algérie)." HPOS="170" VPOS="824" WIDTH="715" HEIGHT="67"/></TextLine><TextLine ID="tl_30" TAGREFS="LT1" BASELINE="171 924 192 923 256 918 365 915 443 908 606 898" HPOS="171" VPOS="874" WIDTH="436" HEIGHT="53"><Shape>
+                                                  <Polygon POINTS="171 874 607 874 607 927 171 927"/>
+                                                </Shape><String CONTENT="La Belle Epoque, 1964 (couleurs)." HPOS="171" VPOS="874" WIDTH="436" HEIGHT="53"/></TextLine><TextLine ID="tl_31" TAGREFS="LT1" BASELINE="170 957 239 954 364 948 440 941 541 937" HPOS="169" VPOS="911" WIDTH="372" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="169 911 541 911 541 961 169 961"/>
+                                                </Shape><String CONTENT="Adrien s'éloigne, 1964 (noir)." HPOS="169" VPOS="911" WIDTH="372" HEIGHT="50"/></TextLine><TextLine ID="tl_32" TAGREFS="LT1" BASELINE="173 1003 186 1003 258 998 415 989 455 986 536 983 562 981 694 975 870 965" HPOS="173" VPOS="939" WIDTH="697" HEIGHT="67"><Shape>
+                                                  <Polygon POINTS="173 939 870 939 870 1006 173 1006"/>
+                                                </Shape><String CONTENT="Piotr KAMLER, né en 1936 à Varsovie (Pologne)." HPOS="173" VPOS="939" WIDTH="697" HEIGHT="67"/></TextLine><TextLine ID="tl_33" TAGREFS="LT1" BASELINE="174 1035 263 1033 335 1026 493 1019" HPOS="174" VPOS="994" WIDTH="319" HEIGHT="46"><Shape>
+                                                  <Polygon POINTS="174 994 493 994 493 1040 174 1040"/>
+                                                </Shape><String CONTENT="Meurtre, 1964 (couleurs)." HPOS="174" VPOS="994" WIDTH="319" HEIGHT="46"/></TextLine><TextLine ID="tl_34" TAGREFS="LT1" BASELINE="175 1081 191 1081 267 1076 440 1067 486 1065 574 1061 605 1059 818 1049 1021 1036" HPOS="174" VPOS="1012" WIDTH="847" HEIGHT="74"><Shape>
+                                                  <Polygon POINTS="174 1012 1021 1012 1021 1086 174 1086"/>
+                                                </Shape><String CONTENT="Nelly KAPLAN, née en 1932 à Buenos-Aires (Argentine)." HPOS="174" VPOS="1012" WIDTH="847" HEIGHT="74"/></TextLine><TextLine ID="tl_35" TAGREFS="LT1" BASELINE="174 1113 221 1112 312 1109 374 1103 407 1103 529 1100 611 1093 693 1088 729 1087 884 1078" HPOS="174" VPOS="1054" WIDTH="710" HEIGHT="66"><Shape>
+                                                  <Polygon POINTS="174 1054 884 1054 884 1120 174 1120"/>
+                                                </Shape><String CONTENT="Abel Gance, Hier et Demain, 1963 (noir et couleurs)." HPOS="174" VPOS="1054" WIDTH="710" HEIGHT="66"/></TextLine><TextLine ID="tl_36" TAGREFS="LT1" BASELINE="177 1159 191 1159 269 1155 475 1146 518 1143 601 1140 627 1138 777 1131 946 1121" HPOS="176" VPOS="1097" WIDTH="770" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="176 1097 946 1097 946 1166 176 1166"/>
+                                                </Shape><String CONTENT="Peter KASSOVITZ, né en 1938 à Budapest (Hongrie)." HPOS="176" VPOS="1097" WIDTH="770" HEIGHT="69"/></TextLine><TextLine ID="tl_37" TAGREFS="LT1" BASELINE="176 1193 289 1190 363 1184 462 1180" HPOS="176" VPOS="1155" WIDTH="286" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="176 1155 462 1155 462 1199 176 1199"/>
+                                                </Shape><String CONTENT="Steinberg, 1963 (noir)." HPOS="176" VPOS="1155" WIDTH="286" HEIGHT="44"/></TextLine><TextLine ID="tl_38" TAGREFS="LT1" BASELINE="179 1226 243 1223 394 1219 474 1213 577 1208" HPOS="179" VPOS="1182" WIDTH="398" HEIGHT="51"><Shape>
+                                                  <Polygon POINTS="179 1182 577 1182 577 1233 179 1233"/>
+                                                </Shape><String CONTENT="Réveil musculaire, 1965 (noir)." HPOS="179" VPOS="1182" WIDTH="398" HEIGHT="51"/></TextLine><TextLine ID="tl_39" TAGREFS="LT1" BASELINE="177 1271 189 1271 430 1261 475 1260 665 1250 723 1248 821 1243 862 1241 1031 1230" HPOS="177" VPOS="1206" WIDTH="854" HEIGHT="72"><Shape>
+                                                  <Polygon POINTS="177 1206 1031 1206 1031 1278 177 1278"/>
+                                                </Shape><String CONTENT="Jean-François LA GUIONIE, né en 1939 à Besançon" HPOS="177" VPOS="1206" WIDTH="854" HEIGHT="72"/></TextLine><TextLine ID="tl_40" TAGREFS="LT1" BASELINE="182 1309 287 1301" HPOS="182" VPOS="1275" WIDTH="105" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="182 1275 287 1275 287 1310 182 1310"/>
+                                                </Shape><String CONTENT="(France)." HPOS="182" VPOS="1275" WIDTH="105" HEIGHT="35"/></TextLine><TextLine ID="tl_41" TAGREFS="LT1" BASELINE="180 1338 203 1337 340 1332 374 1331 406 1329 606 1324 691 1316 864 1307" HPOS="180" VPOS="1281" WIDTH="684" HEIGHT="66"><Shape>
+                                                  <Polygon POINTS="180 1281 864 1281 864 1347 180 1347"/>
+                                                </Shape><String CONTENT="La demoiselle et le violoncelliste, 1964 (couleurs)." HPOS="180" VPOS="1281" WIDTH="684" HEIGHT="66"/></TextLine><TextLine ID="tl_42" TAGREFS="LT1" BASELINE="182 1383 195 1383 314 1379 452 1374 494 1372 571 1369 603 1368 648 1365 742 1361 895 1353" HPOS="182" VPOS="1325" WIDTH="713" HEIGHT="69"><Shape>
+                                                  <Polygon POINTS="182 1325 895 1325 895 1394 182 1394"/>
+                                                </Shape><String CONTENT="Edouard LUNTZ, né en 1931 à La Baule (France)." HPOS="182" VPOS="1325" WIDTH="713" HEIGHT="69"/></TextLine><TextLine ID="tl_43" TAGREFS="LT1" BASELINE="182 1416 293 1416 370 1410 469 1407" HPOS="182" VPOS="1379" WIDTH="287" HEIGHT="47"><Shape>
+                                                  <Polygon POINTS="182 1379 469 1379 469 1426 182 1426"/>
+                                                </Shape><String CONTENT="L'escalier, 1964 (noir)." HPOS="182" VPOS="1379" WIDTH="287" HEIGHT="47"/></TextLine><TextLine ID="tl_44" TAGREFS="LT1" BASELINE="184 1462 207 1462 313 1459 450 1453 493 1452 576 1449 602 1448 752 1440 929 1430" HPOS="184" VPOS="1401" WIDTH="745" HEIGHT="72"><Shape>
+                                                  <Polygon POINTS="184 1401 929 1401 929 1473 184 1473"/>
+                                                </Shape><String CONTENT="Manuel OTERO, né en 1938 à Esponella (Espagne)." HPOS="184" VPOS="1401" WIDTH="745" HEIGHT="72"/></TextLine><TextLine ID="tl_45" TAGREFS="LT1" BASELINE="185 1495 280 1492 379 1492 460 1487 687 1477" HPOS="185" VPOS="1447" WIDTH="502" HEIGHT="61"><Shape>
+                                                  <Polygon POINTS="185 1447 687 1447 687 1508 185 1508"/>
+                                                </Shape><String CONTENT="L'île aux cactus, 1963 (easmancolor)." HPOS="185" VPOS="1447" WIDTH="502" HEIGHT="61"/></TextLine><TextLine ID="tl_46" TAGREFS="LT1" BASELINE="184 1529 259 1527 310 1528 385 1524 605 1514 649 1513 845 1503 920 1498 1049 1491" HPOS="184" VPOS="1462" WIDTH="865" HEIGHT="78"><Shape>
+                                                  <Polygon POINTS="184 1462 1049 1462 1049 1540 184 1540"/>
+                                                </Shape><String CONTENT="Atome Tilt, 1964 (easmancolor). En collaboration avec Jacques" HPOS="184" VPOS="1462" WIDTH="865" HEIGHT="78"/></TextLine><TextLine ID="tl_47" TAGREFS="LT1" BASELINE="186 1562 269 1560" HPOS="186" VPOS="1534" WIDTH="83" HEIGHT="30"><Shape>
+                                                  <Polygon POINTS="186 1534 269 1534 269 1564 186 1564"/>
+                                                </Shape><String CONTENT="Leroux." HPOS="186" VPOS="1534" WIDTH="83" HEIGHT="30"/></TextLine><TextLine ID="tl_48" TAGREFS="LT1" BASELINE="187 1608 276 1605 305 1605 453 1600 496 1599 574 1595 606 1595 750 1588 901 1579" HPOS="187" VPOS="1549" WIDTH="714" HEIGHT="71"><Shape>
+                                                  <Polygon POINTS="187 1549 901 1549 901 1620 187 1620"/>
+                                                </Shape><String CONTENT="Gérard PATRIS, né en 1931 à Bouresse (France)." HPOS="187" VPOS="1549" WIDTH="714" HEIGHT="71"/></TextLine><TextLine ID="tl_49" TAGREFS="LT1" BASELINE="188 1640 297 1640 484 1635 568 1630 739 1621" HPOS="188" VPOS="1590" WIDTH="551" HEIGHT="64"><Shape>
+                                                  <Polygon POINTS="188 1590 739 1590 739 1654 188 1654"/>
+                                                </Shape><String CONTENT="Dubuffet, auto-portrait, 1962 (couleurs)." HPOS="188" VPOS="1590" WIDTH="551" HEIGHT="64"/></TextLine><TextLine ID="tl_50" TAGREFS="LT1" BASELINE="191 1690 208 1690 356 1688 407 1686 429 1686 512 1682 566 1680 661 1676 697 1674 753 1672 1059 1652" HPOS="191" VPOS="1624" WIDTH="868" HEIGHT="75"><Shape>
+                                                  <Polygon POINTS="191 1624 1059 1624 1059 1699 191 1699"/>
+                                                </Shape><String CONTENT="Daniel PAUQUET, né en 1936 à La Garenne-Colombes" HPOS="191" VPOS="1624" WIDTH="868" HEIGHT="75"/></TextLine><TextLine ID="tl_51" TAGREFS="LT1" BASELINE="193 1728 303 1721" HPOS="193" VPOS="1694" WIDTH="111" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="193 1694 304 1694 304 1731 193 1731"/>
+                                                </Shape><String CONTENT="(France)." HPOS="193" VPOS="1694" WIDTH="111" HEIGHT="37"/></TextLine><TextLine ID="tl_52" TAGREFS="LT1" BASELINE="191 1756 264 1758 340 1754 439 1752" HPOS="191" VPOS="1720" WIDTH="248" HEIGHT="49"><Shape>
+                                                  <Polygon POINTS="191 1720 439 1720 439 1769 191 1769"/>
+                                                </Shape><String CONTENT="Catch, 1964 (noir)." HPOS="191" VPOS="1720" WIDTH="248" HEIGHT="49"/></TextLine><TextLine ID="tl_53" TAGREFS="LT1" BASELINE="190 1806 359 1804 390 1804 547 1799 591 1797 676 1794 703 1791 748 1789 912 1779 1066 1767" HPOS="190" VPOS="1740" WIDTH="876" HEIGHT="79"><Shape>
+                                                  <Polygon POINTS="190 1740 1066 1740 1066 1819 190 1819"/>
+                                                </Shape><String CONTENT="Jean-Daniel POLLET, né en 1936 à La Madeleine (France)." HPOS="190" VPOS="1740" WIDTH="876" HEIGHT="79"/></TextLine><TextLine ID="tl_54" TAGREFS="LT1" BASELINE="194 1839 281 1841 359 1837 524 1833" HPOS="194" VPOS="1799" WIDTH="330" HEIGHT="54"><Shape>
+                                                  <Polygon POINTS="194 1799 524 1799 524 1853 194 1853"/>
+                                                </Shape><String CONTENT="Bassae, 1964 (couleurs)." HPOS="194" VPOS="1799" WIDTH="330" HEIGHT="54"/></TextLine><TextLine ID="tl_55" TAGREFS="LT1" BASELINE="193 1889 359 1887 390 1887 585 1880 631 1878 718 1874 746 1872 847 1866 1000 1855" HPOS="193" VPOS="1825" WIDTH="807" HEIGHT="79"><Shape>
+                                                  <Polygon POINTS="193 1825 1000 1825 1000 1904 193 1904"/>
+                                                </Shape><String CONTENT="Jean-Pierre PREVOST, né en 1942 à Laigle (France)." HPOS="193" VPOS="1825" WIDTH="807" HEIGHT="79"/></TextLine><TextLine ID="tl_56" TAGREFS="LT1" BASELINE="195 1922 252 1922 338 1921 433 1920 477 1917 549 1917 632 1912 736 1905" HPOS="195" VPOS="1872" WIDTH="541" HEIGHT="66"><Shape>
+                                                  <Polygon POINTS="195 1872 736 1872 736 1938 195 1938"/>
+                                                </Shape><String CONTENT="Trois motifs contre un mur, 1965 (noir)." HPOS="195" VPOS="1872" WIDTH="541" HEIGHT="66"/></TextLine><TextLine ID="tl_57" TAGREFS="LT1" BASELINE="198 1972 290 1972 321 1971 536 1966 581 1964 667 1960 693 1959 807 1951 958 1940" HPOS="198" VPOS="1911" WIDTH="760" HEIGHT="74"><Shape>
+                                                  <Polygon POINTS="198 1911 958 1911 958 1985 198 1985"/>
+                                                </Shape><String CONTENT="Gérard RENATEAU, né en 1933 à Biarritz (France)." HPOS="198" VPOS="1911" WIDTH="760" HEIGHT="74"/></TextLine><TextLine ID="tl_58" TAGREFS="LT1" BASELINE="199 2004 237 2005 369 2007 450 2002 622 1995" HPOS="199" VPOS="1961" WIDTH="424" HEIGHT="59"><Shape>
+                                                  <Polygon POINTS="199 1961 623 1961 623 2020 199 2020"/>
+                                                </Shape><String CONTENT="Les tachistes, 1962 (couleurs)." HPOS="199" VPOS="1961" WIDTH="424" HEIGHT="59"/></TextLine><TextLine ID="tl_59" TAGREFS="LT1" BASELINE="198 2055 312 2055 352 2055 564 2048 618 2046 714 2041 749 2038 1078 2013" HPOS="198" VPOS="1988" WIDTH="880" HEIGHT="80"><Shape>
+                                                  <Polygon POINTS="198 1988 1078 1988 1078 2068 198 2068"/>
+                                                </Shape><String CONTENT="Jacques ROULAND, né en 1930 à Lourdoueix-St-Pierre" HPOS="198" VPOS="1988" WIDTH="880" HEIGHT="80"/></TextLine><TextLine ID="tl_60" TAGREFS="LT1" BASELINE="204 2092 320 2088" HPOS="204" VPOS="2059" WIDTH="116" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="204 2059 320 2059 320 2097 204 2097"/>
+                                                </Shape><String CONTENT="(France)." HPOS="204" VPOS="2059" WIDTH="116" HEIGHT="38"/></TextLine><TextLine ID="tl_61" TAGREFS="LT1" BASELINE="203 2121 353 2124 436 2120 540 2115" HPOS="203" VPOS="2081" WIDTH="337" HEIGHT="56"><Shape>
+                                                  <Polygon POINTS="203 2081 540 2081 540 2137 203 2137"/>
+                                                </Shape><String CONTENT="Romancero, 1962 (noir)." HPOS="203" VPOS="2081" WIDTH="337" HEIGHT="56"/></TextLine><TextLine ID="tl_62" TAGREFS="LT1" BASELINE="202 2167 272 2167 302 2167 451 2165 478 2164 519 2161 607 2157 638 2157 849 2142" HPOS="202" VPOS="2111" WIDTH="647" HEIGHT="70"><Shape>
+                                                  <Polygon POINTS="202 2111 849 2111 849 2181 202 2181"/>
+                                                </Shape><String CONTENT="Alain SAURY, né en 1932 à Soisy (France)." HPOS="202" VPOS="2111" WIDTH="647" HEIGHT="70"/></TextLine><TextLine ID="tl_63" TAGREFS="LT1" BASELINE="203 2200 237 2201 301 2200 344 2200 448 2201 533 2194 639 2189" HPOS="203" VPOS="2155" WIDTH="436" HEIGHT="61"><Shape>
+                                                  <Polygon POINTS="203 2155 639 2155 639 2216 203 2216"/>
+                                                </Shape><String CONTENT="Au pied de l'arbre, 1964 (noir)." HPOS="203" VPOS="2155" WIDTH="436" HEIGHT="61"/></TextLine><TextLine ID="tl_64" TAGREFS="LT1" BASELINE="207 2232 263 2233 362 2236 445 2231 550 2227" HPOS="207" VPOS="2193" WIDTH="343" HEIGHT="55"><Shape>
+                                                  <Polygon POINTS="207 2193 550 2193 550 2248 207 2248"/>
+                                                </Shape><String CONTENT="Ecce Homo, 1964 (noir)." HPOS="207" VPOS="2193" WIDTH="343" HEIGHT="55"/></TextLine></TextBlock><TextBlock HPOS="1025" VPOS="2219" WIDTH="74" HEIGHT="42" ID="eSc_textblock_d64223ec" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="1036 2261 1025 2219 1099 2219 1095 2247"/>
+                                        </Shape><TextLine ID="tl_65" TAGREFS="LT1" BASELINE="1049 2245 1088 2242" HPOS="1049" VPOS="2221" WIDTH="39" HEIGHT="24"><Shape>
+                                                  <Polygon POINTS="1049 2221 1088 2221 1088 2245 1049 2245"/>
+                                                </Shape><String CONTENT="175" HPOS="1049" VPOS="2221" WIDTH="39" HEIGHT="24"/></TextLine></TextBlock><TextBlock HPOS="147" VPOS="218" WIDTH="875" HEIGHT="231" ID="eSc_textblock_50df8dde" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="147 449 147 298 1022 218 1022 362"/>
+                                        </Shape></TextBlock><TextBlock HPOS="139" VPOS="139" WIDTH="827" HEIGHT="151" ID="eSc_textblock_c0aeceab" TAGREFS="BT15"><Shape>
                                                 <Polygon POINTS="139 290 139 215 942 139 966 215"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="155" VPOS="524" WIDTH="735" HEIGHT="144"
-                                        ID="eSc_textblock_0c679504" TAGREFS="BT493">
-                                        <Shape>
+                                        </Shape></TextBlock><TextBlock HPOS="155" VPOS="524" WIDTH="735" HEIGHT="144" ID="eSc_textblock_0c679504" TAGREFS="BT15"><Shape>
                                                 <Polygon POINTS="155 668 155 588 886 524 890 616"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="147" VPOS="620" WIDTH="815" HEIGHT="159"
-                                        ID="eSc_textblock_dd31777f" TAGREFS="BT493">
-                                        <Shape>
+                                        </Shape></TextBlock><TextBlock HPOS="147" VPOS="620" WIDTH="815" HEIGHT="159" ID="eSc_textblock_dd31777f" TAGREFS="BT15"><Shape>
                                                 <Polygon POINTS="147 779 151 672 958 620 962 719"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="155" VPOS="735" WIDTH="668" HEIGHT="132"
-                                        ID="eSc_textblock_542fcdcf" TAGREFS="BT493">
-                                        <Shape>
+                                        </Shape></TextBlock><TextBlock HPOS="155" VPOS="735" WIDTH="668" HEIGHT="132" ID="eSc_textblock_542fcdcf" TAGREFS="BT15"><Shape>
                                                 <Polygon POINTS="159 867 155 787 823 735 807 819"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="163" VPOS="815" WIDTH="724" HEIGHT="146"
-                                        ID="eSc_textblock_c03d394c" TAGREFS="BT493">
-                                        <Shape>
+                                        </Shape></TextBlock><TextBlock HPOS="163" VPOS="815" WIDTH="724" HEIGHT="146" ID="eSc_textblock_c03d394c" TAGREFS="BT15"><Shape>
                                                 <Polygon POINTS="167 961 163 866 886 815 887 925"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="163" VPOS="930" WIDTH="720" HEIGHT="119"
-                                        ID="eSc_textblock_4bc61144" TAGREFS="BT493">
-                                        <Shape>
+                                        </Shape></TextBlock><TextBlock HPOS="163" VPOS="930" WIDTH="720" HEIGHT="119" ID="eSc_textblock_4bc61144" TAGREFS="BT15"><Shape>
                                                 <Polygon POINTS="163 1049 168 975 883 930 882 998"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="167" VPOS="994" WIDTH="851" HEIGHT="131"
-                                        ID="eSc_textblock_953c4804" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="167 1125 167 1053 1018 994 1018 1078"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="170" VPOS="1097" WIDTH="780" HEIGHT="142"
-                                        ID="eSc_textblock_b7bba315" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="170 1239 171 1133 942 1097 950 1191"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="171" VPOS="1200" WIDTH="866" HEIGHT="148"
-                                        ID="eSc_textblock_fa55a20c" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="173 1348 171 1243 1033 1200 1037 1307"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="172" VPOS="1323" WIDTH="742" HEIGHT="104"
-                                        ID="eSc_textblock_acd6f433" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="175 1427 172 1355 914 1323 914 1391"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="175" VPOS="1398" WIDTH="894" HEIGHT="168"
-                                        ID="eSc_textblock_0f34b7ab" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="175 1566 176 1434 1049 1398 1069 1530"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="179" VPOS="1546" WIDTH="759" HEIGHT="106"
-                                        ID="eSc_textblock_0a95ea6d" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="184 1652 179 1579 934 1546 938 1617"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="183" VPOS="1625" WIDTH="898" HEIGHT="144"
-                                        ID="eSc_textblock_6ac84517" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="184 1769 183 1664 1070 1625 1081 1725"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="186" VPOS="1738" WIDTH="887" HEIGHT="114"
-                                        ID="eSc_textblock_a66fcd61" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="187 1852 186 1780 1071 1738 1073 1808"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="188" VPOS="1828" WIDTH="814" HEIGHT="106"
-                                        ID="eSc_textblock_e9e44489" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="188 1934 192 1859 1001 1828 1002 1908"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="189" VPOS="1913" WIDTH="773" HEIGHT="105"
-                                        ID="eSc_textblock_dcccffe5" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="189 2018 189 1947 962 1913 958 1986"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="194" VPOS="1985" WIDTH="899" HEIGHT="153"
-                                        ID="eSc_textblock_0bc23657" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="198 2138 194 2028 1081 1985 1093 2090"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="199" VPOS="2111" WIDTH="705" HEIGHT="143"
-                                        ID="eSc_textblock_96c779c5" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="199 2254 200 2141 902 2111 904 2212"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+                                        </Shape></TextBlock><TextBlock HPOS="167" VPOS="994" WIDTH="851" HEIGHT="131" ID="eSc_textblock_953c4804" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="167 1125 167 1053 1018 994 1018 1078"/>
+                                        </Shape></TextBlock><TextBlock HPOS="170" VPOS="1097" WIDTH="780" HEIGHT="142" ID="eSc_textblock_b7bba315" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="170 1239 171 1133 942 1097 950 1191"/>
+                                        </Shape></TextBlock><TextBlock HPOS="171" VPOS="1200" WIDTH="866" HEIGHT="148" ID="eSc_textblock_fa55a20c" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="173 1348 171 1243 1033 1200 1037 1307"/>
+                                        </Shape></TextBlock><TextBlock HPOS="172" VPOS="1323" WIDTH="742" HEIGHT="104" ID="eSc_textblock_acd6f433" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="175 1427 172 1355 914 1323 914 1391"/>
+                                        </Shape></TextBlock><TextBlock HPOS="175" VPOS="1398" WIDTH="894" HEIGHT="168" ID="eSc_textblock_0f34b7ab" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="175 1566 176 1434 1049 1398 1069 1530"/>
+                                        </Shape></TextBlock><TextBlock HPOS="179" VPOS="1546" WIDTH="759" HEIGHT="106" ID="eSc_textblock_0a95ea6d" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="184 1652 179 1579 934 1546 938 1617"/>
+                                        </Shape></TextBlock><TextBlock HPOS="183" VPOS="1625" WIDTH="898" HEIGHT="144" ID="eSc_textblock_6ac84517" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="184 1769 183 1664 1070 1625 1081 1725"/>
+                                        </Shape></TextBlock><TextBlock HPOS="186" VPOS="1738" WIDTH="887" HEIGHT="114" ID="eSc_textblock_a66fcd61" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="187 1852 186 1780 1071 1738 1073 1808"/>
+                                        </Shape></TextBlock><TextBlock HPOS="188" VPOS="1828" WIDTH="814" HEIGHT="106" ID="eSc_textblock_e9e44489" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="188 1934 192 1859 1001 1828 1002 1908"/>
+                                        </Shape></TextBlock><TextBlock HPOS="189" VPOS="1913" WIDTH="773" HEIGHT="105" ID="eSc_textblock_dcccffe5" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="189 2018 189 1947 962 1913 958 1986"/>
+                                        </Shape></TextBlock><TextBlock HPOS="194" VPOS="1985" WIDTH="899" HEIGHT="153" ID="eSc_textblock_0bc23657" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="198 2138 194 2028 1081 1985 1093 2090"/>
+                                        </Shape></TextBlock><TextBlock HPOS="199" VPOS="2111" WIDTH="705" HEIGHT="143" ID="eSc_textblock_96c779c5" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="199 2254 200 2141 902 2111 904 2212"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

@@ -1,554 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>Cat_Strasbourg_1884-2_typo_0003.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Strasbourg_1884-2_typo_0003.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags>
-                <OtherTag ID="BT486" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT487" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT489" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT490" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT491" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT492" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT493" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT494" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="LT175" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
-        <Layout>
-                <Page WIDTH="1635" HEIGHT="2567" PHYSICAL_IMG_NR="41" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1635" HEIGHT="2567">
-
-                                <TextBlock HPOS="769" VPOS="337" WIDTH="182" HEIGHT="44"
-                                        ID="eSc_textblock_20a05ccb" TAGREFS="BT489">
-                                        <Shape>
+        <Layout><Page WIDTH="1635" HEIGHT="2567" PHYSICAL_IMG_NR="41" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1635" HEIGHT="2567"><TextBlock HPOS="769" VPOS="337" WIDTH="182" HEIGHT="44" ID="eSc_textblock_20a05ccb" TAGREFS=""><Shape>
                                                 <Polygon POINTS="769 337 769 381 951 381 951 337"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT175"
-                                                BASELINE="779 363 815 363 854 371 938 365"
-                                                HPOS="779" VPOS="341" WIDTH="159" HEIGHT="31">
-                                                <Shape>
-                                                  <Polygon POINTS="779 341 938 341 938 372 779 372"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="— 14 —" HPOS="779" VPOS="341"
-                                                  WIDTH="159" HEIGHT="31"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="355" VPOS="401" WIDTH="987" HEIGHT="1683"
-                                        ID="eSc_textblock_46802d82" TAGREFS="BT487">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="355 401 355 2084 1342 2084 1342 401"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT175"
-                                                BASELINE="378 433 546 442 743 436" HPOS="378"
-                                                VPOS="403" WIDTH="365" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon POINTS="378 403 743 403 743 445 378 445"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="JACOBS, Rodolphe." HPOS="378"
-                                                  VPOS="403" WIDTH="365" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT175"
-                                                BASELINE="459 485 619 487" HPOS="459" VPOS="458"
-                                                WIDTH="160" HEIGHT="30">
-                                                <Shape>
-                                                  <Polygon POINTS="459 458 619 458 619 488 459 488"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Bruxelles." HPOS="459" VPOS="458"
-                                                  WIDTH="160" HEIGHT="30"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT175"
-                                                BASELINE="400 539 465 540 536 540 619 539 680 540 1232 548 1335 550"
-                                                HPOS="400" VPOS="509" WIDTH="935" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="400 509 1335 509 1335 550 400 550"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="134. La fille de ferme. . . . . . . . . . fr. 350"
-                                                  HPOS="400" VPOS="509" WIDTH="935" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT175"
-                                                BASELINE="399 594 464 593 534 593 1178 600 1334 602"
-                                                HPOS="399" VPOS="562" WIDTH="935" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="399 562 1334 562 1334 606 399 606"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="135. La répétition. . . . . . . . . . . . 350"
-                                                  HPOS="399" VPOS="562" WIDTH="935" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT175"
-                                                BASELINE="376 652 526 659 698 661 758 654 798 654 1020 656"
-                                                HPOS="376" VPOS="621" WIDTH="644" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="376 621 1020 621 1020 665 376 665"/>
-                                                </Shape>
-                                                <String CONTENT="JUNDT, Gustave, né à Strasbourg."
-                                                  HPOS="376" VPOS="621" WIDTH="644" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT175"
-                                                BASELINE="456 704 555 703" HPOS="456" VPOS="676"
-                                                WIDTH="99" HEIGHT="28">
-                                                <Shape>
-                                                  <Polygon POINTS="456 676 555 676 555 704 456 704"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Paris." HPOS="456" VPOS="676"
-                                                  WIDTH="99" HEIGHT="28"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT175"
-                                                BASELINE="392 755 458 756 526 756 718 757 1149 761 1330 764"
-                                                HPOS="392" VPOS="726" WIDTH="938" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="392 726 1330 726 1330 764 392 764"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="136. Le dimanche matin. . . . . . . . 1200"
-                                                  HPOS="392" VPOS="726" WIDTH="938" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT175"
-                                                BASELINE="377 814 566 822 666 815 721 815 793 822 874 817 915 818 1116 820"
-                                                HPOS="377" VPOS="784" WIDTH="739" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="377 784 1116 784 1116 826 377 826"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="KAROLY, Mlle C. S., née à Molsheim."
-                                                  HPOS="377" VPOS="784" WIDTH="739" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT175"
-                                                BASELINE="456 867 542 866" HPOS="455" VPOS="840"
-                                                WIDTH="87" HEIGHT="36">
-                                                <Shape>
-                                                  <Polygon POINTS="455 840 542 840 542 876 455 876"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Lyon." HPOS="455" VPOS="840"
-                                                  WIDTH="87" HEIGHT="36"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT175"
-                                                BASELINE="398 919 461 919 558 919 674 920 1175 926 1332 928"
-                                                HPOS="398" VPOS="889" WIDTH="934" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="398 889 1332 889 1332 933 398 933"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="137. Une jeune Bordelaise. . . . . . . . 150"
-                                                  HPOS="398" VPOS="889" WIDTH="934" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT175"
-                                                BASELINE="397 970 462 971 668 972 1176 978 1331 981"
-                                                HPOS="397" VPOS="940" WIDTH="934" HEIGHT="47">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="397 940 1331 940 1331 987 397 987"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="138. Saint-Bris (Huguenots). .  . . . . . 500"
-                                                  HPOS="397" VPOS="940" WIDTH="934" HEIGHT="47"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT175"
-                                                BASELINE="394 1023 460 1024 535 1023 1173 1031 1330 1033"
-                                                HPOS="394" VPOS="993" WIDTH="936" HEIGHT="45">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="394 993 1330 993 1330 1038 394 1038"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="139. Un coq. . . . . . . . . . . . . 250"
-                                                  HPOS="394" VPOS="993" WIDTH="936" HEIGHT="45"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT175"
-                                                BASELINE="374 1081 609 1092 746 1085" HPOS="374"
-                                                VPOS="1051" WIDTH="372" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="374 1051 746 1051 746 1093 374 1093"/>
-                                                </Shape>
-                                                <String CONTENT="KEGELJAN, Franz." HPOS="374"
-                                                  VPOS="1051" WIDTH="372" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT175"
-                                                BASELINE="453 1135 581 1136" HPOS="453" VPOS="1107"
-                                                WIDTH="128" HEIGHT="29">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="453 1107 581 1107 581 1136 453 1136"/>
-                                                </Shape>
-                                                <String CONTENT="Namur." HPOS="453" VPOS="1107"
-                                                  WIDTH="128" HEIGHT="29"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT175"
-                                                BASELINE="394 1186 459 1188 545 1187 687 1188 736 1189 835 1190 953 1192 1002 1193 1044 1192 1174 1204 1329 1196"
-                                                HPOS="394" VPOS="1157" WIDTH="935" HEIGHT="48">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="394 1157 1329 1157 1329 1205 394 1205"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="140. Les rochers de Dave (bords de la Meuse) 1300"
-                                                  HPOS="394" VPOS="1157" WIDTH="935" HEIGHT="48"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT175"
-                                                BASELINE="393 1237 458 1239 526 1239 663 1240 722 1240 1172 1246 1327 1248"
-                                                HPOS="393" VPOS="1208" WIDTH="934" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="393 1208 1327 1208 1327 1252 393 1252"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="141. Le village de Dave. . . . . . . . . 900"
-                                                  HPOS="393" VPOS="1208" WIDTH="934" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT175"
-                                                BASELINE="372 1296 554 1305 754 1300" HPOS="372"
-                                                VPOS="1267" WIDTH="382" HEIGHT="42">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="372 1267 754 1267 754 1309 372 1309"/>
-                                                </Shape>
-                                                <String CONTENT="KOLLER, Rodolphe." HPOS="372"
-                                                  VPOS="1267" WIDTH="382" HEIGHT="42"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT175"
-                                                BASELINE="451 1350 571 1349" HPOS="451" VPOS="1323"
-                                                WIDTH="120" HEIGHT="27">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="451 1323 571 1323 571 1350 451 1350"/>
-                                                </Shape>
-                                                <String CONTENT="Zurich." HPOS="451" VPOS="1323"
-                                                  WIDTH="120" HEIGHT="27"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT175"
-                                                BASELINE="391 1400 456 1402 604 1403 667 1403 765 1404 831 1405 1168 1409 1325 1412"
-                                                HPOS="391" VPOS="1371" WIDTH="934" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="391 1371 1325 1371 1325 1412 391 1412"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="142. Vaches au bord du lac. . . . . . . 4500"
-                                                  HPOS="391" VPOS="1371" WIDTH="934" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT175"
-                                                BASELINE="370 1461 606 1472 773 1466" HPOS="370"
-                                                VPOS="1432" WIDTH="403" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="370 1432 773 1432 773 1473 370 1473"/>
-                                                </Shape>
-                                                <String CONTENT="LANDELLE, Charles." HPOS="370"
-                                                  VPOS="1432" WIDTH="403" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT175"
-                                                BASELINE="449 1515 542 1516" HPOS="449" VPOS="1488"
-                                                WIDTH="93" HEIGHT="28">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="449 1488 542 1488 542 1516 449 1516"/>
-                                                </Shape>
-                                                <String CONTENT="Paris." HPOS="449" VPOS="1488"
-                                                  WIDTH="93" HEIGHT="28"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT175"
-                                                BASELINE="390 1566 454 1567 687 1569 747 1571 1169 1575 1323 1578"
-                                                HPOS="390" VPOS="1537" WIDTH="933" HEIGHT="45">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="390 1537 1323 1537 1323 1582 390 1582"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="143. Campement de Bohémiens. . . . . 1000"
-                                                  HPOS="390" VPOS="1537" WIDTH="933" HEIGHT="45"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT175"
-                                                BASELINE="389 1618 452 1620 606 1621 667 1621 827 1623 1012 1627 1169 1635 1323 1630"
-                                                HPOS="389" VPOS="1590" WIDTH="934" HEIGHT="48">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="389 1590 1323 1590 1323 1638 389 1638"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="144. Femme de Boghari (province d’Alger) 800"
-                                                  HPOS="389" VPOS="1590" WIDTH="934" HEIGHT="48"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT175"
-                                                BASELINE="368 1680 553 1689 653 1682 939 1686"
-                                                HPOS="368" VPOS="1648" WIDTH="571" HEIGHT="44">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="368 1648 939 1648 939 1692 368 1692"/>
-                                                </Shape>
-                                                <String CONTENT="LANDRÉ, Mlle Louise-Amélie."
-                                                  HPOS="368" VPOS="1648" WIDTH="571" HEIGHT="44"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT175"
-                                                BASELINE="447 1733 540 1734" HPOS="447" VPOS="1707"
-                                                WIDTH="93" HEIGHT="27">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="447 1707 540 1707 540 1734 447 1734"/>
-                                                </Shape>
-                                                <String CONTENT="Paris." HPOS="447" VPOS="1707"
-                                                  WIDTH="93" HEIGHT="27"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT175"
-                                                BASELINE="389 1785 453 1786 589 1787 650 1787 1166 1794 1322 1797"
-                                                HPOS="389" VPOS="1756" WIDTH="933" HEIGHT="41">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="389 1756 1322 1756 1322 1797 389 1797"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="145. Fleurs de mai. . . . . . . . . . . 250"
-                                                  HPOS="389" VPOS="1756" WIDTH="933" HEIGHT="41"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT175"
-                                                BASELINE="387 1837 450 1838 544 1839 604 1840 842 1842 1046 1854 1085 1845 1125 1845 1165 1846 1321 1849"
-                                                HPOS="387" VPOS="1808" WIDTH="934" HEIGHT="48">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="387 1808 1321 1808 1321 1856 387 1856"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="146. Vue de Port-Navalo (Bretagne). . . 100"
-                                                  HPOS="387" VPOS="1808" WIDTH="934" HEIGHT="48"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT175"
-                                                BASELINE="364 1898 575 1908 801 1902" HPOS="364"
-                                                VPOS="1869" WIDTH="437" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="364 1869 801 1869 801 1909 364 1909"/>
-                                                </Shape>
-                                                <String CONTENT="LANSYER, Emmanuel." HPOS="364"
-                                                  VPOS="1869" WIDTH="437" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_30" TAGREFS="LT175"
-                                                BASELINE="446 1951 541 1951" HPOS="446" VPOS="1923"
-                                                WIDTH="95" HEIGHT="28">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="446 1923 541 1923 541 1951 446 1951"/>
-                                                </Shape>
-                                                <String CONTENT="Paris." HPOS="446" VPOS="1923"
-                                                  WIDTH="95" HEIGHT="28"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_31" TAGREFS="LT175"
-                                                BASELINE="386 2000 450 2002 518 2002 666 2003 721 2005 908 2008 1165 2020 1319 2014"
-                                                HPOS="386" VPOS="1971" WIDTH="933" HEIGHT="50">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="386 1971 1319 1971 1319 2021 386 2021"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="147. Le château de Tennesue (Deux-Sèvres) 600"
-                                                  HPOS="386" VPOS="1971" WIDTH="933" HEIGHT="50"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_32" TAGREFS="LT175"
-                                                BASELINE="386 2052 451 2053 598 2056 734 2057 1163 2062 1319 2066"
-                                                HPOS="386" VPOS="2023" WIDTH="933" HEIGHT="49">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="386 2023 1319 2023 1319 2072 386 2072"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="148. Marine (temps d’orage). . . . . . . 900"
-                                                  HPOS="386" VPOS="2023" WIDTH="933" HEIGHT="49"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="375" VPOS="402" WIDTH="961" HEIGHT="204"
-                                        ID="eSc_textblock_231d9496" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="375 402 376 605 1336 606 1336 404"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="364" VPOS="622" WIDTH="971" HEIGHT="147"
-                                        ID="eSc_textblock_10e11ad8" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="370 622 364 764 1335 769 1335 623"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="362" VPOS="784" WIDTH="974" HEIGHT="255"
-                                        ID="eSc_textblock_7cb89e59" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="362 784 377 1030 1336 1039 1335 784"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="369" VPOS="1051" WIDTH="960" HEIGHT="198"
-                                        ID="eSc_textblock_94377ee5" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="374 1051 369 1246 1329 1249 1326 1058"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="366" VPOS="1266" WIDTH="965" HEIGHT="151"
-                                        ID="eSc_textblock_7d8baf36" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="366 1266 366 1408 1331 1417 1331 1267"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="365" VPOS="1428" WIDTH="966" HEIGHT="207"
-                                        ID="eSc_textblock_4f2d7231" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="365 1428 370 1630 1331 1635 1322 1442"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="361" VPOS="1647" WIDTH="963" HEIGHT="207"
-                                        ID="eSc_textblock_f1e97632" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="367 1647 361 1849 1324 1854 1317 1661"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="362" VPOS="1867" WIDTH="961" HEIGHT="207"
-                                        ID="eSc_textblock_00a13f0d" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="362 1867 367 2060 1323 2074 1313 1873"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="779 363 815 363 854 371 938 365" HPOS="779" VPOS="341" WIDTH="159" HEIGHT="31"><Shape>
+                                                  <Polygon POINTS="779 341 938 341 938 372 779 372"/>
+                                                </Shape><String CONTENT="— 14 —" HPOS="779" VPOS="341" WIDTH="159" HEIGHT="31"/></TextLine></TextBlock><TextBlock HPOS="355" VPOS="401" WIDTH="987" HEIGHT="1683" ID="eSc_textblock_46802d82" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="355 401 355 2084 1342 2084 1342 401"/>
+                                        </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="378 433 546 442 743 436" HPOS="378" VPOS="403" WIDTH="365" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="378 403 743 403 743 445 378 445"/>
+                                                </Shape><String CONTENT="JACOBS, Rodolphe." HPOS="378" VPOS="403" WIDTH="365" HEIGHT="42"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="459 485 619 487" HPOS="459" VPOS="458" WIDTH="160" HEIGHT="30"><Shape>
+                                                  <Polygon POINTS="459 458 619 458 619 488 459 488"/>
+                                                </Shape><String CONTENT="Bruxelles." HPOS="459" VPOS="458" WIDTH="160" HEIGHT="30"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="400 539 465 540 536 540 619 539 680 540 1232 548 1335 550" HPOS="400" VPOS="509" WIDTH="935" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="400 509 1335 509 1335 550 400 550"/>
+                                                </Shape><String CONTENT="134. La fille de ferme. . . . . . . . . . fr. 350" HPOS="400" VPOS="509" WIDTH="935" HEIGHT="41"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="399 594 464 593 534 593 1178 600 1334 602" HPOS="399" VPOS="562" WIDTH="935" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="399 562 1334 562 1334 606 399 606"/>
+                                                </Shape><String CONTENT="135. La répétition. . . . . . . . . . . . 350" HPOS="399" VPOS="562" WIDTH="935" HEIGHT="44"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="376 652 526 659 698 661 758 654 798 654 1020 656" HPOS="376" VPOS="621" WIDTH="644" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="376 621 1020 621 1020 665 376 665"/>
+                                                </Shape><String CONTENT="JUNDT, Gustave, né à Strasbourg." HPOS="376" VPOS="621" WIDTH="644" HEIGHT="44"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="456 704 555 703" HPOS="456" VPOS="676" WIDTH="99" HEIGHT="28"><Shape>
+                                                  <Polygon POINTS="456 676 555 676 555 704 456 704"/>
+                                                </Shape><String CONTENT="Paris." HPOS="456" VPOS="676" WIDTH="99" HEIGHT="28"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="392 755 458 756 526 756 718 757 1149 761 1330 764" HPOS="392" VPOS="726" WIDTH="938" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="392 726 1330 726 1330 764 392 764"/>
+                                                </Shape><String CONTENT="136. Le dimanche matin. . . . . . . . 1200" HPOS="392" VPOS="726" WIDTH="938" HEIGHT="38"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="377 814 566 822 666 815 721 815 793 822 874 817 915 818 1116 820" HPOS="377" VPOS="784" WIDTH="739" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="377 784 1116 784 1116 826 377 826"/>
+                                                </Shape><String CONTENT="KAROLY, Mlle C. S., née à Molsheim." HPOS="377" VPOS="784" WIDTH="739" HEIGHT="42"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="456 867 542 866" HPOS="455" VPOS="840" WIDTH="87" HEIGHT="36"><Shape>
+                                                  <Polygon POINTS="455 840 542 840 542 876 455 876"/>
+                                                </Shape><String CONTENT="Lyon." HPOS="455" VPOS="840" WIDTH="87" HEIGHT="36"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="398 919 461 919 558 919 674 920 1175 926 1332 928" HPOS="398" VPOS="889" WIDTH="934" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="398 889 1332 889 1332 933 398 933"/>
+                                                </Shape><String CONTENT="137. Une jeune Bordelaise. . . . . . . . 150" HPOS="398" VPOS="889" WIDTH="934" HEIGHT="44"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="397 970 462 971 668 972 1176 978 1331 981" HPOS="397" VPOS="940" WIDTH="934" HEIGHT="47"><Shape>
+                                                  <Polygon POINTS="397 940 1331 940 1331 987 397 987"/>
+                                                </Shape><String CONTENT="138. Saint-Bris (Huguenots). .  . . . . . 500" HPOS="397" VPOS="940" WIDTH="934" HEIGHT="47"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="394 1023 460 1024 535 1023 1173 1031 1330 1033" HPOS="394" VPOS="993" WIDTH="936" HEIGHT="45"><Shape>
+                                                  <Polygon POINTS="394 993 1330 993 1330 1038 394 1038"/>
+                                                </Shape><String CONTENT="139. Un coq. . . . . . . . . . . . . 250" HPOS="394" VPOS="993" WIDTH="936" HEIGHT="45"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="374 1081 609 1092 746 1085" HPOS="374" VPOS="1051" WIDTH="372" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="374 1051 746 1051 746 1093 374 1093"/>
+                                                </Shape><String CONTENT="KEGELJAN, Franz." HPOS="374" VPOS="1051" WIDTH="372" HEIGHT="42"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="453 1135 581 1136" HPOS="453" VPOS="1107" WIDTH="128" HEIGHT="29"><Shape>
+                                                  <Polygon POINTS="453 1107 581 1107 581 1136 453 1136"/>
+                                                </Shape><String CONTENT="Namur." HPOS="453" VPOS="1107" WIDTH="128" HEIGHT="29"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="394 1186 459 1188 545 1187 687 1188 736 1189 835 1190 953 1192 1002 1193 1044 1192 1174 1204 1329 1196" HPOS="394" VPOS="1157" WIDTH="935" HEIGHT="48"><Shape>
+                                                  <Polygon POINTS="394 1157 1329 1157 1329 1205 394 1205"/>
+                                                </Shape><String CONTENT="140. Les rochers de Dave (bords de la Meuse) 1300" HPOS="394" VPOS="1157" WIDTH="935" HEIGHT="48"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="393 1237 458 1239 526 1239 663 1240 722 1240 1172 1246 1327 1248" HPOS="393" VPOS="1208" WIDTH="934" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="393 1208 1327 1208 1327 1252 393 1252"/>
+                                                </Shape><String CONTENT="141. Le village de Dave. . . . . . . . . 900" HPOS="393" VPOS="1208" WIDTH="934" HEIGHT="44"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="372 1296 554 1305 754 1300" HPOS="372" VPOS="1267" WIDTH="382" HEIGHT="42"><Shape>
+                                                  <Polygon POINTS="372 1267 754 1267 754 1309 372 1309"/>
+                                                </Shape><String CONTENT="KOLLER, Rodolphe." HPOS="372" VPOS="1267" WIDTH="382" HEIGHT="42"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="451 1350 571 1349" HPOS="451" VPOS="1323" WIDTH="120" HEIGHT="27"><Shape>
+                                                  <Polygon POINTS="451 1323 571 1323 571 1350 451 1350"/>
+                                                </Shape><String CONTENT="Zurich." HPOS="451" VPOS="1323" WIDTH="120" HEIGHT="27"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="391 1400 456 1402 604 1403 667 1403 765 1404 831 1405 1168 1409 1325 1412" HPOS="391" VPOS="1371" WIDTH="934" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="391 1371 1325 1371 1325 1412 391 1412"/>
+                                                </Shape><String CONTENT="142. Vaches au bord du lac. . . . . . . 4500" HPOS="391" VPOS="1371" WIDTH="934" HEIGHT="41"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="370 1461 606 1472 773 1466" HPOS="370" VPOS="1432" WIDTH="403" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="370 1432 773 1432 773 1473 370 1473"/>
+                                                </Shape><String CONTENT="LANDELLE, Charles." HPOS="370" VPOS="1432" WIDTH="403" HEIGHT="41"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="449 1515 542 1516" HPOS="449" VPOS="1488" WIDTH="93" HEIGHT="28"><Shape>
+                                                  <Polygon POINTS="449 1488 542 1488 542 1516 449 1516"/>
+                                                </Shape><String CONTENT="Paris." HPOS="449" VPOS="1488" WIDTH="93" HEIGHT="28"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="390 1566 454 1567 687 1569 747 1571 1169 1575 1323 1578" HPOS="390" VPOS="1537" WIDTH="933" HEIGHT="45"><Shape>
+                                                  <Polygon POINTS="390 1537 1323 1537 1323 1582 390 1582"/>
+                                                </Shape><String CONTENT="143. Campement de Bohémiens. . . . . 1000" HPOS="390" VPOS="1537" WIDTH="933" HEIGHT="45"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="389 1618 452 1620 606 1621 667 1621 827 1623 1012 1627 1169 1635 1323 1630" HPOS="389" VPOS="1590" WIDTH="934" HEIGHT="48"><Shape>
+                                                  <Polygon POINTS="389 1590 1323 1590 1323 1638 389 1638"/>
+                                                </Shape><String CONTENT="144. Femme de Boghari (province d’Alger) 800" HPOS="389" VPOS="1590" WIDTH="934" HEIGHT="48"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="368 1680 553 1689 653 1682 939 1686" HPOS="368" VPOS="1648" WIDTH="571" HEIGHT="44"><Shape>
+                                                  <Polygon POINTS="368 1648 939 1648 939 1692 368 1692"/>
+                                                </Shape><String CONTENT="LANDRÉ, Mlle Louise-Amélie." HPOS="368" VPOS="1648" WIDTH="571" HEIGHT="44"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="447 1733 540 1734" HPOS="447" VPOS="1707" WIDTH="93" HEIGHT="27"><Shape>
+                                                  <Polygon POINTS="447 1707 540 1707 540 1734 447 1734"/>
+                                                </Shape><String CONTENT="Paris." HPOS="447" VPOS="1707" WIDTH="93" HEIGHT="27"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="389 1785 453 1786 589 1787 650 1787 1166 1794 1322 1797" HPOS="389" VPOS="1756" WIDTH="933" HEIGHT="41"><Shape>
+                                                  <Polygon POINTS="389 1756 1322 1756 1322 1797 389 1797"/>
+                                                </Shape><String CONTENT="145. Fleurs de mai. . . . . . . . . . . 250" HPOS="389" VPOS="1756" WIDTH="933" HEIGHT="41"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="387 1837 450 1838 544 1839 604 1840 842 1842 1046 1854 1085 1845 1125 1845 1165 1846 1321 1849" HPOS="387" VPOS="1808" WIDTH="934" HEIGHT="48"><Shape>
+                                                  <Polygon POINTS="387 1808 1321 1808 1321 1856 387 1856"/>
+                                                </Shape><String CONTENT="146. Vue de Port-Navalo (Bretagne). . . 100" HPOS="387" VPOS="1808" WIDTH="934" HEIGHT="48"/></TextLine><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="364 1898 575 1908 801 1902" HPOS="364" VPOS="1869" WIDTH="437" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="364 1869 801 1869 801 1909 364 1909"/>
+                                                </Shape><String CONTENT="LANSYER, Emmanuel." HPOS="364" VPOS="1869" WIDTH="437" HEIGHT="40"/></TextLine><TextLine ID="tl_30" TAGREFS="LT1" BASELINE="446 1951 541 1951" HPOS="446" VPOS="1923" WIDTH="95" HEIGHT="28"><Shape>
+                                                  <Polygon POINTS="446 1923 541 1923 541 1951 446 1951"/>
+                                                </Shape><String CONTENT="Paris." HPOS="446" VPOS="1923" WIDTH="95" HEIGHT="28"/></TextLine><TextLine ID="tl_31" TAGREFS="LT1" BASELINE="386 2000 450 2002 518 2002 666 2003 721 2005 908 2008 1165 2020 1319 2014" HPOS="386" VPOS="1971" WIDTH="933" HEIGHT="50"><Shape>
+                                                  <Polygon POINTS="386 1971 1319 1971 1319 2021 386 2021"/>
+                                                </Shape><String CONTENT="147. Le château de Tennesue (Deux-Sèvres) 600" HPOS="386" VPOS="1971" WIDTH="933" HEIGHT="50"/></TextLine><TextLine ID="tl_32" TAGREFS="LT1" BASELINE="386 2052 451 2053 598 2056 734 2057 1163 2062 1319 2066" HPOS="386" VPOS="2023" WIDTH="933" HEIGHT="49"><Shape>
+                                                  <Polygon POINTS="386 2023 1319 2023 1319 2072 386 2072"/>
+                                                </Shape><String CONTENT="148. Marine (temps d’orage). . . . . . . 900" HPOS="386" VPOS="2023" WIDTH="933" HEIGHT="49"/></TextLine></TextBlock><TextBlock HPOS="375" VPOS="402" WIDTH="961" HEIGHT="204" ID="eSc_textblock_231d9496" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="375 402 376 605 1336 606 1336 404"/>
+                                        </Shape></TextBlock><TextBlock HPOS="364" VPOS="622" WIDTH="971" HEIGHT="147" ID="eSc_textblock_10e11ad8" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="370 622 364 764 1335 769 1335 623"/>
+                                        </Shape></TextBlock><TextBlock HPOS="362" VPOS="784" WIDTH="974" HEIGHT="255" ID="eSc_textblock_7cb89e59" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="362 784 377 1030 1336 1039 1335 784"/>
+                                        </Shape></TextBlock><TextBlock HPOS="369" VPOS="1051" WIDTH="960" HEIGHT="198" ID="eSc_textblock_94377ee5" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="374 1051 369 1246 1329 1249 1326 1058"/>
+                                        </Shape></TextBlock><TextBlock HPOS="366" VPOS="1266" WIDTH="965" HEIGHT="151" ID="eSc_textblock_7d8baf36" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="366 1266 366 1408 1331 1417 1331 1267"/>
+                                        </Shape></TextBlock><TextBlock HPOS="365" VPOS="1428" WIDTH="966" HEIGHT="207" ID="eSc_textblock_4f2d7231" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="365 1428 370 1630 1331 1635 1322 1442"/>
+                                        </Shape></TextBlock><TextBlock HPOS="361" VPOS="1647" WIDTH="963" HEIGHT="207" ID="eSc_textblock_f1e97632" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="367 1647 361 1849 1324 1854 1317 1661"/>
+                                        </Shape></TextBlock><TextBlock HPOS="362" VPOS="1867" WIDTH="961" HEIGHT="207" ID="eSc_textblock_00a13f0d" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="362 1867 367 2060 1323 2074 1313 1873"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>

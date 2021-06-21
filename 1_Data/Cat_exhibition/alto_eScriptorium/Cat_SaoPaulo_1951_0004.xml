@@ -1,478 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description>
-                <MeasurementUnit>pixel</MeasurementUnit>
-                <sourceImageInformation>
-                        <fileName>Cat_SaoPaulo_1951_0004.jpg</fileName>
-                </sourceImageInformation>
-        </Description>
-
-        <Tags>
-                <OtherTag ID="BT486" LABEL="Figure" DESCRIPTION="block type Figure"/>
-                <OtherTag ID="BT487" LABEL="Main" DESCRIPTION="block type Main"/>
-                <OtherTag ID="BT489" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
-                <OtherTag ID="BT490" LABEL="Title" DESCRIPTION="block type Title"/>
-                <OtherTag ID="BT491" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-                <OtherTag ID="BT492" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
-                <OtherTag ID="BT493" LABEL="Entry" DESCRIPTION="block type Entry"/>
-                <OtherTag ID="BT494" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
-                <OtherTag ID="LT175" LABEL="Default" DESCRIPTION="line type Default"/>
-        </Tags>
-
-        <Layout>
-                <Page WIDTH="1641" HEIGHT="2087" PHYSICAL_IMG_NR="36" ID="eSc_dummypage_">
-                        <PrintSpace HPOS="0" VPOS="0" WIDTH="1641" HEIGHT="2087">
-
-                                <TextBlock HPOS="306" VPOS="248" WIDTH="1023" HEIGHT="1519"
-                                        ID="eSc_textblock_1d85f904" TAGREFS="BT487">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="306 248 306 1767 1329 1767 1329 248"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_1" TAGREFS="LT175"
-                                                BASELINE="337 281 360 281 694 282 802 281 895 283 986 281 1062 289"
-                                                HPOS="337" VPOS="252" WIDTH="725" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="337 252 1062 252 1062 292 337 292"/>
-                                                </Shape>
-                                                <String CONTENT="Philip EVERGOOD (EE. UU. 1901 —)"
-                                                  HPOS="337" VPOS="252" WIDTH="725" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_2" TAGREFS="LT175"
-                                                BASELINE="394 352 404 352 617 353 670 353 795 345 898 354 1072 353 1153 354 1198 354 1295 353"
-                                                HPOS="394" VPOS="323" WIDTH="901" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="394 323 1295 323 1295 361 394 361"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="15. Natureza morta — 1944. 88,9x102. Sr. e Sra."
-                                                  HPOS="394" VPOS="323" WIDTH="901" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_3" TAGREFS="LT175"
-                                                BASELINE="477 389 594 391 652 391 717 389 898 392 1007 393"
-                                                HPOS="477" VPOS="361" WIDTH="530" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="477 361 1007 361 1007 396 477 396"/>
-                                                </Shape>
-                                                <String CONTENT="Hudson D. Walker, New York."
-                                                  HPOS="477" VPOS="361" WIDTH="530" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_4" TAGREFS="LT175"
-                                                BASELINE="396 435 438 435 504 435 616 436 683 436 718 435 765 435 937 430 1033 437 1180 438 1299 442"
-                                                HPOS="396" VPOS="405" WIDTH="903" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="396 405 1299 405 1299 445 396 445"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="16. Os homens e a montanha — 1945. Herbert Small,"
-                                                  HPOS="396" VPOS="405" WIDTH="903" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_5" TAGREFS="LT175"
-                                                BASELINE="481 473 604 475 652 474 890 475"
-                                                HPOS="481" VPOS="446" WIDTH="409" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon POINTS="481 446 890 446 890 483 481 483"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Takoma Park, Maryland" HPOS="481"
-                                                  VPOS="446" WIDTH="409" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_6" TAGREFS="LT175"
-                                                BASELINE="395 520 404 520 501 520 654 521 748 519 863 526 916 514 1009 521 1169 521 1299 521"
-                                                HPOS="395" VPOS="490" WIDTH="904" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="395 490 1299 490 1299 528 395 528"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="17. Alegria em New Jersey — 1951. 88,9x102. A.C.A."
-                                                  HPOS="395" VPOS="490" WIDTH="904" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_7" TAGREFS="LT175"
-                                                BASELINE="480 557 503 557 690 558 788 556"
-                                                HPOS="480" VPOS="529" WIDTH="308" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon POINTS="480 529 788 529 788 564 480 564"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Gallery, New York" HPOS="480"
-                                                  VPOS="529" WIDTH="308" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_8" TAGREFS="LT175"
-                                                BASELINE="339 672 455 672 715 669 823 668 916 669 1009 668 1087 674"
-                                                HPOS="339" VPOS="640" WIDTH="748" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="339 640 1087 640 1087 678 339 678"/>
-                                                </Shape>
-                                                <String CONTENT="Lyonel FEININGER (EE. UU. 1871 —)"
-                                                  HPOS="339" VPOS="640" WIDTH="748" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_9" TAGREFS="LT175"
-                                                BASELINE="396 743 438 743 503 742 608 742 671 742 871 742 933 733 1038 739 1194 741 1299 738"
-                                                HPOS="396" VPOS="711" WIDTH="903" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="396 711 1299 711 1299 746 396 746"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="18. A costa do nunca-mais — 1944. 48,2x81. Curt"
-                                                  HPOS="396" VPOS="711" WIDTH="903" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_10" TAGREFS="LT175"
-                                                BASELINE="480 780 508 780 715 778 818 777"
-                                                HPOS="480" VPOS="752" WIDTH="338" HEIGHT="33">
-                                                <Shape>
-                                                  <Polygon POINTS="480 752 818 752 818 785 480 785"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Valentin, New York" HPOS="480"
-                                                  VPOS="752" WIDTH="338" HEIGHT="33"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_11" TAGREFS="LT175"
-                                                BASELINE="397 819 407 819 506 818 577 818 609 818 759 809 896 816 1065 814 1144 814 1301 813"
-                                                HPOS="397" VPOS="784" WIDTH="904" HEIGHT="39">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="397 784 1301 784 1301 823 397 823"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="19. A ilha distante — 1946-47. 50,8x88,9. The Buchholz"
-                                                  HPOS="397" VPOS="784" WIDTH="904" HEIGHT="39"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_12" TAGREFS="LT175"
-                                                BASELINE="480 856 504 856 693 856 796 852"
-                                                HPOS="480" VPOS="827" WIDTH="316" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon POINTS="480 827 796 827 796 862 480 862"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Gallery, New York" HPOS="480"
-                                                  VPOS="827" WIDTH="316" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_13" TAGREFS="LT175"
-                                                BASELINE="396 903 440 905 572 903 686 886 747 893 848 900 1044 901 1135 900 1301 896"
-                                                HPOS="396" VPOS="870" WIDTH="905" HEIGHT="36">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="396 870 1301 870 1301 906 396 906"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="20. “Vita nova” — 1947. 79,9x100,3. The Buchholz"
-                                                  HPOS="396" VPOS="870" WIDTH="905" HEIGHT="36"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_14" TAGREFS="LT175"
-                                                BASELINE="482 941 504 941 701 939 805 937"
-                                                HPOS="482" VPOS="911" WIDTH="323" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon POINTS="482 911 805 911 805 949 482 949"
-                                                  />
-                                                </Shape>
-                                                <String CONTENT="Gallery, New York" HPOS="482"
-                                                  VPOS="911" WIDTH="323" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_15" TAGREFS="LT175"
-                                                BASELINE="341 1067 422 1066 473 1066 684 1068 928 1070"
-                                                HPOS="341" VPOS="1035" WIDTH="587" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="341 1035 928 1035 928 1072 341 1072"/>
-                                                </Shape>
-                                                <String CONTENT="Fritz GLARNER (Suíça, 1899—)"
-                                                  HPOS="341" VPOS="1035" WIDTH="587" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_16" TAGREFS="LT175"
-                                                BASELINE="396 1156 412 1156 596 1155 628 1155 816 1146 930 1154 982 1146 1050 1140 1101 1152 1153 1145 1298 1151"
-                                                HPOS="396" VPOS="1124" WIDTH="902" HEIGHT="33">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="396 1124 1298 1124 1298 1157 396 1157"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="21. Pintura relacionai — Tondo — n.° 20 — 1950-51."
-                                                  HPOS="396" VPOS="1124" WIDTH="902" HEIGHT="33"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_17" TAGREFS="LT175"
-                                                BASELINE="481 1193 498 1193 595 1198 798 1190 999 1193 1103 1190 1211 1191 1303 1182"
-                                                HPOS="481" VPOS="1161" WIDTH="822" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="481 1161 1303 1161 1303 1198 481 1198"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="óleo s/masonite. Diâmetro 121. Rose Fried Gal¬"
-                                                  HPOS="481" VPOS="1161" WIDTH="822" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_18" TAGREFS="LT175"
-                                                BASELINE="483 1230 490 1230 642 1230 742 1227"
-                                                HPOS="483" VPOS="1201" WIDTH="259" HEIGHT="35">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="483 1201 742 1201 742 1236 483 1236"/>
-                                                </Shape>
-                                                <String CONTENT="lery, New York" HPOS="483"
-                                                  VPOS="1201" WIDTH="259" HEIGHT="35"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_19" TAGREFS="LT175"
-                                                BASELINE="397 1277 413 1277 599 1277 636 1276 828 1268 928 1275 1091 1272 1193 1274 1303 1272"
-                                                HPOS="397" VPOS="1244" WIDTH="906" HEIGHT="34">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="397 1244 1303 1244 1303 1278 397 1278"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="22. Pintura relacional — 1950. 147x122. Rose Fried"
-                                                  HPOS="397" VPOS="1244" WIDTH="906" HEIGHT="34"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_20" TAGREFS="LT175"
-                                                BASELINE="483 1315 507 1315 699 1314 801 1311"
-                                                HPOS="483" VPOS="1286" WIDTH="318" HEIGHT="34">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="483 1286 801 1286 801 1320 483 1320"/>
-                                                </Shape>
-                                                <String CONTENT="Gallery, New York" HPOS="483"
-                                                  VPOS="1286" WIDTH="318" HEIGHT="34"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_21" TAGREFS="LT175"
-                                                BASELINE="343 1434 455 1433 642 1432 750 1430 843 1430 936 1429 1008 1435"
-                                                HPOS="343" VPOS="1402" WIDTH="665" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="343 1402 1008 1402 1008 1440 343 1440"/>
-                                                </Shape>
-                                                <String CONTENT="Morris GRAVES (EE. UU. 1910 —)"
-                                                  HPOS="343" VPOS="1402" WIDTH="665" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_22" TAGREFS="LT175"
-                                                BASELINE="395 1505 412 1505 601 1504 643 1503 759 1495 859 1501 1018 1501 1202 1501 1303 1493"
-                                                HPOS="395" VPOS="1471" WIDTH="908" HEIGHT="40">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="395 1471 1303 1471 1303 1511 395 1511"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="23. Pássaro cego — 1950. gouache. 76,5x68,5. Mu¬"
-                                                  HPOS="395" VPOS="1471" WIDTH="908" HEIGHT="40"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_23" TAGREFS="LT175"
-                                                BASELINE="483 1541 560 1541 611 1540 751 1537 798 1538 927 1539 1023 1536"
-                                                HPOS="483" VPOS="1510" WIDTH="540" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="483 1510 1023 1510 1023 1548 483 1548"/>
-                                                </Shape>
-                                                <String CONTENT="seum of Modern Art, New York"
-                                                  HPOS="483" VPOS="1510" WIDTH="540" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_24" TAGREFS="LT175"
-                                                BASELINE="398 1587 414 1587 614 1587 686 1585 772 1585 813 1584 972 1577 1036 1583 1243 1582 1304 1582"
-                                                HPOS="398" VPOS="1555" WIDTH="906" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="398 1555 1304 1555 1304 1592 398 1592"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="24. Pinheiro jovem e alegre — 1944. aquarela e"
-                                                  HPOS="398" VPOS="1555" WIDTH="906" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_25" TAGREFS="LT175"
-                                                BASELINE="484 1629 616 1624 817 1621 1004 1621 1066 1620 1213 1621 1305 1622"
-                                                HPOS="484" VPOS="1592" WIDTH="821" HEIGHT="37">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="484 1592 1305 1592 1305 1629 484 1629"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="gouache. 136x68,5. Museum of Modern Art,"
-                                                  HPOS="484" VPOS="1592" WIDTH="821" HEIGHT="37"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_26" TAGREFS="LT175"
-                                                BASELINE="485 1661 556 1661 654 1661" HPOS="485"
-                                                VPOS="1634" WIDTH="169" HEIGHT="28">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="485 1634 654 1634 654 1662 485 1662"/>
-                                                </Shape>
-                                                <String CONTENT="New York" HPOS="485" VPOS="1634"
-                                                  WIDTH="169" HEIGHT="28"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_27" TAGREFS="LT175"
-                                                BASELINE="399 1708 444 1709 500 1692 731 1706 910 1699 948 1705 1168 1704 1306 1701"
-                                                HPOS="399" VPOS="1674" WIDTH="907" HEIGHT="38">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="399 1674 1306 1674 1306 1712 399 1712"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="25. “Bouquet” enfeitiçado — 1944. têmpera s/papel"
-                                                  HPOS="399" VPOS="1674" WIDTH="907" HEIGHT="38"/>
-                                        </TextLine>
-
-
-
-                                        <TextLine ID="tl_28" TAGREFS="LT175"
-                                                BASELINE="484 1746 574 1746 617 1745 874 1745 920 1743 1115 1741 1214 1741"
-                                                HPOS="484" VPOS="1715" WIDTH="730" HEIGHT="34">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="484 1715 1214 1715 1214 1749 484 1749"/>
-                                                </Shape>
-                                                <String
-                                                  CONTENT="arrôs. 76,5x70. Willard Gallery, New York"
-                                                  HPOS="484" VPOS="1715" WIDTH="730" HEIGHT="34"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="783" VPOS="1804" WIDTH="66" HEIGHT="37"
-                                        ID="eSc_textblock_fcc8536a" TAGREFS="BT491">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="783 1804 783 1841 849 1841 849 1804"/>
-                                        </Shape>
-
-
-                                        <TextLine ID="tl_29" TAGREFS="LT175"
-                                                BASELINE="803 1833 835 1833" HPOS="803" VPOS="1806"
-                                                WIDTH="32" HEIGHT="27">
-                                                <Shape>
-                                                  <Polygon
-                                                  POINTS="803 1806 835 1806 835 1833 803 1833"/>
-                                                </Shape>
-                                                <String CONTENT="77" HPOS="803" VPOS="1806"
-                                                  WIDTH="32" HEIGHT="27"/>
-                                        </TextLine>
-
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="320" VPOS="249" WIDTH="985" HEIGHT="319"
-                                        ID="eSc_textblock_44b865e8" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="320 249 322 568 1305 567 1305 250"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="330" VPOS="636" WIDTH="978" HEIGHT="325"
-                                        ID="eSc_textblock_4fc08839" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon POINTS="330 636 338 961 1308 951 1308 637"
-                                                />
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="328" VPOS="1032" WIDTH="987" HEIGHT="302"
-                                        ID="eSc_textblock_d735eafa" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="328 1032 336 1334 1315 1331 1315 1037"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-                                <TextBlock HPOS="334" VPOS="1400" WIDTH="974" HEIGHT="365"
-                                        ID="eSc_textblock_cd2fa88d" TAGREFS="BT493">
-                                        <Shape>
-                                                <Polygon
-                                                  POINTS="336 1400 334 1765 1308 1750 1307 1404"/>
-                                        </Shape>
-
-                                </TextBlock>
-
-
-
-                        </PrintSpace>
-                </Page>
-        </Layout>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_SaoPaulo_1951_0004.jpg</fileName></sourceImageInformation></Description>
+
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+
+        <Layout><Page WIDTH="1641" HEIGHT="2087" PHYSICAL_IMG_NR="36" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1641" HEIGHT="2087"><TextBlock HPOS="306" VPOS="248" WIDTH="1023" HEIGHT="1519" ID="eSc_textblock_1d85f904" TAGREFS="BT2"><Shape>
+                                                <Polygon POINTS="306 248 306 1767 1329 1767 1329 248"/>
+                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="337 281 360 281 694 282 802 281 895 283 986 281 1062 289" HPOS="337" VPOS="252" WIDTH="725" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="337 252 1062 252 1062 292 337 292"/>
+                                                </Shape><String CONTENT="Philip EVERGOOD (EE. UU. 1901 —)" HPOS="337" VPOS="252" WIDTH="725" HEIGHT="40"/></TextLine><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="394 352 404 352 617 353 670 353 795 345 898 354 1072 353 1153 354 1198 354 1295 353" HPOS="394" VPOS="323" WIDTH="901" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="394 323 1295 323 1295 361 394 361"/>
+                                                </Shape><String CONTENT="15. Natureza morta — 1944. 88,9x102. Sr. e Sra." HPOS="394" VPOS="323" WIDTH="901" HEIGHT="38"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="477 389 594 391 652 391 717 389 898 392 1007 393" HPOS="477" VPOS="361" WIDTH="530" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="477 361 1007 361 1007 396 477 396"/>
+                                                </Shape><String CONTENT="Hudson D. Walker, New York." HPOS="477" VPOS="361" WIDTH="530" HEIGHT="35"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="396 435 438 435 504 435 616 436 683 436 718 435 765 435 937 430 1033 437 1180 438 1299 442" HPOS="396" VPOS="405" WIDTH="903" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="396 405 1299 405 1299 445 396 445"/>
+                                                </Shape><String CONTENT="16. Os homens e a montanha — 1945. Herbert Small," HPOS="396" VPOS="405" WIDTH="903" HEIGHT="40"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="481 473 604 475 652 474 890 475" HPOS="481" VPOS="446" WIDTH="409" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="481 446 890 446 890 483 481 483"/>
+                                                </Shape><String CONTENT="Takoma Park, Maryland" HPOS="481" VPOS="446" WIDTH="409" HEIGHT="37"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="395 520 404 520 501 520 654 521 748 519 863 526 916 514 1009 521 1169 521 1299 521" HPOS="395" VPOS="490" WIDTH="904" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="395 490 1299 490 1299 528 395 528"/>
+                                                </Shape><String CONTENT="17. Alegria em New Jersey — 1951. 88,9x102. A.C.A." HPOS="395" VPOS="490" WIDTH="904" HEIGHT="38"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="480 557 503 557 690 558 788 556" HPOS="480" VPOS="529" WIDTH="308" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="480 529 788 529 788 564 480 564"/>
+                                                </Shape><String CONTENT="Gallery, New York" HPOS="480" VPOS="529" WIDTH="308" HEIGHT="35"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="339 672 455 672 715 669 823 668 916 669 1009 668 1087 674" HPOS="339" VPOS="640" WIDTH="748" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="339 640 1087 640 1087 678 339 678"/>
+                                                </Shape><String CONTENT="Lyonel FEININGER (EE. UU. 1871 —)" HPOS="339" VPOS="640" WIDTH="748" HEIGHT="38"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="396 743 438 743 503 742 608 742 671 742 871 742 933 733 1038 739 1194 741 1299 738" HPOS="396" VPOS="711" WIDTH="903" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="396 711 1299 711 1299 746 396 746"/>
+                                                </Shape><String CONTENT="18. A costa do nunca-mais — 1944. 48,2x81. Curt" HPOS="396" VPOS="711" WIDTH="903" HEIGHT="35"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="480 780 508 780 715 778 818 777" HPOS="480" VPOS="752" WIDTH="338" HEIGHT="33"><Shape>
+                                                  <Polygon POINTS="480 752 818 752 818 785 480 785"/>
+                                                </Shape><String CONTENT="Valentin, New York" HPOS="480" VPOS="752" WIDTH="338" HEIGHT="33"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="397 819 407 819 506 818 577 818 609 818 759 809 896 816 1065 814 1144 814 1301 813" HPOS="397" VPOS="784" WIDTH="904" HEIGHT="39"><Shape>
+                                                  <Polygon POINTS="397 784 1301 784 1301 823 397 823"/>
+                                                </Shape><String CONTENT="19. A ilha distante — 1946-47. 50,8x88,9. The Buchholz" HPOS="397" VPOS="784" WIDTH="904" HEIGHT="39"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="480 856 504 856 693 856 796 852" HPOS="480" VPOS="827" WIDTH="316" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="480 827 796 827 796 862 480 862"/>
+                                                </Shape><String CONTENT="Gallery, New York" HPOS="480" VPOS="827" WIDTH="316" HEIGHT="35"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="396 903 440 905 572 903 686 886 747 893 848 900 1044 901 1135 900 1301 896" HPOS="396" VPOS="870" WIDTH="905" HEIGHT="36"><Shape>
+                                                  <Polygon POINTS="396 870 1301 870 1301 906 396 906"/>
+                                                </Shape><String CONTENT="20. “Vita nova” — 1947. 79,9x100,3. The Buchholz" HPOS="396" VPOS="870" WIDTH="905" HEIGHT="36"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="482 941 504 941 701 939 805 937" HPOS="482" VPOS="911" WIDTH="323" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="482 911 805 911 805 949 482 949"/>
+                                                </Shape><String CONTENT="Gallery, New York" HPOS="482" VPOS="911" WIDTH="323" HEIGHT="38"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="341 1067 422 1066 473 1066 684 1068 928 1070" HPOS="341" VPOS="1035" WIDTH="587" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="341 1035 928 1035 928 1072 341 1072"/>
+                                                </Shape><String CONTENT="Fritz GLARNER (Suíça, 1899—)" HPOS="341" VPOS="1035" WIDTH="587" HEIGHT="37"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="396 1156 412 1156 596 1155 628 1155 816 1146 930 1154 982 1146 1050 1140 1101 1152 1153 1145 1298 1151" HPOS="396" VPOS="1124" WIDTH="902" HEIGHT="33"><Shape>
+                                                  <Polygon POINTS="396 1124 1298 1124 1298 1157 396 1157"/>
+                                                </Shape><String CONTENT="21. Pintura relacionai — Tondo — n.° 20 — 1950-51." HPOS="396" VPOS="1124" WIDTH="902" HEIGHT="33"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="481 1193 498 1193 595 1198 798 1190 999 1193 1103 1190 1211 1191 1303 1182" HPOS="481" VPOS="1161" WIDTH="822" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="481 1161 1303 1161 1303 1198 481 1198"/>
+                                                </Shape><String CONTENT="óleo s/masonite. Diâmetro 121. Rose Fried Gal¬" HPOS="481" VPOS="1161" WIDTH="822" HEIGHT="37"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="483 1230 490 1230 642 1230 742 1227" HPOS="483" VPOS="1201" WIDTH="259" HEIGHT="35"><Shape>
+                                                  <Polygon POINTS="483 1201 742 1201 742 1236 483 1236"/>
+                                                </Shape><String CONTENT="lery, New York" HPOS="483" VPOS="1201" WIDTH="259" HEIGHT="35"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="397 1277 413 1277 599 1277 636 1276 828 1268 928 1275 1091 1272 1193 1274 1303 1272" HPOS="397" VPOS="1244" WIDTH="906" HEIGHT="34"><Shape>
+                                                  <Polygon POINTS="397 1244 1303 1244 1303 1278 397 1278"/>
+                                                </Shape><String CONTENT="22. Pintura relacional — 1950. 147x122. Rose Fried" HPOS="397" VPOS="1244" WIDTH="906" HEIGHT="34"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="483 1315 507 1315 699 1314 801 1311" HPOS="483" VPOS="1286" WIDTH="318" HEIGHT="34"><Shape>
+                                                  <Polygon POINTS="483 1286 801 1286 801 1320 483 1320"/>
+                                                </Shape><String CONTENT="Gallery, New York" HPOS="483" VPOS="1286" WIDTH="318" HEIGHT="34"/></TextLine><TextLine ID="tl_21" TAGREFS="LT1" BASELINE="343 1434 455 1433 642 1432 750 1430 843 1430 936 1429 1008 1435" HPOS="343" VPOS="1402" WIDTH="665" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="343 1402 1008 1402 1008 1440 343 1440"/>
+                                                </Shape><String CONTENT="Morris GRAVES (EE. UU. 1910 —)" HPOS="343" VPOS="1402" WIDTH="665" HEIGHT="38"/></TextLine><TextLine ID="tl_22" TAGREFS="LT1" BASELINE="395 1505 412 1505 601 1504 643 1503 759 1495 859 1501 1018 1501 1202 1501 1303 1493" HPOS="395" VPOS="1471" WIDTH="908" HEIGHT="40"><Shape>
+                                                  <Polygon POINTS="395 1471 1303 1471 1303 1511 395 1511"/>
+                                                </Shape><String CONTENT="23. Pássaro cego — 1950. gouache. 76,5x68,5. Mu¬" HPOS="395" VPOS="1471" WIDTH="908" HEIGHT="40"/></TextLine><TextLine ID="tl_23" TAGREFS="LT1" BASELINE="483 1541 560 1541 611 1540 751 1537 798 1538 927 1539 1023 1536" HPOS="483" VPOS="1510" WIDTH="540" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="483 1510 1023 1510 1023 1548 483 1548"/>
+                                                </Shape><String CONTENT="seum of Modern Art, New York" HPOS="483" VPOS="1510" WIDTH="540" HEIGHT="38"/></TextLine><TextLine ID="tl_24" TAGREFS="LT1" BASELINE="398 1587 414 1587 614 1587 686 1585 772 1585 813 1584 972 1577 1036 1583 1243 1582 1304 1582" HPOS="398" VPOS="1555" WIDTH="906" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="398 1555 1304 1555 1304 1592 398 1592"/>
+                                                </Shape><String CONTENT="24. Pinheiro jovem e alegre — 1944. aquarela e" HPOS="398" VPOS="1555" WIDTH="906" HEIGHT="37"/></TextLine><TextLine ID="tl_25" TAGREFS="LT1" BASELINE="484 1629 616 1624 817 1621 1004 1621 1066 1620 1213 1621 1305 1622" HPOS="484" VPOS="1592" WIDTH="821" HEIGHT="37"><Shape>
+                                                  <Polygon POINTS="484 1592 1305 1592 1305 1629 484 1629"/>
+                                                </Shape><String CONTENT="gouache. 136x68,5. Museum of Modern Art," HPOS="484" VPOS="1592" WIDTH="821" HEIGHT="37"/></TextLine><TextLine ID="tl_26" TAGREFS="LT1" BASELINE="485 1661 556 1661 654 1661" HPOS="485" VPOS="1634" WIDTH="169" HEIGHT="28"><Shape>
+                                                  <Polygon POINTS="485 1634 654 1634 654 1662 485 1662"/>
+                                                </Shape><String CONTENT="New York" HPOS="485" VPOS="1634" WIDTH="169" HEIGHT="28"/></TextLine><TextLine ID="tl_27" TAGREFS="LT1" BASELINE="399 1708 444 1709 500 1692 731 1706 910 1699 948 1705 1168 1704 1306 1701" HPOS="399" VPOS="1674" WIDTH="907" HEIGHT="38"><Shape>
+                                                  <Polygon POINTS="399 1674 1306 1674 1306 1712 399 1712"/>
+                                                </Shape><String CONTENT="25. “Bouquet” enfeitiçado — 1944. têmpera s/papel" HPOS="399" VPOS="1674" WIDTH="907" HEIGHT="38"/></TextLine><TextLine ID="tl_28" TAGREFS="LT1" BASELINE="484 1746 574 1746 617 1745 874 1745 920 1743 1115 1741 1214 1741" HPOS="484" VPOS="1715" WIDTH="730" HEIGHT="34"><Shape>
+                                                  <Polygon POINTS="484 1715 1214 1715 1214 1749 484 1749"/>
+                                                </Shape><String CONTENT="arrôs. 76,5x70. Willard Gallery, New York" HPOS="484" VPOS="1715" WIDTH="730" HEIGHT="34"/></TextLine></TextBlock><TextBlock HPOS="783" VPOS="1804" WIDTH="66" HEIGHT="37" ID="eSc_textblock_fcc8536a" TAGREFS="BT8"><Shape>
+                                                <Polygon POINTS="783 1804 783 1841 849 1841 849 1804"/>
+                                        </Shape><TextLine ID="tl_29" TAGREFS="LT1" BASELINE="803 1833 835 1833" HPOS="803" VPOS="1806" WIDTH="32" HEIGHT="27"><Shape>
+                                                  <Polygon POINTS="803 1806 835 1806 835 1833 803 1833"/>
+                                                </Shape><String CONTENT="77" HPOS="803" VPOS="1806" WIDTH="32" HEIGHT="27"/></TextLine></TextBlock><TextBlock HPOS="320" VPOS="249" WIDTH="985" HEIGHT="319" ID="eSc_textblock_44b865e8" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="320 249 322 568 1305 567 1305 250"/>
+                                        </Shape></TextBlock><TextBlock HPOS="330" VPOS="636" WIDTH="978" HEIGHT="325" ID="eSc_textblock_4fc08839" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="330 636 338 961 1308 951 1308 637"/>
+                                        </Shape></TextBlock><TextBlock HPOS="328" VPOS="1032" WIDTH="987" HEIGHT="302" ID="eSc_textblock_d735eafa" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="328 1032 336 1334 1315 1331 1315 1037"/>
+                                        </Shape></TextBlock><TextBlock HPOS="334" VPOS="1400" WIDTH="974" HEIGHT="365" ID="eSc_textblock_cd2fa88d" TAGREFS="BT15"><Shape>
+                                                <Polygon POINTS="336 1400 334 1765 1308 1750 1307 1404"/>
+                                        </Shape></TextBlock></PrintSpace></Page></Layout>
 </alto>
