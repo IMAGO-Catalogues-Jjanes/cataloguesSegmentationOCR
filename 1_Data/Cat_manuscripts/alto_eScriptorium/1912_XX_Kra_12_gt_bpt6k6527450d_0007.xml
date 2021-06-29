@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
         <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1912_XX_Kra_12_gt_bpt6k6527450d_0007.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
-        <Layout><Page WIDTH="2127" HEIGHT="3455" PHYSICAL_IMG_NR="38" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="2127" HEIGHT="3455"><TextBlock HPOS="131.0" VPOS="126.0" WIDTH="612.0" HEIGHT="48.0" ID="r_1_1" TAGREFS=""><Shape>
+        <Layout><Page WIDTH="2127" HEIGHT="3455" PHYSICAL_IMG_NR="38" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="2127" HEIGHT="3455"><TextBlock HPOS="131.0" VPOS="126.0" WIDTH="612.0" HEIGHT="48.0" ID="r_1_1" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="131 126 743 126 743 174 131 174"/>
                                         </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="132 166 172 173 304 165 570 173 742 166" HPOS="132.0" VPOS="127.0" WIDTH="610.0" HEIGHT="46.0"><Shape>
                                                   <Polygon POINTS="132 127 742 127 742 173 132 173"/>
@@ -260,7 +259,7 @@
                                                   <Polygon POINTS="1132 3013 1901 3013 1901 3049 1132 3049"/>
                                                 </Shape><String CONTENT="liste chronologique complète des œuvres" HPOS="1132.0" VPOS="3013.0" WIDTH="769.0" HEIGHT="36.0"/></TextLine><TextLine ID="tl_124" TAGREFS="LT1" BASELINE="1132 3081 1178 3080 1445 3078" HPOS="1132.0" VPOS="3053.0" WIDTH="313.0" HEIGHT="33.0"><Shape>
                                                   <Polygon POINTS="1132 3053 1445 3053 1445 3086 1132 3086"/>
-                                                </Shape><String CONTENT="du compositeur." HPOS="1132.0" VPOS="3053.0" WIDTH="313.0" HEIGHT="33.0"/></TextLine></TextBlock><TextBlock HPOS="518.0" VPOS="3114.0" WIDTH="967.0" HEIGHT="59.0" ID="eSc_textblock_1a294a9e" TAGREFS=""><Shape>
+                                                </Shape><String CONTENT="du compositeur." HPOS="1132.0" VPOS="3053.0" WIDTH="313.0" HEIGHT="33.0"/></TextLine></TextBlock><TextBlock HPOS="518.0" VPOS="3114.0" WIDTH="967.0" HEIGHT="59.0" ID="eSc_textblock_1a294a9e" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="518 3114 1485 3124 1485 3173 522 3173"/>
                                         </Shape><TextLine ID="tl_125" TAGREFS="LT1" BASELINE="523 3168 674 3165 772 3165 972 3168 1066 3172 1132 3166 1484 3167" HPOS="523.0" VPOS="3138.0" WIDTH="961.0" HEIGHT="34.0"><Shape>
                                                   <Polygon POINTS="523 3138 1484 3138 1484 3172 523 3172"/>

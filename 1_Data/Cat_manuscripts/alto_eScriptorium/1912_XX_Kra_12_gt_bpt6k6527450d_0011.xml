@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
         <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1912_XX_Kra_12_gt_bpt6k6527450d_0011.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
-        <Layout><Page WIDTH="2119" HEIGHT="3451" PHYSICAL_IMG_NR="5" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="2119" HEIGHT="3451"><TextBlock HPOS="48" VPOS="185" WIDTH="637" HEIGHT="59" ID="eSc_textblock_2d9c4e8e" TAGREFS=""><Shape>
+        <Layout><Page WIDTH="2119" HEIGHT="3451" PHYSICAL_IMG_NR="5" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="2119" HEIGHT="3451"><TextBlock HPOS="48" VPOS="185" WIDTH="637" HEIGHT="59" ID="eSc_textblock_2d9c4e8e" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="48 185 48 244 685 244 685 185"/>
                                         </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="63 224 102 232 236 224 502 233 673 225" HPOS="63" VPOS="190" WIDTH="610" HEIGHT="43"><Shape>
                                                   <Polygon POINTS="63 190 673 190 673 233 63 233"/>
@@ -260,7 +259,7 @@
                                                   <Polygon POINTS="1088 3051 1901 3051 1901 3091 1088 3091"/>
                                                 </Shape><String CONTENT="est Shakespeare ». — L. a. s. à un poète," HPOS="1088" VPOS="3051" WIDTH="813" HEIGHT="40"/></TextLine><TextLine ID="tl_124" TAGREFS="LT1" BASELINE="1091 3129 1180 3129 1210 3136 1245 3128 1296 3129 1400 3129 1831 3131 1901 3131" HPOS="1091" VPOS="3098" WIDTH="810" HEIGHT="40"><Shape>
                                                   <Polygon POINTS="1091 3098 1901 3098 1901 3138 1091 3138"/>
-                                                </Shape><String CONTENT="1918 ; 2 p. in-8. 20 fr." HPOS="1091" VPOS="3098" WIDTH="810" HEIGHT="40"/></TextLine></TextBlock><TextBlock HPOS="494" VPOS="3184" WIDTH="1000" HEIGHT="78" ID="eSc_textblock_850298c3" TAGREFS=""><Shape>
+                                                </Shape><String CONTENT="1918 ; 2 p. in-8. 20 fr." HPOS="1091" VPOS="3098" WIDTH="810" HEIGHT="40"/></TextLine></TextBlock><TextBlock HPOS="494" VPOS="3184" WIDTH="1000" HEIGHT="78" ID="eSc_textblock_850298c3" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="494 3262 494 3184 1494 3184 1494 3262"/>
                                         </Shape><TextLine ID="tl_125" TAGREFS="LT1" BASELINE="522 3223 673 3222 771 3222 974 3223 1070 3222 1488 3226" HPOS="522" VPOS="3182" WIDTH="966" HEIGHT="44"><Shape>
                                                   <Polygon POINTS="522 3182 1488 3182 1488 3226 522 3226"/>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
         <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Venezia_1895_typo_0004.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
         <Layout><Page WIDTH="2550" HEIGHT="3299" PHYSICAL_IMG_NR="42" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="2550" HEIGHT="3299"><TextBlock HPOS="1063" VPOS="436" WIDTH="249" HEIGHT="74" ID="eSc_textblock_d9db80b0" TAGREFS="BT8"><Shape>
                                                 <Polygon POINTS="1063 436 1063 510 1312 510 1312 436"/>
                                         </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="1088 478 1132 478 1216 500 1296 477" HPOS="1088" VPOS="446" WIDTH="208" HEIGHT="54"><Shape>
                                                   <Polygon POINTS="1088 446 1296 446 1296 500 1088 500"/>
-                                                </Shape><String CONTENT="— 83 —" HPOS="1088" VPOS="446" WIDTH="208" HEIGHT="54"/></TextLine></TextBlock><TextBlock HPOS="1725" VPOS="456" WIDTH="158" HEIGHT="50" ID="eSc_textblock_7d875ee3" TAGREFS=""><Shape>
+                                                </Shape><String CONTENT="— 83 —" HPOS="1088" VPOS="446" WIDTH="208" HEIGHT="54"/></TextLine></TextBlock><TextBlock HPOS="1725" VPOS="456" WIDTH="158" HEIGHT="50" ID="eSc_textblock_7d875ee3" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="1725 456 1725 506 1883 506 1883 456"/>
                                         </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="1763 490 1869 490" HPOS="1763" VPOS="462" WIDTH="106" HEIGHT="28"><Shape>
                                                   <Polygon POINTS="1763 462 1869 462 1869 490 1763 490"/>

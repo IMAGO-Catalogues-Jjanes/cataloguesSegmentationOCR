@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
         <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Paris_1961_typo_0006.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
-        <Layout><Page WIDTH="1818" HEIGHT="2207" PHYSICAL_IMG_NR="13" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1818" HEIGHT="2207"><TextBlock HPOS="220" VPOS="20" WIDTH="174" HEIGHT="37" ID="r_2_1" TAGREFS=""><Shape>
+        <Layout><Page WIDTH="1818" HEIGHT="2207" PHYSICAL_IMG_NR="13" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1818" HEIGHT="2207"><TextBlock HPOS="220" VPOS="20" WIDTH="174" HEIGHT="37" ID="r_2_1" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="220 20 394 20 394 57 220 57"/>
                                         </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="221 56 393 53" HPOS="221" VPOS="21" WIDTH="172" HEIGHT="35"><Shape>
                                                   <Polygon POINTS="221 21 393 21 393 56 221 56"/>

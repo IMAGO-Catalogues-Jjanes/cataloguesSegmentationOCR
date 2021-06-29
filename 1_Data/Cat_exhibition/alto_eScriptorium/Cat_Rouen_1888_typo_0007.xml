@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
   <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Rouen_1888_typo_0007.jpg</fileName></sourceImageInformation></Description>
 
-  <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+  <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
-  <Layout><Page WIDTH="1998" HEIGHT="3149" PHYSICAL_IMG_NR="22" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1998" HEIGHT="3149"><TextBlock HPOS="777" VPOS="477" WIDTH="182" HEIGHT="33" ID="r_6_1" TAGREFS=""><Shape>
+  <Layout><Page WIDTH="1998" HEIGHT="3149" PHYSICAL_IMG_NR="22" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1998" HEIGHT="3149"><TextBlock HPOS="777" VPOS="477" WIDTH="182" HEIGHT="33" ID="r_6_1" TAGREFS="BT145"><Shape>
             <Polygon POINTS="777 477 959 477 957 508 777 510"/>
           </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="778 505 958 505" HPOS="778" VPOS="478" WIDTH="180" HEIGHT="31"><Shape>
               <Polygon POINTS="778 478 958 478 958 509 778 509"/>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
         <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1912_XX_Kra_12_gt_bpt6k6527450d_0012.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+        <Tags><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT4" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
         <Layout><Page WIDTH="2127" HEIGHT="3425" PHYSICAL_IMG_NR="4" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="2127" HEIGHT="3425"><TextBlock HPOS="257" VPOS="185" WIDTH="84" HEIGHT="59" ID="eSc_textblock_4a48041a" TAGREFS="BT8"><Shape>
                                                 <Polygon POINTS="257 185 257 236 341 244 341 185"/>
                                         </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="275 226 323 225" HPOS="275" VPOS="185" WIDTH="48" HEIGHT="41"><Shape>
                                                   <Polygon POINTS="275 185 323 185 323 226 275 226"/>
-                                                </Shape><String CONTENT="10" HPOS="275" VPOS="185" WIDTH="48" HEIGHT="41"/></TextLine></TextBlock><TextBlock HPOS="1488" VPOS="191" WIDTH="579" HEIGHT="72" ID="eSc_textblock_3345a002" TAGREFS=""><Shape>
+                                                </Shape><String CONTENT="10" HPOS="275" VPOS="185" WIDTH="48" HEIGHT="41"/></TextLine></TextBlock><TextBlock HPOS="1488" VPOS="191" WIDTH="579" HEIGHT="72" ID="eSc_textblock_3345a002" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="1488 191 1488 263 2067 263 2067 191"/>
                                         </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="1503 230 1738 231 1914 231 2042 231" HPOS="1503" VPOS="200" WIDTH="539" HEIGHT="32"><Shape>
                                                   <Polygon POINTS="1503 200 2042 200 2042 232 1503 232"/>
@@ -270,7 +269,7 @@
                                                   <Polygon POINTS="1199 3040 2006 3040 2006 3078 1199 3078"/>
                                                 </Shape><String CONTENT="in-12 et in-4, l’une d’elles sur program¬" HPOS="1199" VPOS="3040" WIDTH="807" HEIGHT="38"/></TextLine><TextLine ID="tl_128" TAGREFS="LT1" BASELINE="1197 3120 1250 3119 1365 3118 1507 3118 1568 3117 1640 3118 1835 3115 1930 3114 2003 3113" HPOS="1197" VPOS="3082" WIDTH="807" HEIGHT="38"><Shape>
                                                   <Polygon POINTS="1197 3082 2004 3082 2004 3120 1197 3120"/>
-                                                </Shape><String CONTENT="me illustré d’un de ses concerts. 40 fr." HPOS="1197" VPOS="3082" WIDTH="807" HEIGHT="38"/></TextLine></TextBlock><TextBlock HPOS="611" VPOS="3166" WIDTH="994" HEIGHT="73" ID="eSc_textblock_2c09dc2f" TAGREFS=""><Shape>
+                                                </Shape><String CONTENT="me illustré d’un de ses concerts. 40 fr." HPOS="1197" VPOS="3082" WIDTH="807" HEIGHT="38"/></TextLine></TextBlock><TextBlock HPOS="611" VPOS="3166" WIDTH="994" HEIGHT="73" ID="eSc_textblock_2c09dc2f" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="611 3239 611 3174 1599 3166 1605 3233"/>
                                         </Shape><TextLine ID="tl_129" TAGREFS="LT1" BASELINE="638 3216 787 3214 883 3214 1084 3213 1180 3211 1593 3208" HPOS="638" VPOS="3172" WIDTH="955" HEIGHT="44"><Shape>
                                                   <Polygon POINTS="638 3172 1593 3172 1593 3216 638 3216"/>

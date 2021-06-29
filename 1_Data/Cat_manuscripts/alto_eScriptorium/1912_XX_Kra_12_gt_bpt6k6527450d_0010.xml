@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
         <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1912_XX_Kra_12_gt_bpt6k6527450d_0010.jpg</fileName></sourceImageInformation></Description>
 
-        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
 
         <Layout><Page WIDTH="2053" HEIGHT="3381" PHYSICAL_IMG_NR="41" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="2053" HEIGHT="3381"><TextBlock HPOS="208.0" VPOS="117.0" WIDTH="27.0" HEIGHT="42.0" ID="r_1_1" TAGREFS="BT8"><Shape>
                                                 <Polygon POINTS="208 117 235 117 235 159 208 159"/>
                                         </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="209 158 234 158" HPOS="209.0" VPOS="118.0" WIDTH="25.0" HEIGHT="40.0"><Shape>
                                                   <Polygon POINTS="209 118 234 118 234 158 209 158"/>
-                                                </Shape><String CONTENT="8" HPOS="209.0" VPOS="118.0" WIDTH="25.0" HEIGHT="40.0"/></TextLine></TextBlock><TextBlock HPOS="1445.0" VPOS="129.0" WIDTH="539.0" HEIGHT="32.0" ID="r_2_1" TAGREFS=""><Shape>
+                                                </Shape><String CONTENT="8" HPOS="209.0" VPOS="118.0" WIDTH="25.0" HEIGHT="40.0"/></TextLine></TextBlock><TextBlock HPOS="1445.0" VPOS="129.0" WIDTH="539.0" HEIGHT="32.0" ID="r_2_1" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="1445 129 1984 129 1984 161 1445 161"/>
                                         </Shape><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="1446 158 1679 159 1853 160 1983 160" HPOS="1446.0" VPOS="130.0" WIDTH="537.0" HEIGHT="30.0"><Shape>
                                                   <Polygon POINTS="1446 130 1983 130 1983 160 1446 160"/>
-                                                </Shape><String CONTENT="LIBRAIRIE SIMON KRA" HPOS="1446.0" VPOS="130.0" WIDTH="537.0" HEIGHT="30.0"/></TextLine></TextBlock><TextBlock HPOS="634.0" VPOS="3108.0" WIDTH="953.0" HEIGHT="49.0" ID="r_4_15" TAGREFS=""><Shape>
+                                                </Shape><String CONTENT="LIBRAIRIE SIMON KRA" HPOS="1446.0" VPOS="130.0" WIDTH="537.0" HEIGHT="30.0"/></TextLine></TextBlock><TextBlock HPOS="634.0" VPOS="3108.0" WIDTH="953.0" HEIGHT="49.0" ID="r_4_15" TAGREFS="BT145"><Shape>
                                                 <Polygon POINTS="634 3115 1587 3108 1587 3150 634 3157"/>
                                         </Shape><TextLine ID="tl_134" TAGREFS="LT1" BASELINE="638 3154 1175 3148 1586 3146" HPOS="636.0" VPOS="3109.0" WIDTH="950.0" HEIGHT="48.0"><Shape>
                                                   <Polygon POINTS="636 3117 1586 3109 1586 3149 636 3157"/>

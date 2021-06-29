@@ -1,62 +1,182 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-        <Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Inde_1913_typo_0007.jpg</fileName></sourceImageInformation></Description>
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cat_Inde_1913_typo_0007.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
 
-        <Tags><OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/></Tags>
+  <Tags>
+    <OtherTag ID="BT6" LABEL="Figure" DESCRIPTION="block type Figure"/>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="BT8" LABEL="Numbering" DESCRIPTION="block type Numbering"/> <OtherTag ID="BT145" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/>
+    <OtherTag ID="BT13" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+    <OtherTag ID="BT15" LABEL="Entry" DESCRIPTION="block type Entry"/>
+    <OtherTag ID="BT16" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/>
+    <OtherTag ID="LT1" LABEL="Default" DESCRIPTION="line type Default"/>
+  </Tags>
 
-        <Layout><Page WIDTH="1894" HEIGHT="2991" PHYSICAL_IMG_NR="12" ID="eSc_dummypage_"><PrintSpace HPOS="0" VPOS="0" WIDTH="1894" HEIGHT="2991"><TextBlock HPOS="936" VPOS="372" WIDTH="197" HEIGHT="70" ID="eSc_textblock_29dc94cf" TAGREFS="BT8"><Shape>
-                                                <Polygon POINTS="936 372 936 442 1133 442 1133 372"/>
-                                        </Shape></TextBlock><TextBlock HPOS="420" VPOS="469" WIDTH="1256" HEIGHT="2015" ID="eSc_textblock_20c9eaaa" TAGREFS="BT2"><Shape>
-                                                <Polygon POINTS="420 484 421 2484 1665 2458 1676 469"/>
-                                        </Shape><TextLine ID="tl_1" TAGREFS="LT1" BASELINE="438 540 650 541 843 537 1075 545 1162 536 1220 537 1480 536 1566 524 1636 541" HPOS="438" VPOS="496" WIDTH="1198" HEIGHT="53"><Shape>
-                                                  <Polygon POINTS="438 496 1636 496 1636 549 438 549"/>
-                                                </Shape><String CONTENT="D’ANNE TANT (Pierre), né à Bruxelles. — 6," HPOS="438" VPOS="496" WIDTH="1198" HEIGHT="53"/></TextLine><TextLine ID="tl_2" TAGREFS="LT1" BASELINE="489 597 707 597 1069 605 1277 596 1535 594" HPOS="489" VPOS="557" WIDTH="1046" HEIGHT="50"><Shape>
-                                                  <Polygon POINTS="489 557 1535 557 1535 607 489 607"/>
-                                                </Shape><String CONTENT="boulevard Michel-Brézin, Garches (S.-et-O.)." HPOS="489" VPOS="557" WIDTH="1046" HEIGHT="50"/></TextLine><TextLine ID="tl_3" TAGREFS="LT1" BASELINE="572 732 600 732 931 724 1011 726 1205 725" HPOS="572" VPOS="690" WIDTH="633" HEIGHT="42"><Shape>
-                                                  <Polygon POINTS="572 690 1205 690 1205 732 572 732"/>
-                                                </Shape><String CONTENT="747 Marchand de cresson." HPOS="572" VPOS="690" WIDTH="633" HEIGHT="42"/></TextLine><TextLine ID="tl_4" TAGREFS="LT1" BASELINE="572 791 600 791 753 788 903 784" HPOS="572" VPOS="749" WIDTH="331" HEIGHT="42"><Shape>
-                                                  <Polygon POINTS="572 749 903 749 903 791 572 791"/>
-                                                </Shape><String CONTENT="748 Le trait." HPOS="572" VPOS="749" WIDTH="331" HEIGHT="42"/></TextLine><TextLine ID="tl_5" TAGREFS="LT1" BASELINE="572 851 600 851 914 843 983 839 1146 845" HPOS="572" VPOS="808" WIDTH="574" HEIGHT="43"><Shape>
-                                                  <Polygon POINTS="572 808 1146 808 1146 851 572 851"/>
-                                                </Shape><String CONTENT="749 Brodeuse au métier." HPOS="572" VPOS="808" WIDTH="574" HEIGHT="43"/></TextLine><TextLine ID="tl_6" TAGREFS="LT1" BASELINE="439 1078 639 1077 916 1084 1006 1076 1069 1075 1237 1075 1329 1064 1427 1081 1540 1072 1637 1071" HPOS="439" VPOS="1035" WIDTH="1198" HEIGHT="53"><Shape>
-                                                  <Polygon POINTS="439 1035 1637 1035 1637 1088 439 1088"/>
-                                                </Shape><String CONTENT="DANTU (Georges), né à Paris. — 14, rue La" HPOS="439" VPOS="1035" WIDTH="1198" HEIGHT="53"/></TextLine><TextLine ID="tl_7" TAGREFS="LT1" BASELINE="489 1135 697 1136" HPOS="489" VPOS="1097" WIDTH="208" HEIGHT="39"><Shape>
-                                                  <Polygon POINTS="489 1097 697 1097 697 1136 489 1136"/>
-                                                </Shape><String CONTENT="Fontaine." HPOS="489" VPOS="1097" WIDTH="208" HEIGHT="39"/></TextLine><TextLine ID="tl_8" TAGREFS="LT1" BASELINE="543 1256 681 1270 825 1263 909 1262 1100 1261 1281 1261 1361 1260 1521 1259" HPOS="543" VPOS="1226" WIDTH="978" HEIGHT="44"><Shape>
-                                                  <Polygon POINTS="543 1226 1521 1226 1521 1270 543 1270"/>
-                                                </Shape><String CONTENT="*750 Sous les glycines mauves du Japon." HPOS="543" VPOS="1226" WIDTH="978" HEIGHT="44"/></TextLine><TextLine ID="tl_9" TAGREFS="LT1" BASELINE="543 1315 676 1328 889 1321 1004 1322 1081 1321 1241 1320" HPOS="543" VPOS="1287" WIDTH="698" HEIGHT="42"><Shape>
-                                                  <Polygon POINTS="543 1287 1241 1287 1241 1329 543 1329"/>
-                                                </Shape><String CONTENT="*751 Cerisier rose au Japon." HPOS="543" VPOS="1287" WIDTH="698" HEIGHT="42"/></TextLine><TextLine ID="tl_10" TAGREFS="LT1" BASELINE="543 1375 567 1375 896 1381 973 1381 1132 1381" HPOS="543" VPOS="1346" WIDTH="589" HEIGHT="43"><Shape>
-                                                  <Polygon POINTS="543 1346 1132 1346 1132 1389 543 1389"/>
-                                                </Shape><String CONTENT="*752 Paysage au Japon." HPOS="543" VPOS="1346" WIDTH="589" HEIGHT="43"/></TextLine><TextLine ID="tl_11" TAGREFS="LT1" BASELINE="439 1610 475 1610 518 1610 599 1610 670 1611 897 1616 977 1608 1031 1608 1235 1606 1316 1597 1431 1613 1534 1605 1644 1593" HPOS="439" VPOS="1568" WIDTH="1205" HEIGHT="53"><Shape>
-                                                  <Polygon POINTS="439 1568 1644 1568 1644 1621 439 1621"/>
-                                                </Shape><String CONTENT="DAYNES (Victor), né à Colmar. —- 115, rue Bo¬" HPOS="439" VPOS="1568" WIDTH="1205" HEIGHT="53"/></TextLine><TextLine ID="tl_12" TAGREFS="LT1" BASELINE="490 1669 602 1669" HPOS="490" VPOS="1633" WIDTH="112" HEIGHT="37"><Shape>
-                                                  <Polygon POINTS="490 1633 602 1633 602 1670 490 1670"/>
-                                                </Shape><String CONTENT="livar." HPOS="490" VPOS="1633" WIDTH="112" HEIGHT="37"/></TextLine><TextLine ID="tl_13" TAGREFS="LT1" BASELINE="574 1802 602 1802 822 1794 1065 1793" HPOS="574" VPOS="1760" WIDTH="491" HEIGHT="43"><Shape>
-                                                  <Polygon POINTS="574 1760 1065 1760 1065 1803 574 1803"/>
-                                                </Shape><String CONTENT="753 Jeux maternels." HPOS="574" VPOS="1760" WIDTH="491" HEIGHT="43"/></TextLine><TextLine ID="tl_14" TAGREFS="LT1" BASELINE="573 1862 602 1862 778 1855 944 1854 1027 1852 1165 1852 1415 1852" HPOS="573" VPOS="1815" WIDTH="842" HEIGHT="47"><Shape>
-                                                  <Polygon POINTS="573 1815 1415 1815 1415 1862 573 1862"/>
-                                                </Shape><String CONTENT="754 La Loggia dei Lanzi (Florence)." HPOS="573" VPOS="1815" WIDTH="842" HEIGHT="47"/></TextLine><TextLine ID="tl_15" TAGREFS="LT1" BASELINE="544 1907 681 1921 780 1914 995 1912" HPOS="544" VPOS="1879" WIDTH="451" HEIGHT="42"><Shape>
-                                                  <Polygon POINTS="544 1879 995 1879 995 1921 544 1921"/>
-                                                </Shape><String CONTENT="*755 Le chimiste." HPOS="544" VPOS="1879" WIDTH="451" HEIGHT="42"/></TextLine><TextLine ID="tl_16" TAGREFS="LT1" BASELINE="441 2142 715 2145 981 2147 1059 2140 1110 2139 1419 2137 1642 2135" HPOS="441" VPOS="2098" WIDTH="1201" HEIGHT="55"><Shape>
-                                                  <Polygon POINTS="441 2098 1642 2098 1642 2153 441 2153"/>
-                                                </Shape><String CONTENT="DEBIESSE (Philippe), né à Villefranche (Rhône)." HPOS="441" VPOS="2098" WIDTH="1201" HEIGHT="55"/></TextLine><TextLine ID="tl_17" TAGREFS="LT1" BASELINE="490 2193 540 2193 735 2201 817 2201 1195 2207 1390 2198" HPOS="490" VPOS="2159" WIDTH="900" HEIGHT="50"><Shape>
-                                                  <Polygon POINTS="490 2159 1390 2159 1390 2209 490 2209"/>
-                                                </Shape><String CONTENT="— Avenue du Chemin-de-Fer, Raincy." HPOS="490" VPOS="2159" WIDTH="900" HEIGHT="50"/></TextLine><TextLine ID="tl_18" TAGREFS="LT1" BASELINE="546 2322 569 2322 907 2331" HPOS="546" VPOS="2294" WIDTH="361" HEIGHT="42"><Shape>
-                                                  <Polygon POINTS="546 2294 907 2294 907 2336 546 2336"/>
-                                                </Shape><String CONTENT="*756 Paysage." HPOS="546" VPOS="2294" WIDTH="361" HEIGHT="42"/></TextLine><TextLine ID="tl_19" TAGREFS="LT1" BASELINE="543 2384 603 2392 685 2394 910 2395" HPOS="541" VPOS="2354" WIDTH="366" HEIGHT="47"><Shape>
-                                                  <Polygon POINTS="541 2358 907 2354 907 2397 541 2401"/>
-                                                </Shape><String CONTENT="*757 Paysage." HPOS="541" VPOS="2354" WIDTH="366" HEIGHT="47"/></TextLine><TextLine ID="tl_20" TAGREFS="LT1" BASELINE="545 2441 569 2441 880 2447" HPOS="545" VPOS="2412" WIDTH="335" HEIGHT="43"><Shape>
-                                                  <Polygon POINTS="545 2412 880 2412 880 2455 545 2455"/>
-                                                </Shape><String CONTENT="*758 Etudes." HPOS="545" VPOS="2412" WIDTH="335" HEIGHT="43"/></TextLine></TextBlock><TextBlock HPOS="426" VPOS="484" WIDTH="1228" HEIGHT="388" ID="eSc_textblock_e34c3799" TAGREFS="BT15"><Shape>
-                                                <Polygon POINTS="426 484 431 872 1633 867 1654 490 618 486"/>
-                                        </Shape></TextBlock><TextBlock HPOS="442" VPOS="1027" WIDTH="1202" HEIGHT="378" ID="eSc_textblock_db5ce386" TAGREFS="BT15"><Shape>
-                                                <Polygon POINTS="447 1405 442 1027 1644 1032 1644 1394"/>
-                                        </Shape></TextBlock><TextBlock HPOS="442" VPOS="1559" WIDTH="1207" HEIGHT="389" ID="eSc_textblock_9415e64e" TAGREFS="BT15"><Shape>
-                                                <Polygon POINTS="447 1948 442 1559 1649 1564 1649 1937"/>
-                                        </Shape></TextBlock><TextBlock HPOS="431" VPOS="2070" WIDTH="1218" HEIGHT="399" ID="eSc_textblock_a36b6744" TAGREFS="BT15"><Shape>
-                                                <Polygon POINTS="431 2469 431 2086 1649 2070 1649 2458 688 2467"/>
-                                        </Shape></TextBlock><TextBlock HPOS="" VPOS="" WIDTH="" HEIGHT="" ID="eSc_dummyblock_" TAGREFS=""><TextLine ID="line_1591874540978_1624" TAGREFS="LT1" BASELINE="" HPOS="960" VPOS="364" WIDTH="163" HEIGHT="62"><Shape>
-                                                  <Polygon POINTS="968 364 1038 376 1115 364 1123 413 1038 426 960 413"/>
-                                                </Shape><String CONTENT="— 80 —" HPOS="960" VPOS="364" WIDTH="163" HEIGHT="62"/></TextLine></TextBlock></PrintSpace></Page></Layout>
+  <Layout>
+    <Page WIDTH="1894" HEIGHT="2991" PHYSICAL_IMG_NR="12" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1894" HEIGHT="2991">
+        <TextBlock HPOS="936" VPOS="372" WIDTH="197" HEIGHT="70" ID="eSc_textblock_29dc94cf" TAGREFS="BT8">
+          <Shape>
+            <Polygon POINTS="936 372 936 442 1133 442 1133 372"/>
+          </Shape>
+          <TextLine ID="line_1591874540978_1624" TAGREFS="LT1" BASELINE="" HPOS="960" VPOS="364" WIDTH="163" HEIGHT="62">
+            <Shape>
+              <Polygon POINTS="968 364 1038 376 1115 364 1123 413 1038 426 960 413"/>
+            </Shape>
+            <String CONTENT="— 80 —" HPOS="960" VPOS="364" WIDTH="163" HEIGHT="62"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="420" VPOS="469" WIDTH="1256" HEIGHT="2015" ID="eSc_textblock_20c9eaaa" TAGREFS="BT2">
+          <Shape>
+            <Polygon POINTS="420 484 421 2484 1665 2458 1676 469"/>
+          </Shape>
+          <TextLine ID="tl_1" TAGREFS="LT1" BASELINE="438 540 650 541 843 537 1075 545 1162 536 1220 537 1480 536 1566 524 1636 541" HPOS="438" VPOS="496" WIDTH="1198" HEIGHT="53">
+            <Shape>
+              <Polygon POINTS="438 496 1636 496 1636 549 438 549"/>
+            </Shape>
+            <String CONTENT="D’ANNE TANT (Pierre), né à Bruxelles. — 6," HPOS="438" VPOS="496" WIDTH="1198" HEIGHT="53"/>
+          </TextLine>
+          <TextLine ID="tl_2" TAGREFS="LT1" BASELINE="489 597 707 597 1069 605 1277 596 1535 594" HPOS="489" VPOS="557" WIDTH="1046" HEIGHT="50">
+            <Shape>
+              <Polygon POINTS="489 557 1535 557 1535 607 489 607"/>
+            </Shape>
+            <String CONTENT="boulevard Michel-Brézin, Garches (S.-et-O.)." HPOS="489" VPOS="557" WIDTH="1046" HEIGHT="50"/>
+          </TextLine>
+          <TextLine ID="tl_3" TAGREFS="LT1" BASELINE="572 732 600 732 931 724 1011 726 1205 725" HPOS="572" VPOS="690" WIDTH="633" HEIGHT="42">
+            <Shape>
+              <Polygon POINTS="572 690 1205 690 1205 732 572 732"/>
+            </Shape>
+            <String CONTENT="747 Marchand de cresson." HPOS="572" VPOS="690" WIDTH="633" HEIGHT="42"/>
+          </TextLine>
+          <TextLine ID="tl_4" TAGREFS="LT1" BASELINE="572 791 600 791 753 788 903 784" HPOS="572" VPOS="749" WIDTH="331" HEIGHT="42">
+            <Shape>
+              <Polygon POINTS="572 749 903 749 903 791 572 791"/>
+            </Shape>
+            <String CONTENT="748 Le trait." HPOS="572" VPOS="749" WIDTH="331" HEIGHT="42"/>
+          </TextLine>
+          <TextLine ID="tl_5" TAGREFS="LT1" BASELINE="572 851 600 851 914 843 983 839 1146 845" HPOS="572" VPOS="808" WIDTH="574" HEIGHT="43">
+            <Shape>
+              <Polygon POINTS="572 808 1146 808 1146 851 572 851"/>
+            </Shape>
+            <String CONTENT="749 Brodeuse au métier." HPOS="572" VPOS="808" WIDTH="574" HEIGHT="43"/>
+          </TextLine>
+          <TextLine ID="tl_6" TAGREFS="LT1" BASELINE="439 1078 639 1077 916 1084 1006 1076 1069 1075 1237 1075 1329 1064 1427 1081 1540 1072 1637 1071" HPOS="439" VPOS="1035" WIDTH="1198" HEIGHT="53">
+            <Shape>
+              <Polygon POINTS="439 1035 1637 1035 1637 1088 439 1088"/>
+            </Shape>
+            <String CONTENT="DANTU (Georges), né à Paris. — 14, rue La" HPOS="439" VPOS="1035" WIDTH="1198" HEIGHT="53"/>
+          </TextLine>
+          <TextLine ID="tl_7" TAGREFS="LT1" BASELINE="489 1135 697 1136" HPOS="489" VPOS="1097" WIDTH="208" HEIGHT="39">
+            <Shape>
+              <Polygon POINTS="489 1097 697 1097 697 1136 489 1136"/>
+            </Shape>
+            <String CONTENT="Fontaine." HPOS="489" VPOS="1097" WIDTH="208" HEIGHT="39"/>
+          </TextLine>
+          <TextLine ID="tl_8" TAGREFS="LT1" BASELINE="543 1256 681 1270 825 1263 909 1262 1100 1261 1281 1261 1361 1260 1521 1259" HPOS="543" VPOS="1226" WIDTH="978" HEIGHT="44">
+            <Shape>
+              <Polygon POINTS="543 1226 1521 1226 1521 1270 543 1270"/>
+            </Shape>
+            <String CONTENT="*750 Sous les glycines mauves du Japon." HPOS="543" VPOS="1226" WIDTH="978" HEIGHT="44"/>
+          </TextLine>
+          <TextLine ID="tl_9" TAGREFS="LT1" BASELINE="543 1315 676 1328 889 1321 1004 1322 1081 1321 1241 1320" HPOS="543" VPOS="1287" WIDTH="698" HEIGHT="42">
+            <Shape>
+              <Polygon POINTS="543 1287 1241 1287 1241 1329 543 1329"/>
+            </Shape>
+            <String CONTENT="*751 Cerisier rose au Japon." HPOS="543" VPOS="1287" WIDTH="698" HEIGHT="42"/>
+          </TextLine>
+          <TextLine ID="tl_10" TAGREFS="LT1" BASELINE="543 1375 567 1375 896 1381 973 1381 1132 1381" HPOS="543" VPOS="1346" WIDTH="589" HEIGHT="43">
+            <Shape>
+              <Polygon POINTS="543 1346 1132 1346 1132 1389 543 1389"/>
+            </Shape>
+            <String CONTENT="*752 Paysage au Japon." HPOS="543" VPOS="1346" WIDTH="589" HEIGHT="43"/>
+          </TextLine>
+          <TextLine ID="tl_11" TAGREFS="LT1" BASELINE="439 1610 475 1610 518 1610 599 1610 670 1611 897 1616 977 1608 1031 1608 1235 1606 1316 1597 1431 1613 1534 1605 1644 1593" HPOS="439" VPOS="1568" WIDTH="1205" HEIGHT="53">
+            <Shape>
+              <Polygon POINTS="439 1568 1644 1568 1644 1621 439 1621"/>
+            </Shape>
+            <String CONTENT="DAYNES (Victor), né à Colmar. —- 115, rue Bo¬" HPOS="439" VPOS="1568" WIDTH="1205" HEIGHT="53"/>
+          </TextLine>
+          <TextLine ID="tl_12" TAGREFS="LT1" BASELINE="490 1669 602 1669" HPOS="490" VPOS="1633" WIDTH="112" HEIGHT="37">
+            <Shape>
+              <Polygon POINTS="490 1633 602 1633 602 1670 490 1670"/>
+            </Shape>
+            <String CONTENT="livar." HPOS="490" VPOS="1633" WIDTH="112" HEIGHT="37"/>
+          </TextLine>
+          <TextLine ID="tl_13" TAGREFS="LT1" BASELINE="574 1802 602 1802 822 1794 1065 1793" HPOS="574" VPOS="1760" WIDTH="491" HEIGHT="43">
+            <Shape>
+              <Polygon POINTS="574 1760 1065 1760 1065 1803 574 1803"/>
+            </Shape>
+            <String CONTENT="753 Jeux maternels." HPOS="574" VPOS="1760" WIDTH="491" HEIGHT="43"/>
+          </TextLine>
+          <TextLine ID="tl_14" TAGREFS="LT1" BASELINE="573 1862 602 1862 778 1855 944 1854 1027 1852 1165 1852 1415 1852" HPOS="573" VPOS="1815" WIDTH="842" HEIGHT="47">
+            <Shape>
+              <Polygon POINTS="573 1815 1415 1815 1415 1862 573 1862"/>
+            </Shape>
+            <String CONTENT="754 La Loggia dei Lanzi (Florence)." HPOS="573" VPOS="1815" WIDTH="842" HEIGHT="47"/>
+          </TextLine>
+          <TextLine ID="tl_15" TAGREFS="LT1" BASELINE="544 1907 681 1921 780 1914 995 1912" HPOS="544" VPOS="1879" WIDTH="451" HEIGHT="42">
+            <Shape>
+              <Polygon POINTS="544 1879 995 1879 995 1921 544 1921"/>
+            </Shape>
+            <String CONTENT="*755 Le chimiste." HPOS="544" VPOS="1879" WIDTH="451" HEIGHT="42"/>
+          </TextLine>
+          <TextLine ID="tl_16" TAGREFS="LT1" BASELINE="441 2142 715 2145 981 2147 1059 2140 1110 2139 1419 2137 1642 2135" HPOS="441" VPOS="2098" WIDTH="1201" HEIGHT="55">
+            <Shape>
+              <Polygon POINTS="441 2098 1642 2098 1642 2153 441 2153"/>
+            </Shape>
+            <String CONTENT="DEBIESSE (Philippe), né à Villefranche (Rhône)." HPOS="441" VPOS="2098" WIDTH="1201" HEIGHT="55"/>
+          </TextLine>
+          <TextLine ID="tl_17" TAGREFS="LT1" BASELINE="490 2193 540 2193 735 2201 817 2201 1195 2207 1390 2198" HPOS="490" VPOS="2159" WIDTH="900" HEIGHT="50">
+            <Shape>
+              <Polygon POINTS="490 2159 1390 2159 1390 2209 490 2209"/>
+            </Shape>
+            <String CONTENT="— Avenue du Chemin-de-Fer, Raincy." HPOS="490" VPOS="2159" WIDTH="900" HEIGHT="50"/>
+          </TextLine>
+          <TextLine ID="tl_18" TAGREFS="LT1" BASELINE="546 2322 569 2322 907 2331" HPOS="546" VPOS="2294" WIDTH="361" HEIGHT="42">
+            <Shape>
+              <Polygon POINTS="546 2294 907 2294 907 2336 546 2336"/>
+            </Shape>
+            <String CONTENT="*756 Paysage." HPOS="546" VPOS="2294" WIDTH="361" HEIGHT="42"/>
+          </TextLine>
+          <TextLine ID="tl_19" TAGREFS="LT1" BASELINE="543 2384 603 2392 685 2394 910 2395" HPOS="541" VPOS="2354" WIDTH="366" HEIGHT="47">
+            <Shape>
+              <Polygon POINTS="541 2358 907 2354 907 2397 541 2401"/>
+            </Shape>
+            <String CONTENT="*757 Paysage." HPOS="541" VPOS="2354" WIDTH="366" HEIGHT="47"/>
+          </TextLine>
+          <TextLine ID="tl_20" TAGREFS="LT1" BASELINE="545 2441 569 2441 880 2447" HPOS="545" VPOS="2412" WIDTH="335" HEIGHT="43">
+            <Shape>
+              <Polygon POINTS="545 2412 880 2412 880 2455 545 2455"/>
+            </Shape>
+            <String CONTENT="*758 Etudes." HPOS="545" VPOS="2412" WIDTH="335" HEIGHT="43"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="426" VPOS="484" WIDTH="1228" HEIGHT="388" ID="eSc_textblock_e34c3799" TAGREFS="BT15">
+          <Shape>
+            <Polygon POINTS="426 484 431 872 1633 867 1654 490 618 486"/>
+          </Shape>
+        </TextBlock>
+        <TextBlock HPOS="442" VPOS="1027" WIDTH="1202" HEIGHT="378" ID="eSc_textblock_db5ce386" TAGREFS="BT15">
+          <Shape>
+            <Polygon POINTS="447 1405 442 1027 1644 1032 1644 1394"/>
+          </Shape>
+        </TextBlock>
+        <TextBlock HPOS="442" VPOS="1559" WIDTH="1207" HEIGHT="389" ID="eSc_textblock_9415e64e" TAGREFS="BT15">
+          <Shape>
+            <Polygon POINTS="447 1948 442 1559 1649 1564 1649 1937"/>
+          </Shape>
+        </TextBlock>
+        <TextBlock HPOS="431" VPOS="2070" WIDTH="1218" HEIGHT="399" ID="eSc_textblock_a36b6744" TAGREFS="BT15">
+          <Shape>
+            <Polygon POINTS="431 2469 431 2086 1649 2070 1649 2458 688 2467"/>
+          </Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
 </alto>
