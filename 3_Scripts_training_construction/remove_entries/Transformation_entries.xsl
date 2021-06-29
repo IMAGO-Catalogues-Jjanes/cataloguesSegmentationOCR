@@ -12,6 +12,6 @@
                 </xsl:copy>
             </xsl:template>
             
-    <xsl:template match='a:TextBlock[@TAGREFS="BT375"]|a:TextBlock[@TAGREFS="BT422"]'/>
-    <xsl:template match='a:OtherTag[@ID="BT375"]|a:OtherTag[@ID="BT422"]'/>
+    <xsl:template match='a:TextBlock[@TAGREFS="BT15"]|a:TextBlock[@TAGREFS="BT16"]'/>
+    <xsl:template match='a:OtherTag[@ID="BT15"]|a:OtherTag[@ID="BT16"]'/>
 </xsl:stylesheet>
