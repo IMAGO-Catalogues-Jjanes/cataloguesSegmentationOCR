@@ -5,9 +5,11 @@ These bash scripts allow to create a training dataset of the dataset presented, 
 
 
 - ```build_train_alto``` : build a dataset using all the differents datas contained in the repository (annuaires, exhibition catalogs and manuscripts' fair catalogs)
+- ```build_train_alto_data_producted```: build a dataset using all the differents datas contained in the repository and the new data producted using the trained model
 - ```build_train_alto_annuaire```: build a dataset containing the annuaires xml and images
 - ```build_train_alto_exhibition```: build a dataset containing the exhibition catalogs xml and images
 - ```build_train_alto_manuscripts```: build a dataset containing the manuscrits catalogs
+
 
 ## Dataset split
 The `test.txt` files contains differents types of test dataset already created. If you want to use them, run the python script `random_data.py` using the `python3 random_data.py ./trainingData/*.xml` command which split the dataset in training, evaluation and testing datasets, the testing dataset being the one in test.txt. 
