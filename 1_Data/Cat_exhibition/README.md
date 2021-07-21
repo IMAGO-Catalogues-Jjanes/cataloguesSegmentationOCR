@@ -10,14 +10,16 @@ The goal was to recreate a small dataset of 127 images which could represent the
 <img src="/images/Catexp_prov.png" height="350"/>
 </p>
 
+Along with these small dataset are the catalogs producted using the segmentation and HTR models created, in order to use these new data to train more efficient models. Right now there are two catalogs available, the Catalogue de l'exposition des Refusés of 1863 and the 1893's Catalogue de la Rose Croix. It makes a total of 95 new pages.
+
 ## Directory
 Since it is mostly extracts from very different catalogs, all the different formats of the images are contained in the same directory.
 
 - **images**: contains the images.
 - **page_Transkribus**: contains the PageXML export done from Transkribus in order to migrate to eScriptorium
 - **page_transforme**: contains the PageXML obtained after its transformation by the script done [here](https://github.com/Heresta/BAO_Stage_DH_ENS_2021/tree/main/CorrectionPageXMLeScriptorium) in order for eScriptorium to display the manual corrections done on the transcriptions
-- **alto_eScriptorium_Simple**: contains the Dataset without Entry, output of eScriptorium, in ALTO4
-- **alto_eScriptorium_Entry**: contains the Dataset with Entry, output of eScriptorium in ALTO4
+- **alto_eScriptorium**: contains the Alto4 obtained from eScriptorium
+- **complete_catalogs**: contains the catalogs which were producted during the application of the models created, in order to train new models with it.
 
 ## Images properties
 - format: jpg
