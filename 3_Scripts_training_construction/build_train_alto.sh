@@ -6,7 +6,7 @@ rm -r trainingData; mkdir trainingData
 mkdir -p trainingData
 #getting images
 cp ../1_Data/*/images/*png trainingData
-cp ../1_Data/**/images/*jpg trainingData
+cp ../1_Data/*/images/*jpg trainingData
 cp ../1_Data/*/images/*tif trainingData
 #getting the ALTO4 files
 cp ../1_Data/*/alto_eScriptorium/*xml trainingData
