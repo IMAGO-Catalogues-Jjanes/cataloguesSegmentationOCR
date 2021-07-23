@@ -10,7 +10,7 @@ The goal was to recreate a small dataset of 127 images which could represent the
 <img src="/images/Catexp_prov.png" height="350"/>
 </p>
 
-Along with these small dataset are the catalogs producted using the segmentation and HTR models created, in order to use these new data to train more efficient models. Right now there are two catalogs available, the Catalogue de l'exposition des Refusés of 1863 and the 1893's Catalogue de la Rose Croix. It makes a total of 95 new pages.
+Along with these small dataset are the catalogs producted using the segmentation and HTR models created, in order to use these new data to train more efficient models. Right now there are three catalogs available, the Catalogue de l'exposition des Refusés of 1863, the 1893's Catalogue de la Rose Croix and the Catalogue du Salon des Indépendants of 1935 and 30 pages from various catalogs from Rouen. It makes a total of 341 new pages.
 
 ## Directory
 Since it is mostly extracts from very different catalogs, all the different formats of the images are contained in the same directory.
