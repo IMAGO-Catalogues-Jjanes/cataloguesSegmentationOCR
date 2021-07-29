@@ -26,20 +26,22 @@ The test dataset used for our training can be found in the directory `3_Scripts_
 ```
 ├── 1_Data
 │     ├── annuaires
-│     │  └── Data_segmenteur 
 │     │     ├─ alto_eScriptorium
 |     |     ├─ page_Transkribus
 │     │     └─ images
 │     │ 
 │     ├── Cat_expositions
-│     │  └── Data_segmenteur
-│     │     ├─ alto_eScriptorium
-|     |     ├─ page_Transkribus
-|     |     ├─ page_transforme
-│     │     └─ image
+│     │     ├─ complete_catalogs
+|     │     │     ├─ alto_eScriptorium
+|     │     │     └─ image
+│     │     ├─ first_data
+|     │     │     ├─ alto_eScriptorium
+|     |     |     ├─ page_Transkribus
+|     |     |     ├─ page_transforme
+|     │     │     └─ image
+|     |     └─ README.md
 |     |
 |     └── Cat_manuscrits
-│        └── Data_segmenteur
 │           ├─ alto_eScriptorium
 |           ├─ page_Transkribus
 |           ├─ page_transforme
@@ -50,9 +52,27 @@ The test dataset used for our training can be found in the directory `3_Scripts_
 |
 ├── 3_Scripts_training_construction
 │     ├─ build_train_alto.sh
-|     ├─ build_train_alto_annuaires.sh
-|     ├─ build_train_alto_exhibition.sh
-│     └─ build_train_alto_manuscripts.sh
+|     ├─ tests files
+|     ├─ random_data.py
+│     └─ remove_entries
+|
+├── 4_Models
+│     ├─ HTR
+|     │     ├─ model_htr_abondance.mlmodel
+|     │     ├─ model_htr_beaufort.mlmodel
+|     │     ├─ model_htr_chaource.mlmodel
+|     │     ├─ model_htr_danablu.mlmodel
+|     │     ├─ model_htr_epoisse.mlmodel
+|     │     ├─ model_htr_fourme.mlmodel
+|     │     ├─ model_htr_gruyere.mlmodel
+|     │     └─ README.md
+|     |
+|     └─ Segment
+|           ├─ model_segmentation_abondance.mlmodel
+|           ├─ model_segmentation_beaufort.mlmodel
+|           ├─ model_segmentation_chaource.mlmodel
+|           ├─ model_segmentation_coulommiers.mlmodel
+|           └─ README.md
 |
 ├── images
 |
