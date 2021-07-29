@@ -30,13 +30,6 @@ Title are also a less recurent type of elements in the dataset. As it can be see
     <img src="../images/Cat_SaoPaulo_1951_0002.png" height="350"/>
 </p>
 
-### Distribution of zones in the dataset
-
-<p align="center">
-  <img src="../images/Repartition_zones.png" height="400"/>
-  </p>
-    
-  
 ## The Entry Zone
 
 The entry zone has been added the SegmOnto zones in the Dataset in order to have a more representative segmentation of our corpus. 
