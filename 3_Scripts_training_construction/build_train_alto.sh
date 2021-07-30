@@ -6,8 +6,6 @@ rm -r trainingData; mkdir trainingData
 mkdir -p trainingData
 #getting images
 cp ../1_Data/*/images/*png trainingData
-cp ../1_Data/Cat_exhibition/*/images/*.png trainingData
-
 cp ../1_Data/Cat_exhibition/*/images/*.jpg trainingData
 cp ../1_Data/*/images/*jpg trainingData
 cp ../1_Data/*/images/*tif trainingData

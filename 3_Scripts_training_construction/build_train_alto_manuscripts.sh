@@ -1,9 +1,9 @@
 #creating training data using only the manuscripts catalogs dataset
 #!/bin/bash
-rm -r trainingDataManuscript; mkdir trainingDataManuscript
-mkdir -p trainingDataManuscript
+rm -r trainingData; mkdir trainingData
+mkdir -p trainingData
 #getting images
-cp ../1_Data/Cat_manuscripts/images/*png trainingDataManuscript
-cp ../1_Data/Cat_manuscripts/images/*jpg trainingDataManuscript
+cp ../1_Data/Cat_manuscripts/images/*png trainingData
+cp ../1_Data/Cat_manuscripts/images/*jpg trainingData
 #getting the ALTO4 files
-cp ../1_Data/Cat_manuscripts/alto_eScriptorium/*xml trainingDataManuscript
+cp ../1_Data/Cat_manuscripts/alto_eScriptorium/*xml trainingData
