@@ -632,31 +632,24 @@
                    ID="eSc_textblock_2e85535b"
                    TAGREFS="BT907">
           <Shape><Polygon POINTS="812 270 812 335 1040 335 1089 335 1089 270"/></Shape>
-          
+                
+                <TextLine ID="eSc_line_1f0beb3e"
+                        TAGREFS="LT329"
+                        BASELINE="832 310 1086 317" 
+                        HPOS="827"
+                        VPOS="230"
+                        WIDTH="257"
+                        HEIGHT="97">
+                        <Shape><Polygon POINTS="830 289 830 230 920 235 999 281 1081 281 1084 294 1012 297 966 327 874 327 856 314 827 325"/></Shape>
+                        <String CONTENT="— 123 —"
+                                HPOS="827"
+                                VPOS="230"
+                                WIDTH="257"
+                                HEIGHT="97"></String>
+                </TextLine>
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_1f0beb3e"
-                    TAGREFS="LT329"
-                    BASELINE="832 310 1086 317" 
-                    HPOS="827"
-                    VPOS="230"
-                    WIDTH="257"
-                    HEIGHT="97">
-            <Shape><Polygon POINTS="830 289 830 230 920 235 999 281 1081 281 1084 294 1012 297 966 327 874 327 856 314 827 325"/></Shape>
-	    <String CONTENT="— 123 —"
-                    HPOS="827"
-                    VPOS="230"
-                    WIDTH="257"
-                    HEIGHT="97"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

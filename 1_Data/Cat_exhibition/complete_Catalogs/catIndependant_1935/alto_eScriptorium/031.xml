@@ -238,7 +238,39 @@
                     WIDTH="248"
                     HEIGHT="50"></String>
           </TextLine>
-
+                
+                <TextLine ID="eSc_line_5cd5feae"
+                        TAGREFS="LT329"
+                        BASELINE="394 1173 740 1163" 
+                        HPOS="390"
+                        VPOS="1121"
+                        WIDTH="347"
+                        HEIGHT="75">
+                        <Shape><Polygon POINTS="390 1150 392 1124 477 1121 506 1139 585 1132 595 1121 624 1137 680 1127 737 1139 734 1191 719 1178 708 1188 683 1175 649 1186 572 1175 541 1186 516 1184 392 1196"/></Shape>
+                        <String CONTENT="261 Peinture."
+                                HPOS="390"
+                                VPOS="1121"
+                                WIDTH="347"
+                                HEIGHT="75"></String>
+                </TextLine>
+                
+                
+                
+                <TextLine ID="eSc_line_c0ac2268"
+                        TAGREFS="LT329"
+                        BASELINE="391 1229 739 1222" 
+                        HPOS="385"
+                        VPOS="1178"
+                        WIDTH="349"
+                        HEIGHT="67">
+                        <Shape><Polygon POINTS="387 1206 385 1191 403 1181 534 1188 575 1178 590 1188 665 1178 732 1183 734 1199 732 1240 654 1240 631 1224 601 1242 549 1224 508 1224 480 1245 387 1232"/></Shape>
+                        <String CONTENT="262 Peinture."
+                                HPOS="385"
+                                VPOS="1178"
+                                WIDTH="349"
+                                HEIGHT="67"></String>
+                </TextLine>
+                
           
         </TextBlock>
         
@@ -623,39 +655,6 @@
                    TAGREFS="BT902">
           <Shape><Polygon POINTS="1669 342 1738 376 1724 696 1744 725 1731 997 1751 1121 1731 1239 1744 1525 1724 1566 1744 1588 1751 2065 1731 2107 1751 2129 1758 2346 1731 2382 1751 2416 1731 2647 1553 2675 335 2668 287 2613 294 2362 273 2291 287 2067 267 1917 294 1773 267 1689 287 1538 260 1175 267 362 1321 342"/></Shape>
           
-          
-          <TextLine ID="eSc_line_5cd5feae"
-                    TAGREFS="LT329"
-                    BASELINE="394 1173 740 1163" 
-                    HPOS="390"
-                    VPOS="1121"
-                    WIDTH="347"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="390 1150 392 1124 477 1121 506 1139 585 1132 595 1121 624 1137 680 1127 737 1139 734 1191 719 1178 708 1188 683 1175 649 1186 572 1175 541 1186 516 1184 392 1196"/></Shape>
-	    <String CONTENT="261 Peinture."
-                    HPOS="390"
-                    VPOS="1121"
-                    WIDTH="347"
-                    HEIGHT="75"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_c0ac2268"
-                    TAGREFS="LT329"
-                    BASELINE="391 1229 739 1222" 
-                    HPOS="385"
-                    VPOS="1178"
-                    WIDTH="349"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="387 1206 385 1191 403 1181 534 1188 575 1178 590 1188 665 1178 732 1183 734 1199 732 1240 654 1240 631 1224 601 1242 549 1224 508 1224 480 1245 387 1232"/></Shape>
-	    <String CONTENT="262 Peinture."
-                    HPOS="385"
-                    VPOS="1178"
-                    WIDTH="349"
-                    HEIGHT="67"></String>
-          </TextLine>
-
           
         </TextBlock>
         

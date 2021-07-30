@@ -165,12 +165,29 @@
         </TextBlock>
         
         <TextBlock HPOS="250"
-                   VPOS="2235"
-                   WIDTH="1379"
-                   HEIGHT="127"
-                   ID="eSc_textblock_6882ce41"
+                   VPOS="2154"
+                   WIDTH="1345"
+                   HEIGHT="241"
+                   ID="eSc_textblock_f3eac36f"
                    TAGREFS="BT904">
-          <Shape><Polygon POINTS="1406 2242 1595 2256 1629 2329 311 2362 264 2335 250 2249 325 2235"/></Shape>
+          <Shape><Polygon POINTS="1595 2168 1595 2338 304 2395 250 2154"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_24915c63"
+                    TAGREFS="LT329"
+                    BASELINE="252 2198 842 2202" 
+                    HPOS="250"
+                    VPOS="2151"
+                    WIDTH="592"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="252 2185 252 2166 281 2151 294 2151 321 2168 352 2161 362 2151 430 2151 445 2161 459 2154 465 2161 484 2156 504 2164 516 2156 531 2166 555 2152 569 2164 589 2163 596 2169 625 2169 640 2161 655 2169 670 2169 679 2161 718 2169 735 2152 765 2152 787 2164 799 2159 811 2169 842 2169 840 2207 814 2217 791 2205 774 2212 759 2205 691 2205 679 2215 662 2208 653 2217 581 2205 548 2217 523 2210 462 2215 425 2203 404 2213 387 2205 372 2215 310 2215 299 2205 291 2212 281 2203 259 2208 250 2202"/></Shape>
+	    <String CONTENT="GRAVE (Jean), né à Paris."
+                    HPOS="250"
+                    VPOS="2151"
+                    WIDTH="592"
+                    HEIGHT="66"></String>
+          </TextLine>
+
           
           
           <TextLine ID="eSc_line_777367cf"
@@ -203,33 +220,6 @@
                     VPOS="2303"
                     WIDTH="420"
                     HEIGHT="61"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="250"
-                   VPOS="2154"
-                   WIDTH="1352"
-                   HEIGHT="66"
-                   ID="eSc_textblock_f3eac36f"
-                   TAGREFS="BT904">
-          <Shape><Polygon POINTS="1595 2168 1602 2207 257 2220 250 2154"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_24915c63"
-                    TAGREFS="LT329"
-                    BASELINE="252 2198 842 2202" 
-                    HPOS="250"
-                    VPOS="2151"
-                    WIDTH="592"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="252 2185 252 2166 281 2151 294 2151 321 2168 352 2161 362 2151 430 2151 445 2161 459 2154 465 2161 484 2156 504 2164 516 2156 531 2166 555 2152 569 2164 589 2163 596 2169 625 2169 640 2161 655 2169 670 2169 679 2161 718 2169 735 2152 765 2152 787 2164 799 2159 811 2169 842 2169 840 2207 814 2217 791 2205 774 2212 759 2205 691 2205 679 2215 662 2208 653 2217 581 2205 548 2217 523 2210 462 2215 425 2203 404 2213 387 2205 372 2215 310 2215 299 2205 291 2212 281 2203 259 2208 250 2202"/></Shape>
-	    <String CONTENT="GRAVE (Jean), né à Paris."
-                    HPOS="250"
-                    VPOS="2151"
-                    WIDTH="592"
-                    HEIGHT="66"></String>
           </TextLine>
 
           
@@ -574,16 +564,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="216"
-                   VPOS="332"
-                   WIDTH="1488"
-                   HEIGHT="2342"
-                   ID="eSc_textblock_ba12763f"
-                   TAGREFS="BT902">
-          <Shape><Polygon POINTS="1562 345 1623 359 1677 440 1684 608 1663 628 1697 718 1697 872 1670 907 1690 1184 1663 1211 1704 1328 1704 1624 1684 1781 1697 1956 1670 2086 1684 2349 1663 2378 1690 2512 1656 2654 1562 2674 372 2667 243 2627 243 2086 223 2058 237 1185 216 1116 237 933 230 359 426 338 865 352 914 332"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="850"
                    VPOS="265"
                    WIDTH="258"
@@ -608,6 +588,16 @@
                     HEIGHT="89"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="169"
+                   VPOS="365"
+                   WIDTH="1574"
+                   HEIGHT="2299"
+                   ID="eSc_textblock_153e7116"
+                   TAGREFS="BT902">
+          <Shape><Polygon POINTS="169 365 169 2664 1743 2664 1743 365"/></Shape>
           
         </TextBlock>
         

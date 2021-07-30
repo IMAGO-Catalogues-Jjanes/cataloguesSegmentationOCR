@@ -25,50 +25,6 @@
                   WIDTH="1989"
                   HEIGHT="3049">
         
-        <TextBlock HPOS="223"
-                   VPOS="752"
-                   WIDTH="1400"
-                   HEIGHT="106"
-                   ID="eSc_textblock_0a2ad7cd"
-                   TAGREFS="BT904">
-          <Shape><Polygon POINTS="1602 758 1623 838 304 858 243 838 223 784 237 758 304 752"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_7e97bf0f"
-                    TAGREFS="LT329"
-                    BASELINE="308 802 684 796" 
-                    HPOS="304"
-                    VPOS="747"
-                    WIDTH="378"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="306 789 304 750 349 758 369 750 398 757 404 748 435 748 455 765 481 765 509 747 543 758 559 752 570 760 599 750 611 762 681 760 682 782 681 804 628 796 616 804 584 799 576 806 450 797 423 807 408 801 399 807 306 809"/></Shape>
-	    <String CONTENT="1455 Peinture."
-                    HPOS="304"
-                    VPOS="747"
-                    WIDTH="378"
-                    HEIGHT="62"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_168cbbda"
-                    TAGREFS="LT329"
-                    BASELINE="311 850 948 838" 
-                    HPOS="310"
-                    VPOS="796"
-                    WIDTH="637"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="310 836 315 806 376 811 401 804 438 804 454 814 474 814 493 802 525 802 545 813 572 804 592 811 599 804 625 807 637 801 660 807 696 799 723 809 762 799 772 807 801 802 855 807 879 796 892 804 943 802 947 824 945 845 931 850 894 841 886 850 789 843 762 852 713 845 689 853 674 845 623 855 589 846 572 857 491 848 455 858 310 858"/></Shape>
-	    <String CONTENT="1456 Portrait de ma mère."
-                    HPOS="310"
-                    VPOS="796"
-                    WIDTH="637"
-                    HEIGHT="62"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="216"
                    VPOS="907"
                    WIDTH="1420"
@@ -211,10 +167,10 @@
         <TextBlock HPOS="216"
                    VPOS="657"
                    WIDTH="1454"
-                   HEIGHT="73"
+                   HEIGHT="233"
                    ID="eSc_textblock_f2b11051"
                    TAGREFS="BT904">
-          <Shape><Polygon POINTS="1636 657 1670 696 1656 723 298 730 216 709 230 664 1035 657"/></Shape>
+          <Shape><Polygon POINTS="1636 657 1670 696 1630 869 294 890 216 709 230 664 1035 657"/></Shape>
           
           
           <TextLine ID="eSc_line_388a85a6"
@@ -230,6 +186,40 @@
                     VPOS="652"
                     WIDTH="1424"
                     HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e97bf0f"
+                    TAGREFS="LT329"
+                    BASELINE="308 802 684 796" 
+                    HPOS="304"
+                    VPOS="747"
+                    WIDTH="378"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="306 789 304 750 349 758 369 750 398 757 404 748 435 748 455 765 481 765 509 747 543 758 559 752 570 760 599 750 611 762 681 760 682 782 681 804 628 796 616 804 584 799 576 806 450 797 423 807 408 801 399 807 306 809"/></Shape>
+	    <String CONTENT="1455 Peinture."
+                    HPOS="304"
+                    VPOS="747"
+                    WIDTH="378"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_168cbbda"
+                    TAGREFS="LT329"
+                    BASELINE="311 850 948 838" 
+                    HPOS="310"
+                    VPOS="796"
+                    WIDTH="637"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="310 836 315 806 376 811 401 804 438 804 454 814 474 814 493 802 525 802 545 813 572 804 592 811 599 804 625 807 637 801 660 807 696 799 723 809 762 799 772 807 801 802 855 807 879 796 892 804 943 802 947 824 945 845 931 850 894 841 886 850 789 843 762 852 713 845 689 853 674 845 623 855 589 846 572 857 491 848 455 858 310 858"/></Shape>
+	    <String CONTENT="1456 Portrait de ma mère."
+                    HPOS="310"
+                    VPOS="796"
+                    WIDTH="637"
+                    HEIGHT="62"></String>
           </TextLine>
 
           
@@ -700,16 +690,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="203"
-                   VPOS="352"
-                   WIDTH="1487"
-                   HEIGHT="2376"
-                   ID="eSc_textblock_0006fca2"
-                   TAGREFS="BT902">
-          <Shape><Polygon POINTS="1629 359 1670 386 1656 635 1684 670 1663 757 1690 1583 1663 1719 1684 1754 1690 2295 1656 2701 1489 2728 332 2681 291 2654 264 2484 237 1822 216 1793 237 1666 210 1495 223 1111 203 941 223 867 203 804 203 372 1475 352"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="812"
                    VPOS="275"
                    WIDTH="244"
@@ -734,6 +714,16 @@
                     HEIGHT="39"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="193"
+                   VPOS="355"
+                   WIDTH="1507"
+                   HEIGHT="2346"
+                   ID="eSc_textblock_0b4aa43b"
+                   TAGREFS="BT902">
+          <Shape><Polygon POINTS="193 355 193 2701 1700 2701 1700 355"/></Shape>
           
         </TextBlock>
         
