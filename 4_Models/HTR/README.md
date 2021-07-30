@@ -26,7 +26,7 @@ This model has 72.50 % of accuracy according to the training part. Therefore, th
 
 ### Production
 
-This model was produced using the 100 pages of the dataset. It was divided between train (80%), val (10%) and test(10%) datasets.<br/>
+This model was produced using 100 pages of the dataset. It was divided between train (80%), val (10%) and test(10%) datasets.<br/>
 Command used in Kraken : `ketos train -t train.txt -e val.txt -u NFKD -f alto`
 
 ### Results
@@ -55,7 +55,7 @@ This model has 93.81 % of accuracy according to the training part.
 
 ### Production
 
-This model was produced using a dataset of 375 pages (all the original prepared data and the pages from the complete catalogs _Salon des Refusés, 1863_ and _Salon de la Rose Croix, 1893_.) This dataset has been divided in train (80%), val (10%) and test (10%) datasets where the [test](https://github.com/Juliettejns/cataloguesSegmentationOCR/blob/main/3_Scripts_training_construction/test_30.txt) dataset is fixed and can be found in the `3_script_training_construction`.<br/>
+This model was produced using a dataset of [375 pages](https://github.com/Juliettejns/cataloguesSegmentationOCR/releases/tag/NewCatalogs2) (all the original prepared data and the pages from the complete catalogs _Salon des Refusés, 1863_ and _Salon de la Rose Croix, 1893_.) This dataset has been divided in train (80%), val (10%) and test (10%) datasets where the [test](https://github.com/Juliettejns/cataloguesSegmentationOCR/blob/main/3_Scripts_training_construction/test_30.txt) dataset is fixed and can be found in the `3_script_training_construction`.<br/>
 Command used in Kraken : `ketos train -t train.txt -e val.txt -u NFKD -f alto`
 
 ### Results
@@ -65,7 +65,7 @@ This model has 96,46 % of accuracy according to its training part.
 
 ### Production
 
-This model was produced using a dataset of 545 pages (all the original prepared data and the pages from the complete catalogs _Salon des Réfusés, 1863_, _Salon de la Rose Croix, 1893_, _Catalogues de Rouen_ and the first 130 pages of the _Catalogue des Indépendants, 1935_). This dataset has been divided in train (80%), val (10%) and test (10%) datasets where the [test](https://github.com/Juliettejns/cataloguesSegmentationOCR/blob/main/3_Scripts_training_construction/test_30.txt) dataset is fixed and can be found in the `3_script_training_construction`.<br/>
+This model was produced using a dataset of [545 pages](https://github.com/Juliettejns/cataloguesSegmentationOCR/releases/tag/CatIndep) (all the original prepared data and the pages from the complete catalogs _Salon des Réfusés, 1863_, _Salon de la Rose Croix, 1893_, _Catalogues de Rouen_ and the first 130 pages of the _Catalogue des Indépendants, 1935_). This dataset has been divided in train (80%), val (10%) and test (10%) datasets where the [test](https://github.com/Juliettejns/cataloguesSegmentationOCR/blob/main/3_Scripts_training_construction/test_30.txt) dataset is fixed and can be found in the `3_script_training_construction`.<br/>
 Command used in Kraken : `ketos train -t train.txt -e val.txt -u NFKD -f alto`
 
 ### Results
