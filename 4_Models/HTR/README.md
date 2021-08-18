@@ -50,7 +50,7 @@ Commands used:</br>
 ### Results
 This model has 95.78 % of accuracy applied on the same 3 pages test dataset of the Beaufort and Abondance Models.
 
-## Edam
+## Epoisse
 ### Production
 
 This model was produced using the first 30 pages of the dataset. Their lines have been redone using the default eScriptorium segmentation model (blla) in order to have an eScriptorium native dataset. The training has been divided in the same way as the Abondance and Beaufort datasets.<br/>
