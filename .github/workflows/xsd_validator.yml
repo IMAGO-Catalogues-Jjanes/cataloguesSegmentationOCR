@@ -20,4 +20,5 @@ jobs:
         pip install "click<9.0" lxml
     - name: Run XSD Validator
       run: |
-        python3 xsd-validator.py --verbose --group segmontoAltoValidator.xsd 1_Data/*/alto_eScriptorium/*.xml|1_Data/**/alto_eScriptorium/*.xml
+        python3 xsd-validator.py --verbose --group segmontoAltoValidator.xsd 1_Data/*/alto_eScriptorium/*.xml
+        python3 xsd-validator.py --verbose --group segmontoAltoValidator.xsd 1_Data/**/alto_eScriptorium/*.xml
