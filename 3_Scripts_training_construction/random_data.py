@@ -13,15 +13,16 @@ if __name__ == '__main__':
     random.seed('1214')
 
     for i in os.listdir("./trainingData/"):
-        with open(test) as f:
-            if i in f.read():
-                pass
-            else:
-                monRand = random.random()
-                if monRand <= 0.1:
-                    val.write("./trainingData/"+i+"\n")
+        if "xml" in i:
+            with open(test) as f:
+                if i in f.read():
+                    pass
                 else:
-                    train.write("./trainingData/"+i+"\n")
+                    monRand = random.random()
+                    if monRand <= 0.1:
+                        val.write("./trainingData/"+i+"\n")
+                    else:
+                        train.write("./trainingData/"+i+"\n")
 
     train.close()
     val.close()
