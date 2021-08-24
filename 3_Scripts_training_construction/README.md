@@ -12,7 +12,7 @@ These bash scripts allow to create a training dataset of the dataset presented, 
 
 
 ## Dataset split
-The `test.txt` files contains differents types of test dataset already created. If you want to use them, run the python script `random_data.py` using the `python3 random_data.py ./trainingData/*.xml` command which split the dataset in training, evaluation and testing datasets, the testing dataset being the one in test.txt. 
+The `test.txt` files contains differents types of test dataset already created. If you want to use them, run the python script `random_data.py` using the `python3 random_data.py` command which split the dataset in training, evaluation and testing datasets, the testing dataset being the one in test.txt. 
 
  - ```test_15.txt```: contains the 15 pages used to test the dataset on models created on the 150 and 274 pages datasets. (5 of annuaires, 5 of manuscripts' fairs catalogs and 5 of exhibition catalogs)
  - ```test_30.txt```: contains 30 pages of test dataset (10 of annuaires, 10 of manuscripts' fairs catalogs and 10 of exhibition catalogs)
