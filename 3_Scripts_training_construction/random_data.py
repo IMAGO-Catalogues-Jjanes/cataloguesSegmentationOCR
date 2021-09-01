@@ -4,15 +4,24 @@ import os
 
 if __name__ == '__main__':
     test = input("""Choose the test you want for your dataset: 
-                    test_15.txt for a test dataset of 15 pages (5 of each documents types)
-                    test_30.txt for a test dataset of 30 pages (10 of each documents types)
-                    test_20_CatExpo.txt for a test dataset of 20 exhibition catalogs' pages
+                    "15" for a test dataset of 15 pages (5 of each documents types)
+                    "30" for a test dataset of 30 pages (10 of each documents types)
+                    "20" for a test dataset of 20 exhibition catalogs' pages
                     """)
+    if test== 15:
+        test_file = "./test_15.txt"
+    elif test==30:
+        test_file = "./test_30.txt"
+    elif test==20:
+        test_file="./test_20_catExpo.txt"
+    else:
+        print("no test file selected, rerun the programm.")
+        
     train = open("train.txt", "w")
     val = open("val.txt", "w")
     random.seed('1214')
 
-   with open(test.txt) as f:
+   with open(test_file) as f:
        files = (os.path.basename(filepath) for file in f.readlines())
 
     for i in sys.argv[1:]:
