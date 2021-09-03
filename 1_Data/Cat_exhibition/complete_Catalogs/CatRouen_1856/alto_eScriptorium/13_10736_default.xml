@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1049" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1050" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT1051" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1053" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT1055" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT1056" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1057" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1065" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1066" LABEL="Margin" DESCRIPTION="block type Margin"/>
+    <OtherTag ID="BT1049" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1050" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT1051" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1053" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT1055" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT1056" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1057" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1065" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1066" LABEL="Margin" DESCRIPTION="block type Margin"/>
     <OtherTag ID="LT382" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
   
@@ -327,7 +327,7 @@
           
           
           <TextLine ID="eSc_line_b3d0f600"
-                    
+                    TAGREFS="LT382"
                     BASELINE="856 1701 1082 1704" 
                     HPOS="851"
                     VPOS="1638"
@@ -344,7 +344,7 @@
           
           
           <TextLine ID="eSc_line_9e3d28b3"
-                    
+                    TAGREFS="LT382"
                     BASELINE="905 1784 1038 1784" 
                     HPOS="902"
                     VPOS="1725"
@@ -388,7 +388,7 @@
           
           
           <TextLine ID="eSc_line_7b26f1b4"
-                    
+                    TAGREFS="LT382"
                     BASELINE="782 2060 1152 2057" 
                     HPOS="777"
                     VPOS="1984"

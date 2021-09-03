@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1049" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1050" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT1051" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1053" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT1055" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT1056" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1057" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1065" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1066" LABEL="Margin" DESCRIPTION="block type Margin"/>
+    <OtherTag ID="BT1049" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1050" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT1051" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1053" LABEL="Entry" DESCRIPTION="block type Entry"/><OtherTag ID="BT1055" LABEL="EntryEnd" DESCRIPTION="block type EntryEnd"/><OtherTag ID="BT1056" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1057" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT1065" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1066" LABEL="Margin" DESCRIPTION="block type Margin"/>
     <OtherTag ID="LT382" LABEL="Default" DESCRIPTION="line type Default"/>
   </Tags>
   
@@ -382,7 +382,7 @@
           
           <TextLine ID="eSc_line_30fb91d9"
                     
-                    BASELINE="747 517 993 512" 
+TAGREFS="LT382"                    BASELINE="747 517 993 512" 
                     HPOS="742"
                     VPOS="466"
                     WIDTH="246"

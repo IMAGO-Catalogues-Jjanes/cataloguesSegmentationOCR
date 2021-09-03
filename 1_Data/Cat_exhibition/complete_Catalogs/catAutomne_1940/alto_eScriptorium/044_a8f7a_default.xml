@@ -456,7 +456,24 @@
                     HEIGHT="69"></String>
           </TextLine>
 
-          
+
+
+                <TextLine ID="eSc_line_e4b1fe71"
+                        TAGREFS="LT330"
+                        BASELINE="278 2790 824 2792" 
+                        HPOS="273"
+                        VPOS="2734"
+                        WIDTH="549"
+                        HEIGHT="79">
+                        <Shape><Polygon POINTS="275 2767 275 2734 300 2748 344 2740 368 2756 417 2756 431 2745 456 2756 548 2756 606 2734 677 2734 701 2748 715 2734 742 2734 764 2756 794 2742 813 2748 822 2770 819 2797 767 2813 731 2800 671 2800 652 2813 537 2797 486 2797 466 2813 382 2800 349 2813 314 2800 292 2811 273 2802"/></Shape>
+                        <String CONTENT="211 tér. — Peinture."
+                                HPOS="273"
+                                VPOS="2734"
+                                WIDTH="549"
+                                HEIGHT="79"></String>
+                </TextLine>
+                
+                
         </TextBlock>
         
         <TextBlock HPOS="718"
@@ -487,27 +504,7 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_e4b1fe71"
-                    TAGREFS="LT330"
-                    BASELINE="278 2790 824 2792" 
-                    HPOS="273"
-                    VPOS="2734"
-                    WIDTH="549"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="275 2767 275 2734 300 2748 344 2740 368 2756 417 2756 431 2745 456 2756 548 2756 606 2734 677 2734 701 2748 715 2734 742 2734 764 2756 794 2742 813 2748 822 2770 819 2797 767 2813 731 2800 671 2800 652 2813 537 2797 486 2797 466 2813 382 2800 349 2813 314 2800 292 2811 273 2802"/></Shape>
-	    <String CONTENT="211 tér. — Peinture."
-                    HPOS="273"
-                    VPOS="2734"
-                    WIDTH="549"
-                    HEIGHT="79"></String>
-          </TextLine>
 
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

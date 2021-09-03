@@ -102,34 +102,7 @@
 
           
         </TextBlock>
-        
-        <TextBlock HPOS="312"
-                   VPOS="2328"
-                   WIDTH="1134"
-                   HEIGHT="79"
-                   ID="eSc_textblock_28639a37"
-                   TAGREFS="BT916">
-          <Shape><Polygon POINTS="1293 2328 1446 2343 1446 2392 320 2407 312 2328"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_bb9fa62b"
-                    TAGREFS="LT330"
-                    BASELINE="311 2390 1128 2394" 
-                    HPOS="305"
-                    VPOS="2330"
-                    WIDTH="822"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="308 2366 316 2333 355 2347 502 2349 521 2333 551 2341 565 2330 649 2349 669 2330 699 2330 720 2347 781 2336 811 2352 852 2333 947 2341 958 2352 1018 2333 1065 2336 1125 2352 1127 2371 1125 2396 1081 2409 985 2396 942 2396 928 2409 901 2398 636 2407 614 2396 578 2407 543 2393 513 2404 502 2393 305 2404"/></Shape>
-	    <String CONTENT="166. — Buste de Madame G. L."
-                    HPOS="305"
-                    VPOS="2330"
-                    WIDTH="822"
-                    HEIGHT="79"></String>
-          </TextLine>
 
-          
-        </TextBlock>
-        
         <TextBlock HPOS="312"
                    VPOS="363"
                    WIDTH="1149"
@@ -438,7 +411,22 @@
                     WIDTH="988"
                     HEIGHT="68"></String>
           </TextLine>
-
+                
+                <TextLine ID="eSc_line_bb9fa62b"
+                        TAGREFS="LT330"
+                        BASELINE="311 2390 1128 2394" 
+                        HPOS="305"
+                        VPOS="2330"
+                        WIDTH="822"
+                        HEIGHT="79">
+                        <Shape><Polygon POINTS="308 2366 316 2333 355 2347 502 2349 521 2333 551 2341 565 2330 649 2349 669 2330 699 2330 720 2347 781 2336 811 2352 852 2333 947 2341 958 2352 1018 2333 1065 2336 1125 2352 1127 2371 1125 2396 1081 2409 985 2396 942 2396 928 2409 901 2398 636 2407 614 2396 578 2407 543 2393 513 2404 502 2393 305 2404"/></Shape>
+                        <String CONTENT="166. — Buste de Madame G. L."
+                                HPOS="305"
+                                VPOS="2330"
+                                WIDTH="822"
+                                HEIGHT="79"></String>
+                </TextLine>
+                
           
         </TextBlock>
         
@@ -518,13 +506,15 @@
                     HPOS="1070"
                     VPOS="846"
                     WIDTH="93"
-                    HEIGHT="71">
+                    HEIGHT="71"
+                    TAGREFS="LT330">
             <Shape><Polygon POINTS="1106 903 1070 867 1119 846 1163 886 1119 917"/></Shape>
 	    <String CONTENT="X"
                     HPOS="1070"
                     VPOS="846"
                     WIDTH="93"
-                    HEIGHT="71"></String>
+                    HEIGHT="71"
+	            ></String>
           </TextLine>
 
           

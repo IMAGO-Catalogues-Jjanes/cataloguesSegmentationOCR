@@ -255,7 +255,22 @@
                     WIDTH="975"
                     HEIGHT="76"></String>
           </TextLine>
-
+                <TextLine ID="eSc_line_f668f739"
+                        TAGREFS="LT330"
+                        BASELINE="362 1131 498 1118 1002 1127" 
+                        HPOS="354"
+                        VPOS="1061"
+                        WIDTH="647"
+                        HEIGHT="79">
+                        <Shape><Polygon POINTS="357 1108 357 1067 406 1080 428 1061 458 1061 480 1080 556 1080 575 1061 608 1061 679 1083 734 1064 791 1083 816 1083 837 1064 884 1075 998 1064 1001 1102 993 1140 897 1140 851 1127 543 1138 524 1124 354 1138"/></Shape>
+                        <String CONTENT="283 — Nature morte, p."
+                                HPOS="354"
+                                VPOS="1061"
+                                WIDTH="647"
+                                HEIGHT="79"></String>
+                </TextLine>
+                
+                
           
         </TextBlock>
         
@@ -505,26 +520,7 @@
         
 
         
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_f668f739"
-                    TAGREFS="LT330"
-                    BASELINE="362 1131 498 1118 1002 1127" 
-                    HPOS="354"
-                    VPOS="1061"
-                    WIDTH="647"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="357 1108 357 1067 406 1080 428 1061 458 1061 480 1080 556 1080 575 1061 608 1061 679 1083 734 1064 791 1083 816 1083 837 1064 884 1075 998 1064 1001 1102 993 1140 897 1140 851 1127 543 1138 524 1124 354 1138"/></Shape>
-	    <String CONTENT="283 — Nature morte, p."
-                    HPOS="354"
-                    VPOS="1061"
-                    WIDTH="647"
-                    HEIGHT="79"></String>
-          </TextLine>
-
-          
-        </TextBlock>
+       
         
       </PrintSpace>
     </Page>

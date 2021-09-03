@@ -273,7 +273,21 @@
                     HEIGHT="87"></String>
           </TextLine>
 
-          
+                <TextLine ID="eSc_line_3044a9ce"
+                        TAGREFS="LT330"
+                        BASELINE="336 1921 936 1917" 
+                        HPOS="332"
+                        VPOS="1855"
+                        WIDTH="598"
+                        HEIGHT="88">
+                        <Shape><Polygon POINTS="332 1896 332 1858 349 1855 433 1855 474 1877 532 1877 575 1855 594 1872 635 1861 652 1877 706 1858 725 1872 802 1858 843 1877 878 1877 897 1861 925 1869 930 1894 927 1932 897 1926 854 1943 715 1943 690 1926 635 1937 605 1926 559 1943 510 1926 477 1937 436 1929 425 1940 352 1926 332 1937"/></Shape>
+                        <String CONTENT="155. — Grès originaux."
+                                HPOS="332"
+                                VPOS="1855"
+                                WIDTH="598"
+                                HEIGHT="88"></String>
+                </TextLine>
+                
         </TextBlock>
         
         <TextBlock HPOS="327"
@@ -378,7 +392,26 @@
                     HEIGHT="92"></String>
           </TextLine>
 
-          
+
+   
+                
+                
+                <TextLine ID="eSc_line_016e1b5c"
+                        TAGREFS="LT330"
+                        BASELINE="327 2447 1096 2442" 
+                        HPOS="322"
+                        VPOS="2390"
+                        WIDTH="769"
+                        HEIGHT="79">
+                        <Shape><Polygon POINTS="322 2423 322 2398 341 2404 354 2393 401 2393 428 2409 515 2409 545 2393 584 2409 608 2398 624 2409 698 2409 739 2390 897 2390 963 2407 1088 2404 1091 2418 1088 2453 1009 2467 927 2453 892 2467 723 2456 690 2469 597 2469 575 2456 493 2456 480 2469 425 2456 398 2469 322 2458"/></Shape>
+                        <String CONTENT="157. — Paysage de l’Aisne, p."
+                                HPOS="322"
+                                VPOS="2390"
+                                WIDTH="769"
+                                HEIGHT="79"></String>
+                </TextLine>
+                
+                
           
           <TextLine ID="eSc_line_9a76b85b"
                     TAGREFS="LT330"
@@ -426,44 +459,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_3044a9ce"
-                    TAGREFS="LT330"
-                    BASELINE="336 1921 936 1917" 
-                    HPOS="332"
-                    VPOS="1855"
-                    WIDTH="598"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="332 1896 332 1858 349 1855 433 1855 474 1877 532 1877 575 1855 594 1872 635 1861 652 1877 706 1858 725 1872 802 1858 843 1877 878 1877 897 1861 925 1869 930 1894 927 1932 897 1926 854 1943 715 1943 690 1926 635 1937 605 1926 559 1943 510 1926 477 1937 436 1929 425 1940 352 1926 332 1937"/></Shape>
-	    <String CONTENT="155. — Grès originaux."
-                    HPOS="332"
-                    VPOS="1855"
-                    WIDTH="598"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_016e1b5c"
-                    TAGREFS="LT330"
-                    BASELINE="327 2447 1096 2442" 
-                    HPOS="322"
-                    VPOS="2390"
-                    WIDTH="769"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="322 2423 322 2398 341 2404 354 2393 401 2393 428 2409 515 2409 545 2393 584 2409 608 2398 624 2409 698 2409 739 2390 897 2390 963 2407 1088 2404 1091 2418 1088 2453 1009 2467 927 2453 892 2467 723 2456 690 2469 597 2469 575 2456 493 2456 480 2469 425 2456 398 2469 322 2458"/></Shape>
-	    <String CONTENT="157. — Paysage de l’Aisne, p."
-                    HPOS="322"
-                    VPOS="2390"
-                    WIDTH="769"
-                    HEIGHT="79"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
